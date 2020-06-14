@@ -1,0 +1,47 @@
+Simboli usati nel documento:
+   cose su cui sono indeciso, da definire insieme (???)
+   cose importanti (!!!)
+In generale: i nomi comuni della terra di mezzo sono in maiuscolo (???)
+
+BLOCCHI
+5:    Sarlluin diventa Luinon
+6:    Sarncaran diventa Caranon
+8:    Sostituito "latta" con "stagno"
+14:   qui mallorn è scritto maiuscolo (???)
+15:   qui c'è la "quercia di bosco atro" ._. (???)
+29:   Lebetrhon in maiuscolo (???)
+33:   d'acero diventa di acero in uniformità alla vanilla (purtroppo)
+56-:  dei nani -> nanico (???)
+61-:  degli elfi-> elfico (???)
+65:   "di vicino harad" MH (???)
+66:   me lo ricordavo diverso (???)
+72:   "d'argento" ma poi "di acciaio" (???)
+82:   "nani blu" va bene (???)
+84-85:"di Morgul" fa male al cuore (???)
+108:  di mattone -> di mattoni (da li in poi, erano tantissimi gli errori)
+131:  non ho modo di controllare in questo momento, nella 1.7.10 si chiamano "tavolo da lavoro" (???) (!!!)
+132:  in italiano è "Generatore"? (???)
+138-139: ehi dov'è lo speleotema? D: (???)
+144-: pedana a pressione senza il materiale (non sono molto sicuro sul nome messo in sostituzione, forse è meglio "di Mordor" che "di roccia di Mordor") (???)
+149:  colonna dovrebbe diventare pilastro o nella 1.7.10 lo standard è colonna (???)
+170:  qui c'è scritto "banco da lavoro" wtf (???)
+173:  anche qui è focolare, sembra andare
+174:  "morgul-shroom" non funziona in italiano, sostituito con "fungo Morgul"
+193:  meglio "resti" o qualcosa tipo "macerie" (???)
+194:  "pianta di palude morta" suona un po' strano (???)
+195-196: gulduril grezzo, due oggetti con lo stesso nome (???)
+198-: mattoni gulduril incrinati, non mattoni incrinati gulduril (secondo me) (???)
+226:  è tornata la dwarfwort, confermiamo "genziana nanica"? (???)
+229:  "vaso" è giusto? (???)
+230:  spina lancinante o spine pungenti come nella traduzione nuova (???)
+234-235: testa totem suona male o va bene? (???)
+269:  Fiamma di Harad -> Fiamma dell'Harad
+272:  non sarebbe meglio "sabbie mobili"? (???)
+281:  mattone di uruk? mattone fatto di uruk? Saruman ci nasconde qualcosa? (???)
+325:  tecnicamente non è un blocco di paglia, dentro c'è anche della terra (???)
+
+OGGETTI
+369:  non è più carino "pipa hobbit"? (???)
+387:  dovrebbe diventare "erba pipa"? (???)
+394:  modificato "apple crumble" in "crubmle di mele", l'ho visto chiamare così online. Da rivedere (???)
+Mi sono fermato al rigo 394! (occhio a rimuovere il testo tra le parentesi quadre prima di rilasciarlo)
