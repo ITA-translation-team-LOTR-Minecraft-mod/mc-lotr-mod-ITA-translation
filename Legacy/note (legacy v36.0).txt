@@ -1,7 +1,9 @@
 Simboli usati nel documento:
    cose su cui sono indeciso, da definire insieme (???)
    cose importanti (!!!)
-In generale: i nomi comuni della terra di mezzo sono in maiuscolo (???)
+In generale: i nomi comuni della terra di mezzo sono in maiuscolo (???) (Galvorn, Mithril, Mallorn, Athelas,...)
+In generale: "degli Orchi" o "Orchesco" etc. credo che la seconda sia più simile alla versione inglese
+Idea: servirebbe uno strumento per ricevere segnalazioni di errori di traduzione da parte della community italiana
 
 BLOCCHI
 5:    Sarlluin diventa Luinon
@@ -43,5 +45,54 @@ BLOCCHI
 OGGETTI
 369:  non è più carino "pipa hobbit"? (???)
 387:  dovrebbe diventare "erba pipa"? (???)
+390-1: tutti i "mug" hanno solo il nome della bevanda tranne che per "boccale d'acqua" e "boccale di latte" (???)
 394:  modificato "apple crumble" in "crubmle di mele", l'ho visto chiamare così online. Da rivedere (???)
-Mi sono fermato al rigo 394! (occhio a rimuovere il testo tra le parentesi quadre prima di rilasciarlo)
+396:  è corretto tradurre Draught con "Pozione"? (???)
+405:  dubbi su "gemma di Naurite" (???)
+408:  corretto "Sting" in Pungolo
+409:  dovremmo mantenere "spawn" o mettere "uovo"? (???)
+412:  manteniamo "Costruzione"? forse crea un po' di confusione (???)
+428:  corazza di mithril? non sarebbe più corretto "cotta"? (???)
+437-8:   come mai ci sono i coloranti qui? (???)
+439:  da approfondire "campanula blu" quando l'oggetto viene indicato come "lotr:dye"
+442-3: Piccone Mallorn -> Piccone di Mallorn etc
+457.  non ho modo di controllare se corrisponde effettivamente alla moneta d'argento (???)
+461:  una delle situazioni in cui ci starebbe bene "elfico" invece di "degli elfi" (???)
+463-6: rifacciamo l'adattamento "Colbacco", "Giubba" etc? (???)
+471:  maniscalco o fabbro? (???)
+473:  "dei Galadhrim" o "degli Elfi"?
+475:  elvenBow-> arco degli elfi  mentre  elvenBed->letto dei Galadhrim. è un errore di mevans o dei traduttori? (???)
+509-10: d'orco e d'elfo? non sarebbe meglio "di"? (???)
+513:  "Corno del comando" suona un po' strano ma non so se ho una soluzione alternativa (???)
+514-16: da rivedere in nomi degli ordini, poco chiari (???)
+526:  "Pugnale avvelenato degli Uruk" o "Pugnale degli Uruk avvelenato"? stessa questione si crea con "pugnale degli orchi"
+533:  freccia di balestra andrebbe sostituito con un termine più appropriato (dardo forse?) (???)
+543-: "Scout" è un termine poco adeguato in italiano. Inoltre si ricrea il problema "Elfi Silvani" o "Elfi silvani"? (???)
+560-: Questione spinosa nomi delle armature di rohan (???)
+569:  "noce di mallorn", ma in realtà non è proprio una noce (???)
+576:  "armor stand" diventa "piedistallo"? (???)
+577:  forse è meglio "ciottolo" (???)
+583:  si ripresenta il problema delle armature strane (non ci sta tanto gambiera) (???)
+608:  piccozza è il termine corretto? (???)
+623:  probabilmente "spezzatino" ci sta di più ma valutiamo anche "zuppa" per coerenza con la vanilla (???)
+627:  se modifichiamo il corno anche la spada deve adattarsi di conseguenza (???)
+634:  prima c'era "avvelenato degli Uruk" e ora è "dei Nani avvelenato" (???) (!!!)
+642:  da correggere il nome (e da rivedere tutti gli stendardi) (???) (!!!)
+649:  B L U (???)
+656:  con questo "avvelenato" non ce la facciamo proprio lol (???)
+671:  "alla banana" o "di banana"? (???)
+715:  araq o arak? (???)
+716-: il ritorno dei Nani Blu (???)
+735:  le armature per cavalli sono chiamate "bardature" in minecraft (???)
+737:  stesso problema dei cavalli (???)
+764:  La Danimarca fa parte della terra di mezzo e io non me n'ero mai accorto (!!!) (???)
+767:  non sarebbe meglio "incendiario" se si riferisce alle bombe?
+771:  "foglie cadute di %s" trasformato in "foglie di %s cadute" (!!!)
+773-778: problema di maschili e femminili. come è stato risolto nelle altre lingue? (???) (!!!)
+780:  va tra parentesi?
+782:  forse meglio "a due teste" (???)
+784:  ci vuole la maiuscola? ci si ritrova con "Cappello Tinto Con una piuma", tante maiuscole insensate (???) (!!!)
+785:  forse è meglio "piumato" (???)
+787:  non mi convince tanto "slots" (???)
+789:  forse è meglio "missioni" (???)
+791:  forse è meglio senza i due punti (???)
