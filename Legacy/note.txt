@@ -1,0 +1,12 @@
+GUIDA ALL'USO
+*************************************************************************
+(???) dubbi, questioni aperte, cose da rivedere.
+
+(!!!) questioni importanti (che magari influenzano altre righe).
+
+tradotto+++++  revisionato+++++     marcatori Flare  
+tradotto-----  revisionato-----     marcatori Nino
+
+rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
+0: questa riga non esiste! (???) (!!!)
+*************************************************************************
