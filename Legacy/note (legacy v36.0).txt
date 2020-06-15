@@ -96,3 +96,78 @@ OGGETTI
 787:  non mi convince tanto "slots" (???)
 789:  forse è meglio "missioni" (???)
 791:  forse è meglio senza i due punti (???)
+
+CREATIVE TAB
+797:  sostituito Vari con Varie, mi sembrava più appropriato(???)
+801:  spawning andrebbe tradotto in qualche modo (???) (!!!)
+
+CONTAINERS
+In generale: Banco da lavoro invece di Tavolo, era questo lo standard nella 1.7.10? (???) (!!!)
+814:  il banco da lavoro è dei nani, non delle montagne
+819:  meglio "forno degli hobbit" o semplicemente "forno hobbit"? Hobbit va con la maiuscola in questo caso? (???)
+822:  sostituito con %s in preparazione (più corretto in italiano) (???) da testare il funzionamento corretto (!!!)
+823:  EH? (???) (!!!)
+824-5:   c'è un termine migliore di preparazione? effettivamente si riferisce a tanti alcolici diversi quindi forse "fermentazione" non va bene. (???) (!!!)
+827-8:   forno->forgia, più in linea con il nome originale "forge"
+833-: Alignment adttato in italiano con Allineamento, da rivedere (???) (!!!)
+840:  Achievements -> Obiettivi (???) (!!!)
+845:  EH? forse da tradurre con "Coordinate"? (???) (!!!)
+846:  c'è un'alternativa italiana a "waypoint"? non ho trovato nulla (???)
+847:  "sua" suona un po' male (???)
+848:  Viaggiare AL waypoint suona male (???)
+849:  servono i due punti? (???)
+850:  "premi %s per /tp", probabilmente possiamo trovare qualcosa di migliore (???) (!!!)
+852-: si deve mettere la s per il plurale anche se stiamo italianizzando la parola? L'ho temporaneamente tolto a waypoints (???)
+853:  sono un po' confuso (???)
+858:  alla o nella ? sono indeciso (???)
+867:  Allineamento o Allineamenti? (???)
+870-1:   eh? (???) (!!!)
+873-4:   aggiunti Accetta e Rifiuta
+876-882: da verificare in gioco (???) (!!!)
+884-912: per sistemare questa parte serve una conoscenza del calendario hobbit che non possiedo (???) (!!!)
+914-918: non conosco abbastanza le miniquest :( (???) (!!!)
+920-989 (sono un sacco di righe!): NON HO IDEA DI COSA SIA QUESTA ROBA AIUTO (???) (!!!)
+994-5:  Scritto in modo un po' strano. Ho qualche dubbio su "aggravati" (???) (!!!)
+998:  ristrutturato in modo più esplicativo la frase
+999-1001: Prima di riscrivere bisogna analizzare la nuova meccanica e il testo originale (???) (!!!)
+1009-1010:  sono stato tentato di invertirli per amor del caos :D
+1012-1014:  riadattare i termini in generale (???) (!!!)
+1020: come mai solo per congeda c'è scritto anche "unità"? (???)
+1022-: forse meglio "obbedisci a" (???)
+1025: forse meglio "modalità DI guardia"? (???)
+1026: alternativa a "range"? (???)
+1027: sostituito "vita" con "salute"
+1030-2:  da rivedere (???)
+1035: in questo caso non è "annulla"? (???)
+1037: forse adattamento troppo libero rispetto a "non potrai tornare indietro" (???)
+1039: mi sembra corretto ma bisogna vedere in che contesto viene utilizzato
+1054: alternativa a "status"? (???)
+1056-:   bisogna trovare termini più precisi di Fermato, Pronto, In guardia, Coltivare, Seguire etc (???) (!!!)
+1061-:   in italiano credo sia superfluo dire "la tua unità arruolata", basta "unità". Modifica effettuata (???)
+1064: Questa frase era in inglese e l'ho tradotta ma non conosco bene il contesto in cui viene utilizzata (???) (!!!)
+
+ENTITÀ (???)
+In generale: risolvere la questione comandante/capo/capitano, mercante/commerciante, potrebbe essere interessante differenziarli in base a quanto sono "civilizzati" gli npc in esame (???) (!!!)
+In generale: risolvere la questione "nome aggettivo" o "aggettivo nome" (???) (!!!)
+1072-:   rimosso un curioso uso del genitivo sassone in italiano
+1074: ho tradotto "Hall" con "Sala" ma non sono sicuro sia giusto (???) (!!!)
+1083-4:  ho messo barista prima perché è una professione (vedi Soldato di Gondor etc.) ed ho lasciato "ubriaco" dopo perché è un aggettivo
+1090: stesso problema che a 471: maniscalco o fabbro? (???)
+1093: guerriero nano -> nano guerriero per uniformità
+1094: tecnicamente sarebbe meglio "Minatore Nano" ma provo sentimenti contrastanti. In ogni caso è un'incongruenza con "Guerriero Nano" (???)
+1097: c'era scritto "capo" per differenziare gli orchi rispetto agli umani? in ogni caso forse sarebbe meglio "orco capitano"? (???)
+1105-6: aggettivo prima o dopo? (???)
+1109: lord->signore va bene? (???)
+1112: scout->esploratore (???)
+1117-8: da tradurre con "Sceriffo" e "Primo sceriffo"? (nomi recuperati in una rapida ricerca su internet), forse meglio mantenere "sceriffo capo"? (???)
+1135: "proprietario della taverna" mi sembra inadatto (???)
+1137: l'entità è costituita da più moscerini? non lo ricordo (???)
+1140: bisognerebbe scrivere Nûrn o mi ricordo male io? (???)
+1143: sostituire "dei campi" con qualcosa tipo "contadino" (NO)? non so con cosa sostituirlo (???)
+1146: tradotto temporaneamente con "custode" invece che "proprietario" ma forse è meglio qualcosa tipo "addestratore" (???)
+1153: forse è meglio "capitano dei raminghi del nord"? (???)
+1154: meglio "del Gundabad"? (???)
+1157: Uruk Warg -> Warg degli Uruk? (???)
+1158: "Uruk bombardiere cavalcatore di warg"? lunghetto (???)
+1165-6:   Vicino Haradrim non si può sentire :C (???) (!!!)
+1171: [mi sono fermato qui per ora -----]
