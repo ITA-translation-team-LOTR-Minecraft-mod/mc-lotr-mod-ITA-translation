@@ -185,3 +185,21 @@ In generale: risolvere la questione "nome aggettivo" o "aggettivo nome" (???) (!
 1227: cavaliere, singolo, e non cavalleria
 1260-1: nani blu (???)
 1266-1303:  che cos'è "entity", come lo dobbiamo tradurre? (???) (!!!)
+
+BIOMI
+1307: monti nebbiosi -> montagne nebbiose (???)
+1313: si potrebbe aggiungere "- Ered Nimrais" (???)
+1318: manteniamo Trollshaws? (???)
+1326-7: meglio "Terre solitarie" o qualcosa di simile? (???)
+1335-6: ho fatto la modifica "di Eriador" -> "dell'Eriador". (???)
+1338: meglio non chiamarla "Chiane ditteri" (???)
+1341-2: valli di Anduin -> valli dell'Anduin
+1344: forse possiamo trovare una parola più adatata di "confine" (ho qualche dubbio) (???) (!!!)
+1350: foreste di Lindon -> foreste del Lindon
+1351: foreste di Eregion -> foreste dell'Eregion
+1354: Rhovanion, Terre Selvagge o tutte e due? (???)
+1356: nurn si scrive così? ricordo di aver visto l'accento triangolare ma forse era sbagliato
+1359-: "woodlands" diventa "foresta" o "foreste"? (???)
+1365: "terra desolata" non rende bene l'idea, bisogna trovare un termine più appropriato. Magari zona o landa devastata / distrutta etc (???) (!!!)
+1369: significa scogliera? non ho modo di verificare esattamente che bioma sia(???) (!!!)
+1373: stesso problema delle "wastelands" (???)
