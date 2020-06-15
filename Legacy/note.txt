@@ -10,6 +10,9 @@ tradotto-----  revisionato-----     marcatori Nino
 rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
 0: questa riga non esiste! (???) (!!!)
 *************************************************************************
+e qui?
 TEST TEST TEST
+
+che succede se scrivo qui? scoppia l'universo?
 
 prova
