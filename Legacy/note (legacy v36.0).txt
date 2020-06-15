@@ -170,4 +170,18 @@ In generale: risolvere la questione "nome aggettivo" o "aggettivo nome" (???) (!
 1157: Uruk Warg -> Warg degli Uruk? (???)
 1158: "Uruk bombardiere cavalcatore di warg"? lunghetto (???)
 1165-6:   Vicino Haradrim non si può sentire :C (???) (!!!)
-1171: [mi sono fermato qui per ora -----]
+1173: lord-> signore (???)
+1174: Portatore di Banner -> Alfiere? (???) (!!!) modifica effettuata ma possiamo tornare indietro se serve
+1188: i Crebain sono una specie di corvi giganti inventati da Tolkien, non semplici corvi. Al singolare è Craban (sindarin per corvo). Che facciamo? (???) (!!!)
+1191: condottiero è corretto, ma forse "signore della guerra" si adatta meglio agli Haradrim. Confrontare con renewed (???) (!!!)
+1193-7:  ho aggiunto "Nano" al nome perché è necessario ma non sono sicuro riguardo la posizione della parola (???) (!!!)
+1198-1202: sostituito "bibite" con "bevande" perché mi sembra più adatto al contesto. Da rivedere anche gli altri nomi di commercianti (???) (!!!)
+1206-: queste erano assenti e le sto aggiungendo io. da rivedere e confrontare con l'originale inglese (che non so dove trovare) (???) (!!!)
+1206: ho trovato "guardia della torre" su Tolkienpedia, alternativa più generica a "Guardia della cittadella" (???)
+1208: "spettro delle piramidi", non ho aggiunto "dell'Harad" perché mi sembra superfluo
+1213: sono particolarmente indeciso su questo
+1220-1222: da rivedere, magari troviamo una forma più carina (???)
+1224-: da standardizzare "su warg", "warg rider", "cavalcatore" etc. (???) (!!!)
+1227: cavaliere, singolo, e non cavalleria
+1260-1: nani blu (???)
+1266-1303:  che cos'è "entity", come lo dobbiamo tradurre? (???) (!!!)
