@@ -1,5 +1,5 @@
 GUIDA ALL'USO
-*************************************************************************
+*****************************************************************************************************
 (???) dubbi, questioni aperte, cose da rivedere.
 
 (!!!) questioni importanti (che magari influenzano altre righe).
@@ -9,10 +9,10 @@ tradotto-----  revisionato-----     marcatori Nino
 
 rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
 0: questa riga non esiste! (???) (!!!)
-*************************************************************************
-e qui?
-TEST TEST TEST
 
-che succede se scrivo qui? scoppia l'universo?
+*****************************************************************************************************
+REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 
-prova
+- cercare di attenersi il più possibile alla terminologia vanilla della 1.7.10
+
+*****************************************************************************************************
