@@ -4,8 +4,9 @@ GUIDA ALL'USO
 
 (!!!) questioni importanti (che magari influenzano altre righe).
 
-tradotto+++++  revisionato+++++     marcatori Flare  
-tradotto-----  revisionato-----     marcatori Nino
+[inizio+++++]  [tradotto+++++]  [revisionato+++++]     marcatori Flare  
+[inizio-----]  [tradotto-----]  [revisionato-----]     marcatori Nino
+indicano da dove inizia la traduzione e dove si è arrivati con traduzione e revisione
 
 rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
 0: questa riga non esiste! (???) (!!!)
@@ -13,6 +14,27 @@ rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
 *****************************************************************************************************
 REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 
-- cercare di attenersi il più possibile alla terminologia vanilla della 1.7.10
-
+- Cercare di attenersi il più possibile alla terminologia vanilla della 1.7.10
+- Nei nomi composti da più parole mettere l'iniziale maiuscola SOLO alla prima (ex. Porta di quercia)
+- Fare attenzione allo standard vanilla riguardo l'uso di "d'" e "di"! nella 1.7.10 è diverso dalle versioni moderne (qui si usa "d'acacia")
+- traduciamo "pillar"->"pilastro" e "beam"->"trave"
+- usiamo il modello "[oggetto]di[materiale][aggettivo]di[fazione]" ex: "Scalini di mattoni muschiosi di Dol Guldur"
+- mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 *****************************************************************************************************
+1290: per gli Uruk utilizzerei la stessa parola Uruk anche come aggettivo, suona più rozzo e adatto agli Uruk stessi (???) (!!!)
+1310: ho scritto d'acero in accordo con lo standard vanilla 1.7.10 (d'acacia, d'abete) (!!!)
+1317: fir->abete anche se in conflitto con l'abete vanilla (!!!), da rivalutare questione alberi della giungla e mogano (???)
+1325: si possono usare sia ulivo che olivo ma ho usato olivo per coerenza a olive (!!!)
+1326: aspen sarebbe "pioppo tremulo" ma siccome non c'è il pioppo comune (poplar) l'ho tradotto in pioppo. Spero che i botanici possano perdonarmi un giorno
+1327: Temporaneamente tradotta con quercia verde. Attenzione! green oak, red oak e mirk oak sono tutte quercie di Bosco Atro (le prime due del bosco non corrotto) (???) (!!!) Le quercie rosse si generano con il legno di querce verdi (la nomenclatura andrebbe corretta anche nelle altre lingue, rendendo il legno "neutro")
+1330: plum può essere tradotto in prugno, pruno e susino (tutti sinonimi in italiano) per il momento ho usato prugno (???)
+1334: il Dragonblood è un albero specifico interno al mondo, momentaneamente rimasto "dragonblood" ma non ne sono sicuro (???)
+1335: il Kanuka è un albero specifico interno al mondo, momentaneamente rimasto "kanuka" (???)
+1336: tradotto rotten in marcio
+1337: Bree-Land -> Terra di Brea, in accordo con le traduzioni italiane ufficiali
+1338-9: non so se "plating" vada tradotto in "placcatura". Ho tradotto "orc plating" in "placcatura orchesca" e non "degli orchi", mi sembrava migliore (???) (!!!)
+1362: nella 1.7.10 gli "alberi della giungla" sono invece "alberi di mogano". Nella mod il mogano esiste già, quindi bisognerà mantenere "albero della giungla" (!!!)
+1364: nella 1.7.10 la "quercia oscura" è "quercia nera" (!!!)
+1372-3: sono i testi che descrivono un kebab stand se preso in mano. Non sono sicuro di "%d pezzi di carne" (l'originale era "%d meat"). Indicano quanti pezzi di carne ci sono sul kebab stand in quel momento e se è cotto (???)
+1375: si riferisce alla bomba incendiaria di Rhun. Estremamente esplosivo o infiammabile? (???)
+1375: (NINO) inizio a tradurre da qui in su
