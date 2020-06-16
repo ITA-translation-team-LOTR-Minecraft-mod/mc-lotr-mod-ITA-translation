@@ -22,6 +22,12 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
+872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???)
+912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
+920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???)
+942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
+958: come tradurre "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
+994-999: "Cobblebrick"->"Mattoni di ciottoli". traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea?
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
 1011: Casket -> scrigno
 1012: Reed Basket->cesto di canna
@@ -33,7 +39,7 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 1055-6: a quanto pare sono cambiati, ancora: Luinon->luigon e caranon->cargon (???) (!!!)
 1069: flowery -> fioriti (???) (!!!)
 1070: gold-trimmed -> rifiniti in oro (???) (!!!)
-1082: "Carved"->"intagliato". da valutare le alternative "inciso", "scolpito" o "cesellato". Intagliato corrisponde alla zucca vanilla (carved pumpkin->zucca intagliata) (???) (!!!)
+1082: "Carved"->"intagliato", probabilmente poco adatto alla roccia. da valutare le alternative "inciso", "scolpito" o "cesellato". Intagliato corrisponde alla zucca vanilla (carved pumpkin->zucca intagliata) (???) (!!!)
 1087: "Khamûl's Fire" -> "Fiamma di Khamûl". "Fuoco" in questo caso mi sembrava meno appropriato (???)
 1088: wattle and daub -> canne e fango (???)
 1089: "Rhûnic" -> "di Rhûn". era meglio "Rhûnico"? (???)
