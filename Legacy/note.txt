@@ -20,7 +20,35 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - traduciamo "pillar"->"pilastro" e "beam"->"trave"
 - usiamo il modello "[oggetto]di[materiale][aggettivo]di[fazione]" ex: "Scalini di mattoni muschiosi di Dol Guldur"
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
+
 *****************************************************************************************************
+1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
+1011: Casket -> scrigno
+1012: Reed Basket->cesto di canna
+1019: mallorn box -> scatola di mallorn, anche se somiglia più a una cassa
+1042-3: Rohan wood beam->"trave di Rohan" o meglio "trave di legno di Rohan"? (???)
+1050: Ithildin dwarven door -> porta nanica rifinita in Ithildin. non sono molto sicuro di questa traduzione (???)
+1052-4: stone->pietra mentre rock->roccia (gondor/mordor/rohan rock)
+1052-57: smooth->levigato/a in accordo con lo standard vanilla attuale (da verificare se "smooth" corrisponde a "levigato" anche nella 1.7.10) (???) (!!!)
+1055-6: a quanto pare sono cambiati, ancora: Luinon->luigon e caranon->cargon (???) (!!!)
+1069: flowery -> fioriti (???) (!!!)
+1070: gold-trimmed -> rifiniti in oro (???) (!!!)
+1082: "Carved"->"intagliato". da valutare le alternative "inciso", "scolpito" o "cesellato". Intagliato corrisponde alla zucca vanilla (carved pumpkin->zucca intagliata) (???) (!!!)
+1087: "Khamûl's Fire" -> "Fiamma di Khamûl". "Fuoco" in questo caso mi sembrava meno appropriato (???)
+1088: wattle and daub -> canne e fango (???)
+1089: "Rhûnic" -> "di Rhûn". era meglio "Rhûnico"? (???)
+1135-36: Ice stalactite/stalagmite -> stalattite/stalagmite di ghiaccio. Non saprei come adattare ghiacciolo "all'insù" e "all'ingiù" (???)
+1139-44: tiling -> piastrelle (è appropriato?) (???)
+1145: millstone -> mola (l'ho vista usare solo con oggetti di pietra, altrimenti sarei indeciso con "macina") (???)
+1146-53: i materiali metallici grezzi (stagno, rame, argento) sono definiti "ore", mentre le gemme sono "vein". Riporto la stessa differenza in italiano (dovrei?) (???)
+1164: "coral reef" -> "barriera corallina" letteralmente, ma questo è solo un blocco. Forse è meglio "Blocco di barriera corallina"? (???)
+1165-1198: "fine glass" -> "vetro pregiato" in senso più letterale. Forse meglio "vetro rifinito" o simile? (???)
+1200: dart trap->trappola a dardi (???). scritto così potrebbe far credere che i dardi siano di ossidiana e non la trappola (???)
+1206: golden->d'oro in accordo con le altre cose "golden" vanilla e con il crafting (tre lingotti d'oro)
+1210: "Dalish" -> "di Dale". Si può tradurre meglio? (???) (!!!)
+1211: "Umbaric" deve diventare "umbarico" o "di Umbar"? (???) (!!!)
+1212: "Banco da lavoro del Golfo" non farebbe capire che i "Gulfling" sono un popolo vero e proprio. Traduzione incompleta! (???) (!!!)
+1282: "Utumno entrance" tradotto come "Ingresso di Utumno", forse si può rendere meglio (???) 
 1290: per gli Uruk utilizzerei la stessa parola Uruk anche come aggettivo, suona più rozzo e adatto agli Uruk stessi (???) (!!!)
 1310: ho scritto d'acero in accordo con lo standard vanilla 1.7.10 (d'acacia, d'abete) (!!!)
 1317: fir->abete anche se in conflitto con l'abete vanilla (!!!), da rivalutare questione alberi della giungla e mogano (???)
