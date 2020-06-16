@@ -22,12 +22,19 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
+625: "Lapis-trimmed" -> rifiniti in lapislazzuli 
+690: "Jungle Mud Farmland" -> Fango della giungla zappato? (???)
+713: "reed" -> meglio tradurlo con canna o giunco? o magari vimini? (???) (!!!)
+727: weapon rack -> scaffale per armi. non sono sicuro sia il modo migliore (???)
+728: corn stalk -> stelo di mais
+729: waste block -> blocco di resti
+763: Portcullis -> Saracinesca (???)
 872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???)
 912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
 920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???)
 942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
 958: come tradurre "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
-994-999: "Cobblebrick"->"Mattoni di ciottoli". traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea?
+994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea?
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
 1011: Casket -> scrigno
 1012: Reed Basket->cesto di canna
