@@ -22,6 +22,21 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
+390: riverweed -> erba di fiume
+400: Gundabad crafting table -> banco da lavoro del Gundabad
+401: Thatch Flooring -> pavimento di paglia
+402: Arid Grass -> erba secca (???)
+404: Termite Mound -> termitaio
+436: flax plant -> pianta di lino
+437-42: bare -> spoglio
+437-48: blueberry=mirtillo, blackberry=mora, raspberry=lampone, cranberry=mirtillo rosso, elderberry=sambuco, wildberry=bacche (omesso "selvatiche") (???)  
+505: Block of Black Uruk Steel -> Blocco di acciaio Uruk nero (con i Black Uruk si crea un caso simile ai "nani blu" o "acciaio nanico blu") (???)
+507: Block of Gilded Iron -> Blocco di acciaio dorato
+509: Mordor Scrub -> Erba di Mordor (temporaneamente, in attesa di una traduzione più adatta) (???) (!!!)
+512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore
+513: Half-troll -> Mezzi troll? (???)
+514: butterfly jar -> barattolo per farfalle (??)
+528: glowing dwarven bricks -> mattoni luminescenti nanici (???)
 590: Unsmeltery -> rifonditore, fonditore, defonditore? quasi nessuna di queste parole esiste in italiano :( (???) (!!!) temporaneamente tradotto in "Fonditore" (anche se comunque inappropriato)
 600: Blue Dwarven Steel Bars -> acciaio dei nani blu (brutto) o acciaio nanico blu?
 609-12: Scorched -> bruciato
@@ -116,6 +131,9 @@ Aggettivi per blocchi
    scorched -> bruciato
    rotten -> marcio
    charred -> carbonizzato
+   glowing -> luminescente (???) (in alternativa: brillante? luminoso? luminescente?)
+   fiery -> ardente (???)
+   burning -> rovente (???)
 
 Fazioni/luoghi/popoli e aggettivi (proposta)
    Gondor (luogo)-> di Gondor
@@ -126,9 +144,10 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Mordor (popolo)-> di Mordor (???)
    Harad (luogo)-> dell'Harad (???)
    Harad (popolo)-> haradrico (???)
+   Rhûn (luogo)-> di Rhûn
+   Rhûn (popolo)-> di rhûnico? (???)
    Umbar -> di Umbar / Umbar (???) / umbarico (???)
    Taurethrim -> dei Taurethrim
-   Rhûn -> di Rhûn
    Dorwinion -> del Dorwinion
    Angmar -> di Angmar
    Dale -> di Dale
@@ -153,6 +172,8 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Hobbit -> degli Hobbit / Hobbit (con la maiuscola?) (???) (cfr "Buco Hobbit")
    Bosco Atro -> di Bosco Atro
    Dol Amroth -> di Dol Amroth
+   Númenor -> númenóreano (???) gli accenti sono giusti?
+   Mezzi troll (???) -> dei Mezzi troll (grafia corretta? potrebbero essere anche "Mezzi Troll" o "mezzi troll")
 
 Dubbi generici
    Granburrone o Gran Burrone? (???)
