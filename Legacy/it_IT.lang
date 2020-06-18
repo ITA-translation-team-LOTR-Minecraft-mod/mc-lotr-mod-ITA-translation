@@ -9,7 +9,7 @@ lotr.config.misc=Miscellaneous
 
 generator.middleEarth=Terra di Mezzo
 generator.middleEarth.info=Spawna direttamente nella Terra di Mezzo
-generator.meClassic=M.E. Classic
+generator.meClassic=M.E. Classico
 generator.meClassic.info=Spawna direttamente nella Terra di Mezzo, con la generazione casuale dei biomi
 
 tile.lotr:rock.0.name=Roccia di Mordor
