@@ -22,6 +22,25 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
+25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor")
+64: Shire Heather -> meglio "Erica" o "Forno"? (???)
+98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???)
+102-17: Chandelier -> Candelabro (o meglio lampadario? forse troppo moderno) (???)
+146: "Orc Bomb" -> "Bomba orchesca" o meglio "Bomba degli orchi" (???)
+151: in vanila il Mob Spawner si chiama "Generatore di mostri", ma forse è più corretto mantenere soltanto "Spawner" (spawna anche esseri non mostri) (???)
+162: Elvengrass -> "erba di quendite" o magari "Erba elfica" (ehehe) (???)
+203: Hearth Block -> Focolare (??)
+223: Remains -> Resti
+224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???)
+227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione
+262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort?
+265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???)
+266: Stabbing Thorn -> spine pungenti (o magari spine lancinanti) (???)
+310: Quagmire -> pantano (???) c'è una parola più adatta?
+378: Blue Mountains Crafting Table -> Banco da lavoro dei Monti Azzurri
+387: Elfsong -> canto elfico (???) aiuto questo nome è pietoso
+388: Sunfruit -> frutto solare (???)
+389: Moonflower -> fiore di luna (???) forse è un caso che esista un fiore con questo nome nella realtà
 390: riverweed -> erba di fiume
 400: Gundabad crafting table -> banco da lavoro del Gundabad
 401: Thatch Flooring -> pavimento di paglia
@@ -134,6 +153,7 @@ Aggettivi per blocchi
    glowing -> luminescente (???) (in alternativa: brillante? luminoso? luminescente?)
    fiery -> ardente (???)
    burning -> rovente (???)
+   smooth -> levigato (???)
 
 Fazioni/luoghi/popoli e aggettivi (proposta)
    Gondor (luogo)-> di Gondor
