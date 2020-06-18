@@ -1,4 +1,4 @@
-GUIDA ALL'USO
+GUIDA A LL'USO
 *****************************************************************************************************
 (???) dubbi, questioni aperte, cose da rivedere.
 
@@ -22,25 +22,25 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
-25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor")
-64: Shire Heather -> meglio "Erica" o "Forno"? (???)
-98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???)
-102-17: Chandelier -> Candelabro (o meglio lampadario? forse troppo moderno) (???)
-146: "Orc Bomb" -> "Bomba orchesca" o meglio "Bomba degli orchi" (???)
-151: in vanila il Mob Spawner si chiama "Generatore di mostri", ma forse è più corretto mantenere soltanto "Spawner" (spawna anche esseri non mostri) (???)
-162: Elvengrass -> "erba di quendite" o magari "Erba elfica" (ehehe) (???)
-203: Hearth Block -> Focolare (??)
-223: Remains -> Resti
-224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???)
-227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione
-262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort?
-265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???)
+25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor") ///Consiglierei "Faro" dato che e di etimologia risalente al XIII secolo (vedi isola di faro)
+64: Shire Heather -> meglio "Erica" o "Forno"? (???) /// Forno!! é di etimologia Irlandese australiana derivata del XI secolo A.C 
+98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???) /// ? indifferente , ma seguirei la Wiki
+102-17: Chandelier -> Candelabro (o meglio lampadario? forse troppo moderno) (???) ///Candelabbro é meno accurato in quanto si posa sul tavolo, ma lampadario é sviluppato come parola nel 1800 da quello che sembra
+146: "Orc Bomb" -> "Bomba orchesca" o meglio "Bomba degli orchi" (???) /// io andrei pure con "Bomba d'orco" , ma bomba orchesca mi sembra piú cooerente
+151: in vanila il Mob Spawner si chiama "Generatore di mostri", ma forse è più corretto mantenere soltanto "Spawner" (spawna anche esseri non mostri) (???) /// Uovo?
+162: Elvengrass -> "erba di quendite" o magari "Erba elfica" (ehehe) (???) /// seguirei L'En qui e  "Erba elfica"
+203: Hearth Block -> Focolare (??) 
+223: Remains -> Resti 
+224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???) /// in questo caso si parla di una Pianta delle Death marshes, e si chiamano appunto "Paludi Morte"
+227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione /// concordo
+262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort? /// direi genzianella , dwarfwort rimane inglese e non segue la coorenza di traduzione italiana e se si cerca in Creative (Dwarf Wutz/ Radice di nano)
+265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???) /// giara mi piace, Vaso é solo piu semplice.
 266: Stabbing Thorn -> spine pungenti (o magari spine lancinanti) (???)
-310: Quagmire -> pantano (???) c'è una parola più adatta?
+310: Quagmire -> pantano (???) c'è una parola più adatta? /// Fango,fanghilia, melma
 378: Blue Mountains Crafting Table -> Banco da lavoro dei Monti Azzurri
-387: Elfsong -> canto elfico (???) aiuto questo nome è pietoso
-388: Sunfruit -> frutto solare (???)
-389: Moonflower -> fiore di luna (???) forse è un caso che esista un fiore con questo nome nella realtà
+387: Elfsong -> canto elfico (???) aiuto questo nome è pietoso /// (!!!) Difficile , questo ci ritorna nella Renewed, Seguendo la mentalita dei nomi comuni dei fiori userei un miscuglio di mitologie comuni e lingua come qualcosa del tipo "Musa d'elfo" ma dobbiamo riguardarla
+388: Sunfruit -> frutto solare (???) /// Solfrutto (?)
+389: Moonflower -> fiore di luna (???) forse è un caso che esista un fiore con questo nome nella realtà /// fior di luna ? 
 390: riverweed -> erba di fiume
 400: Gundabad crafting table -> banco da lavoro del Gundabad
 401: Thatch Flooring -> pavimento di paglia
@@ -48,33 +48,33 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 404: Termite Mound -> termitaio
 436: flax plant -> pianta di lino
 437-42: bare -> spoglio
-437-48: blueberry=mirtillo, blackberry=mora, raspberry=lampone, cranberry=mirtillo rosso, elderberry=sambuco, wildberry=bacche (omesso "selvatiche") (???)  
+437-48: blueberry=mirtillo, blackberry=mora, raspberry=lampone, cranberry=mirtillo rosso, elderberry=sambuco, wildberry=bacche (omesso "selvatiche") (???) /// concordo tutto qui 
 505: Block of Black Uruk Steel -> Blocco di acciaio Uruk nero (con i Black Uruk si crea un caso simile ai "nani blu" o "acciaio nanico blu") (???)
 507: Block of Gilded Iron -> Blocco di acciaio dorato
 509: Mordor Scrub -> Erba di Mordor (temporaneamente, in attesa di una traduzione più adatta) (???) (!!!)
-512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore
+512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore /// é perfetto ma cambierei in "Di comando" é dopotutto il tavolo che un comandante usa per controllare le sue truppe e strategizzare
 513: Half-troll -> Mezzi troll? (???)
 514: butterfly jar -> barattolo per farfalle (??)
 528: glowing dwarven bricks -> mattoni luminescenti nanici (???)
-590: Unsmeltery -> rifonditore, fonditore, defonditore? quasi nessuna di queste parole esiste in italiano :( (???) (!!!) temporaneamente tradotto in "Fonditore" (anche se comunque inappropriato)
+590: Unsmeltery -> rifonditore, fonditore, defonditore? quasi nessuna di queste parole esiste in italiano :( (???) (!!!) temporaneamente tradotto in "Fonditore" (anche se comunque inappropriato) /// Crogiolo 
 600: Blue Dwarven Steel Bars -> acciaio dei nani blu (brutto) o acciaio nanico blu?
 609-12: Scorched -> bruciato
-615: alloy forge -> forgia per leghe (???), forse è meglio solo "forgia"? (!!!)
+615: alloy forge -> forgia per leghe (???), forse è meglio solo "forgia"? (!!!) non ricordo come si chiama in Vanilla , se é Forno or Forgia , comunque le opzioni si Puo aggiungere "Fucina"
 625: "Lapis-trimmed" -> rifiniti in lapislazzuli 
-690: "Jungle Mud Farmland" -> Fango della giungla zappato? (???)
-713: "reed" -> meglio tradurlo con canna o giunco? o magari vimini? (???) (!!!)
-727: weapon rack -> scaffale per armi. non sono sicuro sia il modo migliore (???)
+690: "Jungle Mud Farmland" -> Fango della giungla zappato? (???) /// Arato 
+713: "reed" -> meglio tradurlo con canna o giunco? o magari vimini? (???) (!!!) Giunco 
+727: weapon rack -> scaffale per armi. non sono sicuro sia il modo migliore (???) /// Palchetto, Ripiano , Scaffa , non so nemmeno io
 729: waste block -> blocco di resti (???)
-734: "Willow vines" -> "rampicante di salice" ma è abbastanza inappropriato (???)
+734: "Willow vines" -> "rampicante di salice" ma è abbastanza inappropriato (???) /// li chiamerei "Ramoscelli" alla fine sono ben quelli
 728: corn stalk -> stelo di mais
 729: waste block -> blocco di resti
 763: Portcullis -> Saracinesca (???)
-872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???)
+872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???) /// Spiedone?
 912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
-920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???)
+920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???) /// palo va bene, ma penso "Palo per Vigna" stia meglio
 942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
 958: come tradurre "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
-994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea?
+994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea? /// Ciottolato? non ricordo il blocco temo
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
 1011: Casket -> scrigno
 1012: Reed Basket->cesto di canna
