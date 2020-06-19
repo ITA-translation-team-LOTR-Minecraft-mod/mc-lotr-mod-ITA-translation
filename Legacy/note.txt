@@ -1,11 +1,11 @@
-GUIDA A LL'USO
+GUIDA ALL'USO
 *****************************************************************************************************
 (???) dubbi, questioni aperte, cose da rivedere.
 
 (!!!) questioni importanti (che magari influenzano altre righe).
 
-[inizio+++++]  [tradotto+++++]  [revisionato+++++]     marcatori Flare  
-[inizio-----]  [tradotto-----]  [revisionato-----]     marcatori Nino
+[inizio+++++]  [tradotto+++++]  [revisionato+++++]     marcatori Flare     ///commenti Flare
+[inizio-----]  [tradotto-----]  [revisionato-----]     marcatori Nino      \\\commenti Nino
 indicano da dove inizia la traduzione e dove si è arrivati con traduzione e revisione
 
 rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
@@ -22,24 +22,24 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
-25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor") ///Consiglierei "Faro" dato che e di etimologia risalente al XIII secolo (vedi isola di faro)
+25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor") ///Consiglierei "Faro" dato che e di etimologia risalente al XIII secolo (vedi isola di faro) \\\Mi hai convinto, modifico
 64: Shire Heather -> meglio "Erica" o "Forno"? (???) /// Forno!! é di etimologia Irlandese australiana derivata del XI secolo A.C 
-98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???) /// ? indifferente , ma seguirei la Wiki
-102-17: Chandelier -> Candelabro (o meglio lampadario? forse troppo moderno) (???) ///Candelabbro é meno accurato in quanto si posa sul tavolo, ma lampadario é sviluppato come parola nel 1800 da quello che sembra
-146: "Orc Bomb" -> "Bomba orchesca" o meglio "Bomba degli orchi" (???) /// io andrei pure con "Bomba d'orco" , ma bomba orchesca mi sembra piú cooerente
-151: in vanila il Mob Spawner si chiama "Generatore di mostri", ma forse è più corretto mantenere soltanto "Spawner" (spawna anche esseri non mostri) (???) /// Uovo?
-162: Elvengrass -> "erba di quendite" o magari "Erba elfica" (ehehe) (???) /// seguirei L'En qui e  "Erba elfica"
+98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???) /// ? indifferente , ma seguirei la Wiki \\\ seguita la wiki! :)
+102-17: Chandelier -> Candelabro (o meglio lampadario? forse troppo moderno) (???) ///Candelabbro é meno accurato in quanto si posa sul tavolo, ma lampadario é sviluppato come parola nel 1800 da quello che sembra \\\Ok ora sono parecchio indeciso... che facciamo?
+146: "Orc Bomb" -> "Bomba orchesca" o meglio "Bomba degli orchi" (???) /// io andrei pure con "Bomba d'orco" , ma bomba orchesca mi sembra piú cooerente \\\ok, lo considero confermato allora :)
+151: in vanila il Mob Spawner si chiama "Generatore di mostri", ma forse è più corretto mantenere soltanto "Spawner" (spawna anche esseri non mostri) (???) /// Uovo? \\\No, si tratta del blocco "a gabietta" con il mob dentro
+162: Elvengrass -> "erba di quendite" o magari "Erba elfica" (ehehe) (???) /// seguirei L'En qui e  "Erba elfica" \\\ confermata Erba elfica, deve essere buona
 203: Hearth Block -> Focolare (??) 
 223: Remains -> Resti 
-224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???) /// in questo caso si parla di una Pianta delle Death marshes, e si chiamano appunto "Paludi Morte"
+224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???) /// in questo caso si parla di una Pianta delle Death marshes, e si chiamano appunto "Paludi Morte" \\\ hai ragione, modifico in Pianta delle Paludi Morte
 227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione /// concordo
-262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort? /// direi genzianella , dwarfwort rimane inglese e non segue la coorenza di traduzione italiana e se si cerca in Creative (Dwarf Wutz/ Radice di nano)
-265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???) /// giara mi piace, Vaso é solo piu semplice.
+262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort? /// direi genzianella , dwarfwort rimane inglese e non segue la coorenza di traduzione italiana e se si cerca in Creative (Dwarf Wutz/ Radice di nano) \\\ torniamo al compromesso a cui eravamo arrivati per la renewed, "Genziana Nanica"
+265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???) /// giara mi piace, Vaso é solo piu semplice. \\\ optiamo per "giara"?
 266: Stabbing Thorn -> spine pungenti (o magari spine lancinanti) (???)
 310: Quagmire -> pantano (???) c'è una parola più adatta? /// Fango,fanghilia, melma
 378: Blue Mountains Crafting Table -> Banco da lavoro dei Monti Azzurri
-387: Elfsong -> canto elfico (???) aiuto questo nome è pietoso /// (!!!) Difficile , questo ci ritorna nella Renewed, Seguendo la mentalita dei nomi comuni dei fiori userei un miscuglio di mitologie comuni e lingua come qualcosa del tipo "Musa d'elfo" ma dobbiamo riguardarla
-388: Sunfruit -> frutto solare (???) /// Solfrutto (?)
+387: Elfsong -> canto elfico (???) aiuto questo nome è pietoso /// (!!!) Difficile , questo ci ritorna nella Renewed, Seguendo la mentalita dei nomi comuni dei fiori userei un miscuglio di mitologie comuni e lingua come qualcosa del tipo "Musa d'elfo" ma dobbiamo riguardarla \\\ altrimenti, banalmente, usiamo "canto elfico" senza aggiungere troppo di nostro ma rendendo il nome un po' più scorrevole
+388: Sunfruit -> frutto solare (???) /// Solfrutto (?) \\\ ho pensato che, banalmente, potremmo usare "Frutto del sole", un po' in equilibrio con fior di luna
 389: Moonflower -> fiore di luna (???) forse è un caso che esista un fiore con questo nome nella realtà /// fior di luna ? 
 390: riverweed -> erba di fiume
 400: Gundabad crafting table -> banco da lavoro del Gundabad
@@ -52,24 +52,24 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 505: Block of Black Uruk Steel -> Blocco di acciaio Uruk nero (con i Black Uruk si crea un caso simile ai "nani blu" o "acciaio nanico blu") (???)
 507: Block of Gilded Iron -> Blocco di acciaio dorato
 509: Mordor Scrub -> Erba di Mordor (temporaneamente, in attesa di una traduzione più adatta) (???) (!!!)
-512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore /// é perfetto ma cambierei in "Di comando" é dopotutto il tavolo che un comandante usa per controllare le sue truppe e strategizzare
+512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore /// é perfetto ma cambierei in "Di comando" é dopotutto il tavolo che un comandante usa per controllare le sue truppe e strategizzare \\\ ottima correzione, meglio "di comando"
 513: Half-troll -> Mezzi troll? (???)
 514: butterfly jar -> barattolo per farfalle (??)
 528: glowing dwarven bricks -> mattoni luminescenti nanici (???)
-590: Unsmeltery -> rifonditore, fonditore, defonditore? quasi nessuna di queste parole esiste in italiano :( (???) (!!!) temporaneamente tradotto in "Fonditore" (anche se comunque inappropriato) /// Crogiolo 
+590: Unsmeltery -> rifonditore, fonditore, defonditore? quasi nessuna di queste parole esiste in italiano :( (???) (!!!) temporaneamente tradotto in "Fonditore" (anche se comunque inappropriato) /// Crogiolo \\\ esattamente la parola che serviva
 600: Blue Dwarven Steel Bars -> acciaio dei nani blu (brutto) o acciaio nanico blu?
 609-12: Scorched -> bruciato
-615: alloy forge -> forgia per leghe (???), forse è meglio solo "forgia"? (!!!) non ricordo come si chiama in Vanilla , se é Forno or Forgia , comunque le opzioni si Puo aggiungere "Fucina"
+615: alloy forge -> forgia per leghe (???), forse è meglio solo "forgia"? (!!!) non ricordo come si chiama in Vanilla , se é Forno or Forgia , comunque le opzioni si Puo aggiungere "Fucina" \\\ in vanilla si chiama "fornace" ed è uno strumento generico che si utilizza sia per cibi che per minerali mentre la forgia (forge nella traduzione originale) serve nello specifico per i minerali. potrebbe andare anche "fucina"
 625: "Lapis-trimmed" -> rifiniti in lapislazzuli 
-690: "Jungle Mud Farmland" -> Fango della giungla zappato? (???) /// Arato 
+690: "Jungle Mud Farmland" -> Fango della giungla zappato? (???) /// Arato \\\ ho utilizzato zappato come per la terra zappata vanilla
 713: "reed" -> meglio tradurlo con canna o giunco? o magari vimini? (???) (!!!) Giunco 
-727: weapon rack -> scaffale per armi. non sono sicuro sia il modo migliore (???) /// Palchetto, Ripiano , Scaffa , non so nemmeno io
+727: weapon rack -> scaffale per armi. non sono sicuro sia il modo migliore (???) /// Palchetto, Ripiano , Scaffa , non so nemmeno io \\\ sono convinto che quella parola non esista
 729: waste block -> blocco di resti (???)
-734: "Willow vines" -> "rampicante di salice" ma è abbastanza inappropriato (???) /// li chiamerei "Ramoscelli" alla fine sono ben quelli
+734: "Willow vines" -> "rampicante di salice" ma è abbastanza inappropriato (???) /// li chiamerei "Ramoscelli" alla fine sono ben quelli \\\ si ma dovrebbe valere la somiglianza con "vines" vanilla, perché sono scalabili
 728: corn stalk -> stelo di mais
 729: waste block -> blocco di resti
 763: Portcullis -> Saracinesca (???)
-872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???) /// Spiedone?
+872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???) /// Spiedone? \\\ o forse banalmente spiedo
 912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
 920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???) /// palo va bene, ma penso "Palo per Vigna" stia meglio
 942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
