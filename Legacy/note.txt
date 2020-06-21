@@ -137,7 +137,26 @@ OGGETTI
 1549: \\\dovremmo rivedere insieme il nome degli ordini. Appronta non mi convince moltissimo :/ (???) (!!!)
 1552: \\\da lancio mi sembra più chiaro
 1557: \\\tecnicamente si chiamerebbe "scimitarra", anche se le scimitarre non hanno quella forma. Forse potremmo pensare di mantenere scimitarra per coerenza con "scimitarra orchesca" (???) (!!!)
+1578-81: \\\credo che mettendon questo nome ai pezzi "gambiera" sia inadatto. Inoltre dovremmo regolarizzare il termine scout/esploratore
+1584-92: \\\meglio ancestrale o semplicemente antico?
+1597-60: \\\regolarizzare termini dell'armatura
+1601: \\\meglio "Elmo alato gondoriano" o "Elmo gondoriano alato"? lo modifico perché mi sembra più carino, in caso lo cambiamo
+1607: \\\ho notato che non c'è un termine italiano corrispondente. forse tanto vale mantenere il termine inglese Perry
+1616-19: \\\Ranger va maiuscolo?
+1620-5: \\\Dunlending in questo caso va maiuscolo?
+1627: \\\bruno forse suonava meglio, ma "mattone" è più in linea con gli altri termini del vanilla (lana marrone, argilla marrone etc)
+1634: \\\tradotto in "pane coi vermi", mi sembrava più appropriato
+1643: \\\mattock andrebbe tradotto con un termine che probabilmente in italiano non esiste :( ho messo Piccozza come nella traduzione precedente, suona bene ma è dannatamente sbagliato
+1662: \\\forse in questo caso, a differenza che con il tavolo, suona meglio "del". Inserisco "del" e in caso torniamo indietro
+1663: \\\pancake -> frittella mi ha turbato un sacco ma effettivamente ha senso
+1673-1714: Ho tradotto "banner of" con "Stendardo di" temporaneamente, ma resta da decidere come adattare tutti i nomi dei singoli regni/fazioni, visto che alcuni non sono proprpio ovvi e sono importanti (???) (!!!)
 
+2269-71: Giraffeskin Rug -> meglio "Tappeto di giraffa" o "Tappeto di pelle di giraffa"?
+2273: Stoneware Plate -> Piatto di terracotta (è marroncino ed è lo step "intermedio" tra argilla e ceramica, mi sembra il più adatto)
+2274: horse armor -> bardatura perché ha senso (ma sarà compatibile col vanilla?)
+2275: "Old-Haradric Sacrificial Dagger" tradotto in "Pugnale sacrificale haradrico antico"
+2288: "Branding Iron" -> ferro da marchio
+2289: [NINO] inizio la traduzione da 2289 andando verso su
 
 *****************************************************************************************************
 APPROFONDIMENTI (per dettagliare tutto ciò che serve)
