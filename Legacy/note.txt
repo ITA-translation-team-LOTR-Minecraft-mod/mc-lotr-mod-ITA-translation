@@ -150,7 +150,23 @@ OGGETTI
 1662: \\\forse in questo caso, a differenza che con il tavolo, suona meglio "del". Inserisco "del" e in caso torniamo indietro
 1663: \\\pancake -> frittella mi ha turbato un sacco ma effettivamente ha senso
 1673-1714: Ho tradotto "banner of" con "Stendardo di" temporaneamente, ma resta da decidere come adattare tutti i nomi dei singoli regni/fazioni, visto che alcuni non sono proprpio ovvi e sono importanti (???) (!!!)
-
+1677: \\\modificato reame dei boschi in Reame Boscoso (come viene chiamato nelle traduzioni italiane)
+1680: \\\modificato figli di Durin in Popolo di Durin (come da traduzioni ufficiali). Sogno un mondo in cui si chiamano Lungobarbi
+1683: \\\modificato temporaneamente da "di Lindon" a "del Lindon" per uniformità al resto della traduzione
+1690: \\\modificato in dei Morwaith perché è il nome del popolo, non della regione
+1691: \\\stessa modifica del rigo sopra
+1706: \\\non sono troppo sicuro riguardo i "Montanari" anche se probabilmente è il termine giusto (???)
+1733: \\\modificato in pane di banana per uniformità a tutti gli altri pani
+1750: sarebbe "Orice gazzella" ma non avendo trovato altre gazzelle nella mod al momento la tradurrei semplicemente come gazzella (???)
+1752-5: in inglese vengono usati i termini standard per l'armatura in ferro ma sarebbero più appropriati quelli per l'armatura in cuoio
+1810: straw bed -> letto di paglia
+1811: Orc Skull Staff -> bastone con teschio orchesco (ma così sembra che il teschio sia necessariamente di orco) (???)
+1827: Dalish Pastry -> treccia di Dale
+1839: elderberry in questo caso è tradotto come bacche di sambuco perchè non si parla della pianta
+1840: Conker nella mod significa riccio di castagna (anche se nella realtà la parola ha un altro significato)
+1854: Southron Champion Helmet -> Elmo da campione dei Sudroni
+1857-62: handle->impugnatura, shaft->gambo, pin->pettine (nomi italiani per i pezzi di una chiave, vedi "Wikipedia: chiave(serratura)"). Dobbiamo capire quale sia quella di ossidiana e quale quella di ghiaccio.
+1874: Pickaxe of the Underworld -> Piccone del sottosuolo? o magari "degli Inferi"(???) (!!!) ricollegabile alla mazza di Morgoth "Grond, Hammer of the Underworld"
 1875: Balrog Whip -> frusta da Balrog (???)
 1910: Torog stew -> stufato torog
 1932-4: robe -> veste (???)
