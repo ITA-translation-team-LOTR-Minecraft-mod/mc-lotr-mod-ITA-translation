@@ -3326,7 +3326,7 @@ lotr.gui.message.utumnoWarn=These ruins are ancient beyond measure. Be on your g
 lotr.gui.message.enchanting=Enchanting is disabled by default since the introduction of a new modifier system to the LOTR Mod.\n\nTo re-enable enchanting, disable modifiers, or both, go to the mod's configuration file or the in-game configuration menu.
 lotr.gui.message.alignDrain=When you see this icon:\n\n\n\nyou are losing alignment with one or more factions due to holding positive alignment (+) with a Mortal Enemy of theirs.\nKeep an eye on your alignments!
 
-lotr.gui.bannerEdit.title=Stendardo diotection
+lotr.gui.bannerEdit.title=Banner Protection
 lotr.gui.bannerEdit.protectionMode.playerSpecific=Protection: Whitelist
 lotr.gui.bannerEdit.protectionMode.playerSpecific.desc.1=Players and Fellowships listed below
 lotr.gui.bannerEdit.protectionMode.playerSpecific.desc.2=can bypass this banner's protection
@@ -3861,7 +3861,9 @@ entity.lotr.MysteryWeb.name=Mystery Web
 entity.lotr.TraderRespawn.name=Trader Respawn
 entity.lotr.ThrownRock.name=Thrown Rock
 entity.lotr.Barrel.name=Barrel
-entity.lotr.Stendardo dime=Stendardo ditity.lotr.WallBanner.name=Wall Stendardo ditity.lotr.InvasionSpawner.name=Invasion Spawner
+entity.lotr.Banner.name=Banner
+entity.lotr.WallBanner.name=Wall Banner
+entity.lotr.InvasionSpawner.name=Invasion Spawner
 entity.lotr.ThrownTermite.name=Exploding Termite
 entity.lotr.Conker.name=Conker
 entity.lotr.LOTRTNT.name=TNT
@@ -3883,7 +3885,7 @@ lotr.travellingTrader.arrive=%s has arrived nearby
 lotr.travellingTrader.arriveMP=%s has arrived near %s
 lotr.travellingTrader.depart=%s has left the area
 
-lotr.unitinfo.Stendardo diendardo diarers provide various combat improvements to nearby NPCs of the same faction
+lotr.unitinfo.Banner=Banner Bearers provide various combat improvements to nearby NPCs of the same faction
 
 lotr.unit.MordorOrc_Warg=Warg Rider
 lotr.unit.MordorOrcArcher_Warg=Warg Archer Rider
