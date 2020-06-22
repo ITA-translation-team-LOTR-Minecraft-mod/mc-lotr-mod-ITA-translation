@@ -51,7 +51,7 @@ BLOCCHI
 437-42: bare -> spoglio
 437-48: blueberry=mirtillo, blackberry=mora, raspberry=lampone, cranberry=mirtillo rosso, elderberry=sambuco, wildberry=bacche (omesso "selvatiche") (???) /// concordo tutto qui 
 505: Block of Black Uruk Steel -> Blocco di acciaio Uruk nero (con i Black Uruk si crea un caso simile ai "nani blu" o "acciaio nanico blu") (???)
-507: Block of Gilded Iron -> Blocco di acciaio dorato
+507: Block of Gilded Iron -> Blocco di ferro dorato
 509: Mordor Scrub -> Erba di Mordor (temporaneamente, in attesa di una traduzione più adatta) (???) (!!!)
 512: Table of Command -> Tavolo del comando (???) forse si può trovare un adattamento migliore /// é perfetto ma cambierei in "Di comando" é dopotutto il tavolo che un comandante usa per controllare le sue truppe e strategizzare \\\ ottima correzione, meglio "di comando"
 513: Half-troll -> Mezzi troll? (???)
@@ -137,11 +137,94 @@ OGGETTI
 1549: \\\dovremmo rivedere insieme il nome degli ordini. Appronta non mi convince moltissimo :/ (???) (!!!)
 1552: \\\da lancio mi sembra più chiaro
 1557: \\\tecnicamente si chiamerebbe "scimitarra", anche se le scimitarre non hanno quella forma. Forse potremmo pensare di mantenere scimitarra per coerenza con "scimitarra orchesca" (???) (!!!)
+1578-81: \\\credo che mettendon questo nome ai pezzi "gambiera" sia inadatto. Inoltre dovremmo regolarizzare il termine scout/esploratore
+1584-92: \\\meglio ancestrale o semplicemente antico?
+1597-60: \\\regolarizzare termini dell'armatura
+1601: \\\meglio "Elmo alato gondoriano" o "Elmo gondoriano alato"? lo modifico perché mi sembra più carino, in caso lo cambiamo
+1607: \\\ho notato che non c'è un termine italiano corrispondente. forse tanto vale mantenere il termine inglese Perry
+1616-19: \\\Ranger va maiuscolo?
+1620-5: \\\Dunlending in questo caso va maiuscolo?
+1627: \\\bruno forse suonava meglio, ma "mattone" è più in linea con gli altri termini del vanilla (lana marrone, argilla marrone etc)
+1634: \\\tradotto in "pane coi vermi", mi sembrava più appropriato
+1643: \\\mattock andrebbe tradotto con un termine che probabilmente in italiano non esiste :( ho messo Piccozza come nella traduzione precedente, suona bene ma è dannatamente sbagliato
+1662: \\\forse in questo caso, a differenza che con il tavolo, suona meglio "del". Inserisco "del" e in caso torniamo indietro
+1663: \\\pancake -> frittella mi ha turbato un sacco ma effettivamente ha senso
+1673-1714: Ho tradotto "banner of" con "Stendardo di" temporaneamente, ma resta da decidere come adattare tutti i nomi dei singoli regni/fazioni, visto che alcuni non sono proprpio ovvi e sono importanti (???) (!!!)
 
+1875: Balrog Whip -> frusta da Balrog (???)
+1910: Torog stew -> stufato torog
+1932-4: robe -> veste (???)
+1939: cram -> cram o rimpinzimonio (???)
+1942: Hill-troll Chieftain Skull -> teschio di troll delle colline capitano (capitano in realtà è un termine troppo "civilizzato" e sarebbe meglio qualcosa simile a "capo") (???) (!!!)
+1945: Charred mallorn Mace -> "mazza carbonizzata di mallorn" o "mazza di mallorn carbonizzato" (???)
+1950: nel mondo che vorrei "Lemon Liqueur" diventa "Limoncello", ma non so se possiamo adattarlo così
+1952-5: gondolinian -> di gondolin (non ho nemmeno considerato gondoliniano) (???)
+1958-61: Rohirric Marshal -> maresciallo rohirrico (probabilmente termine ultra inappropriato :/ ) (???) (!!!)
+1962: shard -> scheggia (o meglio frammento?)
+1975: cheftain -> capotribù (???)
+1978: Coast Southron -> Sudroni della Costa? (???)
+1987: Barrow-blade -> lama dei tumuli
+1989: mutton -> carne ovina? meglio "montone" oppure "pecora"? (???)
+1992: cocoa -> cioccolata (???)
+1994-7: cloak -> mantello (???)
+2025: gate gears -> Ingranaggi da cancello (???)
+2027-8: Venison -> cervo (crudo e cotto) o meglio (carne di cervo)? (???)
+2031: Rohirric lance -> lancia da cavalleria rohirrica (???)
+2060: Spear of Bladorthin -> lancia DI Bladorthin (???)
+2065: NPC Respawner -> "Respawner di NPC" o è meglio mantenerlo così? (???)
+2066-69: hood->cappuccio, tunic->tunica, leggings->pantaloni(in questo caso), boots->stivali
+2082: olive bread -> pane alle olive (???)
+2092: Poleaxe -> mazzapicchio (???) brutto brutto (alternativa: azza, ancora peggio)
+2093: Dol Guldur Spike -> spina? meglio "picca" e ignoriamo la differenza con pike?
+2095: Kine of Araw -> aaaaaaaa (???) (!!!)
+2097: ceramica o terracotta? (???)
+2124: blackroot vale rimane in inglese? (???) magari Mornan? e la pianta blackroot? (???) (!!!)
+2127: chap -> eh?(???) (!!!) copripantaloni?
+2142: Lamedon Jacket -> Giacca del Lamedon? forse Giubba? Giubbotto? (???)
+2146: Wooden Cup -> coppa di legno
+2147: Skull Cup -> coppa teschio
+2148: Wine Glass -> bicchiere da vino
+2149: Dalish Gambeson -> gambesone di Dale
+2150: Waterskin -> otre
+2153-4: Ale Horn -> corno per birra e Golden Ale Horn -> corno per birra dorato
+2154: chisel -> Cesello (o è meglio "Scalpello"?) (???)
+2156: Moon-chisel -> cesello lunare (???)
+2175: Termite Tequila -> Tequila di termiti
+2176: Rhûnic Fire-pot -> vaso incendiario di Rhûn (forse traduzione troppo libera, forse c'è un'alternativa migliore) (???)
+2177: yam -> patata dolce (???)
+2179: Kaftan -> caffettano (???)
+2180: kaftan leggings -> pantaloni di caffettano (non ha il minimo senso :/ ) (???) forse "superiore e inferiore" avrebbe più senso
+2185: Rhûnic Warlord Helmet -> elmo da signore della guerra di Rhûn
+2186: Soured Milk -> latte acido
+2187-9: pomegranate -> melograno (o melagrana?) (???)
+2192: Man-flesh -> carne umana
+2194: Suspicious Meat -> carne sospetta
+2196: Corn Bread -> pane di mais (???)
+2197: Raisins -> uva passa (o è meglio uvetta?) (???)
+2207: polearm -> asta da battaglia
+2208: Longspear -> lancia lunga
+2209-12: arnorian - arnoriano (o è meglio di Arnor?) (???)
+2220: Flame of Udûn -> fiamma di Udûn
+2230: Mushroom Pie -> torta di funghi
+2232: Chill of Daedelos -> Gelo del Daedelos
+2233: Headhunter's Trophy -> trofeo del cacciatore di teste
+2235: %s Smith's Scroll -> Pergamena del fabbro di %s (???) da verificare in gioco
+2236: mitrhil mail -> cotta di mithril
+2237: Book of True-silver -> libro di argentovero (???)
+2246: Corsair Eket -> Eket dei Corsari (termine specifico di Tolkien)
+2264: Gulfen Khopesh -> Khopesh del Golfo (Gulfen -> del Golfo anche se si riferisce al popolo dei Gulfling?)
+2265: Nomad Cap -> Cappa dei Nomadi (la band naturalmente). Questa traduzione è da rivedere (???) (!!!)
+2267: Nomad Leggings -> Pantaloni dei Nomadi
+2269-71: Giraffeskin Rug -> meglio "Tappeto di giraffa" o "Tappeto di pelle di giraffa"?
+2273: Stoneware Plate -> Piatto di terracotta (è marroncino ed è lo step "intermedio" tra argilla e ceramica, mi sembra il più adatto)
+2274: horse armor -> bardatura perché ha senso (ma sarà compatibile col vanilla?)
+2275: "Old-Haradric Sacrificial Dagger" tradotto in "Daga sacrificale haradrica antica" o meglio pugnale in questo caso?
+2288: "Branding Iron" -> ferro da marchio
+2289: [NINO] inizio la traduzione da 2289 andando verso su
 
 *****************************************************************************************************
 APPROFONDIMENTI (per dettagliare tutto ciò che serve)
-   Nomi dei blocchi
+Nomi dei blocchi
    Stairs -> Scalini
    Slab -> Lastra
    Wall -> Muretto
@@ -212,6 +295,59 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Dol Amroth -> di Dol Amroth
    Númenor -> númenóreano (???) gli accenti sono giusti?
    Mezzi troll (???) -> dei Mezzi troll (grafia corretta? potrebbero essere anche "Mezzi Troll" o "mezzi troll")
+   Nomadi (Harad) -> dei Nomadi
+   Gulfen (???) -> (???)/del Golfo
+   Harnedhrim -> degli Harnedhrim/dell'Harennor
+   Corsari -> dei Corsari
+   Sudroni della Costa (Coast Southron)
+
+Equipaggiamento
+   Helmet (metallo) -> Elmo
+   Body (metallo) -> Corazza
+   Legs (metallo) -> Gambiera
+   Boots (metallo) -> Stivali
+   Helmet (cuoio) -> Casco
+   Body (cuoio) -> Giubba
+   Legs (cuoio) -> Pantaloni
+   Boots (cuoio) -> Stivali
+   Helmet (stoffa) -> (???)
+   Body (stoffa) -> (???)
+   Legs (stoffa) -> Pantaloni (???)
+   Boots (stoffa) -> Scarpe (???)
+   Gambeson -> Gambesone
+   Pouch -> bisaccia
+   Sword -> spada
+   Dagger -> daga
+   Warhammer -> martello da guerra (???)
+   Battleaxe -> ascia da battaglia (???)
+   Axe -> ascia
+   Pickaxe -> piccone
+   Showel -> pala
+   Hoe -> zappa
+   Pike -> picca
+   Spear -> lancia
+   Longspear -> lancia lunga
+   Battlestaff -> asta da battaglia?(???)
+   arrow -> freccia
+   crossbow bolt -> dardo di balestra o dardo? (???)
+   dart -> dardo
+   horse armor -> bardatura
+   boar aromor -> bardatura per cinghiale (o cinghiali?) (???)
+   rhino armor -> bardatura per rinoceronte (???)
+   Mattock -> piccozza (???)
+   Bardiche -> berdica
+   Pike -> picca
+   Spike -> spina
+   Poleaxe -> mazzapicchio (???)
+   Bludgeon -> randello
+   longbow -> arco lungo
+   Halbeard -> alabarda
+   Lance -> lancia da cavalleria
+   Cleaver -> mannaia
+   Warscythe -> falce da guerra
+   Throwing axe -> ascia da lancio
+   mace -> mazza
+   crossbow -> balestra
 
 Dubbi generici
    Granburrone o Gran Burrone? (???)
