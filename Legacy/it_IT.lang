@@ -2288,19 +2288,19 @@ item.lotr:glamdring.name=Glamdring
 item.lotr:brandingIron.name=Ferro da marchio
 item.lotr:mechanism.name=Meccanismo
 
-item.lotr.drink.weak=Weak
-item.lotr.drink.light=Light
-item.lotr.drink.moderate=Moderate
-item.lotr.drink.strong=Strong
-item.lotr.drink.potent=Potent
-item.lotr.drink.alcoholicity=Alcoholicity
-item.lotr.drink.poison=Poisoned!
-item.lotr.drink.explode=Volatile!
+item.lotr.drink.weak=Debole
+item.lotr.drink.light=Leggero
+item.lotr.drink.moderate=Moderato
+item.lotr.drink.strong=Forte
+item.lotr.drink.potent=Potente
+item.lotr.drink.alcoholicity=Alcolicità
+item.lotr.drink.poison=Avvelenato!
+item.lotr.drink.explode=Esplosivo!
 
 item.lotr.crossbow.loaded=%s (Loaded)
 item.lotr.crossbow.loadedItem=Loaded with: %s
 
-item.lotr.trollStatue.twoHeads=Two-headed
+item.lotr.trollStatue.twoHeads=A due teste
 
 item.lotr.hat.dyed=Dyed
 item.lotr.hat.feathered=Feathered

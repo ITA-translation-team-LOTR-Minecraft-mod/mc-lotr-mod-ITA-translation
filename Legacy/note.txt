@@ -236,7 +236,9 @@ OGGETTI
 2274: horse armor -> bardatura perché ha senso (ma sarà compatibile col vanilla?)
 2275: "Old-Haradric Sacrificial Dagger" tradotto in "Daga sacrificale haradrica antica" o meglio pugnale in questo caso?
 2288: "Branding Iron" -> ferro da marchio
-2289: [NINO] inizio la traduzione da 2289 andando verso su
+2291-8: Weak->Debole, Light->Leggero, Moderate->Moderato, Strong->Forte, Potent->Potente, Alcoholicity->Alcolicità, Poisoned!->Avvelenato!, Volatile!->Esplosivo!
+2303: Two-headed->a due teste (oppure solo "due teste"?)
+2305-6: Dyed->tinto, Feathered->Piumato
 
 *****************************************************************************************************
 APPROFONDIMENTI (per dettagliare tutto ciò che serve)
