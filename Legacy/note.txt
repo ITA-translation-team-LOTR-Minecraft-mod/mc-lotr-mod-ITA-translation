@@ -118,6 +118,7 @@ BLOCCHI
 1338-9: non so se "plating" vada tradotto in "placcatura". Ho tradotto "orc plating" in "placcatura orchesca" e non "degli orchi", mi sembrava migliore (???) (!!!)
 1362: nella 1.7.10 gli "alberi della giungla" sono invece "alberi di mogano". Nella mod il mogano esiste già, quindi bisognerà mantenere "albero della giungla" (!!!)
 1364: nella 1.7.10 la "quercia oscura" è "quercia nera" (!!!)
+1370: foglie di %s cadute -> %s cadute ("foglie di" è già contenuto nel nome)
 1372-3: sono i testi che descrivono un kebab stand se preso in mano. Non sono sicuro di "%d pezzi di carne" (l'originale era "%d meat"). Indicano quanti pezzi di carne ci sono sul kebab stand in quel momento e se è cotto (???)
 1375: si riferisce alla bomba incendiaria di Rhun. Estremamente esplosivo o infiammabile? (???)
 
@@ -169,7 +170,7 @@ OGGETTI
 1874: Pickaxe of the Underworld -> Piccone del sottosuolo? o magari "degli Inferi"(???) (!!!) ricollegabile alla mazza di Morgoth "Grond, Hammer of the Underworld"
 1875: Balrog Whip -> frusta da Balrog (???)
 1910: Torog stew -> stufato torog
-1932-4: robe -> veste (???)
+1931-4: robe -> veste (???). Aggiunto "di veste" anche al turbante per renderlo più facile da trovare in creativa
 1939: cram -> cram o rimpinzimonio (???)
 1942: Hill-troll Chieftain Skull -> teschio di troll delle colline capitano (capitano in realtà è un termine troppo "civilizzato" e sarebbe meglio qualcosa simile a "capo") (???) (!!!)
 1945: Charred mallorn Mace -> "mazza carbonizzata di mallorn" o "mazza di mallorn carbonizzato" (???)
@@ -237,8 +238,16 @@ OGGETTI
 2275: "Old-Haradric Sacrificial Dagger" tradotto in "Daga sacrificale haradrica antica" o meglio pugnale in questo caso?
 2288: "Branding Iron" -> ferro da marchio
 2291-8: Weak->Debole, Light->Leggero, Moderate->Moderato, Strong->Forte, Potent->Potente, Alcoholicity->Alcolicità, Poisoned!->Avvelenato!, Volatile!->Esplosivo!
+2300-1: (loaded)->carica, loaded with->caricata con
 2303: Two-headed->a due teste (oppure solo "due teste"?)
-2305-6: Dyed->tinto, Feathered->Piumato
+2305-6: Dyed->Colorato, Feathered->Piumato
+2308-9: %d of %d slots in use-> %d di %d slot in uso
+2311-2: Carries protection data-> contiene dati di protezione. %s-click while placing to keep banner's previous owner
+2314: %d active quests -> %d missioni attive (o è meglio obiettivi?)
+2316-7: Ornament->ornato (non letterale ma sensato)
+2319-21: Unsealed %s -> non sigillato. Sealed by %s->sigillato da. Dalish Toymakers->giocattolai di Dale
+2323-4: Unnamed %s -> %s senza nome
+2326-9: "Belonged to: %s"->"apparteneva a %s" "§c§lSTOLEN§r§c from: %s!->§c§lRUBATO§r§c a %s!" "§c%s wants this"->(???)
 
 *****************************************************************************************************
 APPROFONDIMENTI (per dettagliare tutto ciò che serve)

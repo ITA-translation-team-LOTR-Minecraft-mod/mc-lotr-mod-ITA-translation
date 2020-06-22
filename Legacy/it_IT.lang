@@ -1367,7 +1367,7 @@ tile.lotr.orcBomb.fire=Incendiaria
 tile.lotr.orcBomb.doubleStrength=Potenza doppia
 tile.lotr.orcBomb.tripleStrength=Potenza tripla
 
-tile.lotr.fallenLeaves=Foglie di %s cadute
+tile.lotr.fallenLeaves=%s cadute
 
 tile.lotr.kebabStand.meats=%d pezzi di carne
 tile.lotr.kebabStand.cooked=Cotto
@@ -1928,7 +1928,7 @@ item.lotr:helmetMoredainLion.name=Elmo del capotribù dei Morwaith
 item.lotr:bodyMoredainLion.name=Corazza del capotribù dei Morwaith
 item.lotr:legsMoredainLion.name=Gambiera del capotribù dei Morwaith
 item.lotr:bootsMoredainLion.name=Stivali del capotribù dei Morwaith
-item.lotr:helmetHaradRobes.name=Turbante dell'Harad
+item.lotr:helmetHaradRobes.name=Turbante di veste dell'Harad
 item.lotr:bodyHaradRobes.name=Veste dell'Harad
 item.lotr:legsHaradRobes.name=Pantaloni di veste dell'Harad
 item.lotr:bootsHaradRobes.name=Stivali di veste dell'Harad
@@ -2293,38 +2293,38 @@ item.lotr.drink.light=Leggero
 item.lotr.drink.moderate=Moderato
 item.lotr.drink.strong=Forte
 item.lotr.drink.potent=Potente
-item.lotr.drink.alcoholicity=Alcolicità
+item.lotr.drink.alcoholicity=Gradazione alcolica
 item.lotr.drink.poison=Avvelenato!
 item.lotr.drink.explode=Esplosivo!
 
-item.lotr.crossbow.loaded=%s (Loaded)
-item.lotr.crossbow.loadedItem=Loaded with: %s
+item.lotr.crossbow.loaded=%s (carica)
+item.lotr.crossbow.loadedItem=Caricata con: %s
 
 item.lotr.trollStatue.twoHeads=A due teste
 
-item.lotr.hat.dyed=Dyed
-item.lotr.hat.feathered=Feathered
+item.lotr.hat.dyed=Colorato
+item.lotr.hat.feathered=Piumato
 
-item.lotr.pouch.slots=%d of %d slots in use
-item.lotr.pouch.dyed=Dyed
+item.lotr.pouch.slots=%d di %d slot in uso
+item.lotr.pouch.dyed=Colorato
 
-item.lotr.banner.protect=Carries protection data
-item.lotr.banner.toggleRepossess=%s-click while placing to keep banner's previous owner
+item.lotr.banner.protect=Contiene dati di protezione
+item.lotr.banner.toggleRepossess=Tieni premuto %s mentre piazzi lo stendardo per mantenere il suo precedente proprietario
 
-item.lotr.redBook.activeQuests=%d active quests
+item.lotr.redBook.activeQuests=%d missioni attive
 
-item.lotr.haradRobes.dyed=Dyed
-item.lotr.haradRobes.ornament=Ornament
+item.lotr.haradRobes.dyed=Colorato
+item.lotr.haradRobes.ornament=Ornato
 
-item.lotr.cracker.empty=Unsealed %s
-item.lotr.cracker.sealedBy=Sealed by %s
-item.lotr.cracker.sealedByDale=Dalish toymakers
+item.lotr.cracker.empty=%s non sigillato
+item.lotr.cracker.sealedBy=Sigillato da %s
+item.lotr.cracker.sealedByDale=Giocattolai di Dale
 
-item.lotr.brandingIron.unnamed=Unnamed %s
+item.lotr.brandingIron.unnamed=%s senza nome
 item.lotr.brandingIron.named=%s: %s
 
-item.lotr.generic.owner=Belonged to: %s
-item.lotr.generic.stolen=§c§lSTOLEN§r§c from: %s!
+item.lotr.generic.owner=Apparteneva a %s
+item.lotr.generic.stolen=§c§lRUBATO§r§c a %s! [tradotto-----]
 item.lotr.generic.stolenWanted=§c%s wants this
 item.lotr.generic.squadron=Squadron: %s
 
