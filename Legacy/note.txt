@@ -151,6 +151,42 @@ OGGETTI
 1663: \\\pancake -> frittella mi ha turbato un sacco ma effettivamente ha senso
 1673-1714: Ho tradotto "banner of" con "Stendardo di" temporaneamente, ma resta da decidere come adattare tutti i nomi dei singoli regni/fazioni, visto che alcuni non sono proprpio ovvi e sono importanti (???) (!!!)
 
+1875: Balrog Whip -> frusta da Balrog (???)
+1910: Torog stew -> stufato torog
+1932-4: robe -> veste (???)
+1939: cram -> cram o rimpinzimonio (???)
+1942: Hill-troll Chieftain Skull -> teschio di troll delle colline capitano (capitano in realtà è un termine troppo "civilizzato" e sarebbe meglio qualcosa simile a "capo") (???) (!!!)
+1945: Charred mallorn Mace -> "mazza carbonizzata di mallorn" o "mazza di mallorn carbonizzato" (???)
+1950: nel mondo che vorrei "Lemon Liqueur" diventa "Limoncello", ma non so se possiamo adattarlo così
+1952-5: gondolinian -> di gondolin (non ho nemmeno considerato gondoliniano) (???)
+1958-61: Rohirric Marshal -> maresciallo rohirrico (probabilmente termine ultra inappropriato :/ ) (???) (!!!)
+1962: shard -> scheggia (o meglio frammento?)
+1975: cheftain -> capotribù (???)
+1978: Coast Southron -> Sudroni della Costa? (???)
+1987: Barrow-blade -> lama dei tumuli
+1989: mutton -> carne ovina? meglio "montone" oppure "pecora"? (???)
+1992: cocoa -> cioccolata (???)
+1994-7: cloak -> mantello (???)
+2025: gate gears -> Ingranaggi da cancello (???)
+2027-8: Venison -> cervo (crudo e cotto) o meglio (carne di cervo)? (???)
+2031: Rohirric lance -> lancia da cavalleria rohirrica (???)
+2060: Spear of Bladorthin -> lancia DI Bladorthin (???)
+2065: NPC Respawner -> "Respawner di NPC" o è meglio mantenerlo così? (???)
+2066-69: hood->cappuccio, tunic->tunica, leggings->pantaloni(in questo caso), boots->stivali
+2082: olive bread -> pane alle olive (???)
+2092: Poleaxe -> mazzapicchio (???) brutto brutto (alternativa: azza, ancora peggio)
+2093: Dol Guldur Spike -> spina? meglio "picca" e ignoriamo la differenza con pike?
+2095: Kine of Araw -> aaaaaaaa (???) (!!!)
+2097: ceramica o terracotta? (???)
+2124: blackroot vale rimane in inglese? (???) magari Mornan? e la pianta blackroot? (???) (!!!)
+2127: chap -> eh?(???) (!!!) copripantaloni?
+2142: Lamedon Jacket -> Giacca del Lamedon? forse Giubba? Giubbotto? (???)
+2146: Wooden Cup -> coppa di legno
+2147: Skull Cup -> coppa teschio
+2148: Wine Glass -> bicchiere da vino
+2149: Dalish Gambeson -> gambesone di Dale
+2150: Waterskin -> otre
+2153-4: Ale Horn -> corno per birra e Golden Ale Horn -> corno per birra dorato
 2154: chisel -> Cesello (o è meglio "Scalpello"?) (???)
 2156: Moon-chisel -> cesello lunare (???)
 2175: Termite Tequila -> Tequila di termiti
@@ -165,6 +201,7 @@ OGGETTI
 2194: Suspicious Meat -> carne sospetta
 2196: Corn Bread -> pane di mais (???)
 2197: Raisins -> uva passa (o è meglio uvetta?) (???)
+2207: polearm -> asta da battaglia
 2208: Longspear -> lancia lunga
 2209-12: arnorian - arnoriano (o è meglio di Arnor?) (???)
 2220: Flame of Udûn -> fiamma di Udûn
@@ -262,6 +299,7 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Gulfen (???) -> (???)/del Golfo
    Harnedhrim -> degli Harnedhrim/dell'Harennor
    Corsari -> dei Corsari
+   Sudroni della Costa (Coast Southron)
 
 Equipaggiamento
    Helmet (metallo) -> Elmo
@@ -276,6 +314,7 @@ Equipaggiamento
    Body (stoffa) -> (???)
    Legs (stoffa) -> Pantaloni (???)
    Boots (stoffa) -> Scarpe (???)
+   Gambeson -> Gambesone
    Pouch -> bisaccia
    Sword -> spada
    Dagger -> daga
@@ -288,13 +327,27 @@ Equipaggiamento
    Pike -> picca
    Spear -> lancia
    Longspear -> lancia lunga
-   Battlestaff -> (???)
+   Battlestaff -> asta da battaglia?(???)
    arrow -> freccia
    crossbow bolt -> dardo di balestra o dardo? (???)
-   horse armor -> bardatura per cavallo
+   dart -> dardo
+   horse armor -> bardatura
+   boar aromor -> bardatura per cinghiale (o cinghiali?) (???)
+   rhino armor -> bardatura per rinoceronte (???)
    Mattock -> piccozza (???)
    Bardiche -> berdica
    Pike -> picca
+   Spike -> spina
+   Poleaxe -> mazzapicchio (???)
+   Bludgeon -> randello
+   longbow -> arco lungo
+   Halbeard -> alabarda
+   Lance -> lancia da cavalleria
+   Cleaver -> mannaia
+   Warscythe -> falce da guerra
+   Throwing axe -> ascia da lancio
+   mace -> mazza
+   crossbow -> balestra
 
 Dubbi generici
    Granburrone o Gran Burrone? (???)
