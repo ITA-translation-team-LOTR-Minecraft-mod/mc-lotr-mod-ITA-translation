@@ -22,7 +22,7 @@ REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 - mettiamo i nomi comuni della terra di mezzo (mithril, mallorn, lebethron, lairelossë etc.) in minuscolo come nella renewed
 
 *****************************************************************************************************
-BLOCCHI
+BLOCCHI (15-1375)
 25: Beacon of Gondor -> Fuoco di Gondor (o meglio "Fuoco di segnalazione di Gondor") ///Consiglierei "Faro" dato che e di etimologia risalente al XIII secolo (vedi isola di faro) \\\Mi hai convinto, modifico
 64: Shire Heather -> meglio "Erica" o "Forno"? (???) /// Forno!! é di etimologia Irlandese australiana derivata del XI secolo A.C 
 98: Durnaur (com'era qui nel documento) o Durnor (com'è nella wiki) (???) /// ? indifferente , ma seguirei la Wiki \\\ seguita la wiki! :)
@@ -122,7 +122,7 @@ BLOCCHI
 1372-3: sono i testi che descrivono un kebab stand se preso in mano. Non sono sicuro di "%d pezzi di carne" (l'originale era "%d meat"). Indicano quanti pezzi di carne ci sono sul kebab stand in quel momento e se è cotto (???)
 1375: si riferisce alla bomba incendiaria di Rhun. Estremamente esplosivo o infiammabile? (???)
 
-OGGETTI
+OGGETTI (1377-2329)
 1378-80: \\\mi piace "bisaccia" per "pouch". Ho messo "grande" invece di "larga" per maggiore uniformità
 1417: \\\bisogna decidere uno standard che sia "erba pipa" "erba-pipa" o "erbapipa" e applicarlo ovunque ci sia il termine. Per il momento modifico in "Erba pipa" per coerenza a come abbiamo scritto sopra, poi in caso li modifichiamo tutti (???) (!!!)
 1420-: \\\bisogna decidere che standard usare per tutti i "mug -liquido x-" in alcuni casi (come acqua o latte) c'è semplicemente il liquido, in altri "boccale di nomeliquido". (???)
@@ -248,6 +248,61 @@ OGGETTI
 2319-21: Unsealed %s -> non sigillato. Sealed by %s->sigillato da. Dalish Toymakers->giocattolai di Dale
 2323-4: Unnamed %s -> %s senza nome
 2326-9: "Belonged to: %s"->"apparteneva a %s" "§c§lSTOLEN§r§c from: %s!->§c§lRUBATO§r§c a %s!" "§c%s wants this"->(???)
+2328: "§c%s wants this"->"§c%s lo vuole"
+
+VARIE (2331-2345)
+2331: Poisoned Drink -> bevanda avvelenata (effetto simil-pozione)
+2333: %1$s succumbed to the cold -> %1$s è stato sopraffatto dal gelo (meglio "gelo" o "freddo" come nella renewed?)
+2334: %1$s drank the wrong drink -> %1$s ha bevuto dal bicchiere sbagliato
+2335: %1$s was slain by a plant -> %1$s è stato ucciso da una pianta
+
+INCANTAMENTI (2347-2468)
+
+CATEGORIE (2470-2479)
+
+CONTAINER (2481-2547)
+
+MINIQUEST (2549-2575)
+
+REDBOOK (2577-2604)
+
+DATE (2606-2634)
+
+GUI (2636-2808)
+
+TITLES (2810-3103)
+
+SCUDI (3110-3239)
+
+GUI (3241-3380)
+
+HIREDNPC(3382-3398)
+
+ENTITA' (3400-3886)
+
+UNITA' (3888-3967)
+
+FAZIONI (3969-4496)
+
+INVASIONI (4498-4566)
+
+BIOMI (4568-4750)
+
+MAPPA (4752-4789)
+
+STRUTTURE (4791-5209)
+
+CHAT (5211-5249)
+
+COMANDI (5251-5376)
+
+ALIGNMENT (5378-5390)
+
+ACHIEVEMENT (5392-6437)
+
+WAYPOINT (6437-7048)
+
+STRADE (7050-7105)
 
 *****************************************************************************************************
 APPROFONDIMENTI (per dettagliare tutto ciò che serve)
