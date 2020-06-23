@@ -44,7 +44,7 @@ BLOCCHI (15-1375)
 389: Moonflower -> fiore di luna (???) forse è un caso che esista un fiore con questo nome nella realtà /// fior di luna ? 
 390: riverweed -> erba di fiume
 400: Gundabad crafting table -> banco da lavoro del Gundabad
-401: Thatch Flooring -> pavimento di paglia
+401: Thatch Flooring -> pavimento di paglia (non è veramente un pavimento, è paglia sparsa a terra e bisogna cambiargli nome! (!!!))
 402: Arid Grass -> erba secca (???)
 404: Termite Mound -> termitaio
 436: flax plant -> pianta di lino
@@ -256,11 +256,36 @@ VARIE (2331-2345)
 2334: %1$s drank the wrong drink -> %1$s ha bevuto dal bicchiere sbagliato
 2335: %1$s was slain by a plant -> %1$s è stato ucciso da una pianta
 
-INCANTAMENTI (2347-2468)
+INCANTAMENTI (MODIFICATORI) (2347-2468)
+In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "spada affilata") ma in inglese i modificatori vengono messi prima del nome dell'oggetto. come si risolve? come è stato risolto in altre lingue? c'è anche il problema di maschile e femminile (???)(!!!)
 
-CATEGORIE (2470-2479)
+CATEGORIE DI OGGETTI (MENU) (2470-2479)
+2470-9:  
+   Blocks -> Blocchi
+   Utilities -> Utilità (???)
+   Decorations -> Decorazioni (???)
+   Food and Drink -> Cibi e bevande (???)
+   Materials -> Materiali
+   Miscellaneous -> Varie (???)
+   Tools -> Strumenti (???)
+   Combat -> Armamenti (???)
+   Story -> Storia (???)
+   Spawning -> Generazione (???) forse fuorviante
 
-CONTAINER (2481-2547)
+CONTAINERS (2481-2547)
+2510: Brewing -> fermentazione (???) in realtà non è molto accurato come termine in questo caso, ci sono anche i distillati
+2512: "Brewing %s (%s)" -> "%s (%s) in fermentazione" oppure "Sta fermentando %s (%s)". la struttura è "Brewing %bevanda (%livello)" (???) (!!!)
+2513: "%s (%s) x %d" = "%bevanda (%livello) x %quantità", mostrato quando si raccoglie un barile pieno con fermentazione interrotta
+2514: Start Brewing -> avvia fermentazione (entra a stento nel pulsante, arriva proprio sul bordo)
+2515: Stop Brewing -> ferma fermentazione (interrompi non entrava nel pulsante, ferma entra a stento)
+2525: Material Cost: %d -> Costo in materiali: %d (probabilmente esce fuori dal menù in game)
+2527: Reforge Cost: %d -> Costo di riforgiatura: %d
+2529: Coin Cost: %d -> Costo in denaro: %d (meglio "prezzo"?) (???)
+2532: The beacon of %s is lit! -> Il faro di %s è acceso!
+2533: The beacon of %s is quenched -> Il faro di %s è spento (forse è meglio "è stato spento" anche se incongruente con sopra)
+2534: Assign fellowship: -> Assegna compagnia:
+2535: Name beacon: -> Nome del faro:
+2536 The beacon of -> il faro di
 
 MINIQUEST (2549-2575)
 
