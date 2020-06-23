@@ -273,6 +273,11 @@ CATEGORIE DI OGGETTI (MENU) (2470-2479)
    Spawning -> Generazione (???) forse fuorviante
 
 CONTAINERS (2481-2547)
+2487: Fabbricazione degli Elfi Silvani(!!) (sfora di due caratteri)
+2492: Fabbricazione dei Monti Azzurri(!!!) (sfora di tre caratteri) (usando le parentesi sfora di un carattere)
+2499: Fabbricazione dei Taurethrim(!circa) (l'ultimo carattere è a filo con il menu)
+2504: Fabbricazione di Granburrone(!) (sfora di un carattere) (sfora anche usando le parentesi, ma di un solo carattere)
+2507: Fabbricazione della Terra di Brea(!!!!!) (sfora di 5 caratteri) -> "Fabbricazione di Brea", anche se impreciso
 2510: Brewing -> fermentazione (???) in realtà non è molto accurato come termine in questo caso, ci sono anche i distillati
 2512: "Brewing %s (%s)" -> "%s (%s) in fermentazione" oppure "Sta fermentando %s (%s)". la struttura è "Brewing %bevanda (%livello)" (???) (!!!)
 2513: "%s (%s) x %d" = "%bevanda (%livello) x %quantità", mostrato quando si raccoglie un barile pieno con fermentazione interrotta
@@ -286,8 +291,33 @@ CONTAINERS (2481-2547)
 2534: Assign fellowship: -> Assegna compagnia:
 2535: Name beacon: -> Nome del faro:
 2536 The beacon of -> il faro di
+2539-43: Buy->compra, Sell->vendi, Sell offers->offerte di vendita
+2544-6: Requires +%d alignment -> richiede +%d allineamento, More...->Altro... (non so in che contesto si usa), Assign squadron?->Assegnare a squadrone?
+2547: Coin Exchange -> cambio monete
 
 MINIQUEST (2549-2575)
+2549-50: Collect %d %s -> Raccogli %d %s, %d of %d given->%d di %d consegnati
+2551-2: Slay %d %s-> Uccidi %d %s, %d of %d slain->%d di %d uccisi
+2553-5: Retrieve the lost %s -> Recupera il %s perduto, Retrieve the lost %d %s->Recupera i %d %s perduti
+2556-62:
+   Find and slay %s->Trova e uccidi %s
+   Not yet slain->Ancora vivo
+   Slain->Ucciso
+   The bounty on %s was claimed by another. The quest has failed.->La taglia su %s è stata riscattata da qualcun altro. La missione è fallita.
+   Bounty claimed by another -> taglia riscattata da qualcun altro
+   My target, %s, has defeated me! Curses! -> Il mio bersaglio, %s, mi ha sconfitto! Maledizione!
+   Killed by target -> Ucciso dal bersaglio
+2563-4:
+   Pickpocket %d %s and deliver the stolen goods -> Deruba %d %s e consegna i beni rubati
+   %d of %d delivered -> %d di %d consegnati
+2567-72:
+   Speak with the Grey Wanderer -> Parla con il Grigio Pellegrino
+   Open the Red Book -> Apri il Libro Rosso
+   Press '%s' to open the map -> Premi '%s' per aprire la mappa
+   Use '%s' and '%s' to cycle alignment factions -> Usa '%s' e '%s' per scorrere tra gli allineamenti alle fazioni
+   Use '%s' and '%s' to cycle alignment regions -> Usa '%s' e '%s' per scorrere tra gli allineamenti delle regioni
+   Press '%s' to open the factions guide -> Premi '%s' per aprire la guida alle fazioni
+2574-5: Accept->Accetta, Decline->Rifiuta
 
 REDBOOK (2577-2604)
 
