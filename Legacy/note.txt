@@ -274,7 +274,7 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
 2350-8:
    Sharp -> Tagliente (Affilato sarebbe altrettanto appropriato ma lo lasciamo per i tier superiori)
    Keen -> Affilato
-   Mighty -> Potente (oppure Possente o Poderoso)
+   Mighty -> Poderoso (oppure Possente o Potente)
    Legendary -> Leggendario (o eventualmente Mitico)
    Dull -> Smussato
    Blunt -> Arrotondato (oppure spuntato, smussato, non affilato) (???)
@@ -333,13 +333,57 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
    %s looting loot -> %s bottino
 
 2425-9:
-   Tough -> (tenace resistente)
-   Steadfast -> 
-   Poor -> 
-   Crude -> 
-   %s protection -> 
+   Tough -> Resistente (tenace, resistente)
+   Steadfast -> Tenace (saldo, tenace)
+   Poor -> Scarso (scarso, mediocre)
+   Crude -> Grezzo (grezzo)
+   %s protection -> %s protezione
 
-[da tradurre -----]
+2431-4:
+   Cooling -> Rinfrescante
+   Unwithering -> Imperturbabile (???) (withering=raggelante, che fa appassire, fulminante)
+   Belegostian -> di Belegost
+   %s protection vs. fire -> %s protezione dal fuoco
+
+2436-9:
+   Thicksoled -> Spessi (Con suola spessa) (???)
+   Strongshod -> Rinforzati (strong=forte, shod=ferrato, calzato) (???)
+   Lightfooted -> agili
+   %s protection vs falling -> %s protezione dalle cadute
+
+2441-4:
+   Glancing -> Sfuggente (di striscio)
+   Deflecting -> Respingente (deflect=deviare, deflettere)
+   Eölean -> di Eöl
+   %s protection vs. projectiles -> protezione dai proiettili
+
+2446-7:
+   True -> Vero
+   %s protection vs. polearms -> %s protezione dalle armi ad asta (armi a palo, ad asta, inastate)
+
+2449-54:
+   Strong -> Forte (forte, vigoroso)
+   Powerful -> Possente (potente, possente, forte)
+   Fierce -> Impetuoso (feroce, violento, impetuoso, aggressivo, brutale)
+   Weak -> Debole
+   Feeble -> Flebile (debole, fiacco, fleblie) (???)
+   %s launch speed -> %velocità di lancio
+
+2456-8:
+   Punching -> Respingente (spingere, premere, colpire)
+   Striking -> Impattante (impattare)
+   %s knockback -> %s contraccolpo
+
+2460-8:
+   Infernal -> Infernale
+   Sets target aflame -> manda in fiamme/incendia/manda a fuoco i bersagli
+   Shoots flaming projectiles -> spara proiettili incendiari
+   Chilling -> Congelante (raggelante, agghiacciante)
+   Chills target -> Congela i bersagli
+   Shoots chilling projectiles -> Spara proiettili congelanti
+   Headhunting -> Cacciatore di teste (oppure vorpal)
+   Drops player heads -> Rilascia la testa dei giocatori
+   Drops player heads -> Rilascia la testa dei giocatori
 
 CATEGORIE DI OGGETTI (MENU) (2470-2479)
 2470-9:
@@ -402,8 +446,45 @@ MINIQUEST (2549-2575)
 2574-5: Accept->Accetta, Decline->Rifiuta
 
 REDBOOK (2577-2604)
+2577: mini quest -> missioni (???)
+2582-3: quest giver -> committente (???), died->è morto, has moved on->è andato via
+2584: Tracking progress! -> stai tracciando i progressi!
+2589: this completed mini-quest record -> il resoconto di questa missione completata
+2595: If I fulfil this quest, %s will pledge service to me. -> se completo questa missione mi presterà servizio (oppure "giurerà fedelta" o simili) (???)
+2602: pledged service to me as a result of my deeds -> mi ha giurato fedeltà a seguito delle mie azioni (o azioni)
+2603: %s has since died/moved on. The quest has failed. -> %s è morto/andato via. La missione è fallita.
 
 DATE (2606-2634)
+2606-7: S.R.->C.C. , Shire Reckoning -> Calendario della Contea
+
+2609-15: (???)
+   Sterday -> Sabato
+   Sunday -> Domenica
+   Monday -> Lunedì
+   Trewsday -> Martedì
+   Hevensday -> Mercoledì
+   Mersday -> Giovedì
+   Highday -> Venerdì
+
+2617-34:
+   2 Yule -> 
+   Afteryule -> 
+   Solmath -> 
+   Rethe -> 
+   Astron -> 
+   Thrimidge -> 
+   Forelithe -> 
+   1 Lithe -> 
+   Mid-year's Day -> 
+   Overlithe -> 
+   2 Lithe -> 
+   Afterlithe -> 
+   Wedmath -> 
+   Halimath -> 
+   Winterfilth -> 
+   Blotmath -> 
+   Foreyule -> 
+   1 Yule -> 
 
 GUI (2636-2808)
 
