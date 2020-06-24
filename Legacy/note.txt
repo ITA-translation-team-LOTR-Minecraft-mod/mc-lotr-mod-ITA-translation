@@ -256,11 +256,93 @@ VARIE (2331-2345)
 2334: %1$s drank the wrong drink -> %1$s ha bevuto dal bicchiere sbagliato
 2335: %1$s was slain by a plant -> %1$s è stato ucciso da una pianta
 
-INCANTAMENTI (MODIFICATORI) (2347-2468)
+INCANTAMENTI (MODIFICATORI) (2347-2468) (!!!)
 In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "spada affilata") ma in inglese i modificatori vengono messi prima del nome dell'oggetto. come si risolve? come è stato risolto in altre lingue? c'è anche il problema di maschile e femminile (???)(!!!)
+2337-45:
+   Melee Damage -> Danno da mischia
+   Melee Speed -> Velocità da mischia (???)
+   Melee Reach -> Portata da mischia
+   Knockback -> Contraccolpo (in accordo con il vanilla)
+   Draw Speed -> Velocità di estrazione
+   Ranged Damage -> Danno a distanza
+   Range -> Gittata
+   Inflicts poison -> Avvelena
+   Common Protection -> Protezione
+
+2347-8: necessarie delle modifiche al codice probabilmente fuori dalla nostra portata (???)
+
+2350-8:
+   Sharp -> Tagliente (Affilato sarebbe altrettanto appropriato ma lo lasciamo per i tier superiori)
+   Keen -> Affilato
+   Mighty -> Potente (oppure Possente o Poderoso)
+   Legendary -> Leggendario (o eventualmente Mitico)
+   Dull -> Smussato
+   Blunt -> Arrotondato (oppure spuntato, smussato, non affilato) (???)
+   Crooked -> Sbilenco (oppure storto, deforme, idk) (???)
+   %s melee damage -> %s danno da mischia
+   %s thrown damage -> %s danno da lancio
+
+2360-89:
+   x-bane -> Flagello dei x (o magari "tormento" o simile)
+   %s melee damage vs. x -> %s danno da mischia contro gli x
+   Your %s has claimed the lives of many X, and it shall be their bane evermore! -> Il tuo %s ha reclamato le vite di molti X, e sarà per sempre il loro tormento (o rovina?)
+   %s's %s has claimed the lives of many Elves, and it shall be their bane evermore! -> L'arma di %s, %s, ha reclamato le vite di molti X, e sarà per sempre il loro tormento (Problema col genitivo sassone e l'ordine)
+   Wight -> Spettro
+   Wraith -> Spiriti
+   Slays Marsh Wraiths -> Uccide gli Spiriti delle Paludi Morte
+
+2391-6:
+   Hardy -> Robusto (resistente, forte)
+   Lasting -> (duraturo, durevole, persistente)
+   Enduring -> (duraturo, persistente)
+   Brittle -> Fragile
+   Shoddy -> Scadente
+   %s durability -> %s durevolezza
+
+2398-400:
+   Swift -> rapido
+   Slow -> lento
+   %s melee speed -> velocità in mischia (o da mischia?)
+
+2402-4:
+   Long -> Lungo
+   Stunted -> Corto (inaccurato ma anche no)
+   %s melee reach -> %s portata da mischia
+
+2406-8:
+   Hefty -> Pesante
+   Hulking -> Mastodontico
+   %s knockback -> Contraccolpo
+
+2410-5:
+   Handy -> pratico
+   Nimble -> agile
+   Hasty -> rapido (svelto, veloce)
+   Masterful -> Magistrale
+   Sluggish -> lento
+   %s tool speed -> velocità strumento
+
+2417-8:
+   Silken -> setato (???)
+   Harvest special blocks -> Raccoglie blocchi fragili (traduzione libera ma più adatta)
+
+2420-3:
+   Lucky -> vantaggioso (favorevole, felice, fruttuoso, propizio)
+   Fortunate -> fortunato
+   Blessed -> Benedetto
+   %s looting loot -> %s bottino
+
+2425-9:
+   Tough -> (tenace resistente)
+   Steadfast -> 
+   Poor -> 
+   Crude -> 
+   %s protection -> 
+
+[da tradurre -----]
 
 CATEGORIE DI OGGETTI (MENU) (2470-2479)
-2470-9:  
+2470-9:
    Blocks -> Blocchi
    Utilities -> Utilità (???)
    Decorations -> Decorazioni (???)
