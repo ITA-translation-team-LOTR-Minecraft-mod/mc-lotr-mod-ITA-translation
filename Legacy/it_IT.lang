@@ -7041,10 +7041,10 @@ lotr.waypoint.SHADOW_POINT.info=The city of the Half-trolls, built on a shore of
 lotr.waypoint.OLD_JUNGLE_RUIN=Kimen Kâh
 lotr.waypoint.OLD_JUNGLE_RUIN.info=Here stand the ruins of an ancient Taurethrim city, overrun by troll-demons in an age long past.
 
-lotr.waypoint.custom=%s (Custom)
+lotr.waypoint.custom=%s (personalizzato)
 lotr.waypoint.custom.info=Shared with Fellowships: %s
 lotr.waypoint.custom.andMore=and %d more
-lotr.waypoint.shared=%s (Shared Custom)
+lotr.waypoint.shared=%s (personalizzato condiviso)
 lotr.waypoint.shared.info=Shared by %s with Fellowships: %s
 
 lotr.road.EredLuin=Blue Dwarven Road
