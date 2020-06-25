@@ -457,7 +457,7 @@ REDBOOK (2577-2604)
 DATE (2606-2634)
 2606-7: S.R.->C.C. , Shire Reckoning -> Calendario della Contea
 
-2609-15: (???)
+2609-15: (???) ho optato per la soluzione "Nome originale (nome italiano)" perché in italiano è più difficile comprendere l'etimologia
    Sterday -> Sabato
    Sunday -> Domenica
    Monday -> Lunedì
@@ -466,27 +466,203 @@ DATE (2606-2634)
    Mersday -> Giovedì
    Highday -> Venerdì
 
-2617-34:
-   2 Yule -> 
-   Afteryule -> 
+2617-34: (nomi presi da wikipedia)
+   2 Yule -> Secondo Capodanno
+   Afteryule -> Postapritore
    Solmath -> 
    Rethe -> 
    Astron -> 
    Thrimidge -> 
    Forelithe -> 
-   1 Lithe -> 
-   Mid-year's Day -> 
+   1 Lithe -> Primo Lithe
+   Mid-year's Day -> Giorno di Mezzo Anno
    Overlithe -> 
-   2 Lithe -> 
+   2 Lithe -> Secondo Lithe
    Afterlithe -> 
    Wedmath -> 
    Halimath -> 
    Winterfilth -> 
    Blotmath -> 
    Foreyule -> 
-   1 Yule -> 
+   1 Yule -> Primo Capodanno
 
 GUI (2636-2808)
+2636-44:
+   %s Menu -> %s Menu
+   Menu -> Menu
+   Map -> Mappa
+   Factions -> Fazioni
+   Achievements -> Obiettivi
+   Fellowships -> Compagnie
+   Titles -> Titoli
+   Shields -> Scudi
+   Options -> Opzioni
+
+2646-67: 
+   waypoint -> 
+   This waypoint is not available for enemy player
+   (You can unlock it through %s conquest) -> 
+   Unlock this waypoint by visiting its region
+   by visting the nearby area -> visitando l'area vicina
+   Press '%s' to fast travel to the selected waypoint
+   You can fast travel to the selected waypoint in: %s
+   (Total waypoint time: %s) -> (Tempo per il waypoint: %s)
+   Press '%s' to /tp
+   Displaying %s areas of influence
+   Areas of influence are disabled in this world!
+   Full alignment area
+   Reduced alignment area
+   %s: Conquest Map
+   Gathering conquest records
+   You must pledge service to a faction before you can engage in conquest. -> pledge service=giurare fedeltà (???)
+   You are pledged to %s, so you can view their conquest, and the conquests of their allies, enemies, and mortal enemies.\n\nTo see all other faction conquests (neutral and friendly), you must reach the rank of %s (%s alignment).
+   Only aids %s allies
+   No effect
+   conquest in this area (???) che è sta cosa
+
+2669-82:
+   Create custom waypoint
+   Delete custom waypoint
+   Rename custom waypoint
+   Toggle waypoints
+   Toggle custom waypoints
+   Toggle hidden shared waypoints
+   Zoom in
+   Zoom out
+   Toggle fullscreen
+   Toggle sepia
+   Toggle labels
+   Open custom waypoint to Fellowships
+   Hide shared waypoint
+   Unhide shared waypoint
+
+2684-701:
+   You have used all of %d custom waypoints
+   Earn more Middle-earth achievements or delete existing waypoints if you wish to add more
+   You have used %d of %d custom waypoints
+   Additional custom waypoints can be unlocked by earning more Middle-earth achievements
+   Create New Waypoint
+   Custom waypoint name:
+   Create Waypoint
+   Are you sure you want to delete the waypoint %s?
+   Delete Waypoint
+   Rename %s:
+   Rename Waypoint
+   %s
+   You cannot create a custom waypoint here
+   Sharing %s with Fellowships will allow other players to use the waypoint after they have visited the nearby area
+   Share with new Fellowship
+   Share %s with new Fellowship:
+   Share with Fellowship
+   Already shared!
+
+2703-38:
+%s Factions -> Fazioni della %s (normalmente si inserisce "Terra di Mezzo", ma è modificabile)
+Viewing %s's alignments
+%s's alignment
+Alignment:
+(%s)
+%s (%s)
+Enemies Slain: %d
+Trades Made: %d -> Beni commerciati (traduzione libera, al posto di "commerci fatti" o "scambi fatti")
+Units Hired: %d
+Mini-Quests Completed: %d
+Conquest Earned: %d -> Conquiste effettuate (traduzione libera)
+NPCs Slain: %d
+%s:
+• %s
+Ranks:
+• %s (%s)
+???
+View areas of influence on the map
+Pledge Service
+(requires %s alignment) [da tradurre-----]
+Pledging service to %s will earn their friendship and grant you many special benefits, including the ability to engage in conquest. -> engage in conquest = intraprendere conquiste (???)
+If you choose to make this pledge, you may break it at any time - but doing so will incur a large penalty.
+Pledged!
+You cannot pledge service to %1$s, because the world has not yet forgotten your broken pledge to %2$s.
+???
+You cannot pledge service to %s while you maintain good relations with their mortal enemies. (%s)
+%s
+%s, %s
+%s, %s, %s
+%s, %s, %s, and %d more...
+Break Pledge
+Are you sure you wish to break your pledge to %s?
+You will incur a large alignment penalty, and be unable to make another pledge for some time.
+You cannot earn above %1$s alignment because of your pledge to %2$s
+This faction encourages war crimes (the killing of peaceful enemy civilians)
+This faction does not encourage war crimes (the killing of peaceful enemy civilians)
+
+%s Achievements (%d/%d)
+%s (%d/%d)
+%s
+%s Achievement: %s
+
+Middle-earth Fellowships
+Leading Fellowships
+Other Fellowships
+Create a Fellowship
+Earn more Middle-earth achievements to lead more Fellowships
+Name your Fellowship:
+You already belong to this Fellowship!
+Create Fellowship
+%s (%d members)
+%d members
+Invite a player to the Fellowship
+Invite a player to %s:
+%s is already in this Fellowship!
+Send Invitation
+Disband the Fellowship
+Are you sure you want to disband %s?
+If you do, it will be lost forever!
+You may wish to transfer the leadership instead.
+Disband Fellowship
+Leave Fellowship
+Are you sure you want to leave %s?
+You will not be able to return unless invited.
+Leave Fellowship
+Set the Fellowship Icon to your current held item
+Are you sure you want to remove %2$s from %1$s?
+Remove Player
+Are you sure you want to make %2$s a guide of %1$s?
+They will be able to invite and remove members, and toggle Fellowship settings.
+Make Guide
+Are you sure you want to remove %2$s as a guide of %1$s?
+Remove Guide
+Are you sure you want to transfer the leadership of %1$s to %2$s?
+If you do, you will lose all leadership rights!
+Transfer Fellowship
+Rename the Fellowship
+Enter a new name for %s:
+Rename Fellowship
+Fellowship Invitations
+You don't have any Fellowship invitations!
+Invitations
+Toggle prevention of PVP among members
+PVP: Allowed
+PVP: Prevented
+Toggle prevention of friendly fire against members' hired units
+Hired unit friendly fire: Allowed
+Hired unit friendly fire: Prevented
+Toggle showing members' map locations
+Map locations: Shown
+Map locations: Not shown
+
+%s invited you to join a Fellowship
+%s accepted your Fellowship invitation
+%s left your Fellowship
+%s disbanded a Fellowship
+%s made you leader of their Fellowship
+%s removed you from a Fellowship
+%s made you a guide of their Fellowship
+%s removed you as a guide of their Fellowship
+
+Middle-earth Titles
+Current title: %s
+None
+Select Title
+Remove Title
 
 TITLES (2810-3103)
 
