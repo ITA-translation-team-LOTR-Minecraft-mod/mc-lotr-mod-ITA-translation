@@ -259,17 +259,17 @@ VARIE (2331-2345)
 INCANTAMENTI (MODIFICATORI) (2347-2468) (!!!)
 In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "spada affilata") ma in inglese i modificatori vengono messi prima del nome dell'oggetto. come si risolve? come è stato risolto in altre lingue? c'è anche il problema di maschile e femminile (???)(!!!)
 2337-45:
-   Melee Damage -> Danno da mischia
-   Melee Speed -> Velocità da mischia (???)
-   Melee Reach -> Portata da mischia
+   Melee Damage -> Danno
+   Melee Speed -> Velocità
+   Melee Reach -> Portata
    Knockback -> Contraccolpo (in accordo con il vanilla)
-   Draw Speed -> Velocità di estrazione
+   Draw Speed -> Velocità di tensione
    Ranged Damage -> Danno a distanza
    Range -> Gittata
    Inflicts poison -> Avvelena
    Common Protection -> Protezione
 
-2347-8: necessarie delle modifiche al codice probabilmente fuori dalla nostra portata (???)
+2347-8: necessarie delle modifiche al codice probabilmente fuori dalla nostra portata
 
 2350-8:
    Sharp -> Tagliente (Affilato sarebbe altrettanto appropriato ma lo lasciamo per i tier superiori)
@@ -277,8 +277,8 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
    Mighty -> Poderoso (oppure Possente o Potente)
    Legendary -> Leggendario (o eventualmente Mitico)
    Dull -> Smussato
-   Blunt -> Arrotondato (oppure spuntato, smussato, non affilato) (???)
-   Crooked -> Sbilenco (oppure storto, deforme, idk) (???)
+   Blunt -> Incrinato (oppure spuntato, smussato, non affilato) (???)
+   Crooked -> Malconcio (oppure storto, deforme, idk) (???)
    %s melee damage -> %s danno da mischia
    %s thrown damage -> %s danno da lancio
 
@@ -323,7 +323,7 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
    %s tool speed -> velocità strumento
 
 2417-8:
-   Silken -> setato (???)
+   Silken -> setato
    Harvest special blocks -> Raccoglie blocchi fragili (traduzione libera ma più adatta)
 
 2420-3:
@@ -341,13 +341,13 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
 
 2431-4:
    Cooling -> Rinfrescante
-   Unwithering -> Imperturbabile (???) (withering=raggelante, che fa appassire, fulminante)
+   Unwithering -> Imperturbabile (withering=raggelante, che fa appassire, fulminante)
    Belegostian -> di Belegost
    %s protection vs. fire -> %s protezione dal fuoco
 
 2436-9:
-   Thicksoled -> Spessi (Con suola spessa) (???)
-   Strongshod -> Rinforzati (strong=forte, shod=ferrato, calzato) (???)
+   Thicksoled -> Spessi (Con suola spessa)
+   Strongshod -> Rinforzati (strong=forte, shod=ferrato, calzato)
    Lightfooted -> agili
    %s protection vs falling -> %s protezione dalle cadute
 
@@ -359,15 +359,15 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
 
 2446-7:
    True -> Vero
-   %s protection vs. polearms -> %s protezione dalle armi ad asta (armi a palo, ad asta, inastate)
+   %s protection vs. polearms -> %s protezione dalle armi inastata (armi a palo, ad asta, inastate)
 
 2449-54:
    Strong -> Forte (forte, vigoroso)
    Powerful -> Possente (potente, possente, forte)
-   Fierce -> Impetuoso (feroce, violento, impetuoso, aggressivo, brutale)
+   Fierce -> Impetuoso (feroce, impetuoso)
    Weak -> Debole
-   Feeble -> Flebile (debole, fiacco, fleblie) (???)
-   %s launch speed -> %velocità di lancio
+   Feeble -> Flebile (debole, fiacco, fleblie)
+   %s launch speed -> %s velocità di lancio
 
 2456-8:
    Punching -> Respingente (spingere, premere, colpire)
@@ -388,30 +388,30 @@ In generale: problema grave! In italiano gli aggettivi vanno dopo il nome (ex. "
 CATEGORIE DI OGGETTI (MENU) (2470-2479)
 2470-9:
    Blocks -> Blocchi
-   Utilities -> Utilità (???)
-   Decorations -> Decorazioni (???)
-   Food and Drink -> Cibi e bevande (???)
+   Utilities -> Utilità
+   Decorations -> Decorazioni
+   Food and Drink -> Alimenti
    Materials -> Materiali
-   Miscellaneous -> Varie (???)
-   Tools -> Strumenti (???)
-   Combat -> Armamenti (???)
-   Story -> Storia (???)
-   Spawning -> Generazione (???) forse fuorviante
+   Miscellaneous -> Varie
+   Tools -> Strumenti
+   Combat -> Armamenti
+   Story -> Storia
+   Spawning -> Generatori
 
 CONTAINERS (2481-2547)
-2487: Fabbricazione degli Elfi Silvani(!!) (sfora di due caratteri)
-2492: Fabbricazione dei Monti Azzurri(!!!) (sfora di tre caratteri) (usando le parentesi sfora di un carattere)
+2487: Fabbricazione degli Elfi Silvani(..) (sfora di due caratteri)
+2492: Fabbricazione dei Monti Azzurri(...) (sfora di tre caratteri) (usando le parentesi sfora di un carattere)
 2499: Fabbricazione dei Taurethrim(!circa) (l'ultimo carattere è a filo con il menu)
 2504: Fabbricazione di Granburrone(!) (sfora di un carattere) (sfora anche usando le parentesi, ma di un solo carattere)
-2507: Fabbricazione della Terra di Brea(!!!!!) (sfora di 5 caratteri) -> "Fabbricazione di Brea", anche se impreciso
-2510: Brewing -> fermentazione (???) in realtà non è molto accurato come termine in questo caso, ci sono anche i distillati
-2512: "Brewing %s (%s)" -> "%s (%s) in fermentazione" oppure "Sta fermentando %s (%s)". la struttura è "Brewing %bevanda (%livello)" (???) (!!!)
+2507: Fabbricazione della Terra di Brea(.....) (sfora di 5 caratteri) -> "Fabbricazione di Brea", anche se impreciso
+2510: Brewing -> fermentazione in realtà non è molto accurato come termine in questo caso, ci sono anche i distillati
+2512: "Brewing %s (%s)" -> "%s (%s) in fermentazione" oppure "Sta fermentando %s (%s)". la struttura è "Brewing %bevanda (%livello)"
 2513: "%s (%s) x %d" = "%bevanda (%livello) x %quantità", mostrato quando si raccoglie un barile pieno con fermentazione interrotta
 2514: Start Brewing -> avvia fermentazione (entra a stento nel pulsante, arriva proprio sul bordo)
 2515: Stop Brewing -> ferma fermentazione (interrompi non entrava nel pulsante, ferma entra a stento)
-2525: Material Cost: %d -> Costo in materiali: %d (probabilmente esce fuori dal menù in game)
+2525: Material Cost: %d -> Materiali richiesti: %d
 2527: Reforge Cost: %d -> Costo di riforgiatura: %d
-2529: Coin Cost: %d -> Costo in denaro: %d (meglio "prezzo"?) (???)
+2529: Coin Cost: %d -> Prezzo: %d
 2532: The beacon of %s is lit! -> Il faro di %s è acceso!
 2533: The beacon of %s is quenched -> Il faro di %s è spento (forse è meglio "è stato spento" anche se incongruente con sopra)
 2534: Assign fellowship: -> Assegna compagnia:
