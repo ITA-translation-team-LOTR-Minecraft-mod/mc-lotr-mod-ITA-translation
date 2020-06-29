@@ -576,7 +576,7 @@ Ranks:
 ???
 View areas of influence on the map
 Pledge Service
-(requires %s alignment) [da tradurre-----]
+(requires %s alignment)
 Pledging service to %s will earn their friendship and grant you many special benefits, including the ability to engage in conquest. -> engage in conquest = intraprendere conquiste (???)
 If you choose to make this pledge, you may break it at any time - but doing so will incur a large penalty.
 Pledged!
@@ -600,11 +600,11 @@ This faction does not encourage war crimes (the killing of peaceful enemy civili
 %s Achievement: %s
 
 Middle-earth Fellowships
-Leading Fellowships
+Leading Fellowships -> "compagnie guidate"? (???) (!!!)
 Other Fellowships
 Create a Fellowship
 Earn more Middle-earth achievements to lead more Fellowships
-Name your Fellowship:
+Name your Fellowship: -> Nome della compagnia (in italiano suona meglio senza verbo, credo) (???)
 You already belong to this Fellowship!
 Create Fellowship
 %s (%d members)
@@ -616,7 +616,7 @@ Send Invitation
 Disband the Fellowship
 Are you sure you want to disband %s?
 If you do, it will be lost forever!
-You may wish to transfer the leadership instead.
+You may wish to transfer the leadership instead. -> Potresti piuttosto trasferire la guida. meglio "comando"? (???)
 Disband Fellowship
 Leave Fellowship
 Are you sure you want to leave %s?
@@ -624,7 +624,7 @@ You will not be able to return unless invited.
 Leave Fellowship
 Set the Fellowship Icon to your current held item
 Are you sure you want to remove %2$s from %1$s?
-Remove Player
+Remove Player -> c'è un'alternativa migliore a "rimuovi" (???) (!!!)
 Are you sure you want to make %2$s a guide of %1$s?
 They will be able to invite and remove members, and toggle Fellowship settings.
 Make Guide
@@ -665,6 +665,294 @@ Select Title
 Remove Title
 
 TITLES (2810-3103)
+lotr.title.adventurer=Adventurer
+lotr.title.rogue=Rogue -> Furfante (???)
+lotr.title.bartender=Oste (o meglio "Barista" anche se più moderno?)
+lotr.title.gaffer=Gaffer -> non ho capito bene il significato, traduzione temporanea in "Capo"(???) (!!!)
+lotr.title.scholar=Scholar -> studioso (oppure accademico, ricercatore)
+lotr.title.minstrel=Minstrel
+lotr.title.bard=Bard
+lotr.title.artisan=Artisan
+lotr.title.warrior=Warrior
+lotr.title.scourge=Scourge -> Flagello? forse non adatto (???)
+lotr.title.wanderer=Wanderer -> Vagabondo? non coerente con Gandalf definito Grigio Pellegrino (???)
+lotr.title.peacekeeper=Peacekeeper -> paciere, pacificatore, mediatore (???)
+lotr.title.warmongerer=Warmonger -> guerrafondaio (???)
+lotr.title.hunter=Hunter
+lotr.title.raider=Raider -> razziatore? è la traduzione giusta? (???)
+lotr.title.explorer=Explorer
+lotr.title.mercenary=Mercenary
+lotr.title.shipwright=Shipwright -> carpentiere navale? o meglio maestro d'ascia? (???)
+lotr.title.marksman=Marksman -> Tiratore (o meglio tiratore scelto? forse troppo moderno) (???)
+lotr.title.merchant=Merchant
+lotr.title.farmer=Farmer
+lotr.title.burglar=Burglar -> scassinatore (???)
+lotr.title.ruffian=Ruffian -> furfante? o meglio mascalzone, criminale (???)
+lotr.title.architect=Architect
+lotr.title.miner=Miner
+lotr.title.swordsman=Swordsman -> Spadaccino (???)
+lotr.title.scout=Scout -> esploratore? da decidere uno standard per "scout" in generale (???)
+lotr.title.spearman=Spearman
+lotr.title.rider=Rider -> cavaliere? è adatto?
+lotr.title.watcher=Watcher -> osservatore? (???)
+
+lotr.title.creator=Eru Ilúvatar
+lotr.title.creator2=Manwë Súlimo
+lotr.title.moderator=Vala
+lotr.title.gruk=Polish Noble
+lotr.title.boyd=House Catsman -> gatto domestico? EH? (???)
+lotr.title.translator=Lambengolmo
+lotr.title.patron=Patron
+lotr.title.loremaster=Loremaster -> lasciamo come inglese? mettiamo Sapiente?
+lotr.title.builder=Buildmaster -> lasciamo come in inglese? o forse Maestro costruttore?
+
+lotr.title.ANY_10000=Legendary
+
+lotr.title.MULTI_freePeoples=Free Peoples -> free peoples significa popoli liberi. Come tradurre il singolo "membro dei popoli liberi"?
+lotr.title.MULTI_elf=Elf
+lotr.title.MULTI_orc=Orc
+lotr.title.MULTI_snaga=Snaga -> termine che significa schiavo, manterrei snaga
+lotr.title.MULTI_dwarf=Dwarf
+lotr.title.MULTI_dunedain=Dúnedain
+lotr.title.MULTI_moria=Moria
+lotr.title.MULTI_rhun=Rhûn
+lotr.title.MULTI_easterling=Easterling -> esiste una traduzione italiana? è direttamente easterlings?
+lotr.title.MULTI_harad=Harad
+lotr.title.MULTI_haradrim=Haradrim
+lotr.title.MULTI_southron=Southron -> Sudrone? lo traduciamo o manteniamo l'inglese?
+lotr.title.MULTI_farHarad=Far Harad -> Lontano Harad (???)
+lotr.title.MULTI_farHaradrim=Far Haradrim -> Lontano Haradrim (???) (!!!)
+lotr.title.MULTI_silvanElf=Silvan Elf
+lotr.title.MULTI_sindar=Sindar
+lotr.title.MULTI_greyElf=Grey-elf
+lotr.title.MULTI_noldor=Noldor
+lotr.title.MULTI_avari=Avari
+lotr.title.MULTI_sunlands=Sunlands -> da tradurre o no? (???)
+lotr.title.MULTI_swerting=Swerting > da tradurre o no? (???)
+lotr.title.MULTI_sutherland=Sutherland > da tradurre o no? (???)
+
+lotr.title.HOBBIT_hobbit=Hobbit [tradotto-----]
+lotr.title.HOBBIT_halfling=Halfling
+lotr.title.HOBBIT_shire=The Shire
+lotr.title.HOBBIT_hobbiton=Hobbiton
+lotr.title.HOBBIT_buckland=Buckland
+lotr.title.HOBBIT_tookland=Tookland
+lotr.title.HOBBIT_bywater=Bywater
+lotr.title.HOBBIT_longbottom=Longbottom
+lotr.title.HOBBIT_michelDelving=Michel Delving
+lotr.title.HOBBIT_northfarthing=Northfarthing
+lotr.title.HOBBIT_westfarthing=Westfarthing
+lotr.title.HOBBIT_southfarthing=Southfarthing
+lotr.title.HOBBIT_eastfarthing=Eastfarthing
+lotr.title.HOBBIT_mathomKeeper=Mathom Keeper
+
+lotr.title.BREE_bree=Bree
+lotr.title.BREE_breeland=Bree-land
+lotr.title.BREE_staddle=Staddle
+lotr.title.BREE_combe=Combe
+lotr.title.BREE_archet=Archet
+lotr.title.BREE_hobbit=Bree-hobbit
+
+lotr.title.RANGER_ranger=Ranger
+lotr.title.RANGER_northDunedain=Northern Dúnedain
+lotr.title.RANGER_arnor=Arnor
+lotr.title.RANGER_annuminas=Annúminas
+lotr.title.RANGER_fornost=Fornost
+
+lotr.title.BLUE_MOUNTAINS_blueDwarf=Blue Dwarf
+lotr.title.BLUE_MOUNTAINS_blueMountains=Blue Mountains
+lotr.title.BLUE_MOUNTAINS_firebeard=Firebeard
+lotr.title.BLUE_MOUNTAINS_broadbeam=Broadbeam
+lotr.title.BLUE_MOUNTAINS_belegost=Belegost
+lotr.title.BLUE_MOUNTAINS_nogrod=Nogrod
+
+lotr.title.HIGH_ELF_highElf=High Elf
+lotr.title.HIGH_ELF_lindon=Lindon
+lotr.title.HIGH_ELF_mithlond=Mithlond
+lotr.title.HIGH_ELF_rivendell=Rivendell
+lotr.title.HIGH_ELF_eregion=Eregion
+lotr.title.HIGH_ELF_forlindon=Forlindon
+lotr.title.HIGH_ELF_harlindon=Harlindon
+lotr.title.HIGH_ELF_imladris=Imladris
+
+lotr.title.GUNDABAD_gundabad=Gundabad
+lotr.title.GUNDABAD_gundabadOrc=Gundabad Orc
+lotr.title.GUNDABAD_moriaOrc=Moria Orc
+lotr.title.GUNDABAD_goblin=Goblin
+lotr.title.GUNDABAD_goblinTown=Goblin-town
+lotr.title.GUNDABAD_mountGundabad=Mount Gundabad
+lotr.title.GUNDABAD_mountGram=Mount Gram
+lotr.title.GUNDABAD_gundabadUruk=Gundabad Uruk
+
+lotr.title.ANGMAR_angmar=Angmar
+lotr.title.ANGMAR_angmarOrc=Angmar Orc
+lotr.title.ANGMAR_troll=Troll
+lotr.title.ANGMAR_carnDum=Carn Dûm
+lotr.title.ANGMAR_hillman=Hillman
+lotr.title.ANGMAR_rhudaur=Rhudaur
+lotr.title.ANGMAR_ettenmoors=Ettenmoors
+lotr.title.ANGMAR_coldfells=Coldfells
+
+lotr.title.WOOD_ELF_woodElf=Wood-elf
+lotr.title.WOOD_ELF_woodlandRealm=Woodland Realm
+
+lotr.title.DOL_GULDUR_dolGuldur=Dol Guldur
+lotr.title.DOL_GULDUR_dolGuldurOrc=Dol Guldur Orc
+lotr.title.DOL_GULDUR_necromancer=Necromancer
+lotr.title.DOL_GULDUR_sorcerer=Sorcerer
+lotr.title.DOL_GULDUR_spiderRider=Spider Rider
+
+lotr.title.DALE_dale=Dale
+lotr.title.DALE_northman=Northman
+lotr.title.DALE_barding=Barding
+lotr.title.DALE_esgaroth=Esgaroth
+
+lotr.title.DWARF_durin=Durin's Folk
+lotr.title.DWARF_greyDwarf=Grey Dwarf
+lotr.title.DWARF_ironHills=Iron Hills
+lotr.title.DWARF_erebor=Erebor
+lotr.title.DWARF_khazadDum=Khazad-dûm
+
+lotr.title.GALADHRIM_galadhrim=Galadhrim
+lotr.title.GALADHRIM_lothlorien=Lothlórien
+lotr.title.GALADHRIM_carasGaladhon=Caras Galadhon
+
+lotr.title.DUNLAND_dunland=Dunland
+lotr.title.DUNLAND_dunlending=Dunlending
+lotr.title.DUNLAND_wildman=Wildman
+lotr.title.DUNLAND_barbarian=Barbarian
+lotr.title.DUNLAND_adorn=Adorning
+lotr.title.DUNLAND_berserker=Berserker
+
+lotr.title.URUK_uruk=Uruk
+lotr.title.URUK_urukHai=Uruk-hai
+lotr.title.URUK_isengard=Isengard
+lotr.title.URUK_whiteHand=White Hand
+
+lotr.title.FANGORN_fangorn=Fangorn
+lotr.title.FANGORN_ent=Ent
+
+lotr.title.ROHAN_rohan=Rohan
+lotr.title.ROHAN_rohirrim=Rohirrim
+lotr.title.ROHAN_eorlingas=Eorling
+lotr.title.ROHAN_strawhead=Strawhead
+lotr.title.ROHAN_edoras=Edoras
+lotr.title.ROHAN_helmsDeep=Helm's Deep
+lotr.title.ROHAN_grimslade=Grimslade
+lotr.title.ROHAN_aldburg=Aldburg
+lotr.title.ROHAN_westfold=Westfold
+lotr.title.ROHAN_eastfold=Eastfold
+lotr.title.ROHAN_westemnet=Westemnet
+lotr.title.ROHAN_eastemnet=Eastemnet
+lotr.title.ROHAN_wold=The Wold
+lotr.title.ROHAN_shieldmaiden=Shieldmaiden
+lotr.title.ROHAN_horselord=Horse-lord
+
+lotr.title.GONDOR_gondor=Gondor
+lotr.title.GONDOR_gondorian=Gondorian
+lotr.title.GONDOR_southDunedain=Southern Dúnedain
+lotr.title.GONDOR_dolAmroth=Dol Amroth
+lotr.title.GONDOR_swanKnight=Swan Knight
+lotr.title.GONDOR_ithilien=Ithilien
+lotr.title.GONDOR_ithilienRanger=Ithilien Ranger
+lotr.title.GONDOR_minasTirith=Minas Tirith
+lotr.title.GONDOR_towerGuard=Tower Guard
+lotr.title.GONDOR_osgiliath=Osgiliath
+lotr.title.GONDOR_lebennin=Lebennin
+lotr.title.GONDOR_anorien=Anórien
+lotr.title.GONDOR_lossarnach=Lossarnach
+lotr.title.GONDOR_imlothMelui=Imloth Melui
+lotr.title.GONDOR_pelargir=Pelargir
+lotr.title.GONDOR_blackrootVale=Blackroot Vale
+lotr.title.GONDOR_mornan=Mornan
+lotr.title.GONDOR_pinnathGelin=Pinnath Gelin
+lotr.title.GONDOR_lamedon=Lamedon
+lotr.title.GONDOR_anfalas=Anfalas
+lotr.title.GONDOR_belfalas=Belfalas
+lotr.title.GONDOR_linhir=Linhir
+lotr.title.GONDOR_edhellond=Edhellond
+lotr.title.GONDOR_tarnost=Tarnost
+lotr.title.GONDOR_calembel=Calembel
+lotr.title.GONDOR_ethring=Ethring
+lotr.title.GONDOR_erech=Erech
+lotr.title.GONDOR_ethirAnduin=Ethir Anduin
+
+lotr.title.MORDOR_mordor=Mordor
+lotr.title.MORDOR_mordorOrc=Mordor Orc
+lotr.title.MORDOR_blackUruk=Black Uruk
+lotr.title.MORDOR_nurn=Nurn
+lotr.title.MORDOR_baradDur=Barad-dûr
+lotr.title.MORDOR_morannon=Morannon
+lotr.title.MORDOR_minasMorgul=Minas Morgul
+lotr.title.MORDOR_cirithUngol=Cirith Ungol
+lotr.title.MORDOR_blackNumenorean=Black Númenórean
+lotr.title.MORDOR_nanUngol=Nan Ungol
+
+lotr.title.DORWINION_dorwinion=Dorwinion
+lotr.title.DORWINION_vintner=Vintner
+lotr.title.DORWINION_dorwinrim=Dorwinman
+lotr.title.DORWINION_dorwinionElf=Dorwinion Elf
+lotr.title.DORWINION_bladorthin=Order of Bladorthin
+lotr.title.DORWINION_wineTaster=Wine Taster
+
+lotr.title.RHUN_rhudel=Rhúdel
+lotr.title.RHUN_rhunaer=Rhúnaer
+lotr.title.RHUN_rhunaerim=Rhúnaerim
+
+lotr.title.NEAR_HARAD_nearHarad=Near Harad
+lotr.title.NEAR_HARAD_nearHaradrim=Near Haradrim
+lotr.title.NEAR_HARAD_umbar=Umbar
+lotr.title.NEAR_HARAD_corsair=Corsair
+lotr.title.NEAR_HARAD_harnedor=Harnennor
+lotr.title.NEAR_HARAD_ninzayan=Ninzâyan
+lotr.title.NEAR_HARAD_belkadar=Bêlkadar
+lotr.title.NEAR_HARAD_southronCoasts=Southron Coasts
+lotr.title.NEAR_HARAD_azrazain=Azra-zâin
+lotr.title.NEAR_HARAD_ain=Ain an-Ahâr
+lotr.title.NEAR_HARAD_aj=Ajtiaz an-Ahâr
+lotr.title.NEAR_HARAD_nomad=Nomad
+lotr.title.NEAR_HARAD_gulf=Gulf of Harad
+lotr.title.NEAR_HARAD_khopazul=Khopazûl
+lotr.title.NEAR_HARAD_khopakadar=Khôpakadar
+lotr.title.NEAR_HARAD_yaphu=Yaphurushi
+lotr.title.NEAR_HARAD_serpent=Serpent
+lotr.title.NEAR_HARAD_gulfing=Gulfing
+lotr.title.NEAR_HARAD_coastling=Coast Southron
+
+lotr.title.MOREDAIN_moredain=Morwaith
+lotr.title.MOREDAIN_lion=Lion
+lotr.title.MOREDAIN_lioness=Lioness
+
+lotr.title.TAUREDAIN_tauredain=Taurethrim
+
+lotr.title.HALF_TROLL_halfTroll=Half-troll
+lotr.title.HALF_TROLL_pertorogwaith=Perdorogwaith
+
+lotr.title.trollSlayer=Master Trollslayer
+lotr.title.entSlayer=Master Entslayer
+
+lotr.title.alcoholic=Alcoholic
+lotr.title.explore50Biomes=Worldwalker
+lotr.title.fourLeafClover=Lucky
+lotr.title.enterUtumno=Utumno
+lotr.title.enterUtumnoFire=Flame of Udûn
+lotr.title.visitOcean=Mariner
+lotr.title.enterMeneltarma=Atalantë
+lotr.title.rideBarrel=Barrel-rider
+lotr.title.fishRing=Birthday
+lotr.title.wearFullGondolin=Gondolin
+lotr.title.cookKebab=Kebab
+lotr.title.brewDrink=Homebrewer
+lotr.title.drinkSkull=Sick Joker
+lotr.title.zookeeper=Zookeeper
+lotr.title.killEnt=Ent Slayer
+lotr.title.manFlesh=Man-flesh
+lotr.title.saltedFlesh=Suspicious...
+lotr.title.pickpocket=Pickpocket
+lotr.title.killBarrowWight=Wight Slayer
+lotr.title.stealGrapes=Grape Stealer
+lotr.title.gondorRenegade=Renegade
+lotr.title.killGondorRenegade=Renegade Hunter
 
 SCUDI (3110-3239)
 
