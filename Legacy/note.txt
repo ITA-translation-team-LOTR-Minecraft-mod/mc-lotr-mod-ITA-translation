@@ -35,6 +35,7 @@ BLOCCHI (15-1375)
 224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???) /// in questo caso si parla di una Pianta delle Death marshes, e si chiamano appunto "Paludi Morte" \\\ hai ragione, modifico in Pianta delle Paludi Morte
 227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione /// concordo
 262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort? /// direi genzianella , dwarfwort rimane inglese e non segue la coorenza di traduzione italiana e se si cerca in Creative (Dwarf Wutz/ Radice di nano) \\\ torniamo al compromesso a cui eravamo arrivati per la renewed, "Genziana Nanica"
+263: Dunlending -> Dunlandiani? Uomini del Dunland? Uomini Selvaggi (???)
 265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???) /// giara mi piace, Vaso é solo piu semplice. \\\ optiamo per "giara"?
 266: Stabbing Thorn -> spine pungenti (o magari spine lancinanti) (???)
 310: Quagmire -> pantano (???) c'è una parola più adatta? /// Fango,fanghilia, melma
@@ -143,7 +144,7 @@ OGGETTI (1377-2329)
 1597-60: \\\regolarizzare termini dell'armatura
 1601: \\\meglio "Elmo alato gondoriano" o "Elmo gondoriano alato"? lo modifico perché mi sembra più carino, in caso lo cambiamo
 1607: \\\ho notato che non c'è un termine italiano corrispondente. forse tanto vale mantenere il termine inglese Perry
-1616-19: \\\Ranger va maiuscolo?
+1616-19: Ranger -> Ramingo
 1620-5: \\\Dunlending in questo caso va maiuscolo?
 1627: \\\bruno forse suonava meglio, ma "mattone" è più in linea con gli altri termini del vanilla (lana marrone, argilla marrone etc)
 1634: \\\tradotto in "pane coi vermi", mi sembrava più appropriato
@@ -156,7 +157,7 @@ OGGETTI (1377-2329)
 1683: \\\modificato temporaneamente da "di Lindon" a "del Lindon" per uniformità al resto della traduzione
 1690: \\\modificato in dei Morwaith perché è il nome del popolo, non della regione
 1691: \\\stessa modifica del rigo sopra
-1706: \\\non sono troppo sicuro riguardo i "Montanari" anche se probabilmente è il termine giusto (???)
+1706: In italiano tradotti ufficialmente come Uomini delle Colline
 1733: \\\modificato in pane di banana per uniformità a tutti gli altri pani
 1750: sarebbe "Orice gazzella" ma non avendo trovato altre gazzelle nella mod al momento la tradurrei semplicemente come gazzella (???)
 1752-5: in inglese vengono usati i termini standard per l'armatura in ferro ma sarebbero più appropriati quelli per l'armatura in cuoio
@@ -687,7 +688,7 @@ lotr.title.marksman=Marksman -> Tiratore (o meglio tiratore scelto? forse troppo
 lotr.title.merchant=Merchant
 lotr.title.farmer=Farmer
 lotr.title.burglar=Burglar -> scassinatore (???)
-lotr.title.ruffian=Ruffian -> furfante? o meglio mascalzone, criminale (???)
+lotr.title.ruffian=Ruffian -> Ruffiano (termine comune nella traduzione italiana)
 lotr.title.architect=Architect
 lotr.title.miner=Miner
 lotr.title.swordsman=Swordsman -> Spadaccino (???)
@@ -731,85 +732,85 @@ lotr.title.MULTI_sunlands=Sunlands -> da tradurre o no? (???)
 lotr.title.MULTI_swerting=Swerting > da tradurre o no? (???)
 lotr.title.MULTI_sutherland=Sutherland > da tradurre o no? (???)
 
-lotr.title.HOBBIT_hobbit=Hobbit [tradotto-----]
-lotr.title.HOBBIT_halfling=Halfling
-lotr.title.HOBBIT_shire=The Shire
-lotr.title.HOBBIT_hobbiton=Hobbiton
-lotr.title.HOBBIT_buckland=Buckland
-lotr.title.HOBBIT_tookland=Tookland
-lotr.title.HOBBIT_bywater=Bywater
-lotr.title.HOBBIT_longbottom=Longbottom
-lotr.title.HOBBIT_michelDelving=Michel Delving
-lotr.title.HOBBIT_northfarthing=Northfarthing
-lotr.title.HOBBIT_westfarthing=Westfarthing
-lotr.title.HOBBIT_southfarthing=Southfarthing
-lotr.title.HOBBIT_eastfarthing=Eastfarthing
-lotr.title.HOBBIT_mathomKeeper=Mathom Keeper
+lotr.title.HOBBIT_hobbit=Hobbit
+lotr.title.HOBBIT_halfling=Halfling -> Mezzuomo
+lotr.title.HOBBIT_shire=The Shire -> La Contea
+lotr.title.HOBBIT_hobbiton=Hobbiton (in italiano detta anche Hobbiville)
+lotr.title.HOBBIT_buckland=Buckland -> Terra di Buck
+lotr.title.HOBBIT_tookland=Tookland -> Terra dei Tuc (si trova anche "Tuclandia" ma suona male)
+lotr.title.HOBBIT_bywater=Bywater -> Lungacque
+lotr.title.HOBBIT_longbottom=Longbottom -> Pianilungone
+lotr.title.HOBBIT_michelDelving=Michel Delving-> Pietraforata (in italiano si chiama così, anche se è un cambiamento parecchio drastico)
+lotr.title.HOBBIT_northfarthing=Northfarthing -> Decumano nord
+lotr.title.HOBBIT_westfarthing=Westfarthing -> Decumano ovest
+lotr.title.HOBBIT_southfarthing=Southfarthing -> Decumano sud
+lotr.title.HOBBIT_eastfarthing=Eastfarthing -> Decumano est
+lotr.title.HOBBIT_mathomKeeper=Mathom Keeper -> Custode di mathom
 
-lotr.title.BREE_bree=Bree
-lotr.title.BREE_breeland=Bree-land
-lotr.title.BREE_staddle=Staddle
-lotr.title.BREE_combe=Combe
-lotr.title.BREE_archet=Archet
-lotr.title.BREE_hobbit=Bree-hobbit
+lotr.title.BREE_bree=Bree -> Brea
+lotr.title.BREE_breeland=Bree-land -> Terra di Brea
+lotr.title.BREE_staddle=Staddle (si chiama così anche in italiano)
+lotr.title.BREE_combe=Combe -> Conca
+lotr.title.BREE_archet=Archet -> Arceto
+lotr.title.BREE_hobbit=Hobbit di Brea 
 
-lotr.title.RANGER_ranger=Ranger
-lotr.title.RANGER_northDunedain=Northern Dúnedain
+lotr.title.RANGER_ranger=Ramingo
+lotr.title.RANGER_northDunedain=Dúnedain del nord
 lotr.title.RANGER_arnor=Arnor
 lotr.title.RANGER_annuminas=Annúminas
 lotr.title.RANGER_fornost=Fornost
 
-lotr.title.BLUE_MOUNTAINS_blueDwarf=Blue Dwarf
-lotr.title.BLUE_MOUNTAINS_blueMountains=Blue Mountains
-lotr.title.BLUE_MOUNTAINS_firebeard=Firebeard
-lotr.title.BLUE_MOUNTAINS_broadbeam=Broadbeam
+lotr.title.BLUE_MOUNTAINS_blueDwarf=Blue Dwarf -> Nano Azzurro? o magari meglio Nano dei Monti Azzurri anche se lunghissimo
+lotr.title.BLUE_MOUNTAINS_blueMountains=Blue Mountains -> Monti Azzurri
+lotr.title.BLUE_MOUNTAINS_firebeard=Firebeard -> Barbafiamma
+lotr.title.BLUE_MOUNTAINS_broadbeam=Broadbeam -> Vastifasci
 lotr.title.BLUE_MOUNTAINS_belegost=Belegost
 lotr.title.BLUE_MOUNTAINS_nogrod=Nogrod
 
-lotr.title.HIGH_ELF_highElf=High Elf
+lotr.title.HIGH_ELF_highElf=High Elf -> Alto Elfo
 lotr.title.HIGH_ELF_lindon=Lindon
-lotr.title.HIGH_ELF_mithlond=Mithlond
-lotr.title.HIGH_ELF_rivendell=Rivendell
-lotr.title.HIGH_ELF_eregion=Eregion
+lotr.title.HIGH_ELF_mithlond=Mithlond -> Porti Grigi (in italiano vengono chiamati così, mentre Mithlond è il nome in elfico)
+lotr.title.HIGH_ELF_rivendell=Rivendell -> Granburrone (in realtà dovrebbe essere Gran Burrone)
+lotr.title.HIGH_ELF_eregion=Eregion -> Eregion (anche se in italiano è detta Agrifogliere)
 lotr.title.HIGH_ELF_forlindon=Forlindon
 lotr.title.HIGH_ELF_harlindon=Harlindon
-lotr.title.HIGH_ELF_imladris=Imladris
+lotr.title.HIGH_ELF_imladris=Imladris (nome elfico per Granburrone)
 
 lotr.title.GUNDABAD_gundabad=Gundabad
-lotr.title.GUNDABAD_gundabadOrc=Gundabad Orc
-lotr.title.GUNDABAD_moriaOrc=Moria Orc
+lotr.title.GUNDABAD_gundabadOrc=Gundabad Orc -> Orco del Gundabad
+lotr.title.GUNDABAD_moriaOrc=Moria Orc -> Orco di Moria
 lotr.title.GUNDABAD_goblin=Goblin
-lotr.title.GUNDABAD_goblinTown=Goblin-town
-lotr.title.GUNDABAD_mountGundabad=Mount Gundabad
-lotr.title.GUNDABAD_mountGram=Mount Gram
-lotr.title.GUNDABAD_gundabadUruk=Gundabad Uruk
+lotr.title.GUNDABAD_goblinTown=Goblin-town -> Città dei Goblin
+lotr.title.GUNDABAD_mountGundabad=Mount Gundabad -> Monte Gundabad
+lotr.title.GUNDABAD_mountGram=Mount Gram -> Monte Gram
+lotr.title.GUNDABAD_gundabadUruk=Gundabad Uruk -> Uruk del Gundabad
 
 lotr.title.ANGMAR_angmar=Angmar
-lotr.title.ANGMAR_angmarOrc=Angmar Orc
+lotr.title.ANGMAR_angmarOrc=Angmar Orc -> Orco di Angmar
 lotr.title.ANGMAR_troll=Troll
 lotr.title.ANGMAR_carnDum=Carn Dûm
-lotr.title.ANGMAR_hillman=Hillman
+lotr.title.ANGMAR_hillman=Hillman -> Uomo delle Colline
 lotr.title.ANGMAR_rhudaur=Rhudaur
-lotr.title.ANGMAR_ettenmoors=Ettenmoors
-lotr.title.ANGMAR_coldfells=Coldfells
+lotr.title.ANGMAR_ettenmoors=Ettenmoors -> Ettenmoors (tecnicamente dovremmo chiamarli Erenbrulli)
+lotr.title.ANGMAR_coldfells=Coldfells -> Coldfells (rimangono uguali in italiano)
 
-lotr.title.WOOD_ELF_woodElf=Wood-elf
-lotr.title.WOOD_ELF_woodlandRealm=Woodland Realm
+lotr.title.WOOD_ELF_woodElf=Wood-elf -> Elfo Silvano
+lotr.title.WOOD_ELF_woodlandRealm=Woodland Realm -> Reame Boscoso
 
 lotr.title.DOL_GULDUR_dolGuldur=Dol Guldur
-lotr.title.DOL_GULDUR_dolGuldurOrc=Dol Guldur Orc
-lotr.title.DOL_GULDUR_necromancer=Necromancer
-lotr.title.DOL_GULDUR_sorcerer=Sorcerer
-lotr.title.DOL_GULDUR_spiderRider=Spider Rider
+lotr.title.DOL_GULDUR_dolGuldurOrc=Dol Guldur Orc -> Orco di Dol Guldur
+lotr.title.DOL_GULDUR_necromancer=Necromancer -> Necromante
+lotr.title.DOL_GULDUR_sorcerer=Sorcerer -> Stregone
+lotr.title.DOL_GULDUR_spiderRider=Spider Rider -> Cavalcatore di ragni (potremmo trovare un nome meno complesso per tutti quelli che non cavalcano cavalli?) (???)
 
 lotr.title.DALE_dale=Dale
-lotr.title.DALE_northman=Northman
-lotr.title.DALE_barding=Barding
+lotr.title.DALE_northman=Northman -> Uomo del Nord
+lotr.title.DALE_barding=Barding -> Bardino? Oppure "Uomo di Dale". Bardino suona un po' male (???)
 lotr.title.DALE_esgaroth=Esgaroth
 
-lotr.title.DWARF_durin=Durin's Folk
-lotr.title.DWARF_greyDwarf=Grey Dwarf
-lotr.title.DWARF_ironHills=Iron Hills
+lotr.title.DWARF_durin=Durin's Folk -> Popolo di Durin
+lotr.title.DWARF_greyDwarf=Grey Dwarf -> Nano Grigio (non canonica ma può funzionare)
+lotr.title.DWARF_ironHills=Iron Hills -> Colli Ferrosi
 lotr.title.DWARF_erebor=Erebor
 lotr.title.DWARF_khazadDum=Khazad-dûm
 
@@ -818,16 +819,16 @@ lotr.title.GALADHRIM_lothlorien=Lothlórien
 lotr.title.GALADHRIM_carasGaladhon=Caras Galadhon
 
 lotr.title.DUNLAND_dunland=Dunland
-lotr.title.DUNLAND_dunlending=Dunlending
-lotr.title.DUNLAND_wildman=Wildman
-lotr.title.DUNLAND_barbarian=Barbarian
-lotr.title.DUNLAND_adorn=Adorning
+lotr.title.DUNLAND_dunlending=Dunlending -> Dunlandiano
+lotr.title.DUNLAND_wildman=Wildman -> Uomo Selvaggio
+lotr.title.DUNLAND_barbarian=Barbarian -> Barbaro
+lotr.title.DUNLAND_adorn=Adorning -> Adorniano (del fiume Adorn)
 lotr.title.DUNLAND_berserker=Berserker
 
 lotr.title.URUK_uruk=Uruk
 lotr.title.URUK_urukHai=Uruk-hai
 lotr.title.URUK_isengard=Isengard
-lotr.title.URUK_whiteHand=White Hand
+lotr.title.URUK_whiteHand=White Hand -> Mano Bianca
 
 lotr.title.FANGORN_fangorn=Fangorn
 lotr.title.FANGORN_ent=Ent
@@ -835,18 +836,18 @@ lotr.title.FANGORN_ent=Ent
 lotr.title.ROHAN_rohan=Rohan
 lotr.title.ROHAN_rohirrim=Rohirrim
 lotr.title.ROHAN_eorlingas=Eorling
-lotr.title.ROHAN_strawhead=Strawhead
+lotr.title.ROHAN_strawhead=Strawhead -> Testa di paglia (insulto tipico dei Dunlandiani)
 lotr.title.ROHAN_edoras=Edoras
-lotr.title.ROHAN_helmsDeep=Helm's Deep
+lotr.title.ROHAN_helmsDeep=Fosso di Helm
 lotr.title.ROHAN_grimslade=Grimslade
 lotr.title.ROHAN_aldburg=Aldburg
-lotr.title.ROHAN_westfold=Westfold
-lotr.title.ROHAN_eastfold=Eastfold
+lotr.title.ROHAN_westfold=Westfold -> Ovestfalda
+lotr.title.ROHAN_eastfold=Eastfold -> Estfalda
 lotr.title.ROHAN_westemnet=Westemnet
 lotr.title.ROHAN_eastemnet=Eastemnet
-lotr.title.ROHAN_wold=The Wold
-lotr.title.ROHAN_shieldmaiden=Shieldmaiden
-lotr.title.ROHAN_horselord=Horse-lord
+lotr.title.ROHAN_wold=The Wold -> come si traduce? è per caso la "Marca Occidentale" o non c'entra niente? (???)
+lotr.title.ROHAN_shieldmaiden=Shieldmaiden -> Fanculla dello scudo (c'è una traduzione più accurata o una canonica?) (???)
+lotr.title.ROHAN_horselord=Horse-lord -> Signore dei Cavalli
 
 lotr.title.GONDOR_gondor=Gondor
 lotr.title.GONDOR_gondorian=Gondorian
@@ -1064,6 +1065,7 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Harnedhrim -> degli Harnedhrim/dell'Harennor
    Corsari -> dei Corsari
    Sudroni della Costa (Coast Southron)
+   Uomini delle Colline (Hillman) ->
 
 Equipaggiamento
    Helmet (metallo) -> Elmo
