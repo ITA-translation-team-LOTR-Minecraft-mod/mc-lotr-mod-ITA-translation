@@ -35,6 +35,7 @@ BLOCCHI (15-1375)
 224: Dead Marsh Plant -> Pianta di palude morta. Si può tradurre meglio (???) /// in questo caso si parla di una Pianta delle Death marshes, e si chiamano appunto "Paludi Morte" \\\ hai ragione, modifico in Pianta delle Paludi Morte
 227-36: li ho tradotti come "mattoni gulduril" come nella precedente traduzione /// concordo
 262: Dwarfwort -> genziana nanica (???) o manteniamo Dwarfwort? /// direi genzianella , dwarfwort rimane inglese e non segue la coorenza di traduzione italiana e se si cerca in Creative (Dwarf Wutz/ Radice di nano) \\\ torniamo al compromesso a cui eravamo arrivati per la renewed, "Genziana Nanica"
+263: Dunlending -> Dunlandiani? Uomini del Dunland? Uomini Selvaggi (???)
 265: Ent Jar -> Vaso degli Ent (è la migliore traduzionen per "jar"? magari giara? barattolo?) (???) /// giara mi piace, Vaso é solo piu semplice. \\\ optiamo per "giara"?
 266: Stabbing Thorn -> spine pungenti (o magari spine lancinanti) (???)
 310: Quagmire -> pantano (???) c'è una parola più adatta? /// Fango,fanghilia, melma
@@ -74,7 +75,7 @@ BLOCCHI (15-1375)
 912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
 920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???) /// palo va bene, ma penso "Palo per Vigna" stia meglio
 942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
-958: come tradurre "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
+958: "Morthond" in Sindarin? oppure "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
 994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea? /// Ciottolato? non ricordo il blocco temo
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
 1011: Casket -> scrigno
@@ -143,7 +144,7 @@ OGGETTI (1377-2329)
 1597-60: \\\regolarizzare termini dell'armatura
 1601: \\\meglio "Elmo alato gondoriano" o "Elmo gondoriano alato"? lo modifico perché mi sembra più carino, in caso lo cambiamo
 1607: \\\ho notato che non c'è un termine italiano corrispondente. forse tanto vale mantenere il termine inglese Perry
-1616-19: \\\Ranger va maiuscolo?
+1616-19: Ranger -> Ramingo
 1620-5: \\\Dunlending in questo caso va maiuscolo?
 1627: \\\bruno forse suonava meglio, ma "mattone" è più in linea con gli altri termini del vanilla (lana marrone, argilla marrone etc)
 1634: \\\tradotto in "pane coi vermi", mi sembrava più appropriato
@@ -156,7 +157,7 @@ OGGETTI (1377-2329)
 1683: \\\modificato temporaneamente da "di Lindon" a "del Lindon" per uniformità al resto della traduzione
 1690: \\\modificato in dei Morwaith perché è il nome del popolo, non della regione
 1691: \\\stessa modifica del rigo sopra
-1706: \\\non sono troppo sicuro riguardo i "Montanari" anche se probabilmente è il termine giusto (???)
+1706: In italiano tradotti ufficialmente come Uomini delle Colline
 1733: \\\modificato in pane di banana per uniformità a tutti gli altri pani
 1750: sarebbe "Orice gazzella" ma non avendo trovato altre gazzelle nella mod al momento la tradurrei semplicemente come gazzella (???)
 1752-5: in inglese vengono usati i termini standard per l'armatura in ferro ma sarebbero più appropriati quelli per l'armatura in cuoio
@@ -195,7 +196,7 @@ OGGETTI (1377-2329)
 2093: Dol Guldur Spike -> spina? meglio "picca" e ignoriamo la differenza con pike?
 2095: Kine of Araw -> aaaaaaaa (???) (!!!)
 2097: ceramica o terracotta? (???)
-2124: blackroot vale rimane in inglese? (???) magari Mornan? e la pianta blackroot? (???) (!!!)
+2124: arco di morthond? oppure blackroot vale rimane in inglese? (???) magari Mornan? e la pianta blackroot? (???) (!!!)
 2127: chap -> eh?(???) (!!!) copripantaloni?
 2142: Lamedon Jacket -> Giacca del Lamedon? forse Giubba? Giubbotto? (???)
 2146: Wooden Cup -> coppa di legno
@@ -687,7 +688,7 @@ lotr.title.marksman=Marksman -> Tiratore (o meglio tiratore scelto? forse troppo
 lotr.title.merchant=Merchant
 lotr.title.farmer=Farmer
 lotr.title.burglar=Burglar -> scassinatore (???)
-lotr.title.ruffian=Ruffian -> furfante? o meglio mascalzone, criminale (???)
+lotr.title.ruffian=Ruffian -> Ruffiano (termine comune nella traduzione italiana)
 lotr.title.architect=Architect
 lotr.title.miner=Miner
 lotr.title.swordsman=Swordsman -> Spadaccino (???)
@@ -711,7 +712,7 @@ lotr.title.ANY_10000=Legendary
 lotr.title.MULTI_freePeoples=Free Peoples -> free peoples significa popoli liberi. Come tradurre il singolo "membro dei popoli liberi"?
 lotr.title.MULTI_elf=Elf
 lotr.title.MULTI_orc=Orc
-lotr.title.MULTI_snaga=Snaga -> termine che significa schiavo, manterrei snaga
+lotr.title.MULTI_snaga=Snaga -> termine orchesco che significa schiavo, manterrei snaga
 lotr.title.MULTI_dwarf=Dwarf
 lotr.title.MULTI_dunedain=Dúnedain
 lotr.title.MULTI_moria=Moria
@@ -731,85 +732,85 @@ lotr.title.MULTI_sunlands=Sunlands -> da tradurre o no? (???)
 lotr.title.MULTI_swerting=Swerting > da tradurre o no? (???)
 lotr.title.MULTI_sutherland=Sutherland > da tradurre o no? (???)
 
-lotr.title.HOBBIT_hobbit=Hobbit [tradotto-----]
-lotr.title.HOBBIT_halfling=Halfling
-lotr.title.HOBBIT_shire=The Shire
-lotr.title.HOBBIT_hobbiton=Hobbiton
-lotr.title.HOBBIT_buckland=Buckland
-lotr.title.HOBBIT_tookland=Tookland
-lotr.title.HOBBIT_bywater=Bywater
-lotr.title.HOBBIT_longbottom=Longbottom
-lotr.title.HOBBIT_michelDelving=Michel Delving
-lotr.title.HOBBIT_northfarthing=Northfarthing
-lotr.title.HOBBIT_westfarthing=Westfarthing
-lotr.title.HOBBIT_southfarthing=Southfarthing
-lotr.title.HOBBIT_eastfarthing=Eastfarthing
-lotr.title.HOBBIT_mathomKeeper=Mathom Keeper
+lotr.title.HOBBIT_hobbit=Hobbit
+lotr.title.HOBBIT_halfling=Halfling -> Mezzuomo
+lotr.title.HOBBIT_shire=The Shire -> La Contea
+lotr.title.HOBBIT_hobbiton=Hobbiton (in italiano detta anche Hobbiville)
+lotr.title.HOBBIT_buckland=Buckland -> Terra di Buck
+lotr.title.HOBBIT_tookland=Tookland -> Terra dei Tuc (si trova anche "Tuclandia" ma suona male)
+lotr.title.HOBBIT_bywater=Bywater -> Lungacque
+lotr.title.HOBBIT_longbottom=Longbottom -> Pianilungone
+lotr.title.HOBBIT_michelDelving=Michel Delving-> Pietraforata (in italiano si chiama così, anche se è un cambiamento parecchio drastico)
+lotr.title.HOBBIT_northfarthing=Northfarthing -> Decumano nord
+lotr.title.HOBBIT_westfarthing=Westfarthing -> Decumano ovest
+lotr.title.HOBBIT_southfarthing=Southfarthing -> Decumano sud
+lotr.title.HOBBIT_eastfarthing=Eastfarthing -> Decumano est
+lotr.title.HOBBIT_mathomKeeper=Mathom Keeper -> Custode di mathom
 
-lotr.title.BREE_bree=Bree
-lotr.title.BREE_breeland=Bree-land
-lotr.title.BREE_staddle=Staddle
-lotr.title.BREE_combe=Combe
-lotr.title.BREE_archet=Archet
-lotr.title.BREE_hobbit=Bree-hobbit
+lotr.title.BREE_bree=Bree -> Brea
+lotr.title.BREE_breeland=Bree-land -> Terra di Brea
+lotr.title.BREE_staddle=Staddle (si chiama così anche in italiano)
+lotr.title.BREE_combe=Combe -> Conca
+lotr.title.BREE_archet=Archet -> Arceto
+lotr.title.BREE_hobbit=Bree-hobbit -> Hobbit di Brea 
 
-lotr.title.RANGER_ranger=Ranger
-lotr.title.RANGER_northDunedain=Northern Dúnedain
+lotr.title.RANGER_ranger=Ranger -> Ramingo
+lotr.title.RANGER_northDunedain=Northern Dúnedain -> Dúnedain del nord (o settentrionale?)
 lotr.title.RANGER_arnor=Arnor
 lotr.title.RANGER_annuminas=Annúminas
 lotr.title.RANGER_fornost=Fornost
 
-lotr.title.BLUE_MOUNTAINS_blueDwarf=Blue Dwarf
-lotr.title.BLUE_MOUNTAINS_blueMountains=Blue Mountains
-lotr.title.BLUE_MOUNTAINS_firebeard=Firebeard
-lotr.title.BLUE_MOUNTAINS_broadbeam=Broadbeam
+lotr.title.BLUE_MOUNTAINS_blueDwarf=Blue Dwarf -> Nano Azzurro? o magari meglio Nano dei Monti Azzurri anche se lunghissimo
+lotr.title.BLUE_MOUNTAINS_blueMountains=Blue Mountains -> Monti Azzurri
+lotr.title.BLUE_MOUNTAINS_firebeard=Firebeard -> Barbafiamma
+lotr.title.BLUE_MOUNTAINS_broadbeam=Broadbeam -> Vastifasci
 lotr.title.BLUE_MOUNTAINS_belegost=Belegost
 lotr.title.BLUE_MOUNTAINS_nogrod=Nogrod
 
-lotr.title.HIGH_ELF_highElf=High Elf
+lotr.title.HIGH_ELF_highElf=High Elf -> Alto Elfo
 lotr.title.HIGH_ELF_lindon=Lindon
-lotr.title.HIGH_ELF_mithlond=Mithlond
-lotr.title.HIGH_ELF_rivendell=Rivendell
-lotr.title.HIGH_ELF_eregion=Eregion
+lotr.title.HIGH_ELF_mithlond=Mithlond -> Porti Grigi (in italiano vengono chiamati così, mentre Mithlond è il nome in elfico)
+lotr.title.HIGH_ELF_rivendell=Rivendell -> Granburrone (in realtà dovrebbe essere Gran Burrone)
+lotr.title.HIGH_ELF_eregion=Eregion -> Eregion (anche se in italiano è detta Agrifogliere)
 lotr.title.HIGH_ELF_forlindon=Forlindon
 lotr.title.HIGH_ELF_harlindon=Harlindon
-lotr.title.HIGH_ELF_imladris=Imladris
+lotr.title.HIGH_ELF_imladris=Imladris (nome elfico per Granburrone)
 
 lotr.title.GUNDABAD_gundabad=Gundabad
-lotr.title.GUNDABAD_gundabadOrc=Gundabad Orc
-lotr.title.GUNDABAD_moriaOrc=Moria Orc
+lotr.title.GUNDABAD_gundabadOrc=Gundabad Orc -> Orco del Gundabad
+lotr.title.GUNDABAD_moriaOrc=Moria Orc -> Orco di Moria
 lotr.title.GUNDABAD_goblin=Goblin
-lotr.title.GUNDABAD_goblinTown=Goblin-town
-lotr.title.GUNDABAD_mountGundabad=Mount Gundabad
-lotr.title.GUNDABAD_mountGram=Mount Gram
-lotr.title.GUNDABAD_gundabadUruk=Gundabad Uruk
+lotr.title.GUNDABAD_goblinTown=Goblin-town -> Città dei Goblin
+lotr.title.GUNDABAD_mountGundabad=Mount Gundabad -> Monte Gundabad
+lotr.title.GUNDABAD_mountGram=Mount Gram -> Monte Gram
+lotr.title.GUNDABAD_gundabadUruk=Gundabad Uruk -> Uruk del Gundabad
 
 lotr.title.ANGMAR_angmar=Angmar
-lotr.title.ANGMAR_angmarOrc=Angmar Orc
+lotr.title.ANGMAR_angmarOrc=Angmar Orc -> Orco di Angmar
 lotr.title.ANGMAR_troll=Troll
 lotr.title.ANGMAR_carnDum=Carn Dûm
-lotr.title.ANGMAR_hillman=Hillman
+lotr.title.ANGMAR_hillman=Hillman -> Uomo delle Colline
 lotr.title.ANGMAR_rhudaur=Rhudaur
-lotr.title.ANGMAR_ettenmoors=Ettenmoors
-lotr.title.ANGMAR_coldfells=Coldfells
+lotr.title.ANGMAR_ettenmoors=Ettenmoors -> Ettenmoors (tecnicamente dovremmo chiamarli Erenbrulli)
+lotr.title.ANGMAR_coldfells=Coldfells -> Coldfells (rimangono uguali in italiano)
 
-lotr.title.WOOD_ELF_woodElf=Wood-elf
-lotr.title.WOOD_ELF_woodlandRealm=Woodland Realm
+lotr.title.WOOD_ELF_woodElf=Wood-elf -> Elfo Silvano
+lotr.title.WOOD_ELF_woodlandRealm=Woodland Realm -> Reame Boscoso
 
 lotr.title.DOL_GULDUR_dolGuldur=Dol Guldur
-lotr.title.DOL_GULDUR_dolGuldurOrc=Dol Guldur Orc
-lotr.title.DOL_GULDUR_necromancer=Necromancer
-lotr.title.DOL_GULDUR_sorcerer=Sorcerer
-lotr.title.DOL_GULDUR_spiderRider=Spider Rider
+lotr.title.DOL_GULDUR_dolGuldurOrc=Dol Guldur Orc -> Orco di Dol Guldur
+lotr.title.DOL_GULDUR_necromancer=Necromancer -> Necromante
+lotr.title.DOL_GULDUR_sorcerer=Sorcerer -> Stregone
+lotr.title.DOL_GULDUR_spiderRider=Spider Rider -> Cavalcatore di ragni (potremmo trovare un nome meno complesso per tutti quelli che non cavalcano cavalli?) (???)
 
 lotr.title.DALE_dale=Dale
-lotr.title.DALE_northman=Northman
-lotr.title.DALE_barding=Barding
+lotr.title.DALE_northman=Northman -> Uomo del Nord
+lotr.title.DALE_barding=Barding -> Bardino? Oppure "Uomo di Dale". Bardino suona un po' male (???)
 lotr.title.DALE_esgaroth=Esgaroth
 
-lotr.title.DWARF_durin=Durin's Folk
-lotr.title.DWARF_greyDwarf=Grey Dwarf
-lotr.title.DWARF_ironHills=Iron Hills
+lotr.title.DWARF_durin=Durin's Folk -> Popolo di Durin
+lotr.title.DWARF_greyDwarf=Grey Dwarf -> Nano Grigio (non canonica ma può funzionare)
+lotr.title.DWARF_ironHills=Iron Hills -> Colli Ferrosi
 lotr.title.DWARF_erebor=Erebor
 lotr.title.DWARF_khazadDum=Khazad-dûm
 
@@ -818,16 +819,16 @@ lotr.title.GALADHRIM_lothlorien=Lothlórien
 lotr.title.GALADHRIM_carasGaladhon=Caras Galadhon
 
 lotr.title.DUNLAND_dunland=Dunland
-lotr.title.DUNLAND_dunlending=Dunlending
-lotr.title.DUNLAND_wildman=Wildman
-lotr.title.DUNLAND_barbarian=Barbarian
-lotr.title.DUNLAND_adorn=Adorning
+lotr.title.DUNLAND_dunlending=Dunlending -> Dunlandiano
+lotr.title.DUNLAND_wildman=Wildman -> Uomo Selvaggio
+lotr.title.DUNLAND_barbarian=Barbarian -> Barbaro
+lotr.title.DUNLAND_adorn=Adorning -> Adorniano (del fiume Adorn)
 lotr.title.DUNLAND_berserker=Berserker
 
 lotr.title.URUK_uruk=Uruk
 lotr.title.URUK_urukHai=Uruk-hai
 lotr.title.URUK_isengard=Isengard
-lotr.title.URUK_whiteHand=White Hand
+lotr.title.URUK_whiteHand=White Hand -> Mano Bianca
 
 lotr.title.FANGORN_fangorn=Fangorn
 lotr.title.FANGORN_ent=Ent
@@ -835,36 +836,36 @@ lotr.title.FANGORN_ent=Ent
 lotr.title.ROHAN_rohan=Rohan
 lotr.title.ROHAN_rohirrim=Rohirrim
 lotr.title.ROHAN_eorlingas=Eorling
-lotr.title.ROHAN_strawhead=Strawhead
+lotr.title.ROHAN_strawhead=Strawhead -> Testa di paglia (insulto tipico dei Dunlandiani)
 lotr.title.ROHAN_edoras=Edoras
-lotr.title.ROHAN_helmsDeep=Helm's Deep
+lotr.title.ROHAN_helmsDeep=Fosso di Helm
 lotr.title.ROHAN_grimslade=Grimslade
 lotr.title.ROHAN_aldburg=Aldburg
-lotr.title.ROHAN_westfold=Westfold
-lotr.title.ROHAN_eastfold=Eastfold
+lotr.title.ROHAN_westfold=Westfold -> Ovestfalda
+lotr.title.ROHAN_eastfold=Eastfold -> Estfalda
 lotr.title.ROHAN_westemnet=Westemnet
 lotr.title.ROHAN_eastemnet=Eastemnet
-lotr.title.ROHAN_wold=The Wold
-lotr.title.ROHAN_shieldmaiden=Shieldmaiden
-lotr.title.ROHAN_horselord=Horse-lord
+lotr.title.ROHAN_wold=The Wold -> come si traduce? è per caso la "Marca occidentale" (i wold sono a est però)? o non c'entra niente? (???)
+lotr.title.ROHAN_shieldmaiden=Shieldmaiden -> Fanculla dello scudo (c'è una traduzione più accurata o una canonica?) (???)
+lotr.title.ROHAN_horselord=Horse-lord -> Signore dei Cavalli
 
 lotr.title.GONDOR_gondor=Gondor
-lotr.title.GONDOR_gondorian=Gondorian
-lotr.title.GONDOR_southDunedain=Southern Dúnedain
+lotr.title.GONDOR_gondorian=Gondorian -> Gondoriano
+lotr.title.GONDOR_southDunedain=Southern Dúnedain -> Dúnedain del Sud(o meridionale)
 lotr.title.GONDOR_dolAmroth=Dol Amroth
-lotr.title.GONDOR_swanKnight=Swan Knight
+lotr.title.GONDOR_swanKnight=Swan Knight -> Cavaliere del Cigno (traduzione canon)
 lotr.title.GONDOR_ithilien=Ithilien
-lotr.title.GONDOR_ithilienRanger=Ithilien Ranger
+lotr.title.GONDOR_ithilienRanger=Ithilien Ranger -> Ramingo dell'Ithilien
 lotr.title.GONDOR_minasTirith=Minas Tirith
-lotr.title.GONDOR_towerGuard=Tower Guard
+lotr.title.GONDOR_towerGuard=Tower Guard -> Guardia della Torre
 lotr.title.GONDOR_osgiliath=Osgiliath
 lotr.title.GONDOR_lebennin=Lebennin
 lotr.title.GONDOR_anorien=Anórien
 lotr.title.GONDOR_lossarnach=Lossarnach
-lotr.title.GONDOR_imlothMelui=Imloth Melui
+lotr.title.GONDOR_imlothMelui=Imloth Melui (una valle del Lossarnach)
 lotr.title.GONDOR_pelargir=Pelargir
-lotr.title.GONDOR_blackrootVale=Blackroot Vale
-lotr.title.GONDOR_mornan=Mornan
+lotr.title.GONDOR_blackrootVale=Blackroot Vale -> cosa inserire? Mornan c'è già sotto(???)
+lotr.title.GONDOR_mornan=Mornan -> Mornan (Mornan, Sindarin per "valle nera", Morthond, Sindarin per "radice nera")
 lotr.title.GONDOR_pinnathGelin=Pinnath Gelin
 lotr.title.GONDOR_lamedon=Lamedon
 lotr.title.GONDOR_anfalas=Anfalas
@@ -875,94 +876,906 @@ lotr.title.GONDOR_tarnost=Tarnost
 lotr.title.GONDOR_calembel=Calembel
 lotr.title.GONDOR_ethring=Ethring
 lotr.title.GONDOR_erech=Erech
-lotr.title.GONDOR_ethirAnduin=Ethir Anduin
+lotr.title.GONDOR_ethirAnduin=Ethir Anduin (foce dell'Anduin)
 
 lotr.title.MORDOR_mordor=Mordor
-lotr.title.MORDOR_mordorOrc=Mordor Orc
-lotr.title.MORDOR_blackUruk=Black Uruk
+lotr.title.MORDOR_mordorOrc=Mordor Orc -> Orco di Mordor
+lotr.title.MORDOR_blackUruk=Black Uruk -> Uruk Nero
 lotr.title.MORDOR_nurn=Nurn
 lotr.title.MORDOR_baradDur=Barad-dûr
-lotr.title.MORDOR_morannon=Morannon
+lotr.title.MORDOR_morannon=Morannon (nero cancello)
 lotr.title.MORDOR_minasMorgul=Minas Morgul
 lotr.title.MORDOR_cirithUngol=Cirith Ungol
-lotr.title.MORDOR_blackNumenorean=Black Númenórean
+lotr.title.MORDOR_blackNumenorean=Black Númenórean -> Numenoreano Nero
 lotr.title.MORDOR_nanUngol=Nan Ungol
 
 lotr.title.DORWINION_dorwinion=Dorwinion
-lotr.title.DORWINION_vintner=Vintner
-lotr.title.DORWINION_dorwinrim=Dorwinman
-lotr.title.DORWINION_dorwinionElf=Dorwinion Elf
-lotr.title.DORWINION_bladorthin=Order of Bladorthin
-lotr.title.DORWINION_wineTaster=Wine Taster
+lotr.title.DORWINION_vintner=Vintner -> Vinaio
+lotr.title.DORWINION_dorwinrim=Dorwinman -> Uomo del Dorwinion
+lotr.title.DORWINION_dorwinionElf=Dorwinion Elf -> Elfo del Dorwinion
+lotr.title.DORWINION_bladorthin=Order of Bladorthin -> Ordine di Bladorthin
+lotr.title.DORWINION_wineTaster=Wine Taster -> Degustatore di vini
 
 lotr.title.RHUN_rhudel=Rhúdel
-lotr.title.RHUN_rhunaer=Rhúnaer
-lotr.title.RHUN_rhunaerim=Rhúnaerim
+lotr.title.RHUN_rhunaer=Rhúnaer -> eh?
+lotr.title.RHUN_rhunaerim=Rhúnaerim -> eh?
 
-lotr.title.NEAR_HARAD_nearHarad=Near Harad
-lotr.title.NEAR_HARAD_nearHaradrim=Near Haradrim
+lotr.title.NEAR_HARAD_nearHarad=Near Harad -> Vicino Harad
+lotr.title.NEAR_HARAD_nearHaradrim=Near Haradrim -> Vicino Haradrim
 lotr.title.NEAR_HARAD_umbar=Umbar
-lotr.title.NEAR_HARAD_corsair=Corsair
+lotr.title.NEAR_HARAD_corsair=Corsair -> Corsaro
 lotr.title.NEAR_HARAD_harnedor=Harnennor
 lotr.title.NEAR_HARAD_ninzayan=Ninzâyan
 lotr.title.NEAR_HARAD_belkadar=Bêlkadar
-lotr.title.NEAR_HARAD_southronCoasts=Southron Coasts
+lotr.title.NEAR_HARAD_southronCoasts=Southron Coasts -> Costa dei Sudroni
 lotr.title.NEAR_HARAD_azrazain=Azra-zâin
 lotr.title.NEAR_HARAD_ain=Ain an-Ahâr
 lotr.title.NEAR_HARAD_aj=Ajtiaz an-Ahâr
-lotr.title.NEAR_HARAD_nomad=Nomad
-lotr.title.NEAR_HARAD_gulf=Gulf of Harad
+lotr.title.NEAR_HARAD_nomad=Nomad -> Nomade
+lotr.title.NEAR_HARAD_gulf=Gulf of Harad -> Golfo di Harad
 lotr.title.NEAR_HARAD_khopazul=Khopazûl
 lotr.title.NEAR_HARAD_khopakadar=Khôpakadar
 lotr.title.NEAR_HARAD_yaphu=Yaphurushi
-lotr.title.NEAR_HARAD_serpent=Serpent
+lotr.title.NEAR_HARAD_serpent=Serpent -> Serpente
 lotr.title.NEAR_HARAD_gulfing=Gulfing
-lotr.title.NEAR_HARAD_coastling=Coast Southron
+lotr.title.NEAR_HARAD_coastling=Coast Southron -> Sudrone della Costa
 
 lotr.title.MOREDAIN_moredain=Morwaith
-lotr.title.MOREDAIN_lion=Lion
-lotr.title.MOREDAIN_lioness=Lioness
+lotr.title.MOREDAIN_lion=Lion -> Leone
+lotr.title.MOREDAIN_lioness=Lioness -> Leonessa
 
 lotr.title.TAUREDAIN_tauredain=Taurethrim
 
-lotr.title.HALF_TROLL_halfTroll=Half-troll
+lotr.title.HALF_TROLL_halfTroll=Half-troll -> Mezzo Troll
 lotr.title.HALF_TROLL_pertorogwaith=Perdorogwaith
 
-lotr.title.trollSlayer=Master Trollslayer
-lotr.title.entSlayer=Master Entslayer
+lotr.title.trollSlayer=Master Trollslayer -> Maestro assassino di Troll (slayer = uccisore, assassino)
+lotr.title.entSlayer=Master Entslayer -> Maestro assassino di Ent
 
-lotr.title.alcoholic=Alcoholic
-lotr.title.explore50Biomes=Worldwalker
-lotr.title.fourLeafClover=Lucky
+lotr.title.alcoholic=Alcoholic -> alcolista o alcolizzato? (???)
+lotr.title.explore50Biomes=Worldwalker -> Giramondo?
+lotr.title.fourLeafClover=Lucky -> Fortunato
 lotr.title.enterUtumno=Utumno
-lotr.title.enterUtumnoFire=Flame of Udûn
-lotr.title.visitOcean=Mariner
+lotr.title.enterUtumnoFire=Flame of Udûn -> Fiamma di Udûn
+lotr.title.visitOcean=Mariner -> Marinaio
 lotr.title.enterMeneltarma=Atalantë
-lotr.title.rideBarrel=Barrel-rider
-lotr.title.fishRing=Birthday
+lotr.title.rideBarrel=Barrel-rider -> Cavalcabarili
+lotr.title.fishRing=Birthday -> Compleanno
 lotr.title.wearFullGondolin=Gondolin
 lotr.title.cookKebab=Kebab
-lotr.title.brewDrink=Homebrewer
-lotr.title.drinkSkull=Sick Joker
-lotr.title.zookeeper=Zookeeper
-lotr.title.killEnt=Ent Slayer
-lotr.title.manFlesh=Man-flesh
+lotr.title.brewDrink=Homebrewer -> Birraio artigianale o magari Mastro Birraio?
+lotr.title.drinkSkull=Sick Joker -> (???)
+lotr.title.zookeeper=Zookeeper -> Guardiano dello zoo
+lotr.title.killEnt=Ent Slayer -> Assassino di Ent
+lotr.title.manFlesh=Man-flesh -> Carne umana
 lotr.title.saltedFlesh=Suspicious...
-lotr.title.pickpocket=Pickpocket
-lotr.title.killBarrowWight=Wight Slayer
-lotr.title.stealGrapes=Grape Stealer
-lotr.title.gondorRenegade=Renegade
-lotr.title.killGondorRenegade=Renegade Hunter
+lotr.title.pickpocket=Pickpocket -> Borseggiatore
+lotr.title.killBarrowWight=Wight Slayer -> Assassino di Spettri
+lotr.title.stealGrapes=Grape Stealer -> Ladro d'uva
+lotr.title.gondorRenegade=Renegade -> Rinnegato
+lotr.title.killGondorRenegade=Renegade Hunter -> Cacciatore di rinnegati
 
 SCUDI (3110-3239)
+lotr.gui.shields.title=Middle-earth Shields -> Scudi della Terra di Mezzo
+lotr.gui.shields.select=Select Shield -> Seleziona Scudo
+lotr.gui.shields.remove=Remove Shield -> Rimuovi Scudo
+lotr.gui.shields.selected=Selected! -> Selezionato!
 
-GUI (3241-3380)
+lotr.shields.category.ALIGNMENT=Alignment Shields -> Scudi per Allineamento
+lotr.shields.category.ACHIEVABLE=Achievable Shields -> Scudi Ottenibili
+lotr.shields.category.EXCLUSIVE=Exclusive Shields -> Scudi Esclusivi
 
-HIREDNPC(3382-3398)
+lotr.shields.ALIGNMENT_RANGER.name=Shield of the Dúnedain -> Scudo dei Dúnedain
+lotr.shields.ALIGNMENT_RANGER.desc=Awarded for reaching +1000 alignment with the Dúnedain of the North
+lotr.shields.ALIGNMENT_BLUE_MOUNTAINS.name=Shield of Ered Luin -> Scudo degli Ered Luin
+lotr.shields.ALIGNMENT_BLUE_MOUNTAINS.desc=Awarded for reaching +1000 alignment with the Dwarves of the Blue Mountains
+lotr.shields.ALIGNMENT_HIGH_ELF.name=Shield of the Fair Realm -> Scudo del Reame Fatato (sarebbe il Lindon, c'è un termine più canonico di Reame Fatato?)
+lotr.shields.ALIGNMENT_HIGH_ELF.desc=Awarded for reaching +1000 alignment with the High Elves
+lotr.shields.ALIGNMENT_RIVENDELL.name=Shield of Imladris -> Scudo di Imladris
+lotr.shields.ALIGNMENT_RIVENDELL.desc=Awarded for reaching +1000 alignment with the High Elves
+lotr.shields.ALIGNMENT_GUNDABAD.name=Shield of Filth -> Scudo del Lerciume
+lotr.shields.ALIGNMENT_GUNDABAD.desc=Awarded for reaching +1000 alignment with Gundabad
+lotr.shields.ALIGNMENT_ANGMAR.name=Shield of Ruin -> Scudo della Rovina
+lotr.shields.ALIGNMENT_ANGMAR.desc=Awarded for reaching +1000 alignment with Angmar
+lotr.shields.ALIGNMENT_WOOD_ELF.name=Shield of the Greenwood -> Scudo del Boscoverde
+lotr.shields.ALIGNMENT_WOOD_ELF.desc=Awarded for reaching +1000 alignment with the Wood-elves
+lotr.shields.ALIGNMENT_DOL_GULDUR.name=Shield of Dark Sorcery -> Scudo della Magia Oscura
+lotr.shields.ALIGNMENT_DOL_GULDUR.desc=Awarded for reaching +1000 alignment with Dol Guldur
+lotr.shields.ALIGNMENT_DALE.name=Shield of the North -> Scudo del Nord
+lotr.shields.ALIGNMENT_DALE.desc=Awarded for reaching +1000 alignment with Dale
+lotr.shields.ALIGNMENT_ESGAROTH.name=Shield of the Lake -> Scudo del Lago
+lotr.shields.ALIGNMENT_ESGAROTH.desc=Awarded for reaching +1000 alignment with Dale
+lotr.shields.ALIGNMENT_DWARF.name=Shield of Seven Stars -> Scudo delle Sette Stelle
+lotr.shields.ALIGNMENT_DWARF.desc=Awarded for reaching +1000 alignment with Durin's Folk
+lotr.shields.ALIGNMENT_GALADHRIM.name=Shield of the Golden Wood -> Scudo del Bosco d'oro
+lotr.shields.ALIGNMENT_GALADHRIM.desc=Awarded for reaching +1000 alignment with the Galadhrim
+lotr.shields.ALIGNMENT_DUNLAND.name=Shield of the Wolf -> Scudo del Lupo
+lotr.shields.ALIGNMENT_DUNLAND.desc=Awarded for reaching +1000 alignment with the Dunlendings
+lotr.shields.ALIGNMENT_URUK_HAI.name=Shield of the White Hand -> Scudo della Mano Bianca
+lotr.shields.ALIGNMENT_URUK_HAI.desc=Awarded for reaching +1000 alignment with Isengard
+lotr.shields.ALIGNMENT_ROHAN.name=Shield of the Horse-lords -> Scudo dei Signori dei Cavalli
+lotr.shields.ALIGNMENT_ROHAN.desc=Awarded for reaching +1000 alignment with the Rohirrim
+lotr.shields.ALIGNMENT_GONDOR.name=Shield of the White Tree -> Scudo dell'Albero Bianco
+lotr.shields.ALIGNMENT_GONDOR.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_DOL_AMROTH.name=Shield of the Swan -> Scudo del Cigno
+lotr.shields.ALIGNMENT_DOL_AMROTH.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_LOSSARNACH.name=Shield of the Flowers -> Scudo dei Fiori
+lotr.shields.ALIGNMENT_LOSSARNACH.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_LEBENNIN.name=Shield of the Streams -> Scudo dei Fiumi
+lotr.shields.ALIGNMENT_LEBENNIN.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_PELARGIR.name=Shield of the Havens -> Scudo dei Porti
+lotr.shields.ALIGNMENT_PELARGIR.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_BLACKROOT_VALE.name=Shield of the Blackroot -> Scudo del Morthond
+lotr.shields.ALIGNMENT_BLACKROOT_VALE.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_PINNATH_GELIN.name=Shield of the Hills -> Scudo delle Colline
+lotr.shields.ALIGNMENT_PINNATH_GELIN.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_LAMEDON.name=Shield of the Vales -> Scudo delle Valli
+lotr.shields.ALIGNMENT_LAMEDON.desc=Awarded for reaching +1000 alignment with Gondor
+lotr.shields.ALIGNMENT_MORDOR.name=Shield of Shadows -> Scudo delle Ombre
+lotr.shields.ALIGNMENT_MORDOR.desc=Awarded for reaching +1000 alignment with Mordor
+lotr.shields.ALIGNMENT_MINAS_MORGUL.name=Shield of Morgul -> Scudo Morgul
+lotr.shields.ALIGNMENT_MINAS_MORGUL.desc=Awarded for reaching +1000 alignment with Mordor
+lotr.shields.ALIGNMENT_BLACK_URUK.name=Shield of the Dark Elite -> Scudo dell'Elite Oscura
+lotr.shields.ALIGNMENT_BLACK_URUK.desc=Awarded for reaching +1000 alignment with Mordor
+lotr.shields.ALIGNMENT_DORWINION.name=Shield of the Vintner Court -> Scudo della Corte dei Vinai
+lotr.shields.ALIGNMENT_DORWINION.desc=Awarded for reaching +1000 alignment with Dorwinion
+lotr.shields.ALIGNMENT_DORWINION_ELF.name=Shield of Bladorthin -> Scudo di Bladorthin
+lotr.shields.ALIGNMENT_DORWINION_ELF.desc=Awarded for reaching +1000 alignment with Dorwinion
+lotr.shields.ALIGNMENT_RHUN.name=Shield of Rhûn -> Scudo di Rhûn
+lotr.shields.ALIGNMENT_RHUN.desc=Awarded for reaching +1000 alignment with Rhúdel
+lotr.shields.ALIGNMENT_HARNEDOR.name=Shield of the Harnen -> Scudo dell'Harnen
+lotr.shields.ALIGNMENT_HARNEDOR.desc=Awarded for reaching +1000 alignment with the Near Haradrim
+lotr.shields.ALIGNMENT_NEAR_HARAD.name=Shield of the Serpent -> Scudo del Serpente
+lotr.shields.ALIGNMENT_NEAR_HARAD.desc=Awarded for reaching +1000 alignment with the Near Haradrim
+lotr.shields.ALIGNMENT_UMBAR.name=Shield of Umbar -> Scudo di Umbar
+lotr.shields.ALIGNMENT_UMBAR.desc=Awarded for reaching +1000 alignment with the Near Haradrim
+lotr.shields.ALIGNMENT_CORSAIR.name=Shield of the Corsairs -> Scudo dei Corsari
+lotr.shields.ALIGNMENT_CORSAIR.desc=Awarded for reaching +1000 alignment with the Near Haradrim
+lotr.shields.ALIGNMENT_GULF.name=Shield of Khopazûl -> Scudo di Khopazûl
+lotr.shields.ALIGNMENT_GULF.desc=Awarded for reaching +1000 alignment with the Near Haradrim
+lotr.shields.ALIGNMENT_MOREDAIN.name=Shield of the Sunlands -> Scudo delle Sunlands
+lotr.shields.ALIGNMENT_MOREDAIN.desc=Awarded for reaching +1000 alignment with the Morwaith
+lotr.shields.ALIGNMENT_TAUREDAIN.name=Shield of the Jungle -> Scudo della Giungla
+lotr.shields.ALIGNMENT_TAUREDAIN.desc=Awarded for reaching +1000 alignment with the Taurethrim
+lotr.shields.ALIGNMENT_HALF_TROLL.name=Shield of Desolation -> Scudo della Desolazione
+lotr.shields.ALIGNMENT_HALF_TROLL.desc=Awarded for reaching +1000 alignment with the Half-trolls
+
+lotr.shields.ACHIEVEMENT_BRONZE.name=Bronze Adventurer's Shield
+lotr.shields.ACHIEVEMENT_BRONZE.desc=Awarded for earning 25 achievements in Middle-earth
+lotr.shields.ACHIEVEMENT_SILVER.name=Silver Adventurer's Shield
+lotr.shields.ACHIEVEMENT_SILVER.desc=Awarded for earning 50 achievements in Middle-earth
+lotr.shields.ACHIEVEMENT_GOLD.name=Golden Adventurer's Shield
+lotr.shields.ACHIEVEMENT_GOLD.desc=Awarded for earning 100 achievements in Middle-earth
+lotr.shields.ACHIEVEMENT_MITHRIL.name=Mithril Adventurer's Shield
+lotr.shields.ACHIEVEMENT_MITHRIL.desc=Awarded for earning 200 achievements in Middle-earth
+lotr.shields.ALCOHOLIC.name=Alcoholic's Shield
+lotr.shields.ALCOHOLIC.desc=Awarded for enjoying a copious amount of alcoholic beverages
+lotr.shields.DEFEAT_MTC.name=Trollslayer's Shield
+lotr.shields.DEFEAT_MTC.desc=Awarded for defeating the Hill-troll Chieftain
+lotr.shields.DEFEAT_MALLORN_ENT.name=Entslayer's Shield
+lotr.shields.DEFEAT_MALLORN_ENT.desc=Awarded for defeating the Mallorn Ent
+
+lotr.shields.ELVEN_CONTEST.name=Elven Contest Shield
+lotr.shields.ELVEN_CONTEST.desc=Awarded as a prize in Building Contest #1 (Elven)
+lotr.shields.EVIL_CONTEST.name=Evil Contest Shield
+lotr.shields.EVIL_CONTEST.desc=Awarded as a prize in Building Contest #2 (Evil)
+lotr.shields.SHIRE_CONTEST.name=Shire Contest Shield
+lotr.shields.SHIRE_CONTEST.desc=Awarded as a prize in Building Contest #3 (Shire)
+lotr.shields.GONDOR_CONTEST.name=Gondor Contest Shield
+lotr.shields.GONDOR_CONTEST.desc=Awarded as a prize in Building Contest #4 (Gondor)
+lotr.shields.HARAD_CONTEST.name=Harad Contest Shield
+lotr.shields.HARAD_CONTEST.desc=Awarded as a prize in Building Contest #5 (Harad)
+lotr.shields.RHUN_CONTEST.name=Easterling Contest Shield
+lotr.shields.RHUN_CONTEST.desc=Awarded as a prize in Building Contest #6 (Easterling)
+lotr.shields.STRUCTURE_CONTEST.name=Architect's Shield
+lotr.shields.STRUCTURE_CONTEST.desc=Awarded for having your build implemented into the mod in Structure Contest #1
+lotr.shields.MOD.name=Modder's Shield
+lotr.shields.MOD.desc=Worn by the mod team
+lotr.shields.GRUK.name=Vodka Shield
+lotr.shields.GRUK.desc=Worn by Polish Nobles
+lotr.shields.BOYD.name=Shield of House Catsman
+lotr.shields.BOYD.desc=Worn by Dutch Nobles
+lotr.shields.ELECTRICIAN.name=Electrician's Shield
+lotr.shields.ELECTRICIAN.desc=Worn by Mr. Gibbs
+lotr.shields.OGRE.name=Ogre Shield
+lotr.shields.OGRE.desc=Awarded for making a magical discovery
+lotr.shields.TRANSLATOR.name=Shield of the Lambengolmor
+lotr.shields.TRANSLATOR.desc=Given to those who help by translating the mod into other tongues
+lotr.shields.PATRON.name=Patron's Shield
+lotr.shields.PATRON.desc=Given to those who support the mod on Patreon
+lotr.shields.LOREMASTER_2013.name=Loremaster's Shield 2013
+lotr.shields.LOREMASTER_2013.desc=Awarded to the top five contributors on the mod's wiki during 2013
+lotr.shields.LOREMASTER_2014.name=Loremaster's Shield 2014
+lotr.shields.LOREMASTER_2014.desc=Awarded to the top ten contributors on the mod's wiki during 2014
+lotr.shields.LOREMASTER_2015.name=Loremaster's Shield 2015
+lotr.shields.LOREMASTER_2015.desc=Awarded to the top ten contributors on the mod's wiki during 2015
+lotr.shields.LOREMASTER_2016.name=Loremaster's Shield 2016
+lotr.shields.LOREMASTER_2016.desc=Awarded to the top ten contributors on the mod's wiki during 2016
+
+
+GUI (3241-3398)
+lotr.gui.options.title=Middle-earth Options
+lotr.gui.options.worldSettings=World Settings
+lotr.gui.options.friendlyFire=Friendly Fire
+lotr.gui.options.friendlyFire.desc.on=ON: All NPCs, including other players' allied hired units, can be attacked
+lotr.gui.options.friendlyFire.desc.off=OFF: Allied NPCs cannot be attacked, hurt, or aggravated, unless they target you first
+lotr.gui.options.hiredDeathMessages=Hired Unit Death Messages
+lotr.gui.options.hiredDeathMessages.desc.on=ON: Receive a chat message if your hired unit is killed
+lotr.gui.options.hiredDeathMessages.desc.off=OFF: Do not receive a chat message
+lotr.gui.options.showAlignment=Show Alignment
+lotr.gui.options.showAlignment.desc.on=ON: Other players will be able to see your alignment displayed above your head
+lotr.gui.options.showAlignment.desc.off=OFF: Other players will not be able to see your alignment
+lotr.gui.options.showMapLocation=Show Map Location
+lotr.gui.options.showMapLocation.desc.on=ON: Other players will be able to see your location on the Middle-earth map
+lotr.gui.options.showMapLocation.desc.off=OFF: Other players will not be able to see your location
+lotr.gui.options.femRank=Feminine Rank Override
+lotr.gui.options.femRank.desc.on=ON: Gendered ranks always display the feminine
+lotr.gui.options.femRank.desc.off=OFF: Gendered ranks display the feminine if your current selected title is feminine
+lotr.gui.options.conquest=Conquest Kills
+lotr.gui.options.conquest.desc.on=ON: Killing enemy NPCs increases your pledged faction's conquest, or cleanses that enemy's conquest if it exists there
+lotr.gui.options.conquest.desc.off=OFF: Killing NPCs does not affect conquest
+
+lotr.gui.button.on=ON
+lotr.gui.button.off=OFF
+
+lotr.gui.hornSelect.title=Horn of Command Selection
+lotr.gui.hornSelect.haltReady=Halt/Ready Units
+lotr.gui.hornSelect.summon=Summon Units
+
+lotr.gui.daleCracker=Dalish Cracker
+lotr.gui.daleCracker.seal=Seal Cracker
+
+lotr.gui.squadronItem.squadron=Assigned hired unit squadron:
+lotr.gui.squadronItem.none=None
+lotr.gui.squadronItem.done=Done
+
+lotr.gui.brandingIron.title=Branding Iron
+lotr.gui.brandingIron.naming=Name your branding iron:
+lotr.gui.brandingIron.unnameHint=Craft it with iron to unname it
+lotr.gui.brandingIron.done=Done
+
+lotr.gui.npc.talk=Talk
+lotr.gui.npc.trade=Trade
+lotr.gui.npc.exchange=Exchange Coins
+lotr.gui.npc.smith=Smith
+lotr.gui.npc.hire=Hire
+lotr.gui.npc.command=Command
+lotr.gui.npc.dismiss=Dismiss Unit
+
+lotr.gui.warrior.overview=Overview
+lotr.gui.warrior.options=Directives
+lotr.gui.warrior.openInv=Replace Equipment
+lotr.gui.warrior.squadron=Squadron
+lotr.gui.warrior.teleport=Teleport Automatically
+lotr.gui.warrior.guardMode=Guard Mode
+lotr.gui.warrior.guardRange=Guard Range
+lotr.gui.warrior.health=Health: %d/%d
+lotr.gui.warrior.kills=Mob Kills: %d
+lotr.gui.warrior.level=Combat Level: %d
+lotr.gui.warrior.xp=Total Experience: %d
+
+lotr.gui.farmer.mode=Farming Mode
+lotr.gui.farmer.range=Farming Range
+lotr.gui.farmer.openInv=Open Inventory
+lotr.gui.farmer.oneSeed=Farmers will not plant when carrying only one seed - they must keep one to know what they are farming
+
+lotr.gui.dismiss.dismiss=Dismiss
+lotr.gui.dismiss.cancel=Cancel
+lotr.gui.dismiss.warning1=Are you sure you want to dismiss this unit?
+lotr.gui.dismiss.warning2=You will not be able to get it back.
+lotr.gui.dismiss.mount=This unit's mount will also be dismissed.
+lotr.gui.dismiss.rider=This unit's rider will also be dismissed.
+
+lotr.fastTravel.travel=Fast travelling to %s
+lotr.fastTravel.skip=Press '%s' to skip
+lotr.fastTravel.underAttack=You cannot fast travel while under attack
+lotr.fastTravel.moreTime=You cannot yet fast travel to %s
+lotr.fastTravel.travelTicksStart=Fast travel in %d. Don't move!
+lotr.fastTravel.travelTicks=Fast travel in %d...
+lotr.fastTravel.motion=Fast travel stopped. Don't move!
+lotr.fastTravel.available=You can now fast travel
+
+lotr.gui.message.dismiss=Dismiss
+lotr.gui.message.notDisplayedAgain=This message will not be displayed again
+lotr.gui.message.friendlyFire=It looks like you're trying to attack an allied NPC!\n\nWith the Friendly Fire setting disabled, you are unable to attack allied NPCs, which stops you from accidentally harming your allies. To enable Friendly Fire, open the Middle-earth menu and navigate to Options.
+lotr.gui.message.utumnoWarn=These ruins are ancient beyond measure. Be on your guard - there are older and fouler things than Orcs in the deep places of the world...
+lotr.gui.message.enchanting=Enchanting is disabled by default since the introduction of a new modifier system to the LOTR Mod.\n\nTo re-enable enchanting, disable modifiers, or both, go to the mod's configuration file or the in-game configuration menu.
+lotr.gui.message.alignDrain=When you see this icon:\n\n\n\nyou are losing alignment with one or more factions due to holding positive alignment (+) with a Mortal Enemy of theirs.\nKeep an eye on your alignments!
+
+lotr.gui.bannerEdit.title=Banner Protection
+lotr.gui.bannerEdit.protectionMode.playerSpecific=Protection: Whitelist -> mantengo Whitelist? uso Lista bianca? (???)
+lotr.gui.bannerEdit.protectionMode.playerSpecific.desc.1=Players and Fellowships listed below
+lotr.gui.bannerEdit.protectionMode.playerSpecific.desc.2=can bypass this banner's protection
+lotr.gui.bannerEdit.protectionMode.faction=Protection: Faction
+lotr.gui.bannerEdit.protectionMode.faction.desc.1=Players with at least:
+lotr.gui.bannerEdit.protectionMode.faction.desc.2=+%d %s alignment
+lotr.gui.bannerEdit.protectionMode.faction.desc.3=can bypass this banner's protection
+lotr.gui.bannerEdit.protectionMode.faction.alignment=Alignment Required:
+lotr.gui.bannerEdit.invalidUsername=Invalid username!
+lotr.gui.bannerEdit.selfProtection.on=Self-protection: ON
+lotr.gui.bannerEdit.selfProtection.off=Self-protection: OFF
+lotr.gui.bannerEdit.fellowshipHint=Use %s[name] for a Fellowship
+lotr.gui.bannerEdit.perms.player=Player Permissions
+lotr.gui.bannerEdit.perms.fellowship=Fellowship Permissions
+lotr.gui.bannerEdit.perms.name=%s
+lotr.gui.bannerEdit.perms.default=Default Permissions
+lotr.gui.bannerEdit.perms.allPlayers=All Players
+lotr.gui.bannerEdit.perm.FULL=All Permissions (includes placing & breaking blocks)
+lotr.gui.bannerEdit.perm.DOORS=Doors & Gates
+lotr.gui.bannerEdit.perm.TABLES=Crafting Tables
+lotr.gui.bannerEdit.perm.CONTAINERS=Containers
+lotr.gui.bannerEdit.perm.FOOD=Food & Drink
+lotr.gui.bannerEdit.perm.BEDS=Beds
+lotr.gui.bannerEdit.perm.SWITCHES=Switches
+
+lotr.gui.npcRespawner.title=NPC Respawner
+lotr.gui.npcRespawner.spawnClass1=Primary Spawn Class
+lotr.gui.npcRespawner.spawnClass2=Secondary Spawn Class
+lotr.gui.npcRespawner.checkHorizontal=Check X/Z Range
+lotr.gui.npcRespawner.checkVerticalMin=Check Y Min
+lotr.gui.npcRespawner.checkVerticalMax=Check Y Max
+lotr.gui.npcRespawner.spawnCap=Spawn Cap
+lotr.gui.npcRespawner.spawnHorizontal=Spawn X/Z Range
+lotr.gui.npcRespawner.spawnVerticalMin=Spawn Y Min
+lotr.gui.npcRespawner.spawnVerticalMax=Spawn Y Max
+lotr.gui.npcRespawner.homeRange=Home Distance
+lotr.gui.npcRespawner.homeRange.off=OFF
+lotr.gui.npcRespawner.mounts=Spawn Mounts
+lotr.gui.npcRespawner.mounts.0=OFF
+lotr.gui.npcRespawner.mounts.1=ON
+lotr.gui.npcRespawner.mounts.2=Default
+lotr.gui.npcRespawner.blockEnemy=Block Enemy Spawns
+lotr.gui.npcRespawner.blockEnemy.off=OFF
+lotr.gui.npcRespawner.blockEnemy.tooltip=Does not block conquest spawns
+lotr.gui.npcRespawner.spawnInterval=Spawn Interval:
+lotr.gui.npcRespawner.spawnIntervalM=Minutes
+lotr.gui.npcRespawner.spawnIntervalS=Seconds
+lotr.gui.npcRespawner.noPlayerRange=No Player Range
+lotr.gui.npcRespawner.destroy=Destroy
+
+lotr.music.nowPlaying=Now playing:
+
+lotr.hiredNPC.status=Status: %s
+lotr.hiredNPC.status.combat=In combat
+lotr.hiredNPC.status.halted=Halted
+lotr.hiredNPC.status.ready=Ready
+lotr.hiredNPC.status.guard=Guarding
+lotr.hiredNPC.status.farming=Farming
+lotr.hiredNPC.status.following=Following
+lotr.hiredNPC.death=Your hired unit %s
+lotr.hiredNPC.desert=Your hired unit %s has deserted
+lotr.hiredNPC.dismiss=Your hired unit %s was relieved of duty
+lotr.hiredNPC.trollStone=Your hired unit %s has turned to stone
+lotr.hiredNPC.levelUp=Your hired unit %s has reached combat level %d
+lotr.hiredNPC.commandReq=Command requires:
+lotr.hiredNPC.commandReq.align=%s alignment with %s
+lotr.hiredNPC.commandReq.pledge.FACTION=Pledged to %s
+lotr.hiredNPC.commandReq.pledge.ANY_ELF=Pledged to any Elven faction
+lotr.hiredNPC.commandReq.pledge.ANY_DWARF=Pledged to any Dwarven faction
 
 ENTITA' (3400-3886)
+entity.lotr.generic.entityName=%s, the %s -> %s, il %s
+entity.lotr.GondorMan.entityName=%s of Gondor
+entity.lotr.RohanMan.entityName=%s of the Rohirrim
+entity.lotr.Dunedain.entityName=%s of the Dúnedain
+entity.lotr.Moredain.entityName=%s of the Morwaith
+entity.lotr.Tauredain.entityName=%s of the Taurethrim
+entity.lotr.DaleMan.entityName=%s of Dale
+entity.lotr.DorwinionMan.entityName=%s of Dorwinion
+entity.lotr.Harnedhrim.entityName=%s of Harnennor
+entity.lotr.Umbarian.entityName=%s of Umbar
 
-UNITA' (3888-3967)
+entity.lotr.HobbitBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.DunlendingBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.RohanMeadhost.locationName=%s's Hall -> Sala di %s (Mead hall-> sala dell'idromele)
+entity.lotr.DaleBaker.locationName=%s's Bakery -> Forno di %s
+entity.lotr.GondorBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.EasterlingBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.HarnedorBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.SouthronBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.UmbarBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.GulfBartender.locationName=%s's Tavern -> Taverna di %s
+entity.lotr.BreeInnkeeper.locationName=%s's Inn -> Locanda di %s
+entity.lotr.BreeHobbitInnkeeper.locationName=%s's Inn -> Locanda di %s
+
+entity.lotr.Horse.name=Horse
+entity.lotr.Hobbit.name=Hobbit
+entity.lotr.MordorOrc.name=Mordor Orc
+entity.lotr.ShirePony.name=Shire Pony
+entity.lotr.MordorWarg.name=Mordor Warg
+entity.lotr.GondorSoldier.name=Gondor Soldier
+entity.lotr.GondorMan.name=Gondorian
+entity.lotr.GaladhrimElf.name=Galadhrim Elf
+entity.lotr.HobbitBartender.name=Hobbit Bartender -> Oste? Locandiere? Barista?
+entity.lotr.RohanMan.name=Rohirrim
+entity.lotr.GaladhrimWarrior.name=Galadhrim Warrior
+entity.lotr.MordorOrcBombardier.name=Mordor Orc Bombardier
+entity.lotr.MordorOrcTrader.name=Mordor Orc Trader
+entity.lotr.MordorOrcArcher.name=Mordor Orc Archer
+entity.lotr.GondorRuinsWraith.name=Gondor Ruins Wraith -> Spettro delle rovine di Gondor (o spettro?) (???)
+entity.lotr.GondorBlacksmith.name=Gondor Blacksmith
+entity.lotr.GaladhrimTrader.name=Galadhrim Wanderer -> Viandante Galadhrim
+entity.lotr.Dwarf.name=Dwarf
+entity.lotr.DwarfWarrior.name=Dwarf Warrior
+entity.lotr.DwarfMiner.name=Dwarf Miner
+entity.lotr.MarshWraith.name=Marsh Wraith -> Spettro delle paludi (o spettro?) (???)
+entity.lotr.MordorWargBombardier.name=Mordor Warg Bombardier -> Mannaro bombardiere di Mordor (mannaro kamikaze)
+entity.lotr.MordorOrcMercenaryCaptain.name=Mordor Orc Commander -> Orco comandante di Mordor
+entity.lotr.GondorianCaptain.name=Gondorian Captain -> Capitano gondoriano
+entity.lotr.DwarfCommander.name=Dwarf Commander -> Nano comandante
+entity.lotr.DwarfAxeThrower.name=Dwarf Axe-thrower
+entity.lotr.GondorArcher.name=Gondor Archer
+entity.lotr.UrukHai.name=Uruk
+entity.lotr.UrukHaiCrossbower.name=Uruk Crossbower
+entity.lotr.UrukHaiBerserker.name=Uruk Berserker
+entity.lotr.UrukHaiTrader.name=Uruk Trader
+entity.lotr.UrukHaiMercenaryCaptain.name=Uruk Chieftain -> Capo Uruk
+entity.lotr.Troll.name=Troll
+entity.lotr.OlogHai.name=Olog-hai
+entity.lotr.GaladhrimLord.name=Galadhrim Lord
+entity.lotr.UrukHaiSapper.name=Uruk Sapper -> Artificiere Uruk
+entity.lotr.MirkwoodSpider.name=Mirkwood Spider
+entity.lotr.WoodElf.name=Wood-elf
+entity.lotr.WoodElfScout.name=Wood-elf Scout
+entity.lotr.RohanBarrowWraith.name=Rohan Barrow Wraith -> Spettro dei tumuli di Rohan
+entity.lotr.Rohirrim.name=Rohirrim Warrior
+entity.lotr.RohirrimArcher.name=Rohirrim Bowman
+entity.lotr.RohirrimMarshal.name=Rohirrim Marshal -> Maresciallo Rohirrim (canon)
+entity.lotr.HobbitShirriff.name=Hobbit Bounder -> Confiniere Hobbit
+entity.lotr.HobbitShirriffChief.name=Hobbit Shirriff
+entity.lotr.RohanBlacksmith.name=Rohirrim Blacksmith
+entity.lotr.RangerNorth.name=Ranger of the North
+entity.lotr.RangerIthilien.name=Ranger of Ithilien
+entity.lotr.DunlendingWarrior.name=Dunlending Warrior
+entity.lotr.DunlendingArcher.name=Dunlending Bowman
+entity.lotr.DunlendingWarlord.name=Dunlending Warlord -> Condottiero? Signore della guerra mi sembra eccessivo. Forse condottiero è troppo civilizzato (???)
+entity.lotr.Dunlending.name=Dunlending
+entity.lotr.DunlendingBartender.name=Dunlending Bartender
+entity.lotr.RohanShieldmaiden.name=Shieldmaiden of Rohan
+entity.lotr.Ent.name=Ent
+entity.lotr.MountainTroll.name=Hill-troll
+entity.lotr.MountainTrollChieftain.name=Hill-troll Chieftain -> Capo dei Troll di Collina
+entity.lotr.Huorn.name=Huorn
+entity.lotr.DarkHuorn.name=Dark Huorn
+entity.lotr.WoodElfWarrior.name=Wood-elf Warrior
+entity.lotr.WoodElfCaptain.name=Wood-elf Captain -> Elfo Silvano capitano
+entity.lotr.RohanMeadhost.name=Rohirrim Meadhost -> (???) (!!!)
+entity.lotr.Butterfly.name=Butterfly
+entity.lotr.Midges.name=Midges
+entity.lotr.AngmarOrcMercenaryCaptain.name=Angmar Orc Chieftain
+entity.lotr.Dunedain.name=Dúnedain
+entity.lotr.NurnSlave.name=Slave of Nurn
+entity.lotr.Rabbit.name=Rabbit
+entity.lotr.Boar.name=Wild Boar -> Cinghiale (senza selvatico) (???)
+entity.lotr.HobbitOrcharder.name=Hobbit Orcharder -> Frutticoltore Hobbit
+entity.lotr.MordorOrcSlaver.name=Mordor Slaver -> Orco schiavista di Mordor (aggiunto Orco per coerenza)
+entity.lotr.MordorSpider.name=Mordor Spider
+entity.lotr.MordorOrcSpiderKeeper.name=Mordor Spider Keeper -> Addestratore di ragni di Mordor
+entity.lotr.AngmarOrc.name=Angmar Orc
+entity.lotr.AngmarOrcArcher.name=Angmar Orc Archer
+entity.lotr.AngmarOrcBombardier.name=Angmar Orc Bombardier
+entity.lotr.GundabadOrc.name=Gundabad Orc
+entity.lotr.GundabadOrcArcher.name=Gundabad Orc Archer
+entity.lotr.GundabadOrcMercenaryCaptain.name=Gundabad Orc Chieftain -> Orco capo del Gundabad
+entity.lotr.RangerNorthCaptain.name=Ranger Captain of the North -> Capitano dei Raminghi del Nord
+entity.lotr.GundabadWarg.name=Gundabad Warg
+entity.lotr.AngmarWarg.name=Angmar Warg
+entity.lotr.AngmarWargBombardier.name=Angmar Warg Bombardier
+entity.lotr.UrukWarg.name=Isengard Warg
+entity.lotr.UrukWargBombardier.name=Isengard Warg Bombardier
+entity.lotr.Lion.name=Lion
+entity.lotr.Lioness.name=Lioness
+entity.lotr.Giraffe.name=Giraffe
+entity.lotr.Zebra.name=Zebra
+entity.lotr.Rhino.name=Rhino
+entity.lotr.Crocodile.name=Crocodile
+entity.lotr.NearHaradrim.name=Coast Southron
+entity.lotr.NearHaradrimWarrior.name=Coast Southron Warrior
+entity.lotr.HighElf.name=Lindon Elf
+entity.lotr.Gemsbok.name=Gemsbok -> Gazzella (non accuratissimo)
+entity.lotr.Flamingo.name=Flamingo
+entity.lotr.HobbitFarmer.name=Hobbit Farmer
+entity.lotr.HobbitFarmhand.name=Hobbit Farmhand -> Bracciante Hobbit
+entity.lotr.HighElfWarrior.name=Lindon Warrior -> Guerriero del Lindon (si dovrebbe aggiungere Elfo per coerenza?) (???)
+entity.lotr.HighElfLord.name=Lindon Lord -> Signore del Lindon
+entity.lotr.GondorBannerBearer.name=Gondor Banner Bearer
+entity.lotr.RohanBannerBearer.name=Rohan Banner Bearer
+entity.lotr.MordorBannerBearer.name=Mordor Banner Bearer
+entity.lotr.GaladhrimBannerBearer.name=Galadhrim Banner Bearer
+entity.lotr.WoodElfBannerBearer.name=Wood-elf Banner Bearer
+entity.lotr.DunlendingBannerBearer.name=Dunlending Banner Bearer
+entity.lotr.UrukHaiBannerBearer.name=Uruk Banner Bearer
+entity.lotr.DwarfBannerBearer.name=Dwarf Banner Bearer
+entity.lotr.AngmarBannerBearer.name=Angmar Banner Bearer -> Orco alfiere di Angmar (aggiunto orco)
+entity.lotr.NearHaradBannerBearer.name=Coast Southron Banner Bearer
+entity.lotr.HighElfBannerBearer.name=Lindon Banner Bearer
+entity.lotr.JungleScorpion.name=Jungle Scorpion
+entity.lotr.DesertScorpion.name=Desert Scorpion
+entity.lotr.Bird.name=Bird
+entity.lotr.Crebain.name=Craban (mantengo questo nome)
+entity.lotr.Camel.name=Camel
+entity.lotr.NearHaradrimArcher.name=Coast Southron Archer
+entity.lotr.NearHaradrimWarlord.name=Coast Southron Warlord -> Condottiero Sudrone della Costa (da considerare l'ordine dei termini per i sudroni della costa)
+entity.lotr.BlueDwarf.name=Blue Mountains Dwarf
+entity.lotr.BlueDwarfWarrior.name=Blue Mountains Warrior -> Nano guerriero dei Monti Azzurri (aggiungendo Nano?) (???)
+entity.lotr.BlueDwarfAxeThrower.name=Blue Mountains Axe-thrower
+entity.lotr.BlueDwarfBannerBearer.name=Blue Mountains Banner Bearer
+entity.lotr.BlueDwarfCommander.name=Blue Mountains Commander
+entity.lotr.BlueDwarfMiner.name=Blue Mountains Miner
+entity.lotr.NearHaradDrinksTrader.name=Coast Southron Brewer -> Birraio Sudrone della Costa (non fanno birra) (???)
+entity.lotr.NearHaradMineralsTrader.name=Coast Southron Miner
+entity.lotr.NearHaradPlantsTrader.name=Coast Southron Florist -> Fioraio
+entity.lotr.NearHaradFoodTrader.name=Coast Southron Butcher -> Macellaio
+entity.lotr.BlueDwarfMerchant.name=Blue Mountains Merchant -> Nano mercante dei Monti Azzurri (aggiungendo nano)
+entity.lotr.Bandit.name=Bandit -> bandito (o magari brigante?)
+entity.lotr.RangerNorthBannerBearer.name=Ranger Banner Bearer
+entity.lotr.Elk.name=Elk
+entity.lotr.GondorTowerGuard.name=Gondor Tower Guard
+entity.lotr.NearHaradMerchant.name=Merchant of Harad -> Mercante dell'Harad
+entity.lotr.HaradPyramidWraith.name=Harad Pyramid Wraith -> Spettro delle piramidi dell'Harad
+entity.lotr.DolGuldurOrc.name=Dol Guldur Orc
+entity.lotr.DolGuldurOrcArcher.name=Dol Guldur Orc Archer
+entity.lotr.DolGuldurBannerBearer.name=Dol Guldur Banner Bearer -> aggiunto orco
+entity.lotr.DolGuldurChieftain.name=Dol Guldur Orc Chieftain
+entity.lotr.MirkTroll.name=Mirk-troll -> Troll di Bosco Atro
+entity.lotr.GundabadBannerBearer.name=Gundabad Banner Bearer -> Orco alfiere del Gundabad
+entity.lotr.Termite.name=Exploding Termite
+entity.lotr.DikDik.name=Dik-dik
+entity.lotr.BlackUruk.name=Black Uruk
+entity.lotr.BlackUrukArcher.name=Black Uruk Archer
+entity.lotr.HalfTroll.name=Half-troll
+entity.lotr.RangerIthilienCaptain.name=Ithilien Ranger Captain -> Capitano dei Raminghi dell'Ithilien
+entity.lotr.RangerIthilienBannerBearer.name=Ithilien Banner Bearer -> Alfiere dei Raminghi dell'Ithilien (aggiunto "dei raminghi")
+entity.lotr.HalfTrollWarrior.name=Half-troll Warrior
+entity.lotr.HalfTrollBannerBearer.name=Half-troll Banner Bearer
+entity.lotr.HalfTrollWarlord.name=Half-troll Warlord -> Mezzo troll condottiero (o signore della guerra?)
+entity.lotr.AngmarOrcTrader.name=Angmar Orc Trader
+entity.lotr.DolGuldurOrcTrader.name=Dol Guldur Orc Trader
+entity.lotr.HalfTrollScavenger.name=Half-troll Scavenger -> Mezzo troll rovistatore (o magari sciacallo, razziatore? non so come rendere scavenger) (???) (!!!)
+entity.lotr.GaladhrimSmith.name=Galadhrim Smith
+entity.lotr.HighElfSmith.name=Lindon Smith
+entity.lotr.WoodElfSmith.name=Wood-elven Smith
+entity.lotr.SwanKnight.name=Swan Knight -> Cavaliere del Cigno
+entity.lotr.DolAmrothCaptain.name=Dol Amroth Captain -> Capitano di Dol Amroth
+entity.lotr.DolAmrothBannerBearer.name=Dol Amroth Banner Bearer
+entity.lotr.Swan.name=Swan
+entity.lotr.Moredain.name=Morwaith
+entity.lotr.MoredainWarrior.name=Morwaith Warrior
+entity.lotr.MoredainBannerBearer.name=Morwaith Banner Bearer
+entity.lotr.MoredainChieftain.name=Morwaith Chieftain -> Capotribù Morwaith (in questo caso con Cheiftain intendo questo?)
+entity.lotr.MoredainHuntsman.name=Morwaith Huntsman -> Cacciatore Morwaith
+entity.lotr.MoredainHutmaker.name=Morwaith Hutmaker -> Costruttore di capanne Morwaith
+entity.lotr.DunlendingBerserker.name=Dunlending Berserker -> Berserker Dunlandiano
+entity.lotr.AngmarHillman.name=Rhudaur Hillman -> Uomo delle Colline di Rhudaur
+entity.lotr.AngmarHillmanWarrior.name=Rhudaur Hillman Warrior
+entity.lotr.AngmarHillmanChieftain.name=Rhudaur Hillman Chieftain -> Uomo delle Colline di Rhudaur capotribù (in questo caso con Cheiftain intendo questo?)
+entity.lotr.AngmarHillmanBannerBearer.name=Rhudaur Hillman Banner Bearer
+entity.lotr.AngmarHillmanAxeThrower.name=Rhudaur Hillman Axe-thrower
+entity.lotr.DunlendingAxeThrower.name=Dunlending Axe-thrower
+entity.lotr.IronHillsMerchant.name=Iron Hills Merchant -> Nano mercante dei Colli Ferrosi
+entity.lotr.MallornEnt.name=Mallorn Ent -> manteniamo così o mettiamo "Ent di Mallorn"
+entity.lotr.ScrapTrader.name=Oddment Collector -> Raccoglitore di resti (nome adatto?)(???)
+entity.lotr.Tauredain.name=Taurethrim
+entity.lotr.TauredainWarrior.name=Taurethrim Warrior
+entity.lotr.TauredainBannerBearer.name=Taurethrim Banner Bearer
+entity.lotr.TauredainChieftain.name=Taurethrim Chieftain -> Capotribù Taurethrim
+entity.lotr.TauredainBlowgunner.name=Taurethrim Blowgunner -> Cerbottaniere Taurethrim (la parola cerbottaniere non esiste!) (???)
+entity.lotr.BarrowWight.name=Barrow-wight -> Spettro dei tumuli
+entity.lotr.TauredainShaman.name=Taurethrim Shaman -> Sciamano Taurethrim
+entity.lotr.GaladhrimWarden.name=Galadhrim Warden -> Guardiano Galadhrim
+entity.lotr.TauredainFarmer.name=Taurethrim Farmer -> Contadino Taurethrim
+entity.lotr.TauredainFarmhand.name=Taurethrim Farmhand -> Bracciante Taurethrim
+entity.lotr.DwarfSmith.name=Dwarven Smith -> Nano fabbro (anche se sarebbe più corretto "fabbro nanico") (???)
+entity.lotr.BlueDwarfSmith.name=Blue Mountains Smith -> Nano fabbro dei Monti Azzurri
+entity.lotr.TauredainPyramidWraith.name=Taurethrim Pyramid Wraith -> Spettro delle piramidi Taurethrim
+entity.lotr.GundabadUruk.name=Gundabad Uruk -> Uruk del Gundabad
+entity.lotr.GundabadUrukArcher.name=Gundabad Uruk Archer -> Arciere Uruk del Gundabad
+entity.lotr.IsengardSnaga.name=Isengard Snaga -> Snaga di Isengard (o magari "orchetto"?)
+entity.lotr.IsengardSnagaArcher.name=Isengard Snaga Archer
+entity.lotr.BanditHarad.name=Harad Bandit
+entity.lotr.Deer.name=Deer
+entity.lotr.DaleMan.name=Dalishman -> Uomo di Dale (e per le donne?) (???)
+entity.lotr.DaleLevyman.name=Dalish Levyman -> (levyman = soldato di leva? Leva?)
+entity.lotr.DaleSoldier.name=Dalish Soldier
+entity.lotr.DaleArcher.name=Dalish Longbowman -> Arciere con arco lungo? (???)
+entity.lotr.DaleBannerBearer.name=Dalish Banner Bearer
+entity.lotr.DaleCaptain.name=Dalish Captain
+entity.lotr.DaleBlacksmith.name=Dalish Blacksmith (dovremmo denotare la differenza tra smith e blacksmith?) (???) (!!!)
+entity.lotr.DorwinionMan.name=Dorwinman -> Uomo del Dorwinon
+entity.lotr.DorwinionGuard.name=Vintner Guard -> Guardia delle vigne
+entity.lotr.DorwinionCaptain.name=Vintner Guard Captain
+entity.lotr.DorwinionBannerBearer.name=Dorwinion Banner Bearer
+entity.lotr.DorwinionElf.name=Dorwinion Elf
+entity.lotr.DorwinionElfWarrior.name=Warrior of Bladorthin
+entity.lotr.DorwinionElfBannerBearer.name=Dorwinion Elf Banner Bearer
+entity.lotr.DorwinionElfCaptain.name=Captain of Bladorthin
+entity.lotr.DaleBaker.name=Dalish Baker
+entity.lotr.DorwinionElfVintner.name=Dorwinion Vintner-elf (vinaio, vende ma non coltiva direttamente?)
+entity.lotr.DorwinionVinehand.name=Dorwinion Vinehand -> Vigniaiolo del Dorwinion (corrispettivo del bracciante) (???)
+entity.lotr.DorwinionVinekeeper.name=Dorwinion Vinekeeper -> Viticoltore del Dorwinion (corrispettivo del contadino) (???)
+entity.lotr.DorwinionMerchant.name=Dorwinion Elf Merchant
+entity.lotr.DaleMerchant.name=Dalish Merchant
+entity.lotr.Aurochs.name=Aurochs -> Uro
+entity.lotr.KineAraw.name=Kine of Araw -> Bufalo dell'Araw (stando a tolkienpedia, articolo Corno di Gondor)
+entity.lotr.DorwinionCrossbower.name=Vintner Guard Crossbower
+entity.lotr.LossarnachAxeman.name=Lossarnach Axeman -> Asciere del Lossarnach (non ho trovato il termine asciere, l'ho sviluppato come estensione da lanciere etc)
+entity.lotr.LossarnachBannerBearer.name=Lossarnach Banner Bearer
+entity.lotr.BlackUrukBannerBearer.name=Black Uruk Banner Bearer
+entity.lotr.PelargirMarine.name=Pelargir Marine -> fante di marina del Pelargir (fante di marina è un termine moderno? è adatto?) (???)
+entity.lotr.PelargirBannerBearer.name=Pelargir Banner Bearer
+entity.lotr.PinnathGelinSoldier.name=Pinnath Gelin Soldier
+entity.lotr.PinnathGelinBannerBearer.name=Pinnath Gelin Banner Bearer
+entity.lotr.BlackrootSoldier.name=Blackroot Vale Soldier -> Soldato del Mornan
+entity.lotr.BlackrootBannerBearer.name=Blackroot Vale Banner Bearer
+entity.lotr.BlackrootArcher.name=Blackroot Vale Bowman
+entity.lotr.GondorLevyman.name=Gondor Levyman
+entity.lotr.NanUngolBannerBearer.name=Nan Ungol Banner Bearer -> Orco alfiere di Nan Ungol (aggiunto orco)
+entity.lotr.MinasMorgulBannerBearer.name=Minas Morgul Banner Bearer -> Orco alfiere di Minas Morgul (aggiunto orco)
+entity.lotr.DolAmrothSoldier.name=Dol Amroth Man-at-arms -> Uomo d'arme di Dol Amroth
+entity.lotr.DolAmrothArcher.name=Dol Amroth Archer (da differenziare Archer/Bowman ?) (???)
+entity.lotr.GondorFarmer.name=Gondor Farmer
+entity.lotr.GondorFarmhand.name=Gondor Farmhand
+entity.lotr.LebenninLevyman.name=Lebennin Levyman
+entity.lotr.LebenninBannerBearer.name=Lebennin Banner Bearer
+entity.lotr.GondorBartender.name=Gondor Bartender
+entity.lotr.GondorGreengrocer.name=Gondor Greengrocer -> Fruttivendolo di Gondor
+entity.lotr.GondorLumberman.name=Gondor Lumberman -> Boscaiolo di Gondor (o meglio Taglialegna?) (???)
+entity.lotr.GondorMason.name=Gondor Stonemason -> Muratore di Gondor (o Tagliapietre? verificare villager vanilla)
+entity.lotr.GondorBrewer.name=Gondor Brewer -> Birraio di Gondor (non fa solo birra!) (???) (!!!)
+entity.lotr.GondorFlorist.name=Gondor Florist
+entity.lotr.GondorButcher.name=Gondor Butcher
+entity.lotr.GondorFishmonger.name=Gondor Fishmonger -> Pescivendolo di Gondor
+entity.lotr.GondorBaker.name=Gondor Baker -> Fornaio di Gondor
+entity.lotr.LossarnachCaptain.name=Lossarnach Captain
+entity.lotr.PelargirCaptain.name=Pelargir Commander
+entity.lotr.PinnathGelinCaptain.name=Pinnath Gelin Captain
+entity.lotr.BlackrootCaptain.name=Blackroot Vale Bowlord -> Signore dell'arco del Mornan (come rendere bowlord?) (???)
+entity.lotr.LebenninCaptain.name=Lebennin Levymaster -> Capitano delle leve del Lebennin (come rendere levymaster?) (???)
+entity.lotr.LamedonSoldier.name=Lamedon Warrior
+entity.lotr.LamedonArcher.name=Lamedon Archer
+entity.lotr.LamedonBannerBearer.name=Lamedon Banner Bearer
+entity.lotr.LamedonCaptain.name=Lamedon Captain
+entity.lotr.LamedonHillman.name=Lamedon Hillman -> Uomo delle colline del Lamedon (Colline non è maiuscolo come in quelli del Rhudaur?) (???)
+entity.lotr.RohanFarmhand.name=Rohirrim Farmhand
+entity.lotr.Gorcrow.name=Gorcrow -> Corvo Imperiale (canon)
+entity.lotr.Seagull.name=Seagull
+entity.lotr.RohanFarmer.name=Rohirrim Farmer
+entity.lotr.RohanLumberman.name=Rohirrim Lumberman -> Boscaiolo Rohirrim
+entity.lotr.RohanBuilder.name=Rohirrim Builder -> Costruttore Rohirrim
+entity.lotr.RohanBrewer.name=Rohirrim Brewer -> Birraio Rohirrim (???)
+entity.lotr.RohanButcher.name=Rohirrim Butcher
+entity.lotr.RohanFishmonger.name=Rohirrim Fishmonger
+entity.lotr.RohanBaker.name=Rohirrim Baker
+entity.lotr.RohanOrcharder.name=Rohirrim Orcharder -> Frutticoltore Rohirrim
+entity.lotr.DunedainBlacksmith.name=Dúnedain Blacksmith
+entity.lotr.RohanStablemaster.name=Rohirrim Stablemaster -> Stalliere Rohirrim
+entity.lotr.Bear.name=Bear
+entity.lotr.Easterling.name=Easterling
+entity.lotr.EasterlingWarrior.name=Easterling Warrior
+entity.lotr.EasterlingBannerBearer.name=Easterling Banner Bearer
+entity.lotr.EasterlingArcher.name=Easterling Archer
+entity.lotr.EasterlingBlacksmith.name=Easterling Blacksmith
+entity.lotr.EasterlingWarlord.name=Easterling Warlord -> Condottiero (o Signore della Guerra?) (???)
+entity.lotr.EasterlingFireThrower.name=Easterling Fire-thrower -> Flammiere Easterling (flammiere è un termine troppo moderno?) (???)
+entity.lotr.EasterlingLevyman.name=Easterling Clansman -> Uomo del clan (corrispettivo di levyman, come far capire che è l'unità più scarsa?) (???)
+entity.lotr.DorwinionMerchantMan.name=Dorwinion Merchant
+entity.lotr.EasterlingGoldWarrior.name=Golden Easterling -> Guerriero dorato Easterling (aggiunto guerriero)
+entity.lotr.EasterlingLumberman.name=Easterling Lumberman
+entity.lotr.EasterlingMason.name=Easterling Stonemason
+entity.lotr.EasterlingButcher.name=Easterling Butcher
+entity.lotr.EasterlingBrewer.name=Easterling Brewer
+entity.lotr.EasterlingFishmonger.name=Easterling Fishmonger
+entity.lotr.EasterlingBaker.name=Easterling Baker
+entity.lotr.EasterlingHunter.name=Easterling Huntsman
+entity.lotr.EasterlingFarmer.name=Easterling Farmer
+entity.lotr.EasterlingGoldsmith.name=Easterling Goldsmith -> Orafo Easterling
+entity.lotr.EasterlingBartender.name=Easterling Bartender
+entity.lotr.DorwinionElfArcher.name=Archer of Bladorthin
+entity.lotr.EasterlingFarmhand.name=Easterling Farmhand
+entity.lotr.RivendellElf.name=Rivendell Elf
+entity.lotr.RivendellWarrior.name=Rivendell Warrior -> (aggiungere "elfo"?)
+entity.lotr.RivendellLord.name=Rivendell Captain -> (aggiungere "elfo"?)
+entity.lotr.RivendellBannerBearer.name=Rivendell Banner Bearer -> (aggiungere "elfo"?)
+entity.lotr.RivendellSmith.name=Rivendell Smith -> (aggiungere "elfo"?)
+entity.lotr.EsgarothBannerBearer.name=Esgaroth Banner Bearer
+entity.lotr.RivendellTrader.name=Rivendell Wanderer -> Viandante di Granburrone
+entity.lotr.Fish.name=Fish
+entity.lotr.GundabadOrcTrader.name=Gundabad Orc Scrounger -> Orco parassita del Gundabad (scrounger=parassita, approfittatore, scroccone. magari potremmo usare speculatore?)
+entity.lotr.NearHaradBlacksmith.name=Coast Southron Blacksmith
+entity.lotr.SnowTroll.name=Snow-troll -> Troll delle nevi (canon)
+entity.lotr.Harnedhrim.name=Harnedhrim -> (va tradotto?)
+entity.lotr.HarnedorWarrior.name=Harnennor Warrior
+entity.lotr.HarnedorArcher.name=Harnennor Archer
+entity.lotr.HarnedorBannerBearer.name=Harnennor Banner Bearer
+entity.lotr.Umbarian.name=Umbarian -> Umbariano (???)
+entity.lotr.UmbarWarrior.name=Umbar Soldier
+entity.lotr.UmbarArcher.name=Umbar Archer
+entity.lotr.UmbarBannerBearer.name=Umbar Banner Bearer
+entity.lotr.MoredainMercenary.name=Morwaith Mercenary -> Mercenario Morwaith
+entity.lotr.GulfHaradrim.name=Gulfing
+entity.lotr.GulfWarrior.name=Gulfing Warrior
+entity.lotr.GulfArcher.name=Gulfing Archer
+entity.lotr.GulfBannerBearer.name=Gulfing Banner Bearer
+entity.lotr.Corsair.name=Corsair of Umbar
+entity.lotr.Nomad.name=Harad Nomad
+entity.lotr.NomadWarrior.name=Nomad Guard -> Guardia dei Nomadi
+entity.lotr.NomadArcher.name=Nomad Archer
+entity.lotr.NomadBannerBearer.name=Nomad Banner Bearer
+entity.lotr.HarnedorWarlord.name=Harnennor Warlord
+entity.lotr.UmbarCaptain.name=Umbar Captain
+entity.lotr.CorsairCaptain.name=Corsair Captain
+entity.lotr.NomadChieftain.name=Nomad Chieftain -> Capotribù dei Nomadi
+entity.lotr.GulfWarlord.name=Gulfing Warlord
+entity.lotr.SouthronChampion.name=Southron Champion
+entity.lotr.HaradSlave.name=Slave of Harad
+entity.lotr.CorsairSlaver.name=Corsair Slaver
+entity.lotr.HarnedorBlacksmith.name=Harnennor Bronzesmith -> Bronzista dell'Harnennor
+entity.lotr.UmbarBlacksmith.name=Umbar Blacksmith
+entity.lotr.GulfBlacksmith.name=Gulfing Blacksmith
+entity.lotr.GondorRenegade.name=Gondorian Renegade
+entity.lotr.NomadMerchant.name=Nomad Merchant
+entity.lotr.HarnedorBartender.name=Harnennor Bartender
+entity.lotr.HarnedorLumberman.name=Harnennor Lumberman
+entity.lotr.HarnedorMason.name=Harnennor Stonemason
+entity.lotr.HarnedorButcher.name=Harnennor Butcher
+entity.lotr.HarnedorBrewer.name=Harnennor Brewer
+entity.lotr.HarnedorFishmonger.name=Harnennor Fishmonger
+entity.lotr.HarnedorBaker.name=Harnennor Baker
+entity.lotr.HarnedorHunter.name=Harnennor Huntsman
+entity.lotr.HarnedorMiner.name=Harnennor Miner
+entity.lotr.SouthronLumberman.name=Coast Southron Lumberman
+entity.lotr.SouthronMason.name=Coast Southron Stonemason
+entity.lotr.SouthronFishmonger.name=Coast Southron Fishmonger
+entity.lotr.SouthronBaker.name=Coast Southron Baker
+entity.lotr.SouthronGoldsmith.name=Coast Southron Goldsmith
+entity.lotr.UmbarLumberman.name=Umbar Lumberman
+entity.lotr.UmbarButcher.name=Umbar Butcher
+entity.lotr.UmbarBrewer.name=Umbar Brewer
+entity.lotr.UmbarFishmonger.name=Umbar Fishmonger
+entity.lotr.UmbarBaker.name=Umbar Baker
+entity.lotr.UmbarFlorist.name=Umbar Florist
+entity.lotr.UmbarMiner.name=Umbar Miner
+entity.lotr.UmbarGoldsmith.name=Umbar Goldsmith
+entity.lotr.UmbarMason.name=Umbar Stonemason
+entity.lotr.NomadMason.name=Nomad Stonemason
+entity.lotr.NomadBrewer.name=Nomad Brewer
+entity.lotr.NomadMiner.name=Nomad Miner
+entity.lotr.GulfMason.name=Gulfing Stonemason
+entity.lotr.GulfButcher.name=Gulfing Butcher
+entity.lotr.GulfBrewer.name=Gulfing Brewer
+entity.lotr.GulfFishmonger.name=Gulfing Fishmonger
+entity.lotr.GulfBaker.name=Gulfing Baker
+entity.lotr.GulfMiner.name=Gulfing Miner
+entity.lotr.GulfGoldsmith.name=Gulfing Goldsmith
+entity.lotr.GulfLumberman.name=Gulfing Lumberman
+entity.lotr.GulfHunter.name=Gulfing Huntsman
+entity.lotr.NomadArmourer.name=Nomad Armourer -> Armaiolo dei Nomadi
+entity.lotr.SouthronBartender.name=Coast Southron Bartender
+entity.lotr.UmbarBartender.name=Umbar Bartender
+entity.lotr.GulfBartender.name=Gulfing Bartender
+entity.lotr.HarnedorFarmhand.name=Harnennor Farmhand
+entity.lotr.HarnedorFarmer.name=Harnennor Farmer
+entity.lotr.SouthronFarmer.name=Coast Southron Farmer
+entity.lotr.UmbarFarmer.name=Umbar Farmer
+entity.lotr.GulfFarmer.name=Gulfing Farmer
+entity.lotr.TauredainSmith.name=Taurethrim Smith
+entity.lotr.WhiteOryx.name=White Oryx -> Orice bianco
+entity.lotr.BlackUrukCaptain.name=Black Uruk Captain
+entity.lotr.WickedDwarf.name=Wicked Dwarf -> Nano malvagio (forse meglio maligno?) (???) (!!!)
+entity.lotr.BreeMan.name=Bree-Man -> Uomo di brea (e le donne?)
+entity.lotr.BreeGuard.name=Bree-land Guard
+entity.lotr.BreeBannerBearer.name=Bree-land Banner Bearer
+entity.lotr.BreeCaptain.name=Bree-land Sherriff -> Sceriffo della Terra di Brea (Sceriffo è la parola adatta? in inglese è Sheriff, con una r in meno)
+entity.lotr.BreeBlacksmith.name=Bree-land Blacksmith
+entity.lotr.BreeInnkeeper.name=Bree-land Innkeeper -> Oste della Terra di Brea (innkeeper invece di bartender)
+entity.lotr.BreeHobbit.name=Bree-Hobbit
+entity.lotr.RuffianSpy.name=Ruffian Spy -> Ruffiano (canon)
+entity.lotr.RuffianBrute.name=Ruffian Brute
+entity.lotr.BreeHobbitInnkeeper.name=Bree-Hobbit Innkeeper -> Oste Hobbit della Terra di Brea
+entity.lotr.BreeBaker.name=Bree-land Baker
+entity.lotr.BreeButcher.name=Bree-land Butcher
+entity.lotr.BreeBrewer.name=Bree-land Brewer
+entity.lotr.BreeMason.name=Bree-land Stonemason
+entity.lotr.BreeLumberman.name=Bree-land Lumberman
+entity.lotr.BreeFlorist.name=Bree-land Florist
+entity.lotr.BreeFarmer.name=Bree-land Farmer
+entity.lotr.BreeFarmhand.name=Bree-land Farmhand
+entity.lotr.BreeHobbitBaker.name=Bree-Hobbit Baker
+entity.lotr.BreeHobbitButcher.name=Bree-Hobbit Butcher
+entity.lotr.BreeHobbitBrewer.name=Bree-Hobbit Brewer
+entity.lotr.BreeHobbitFlorist.name=Bree-Hobbit Florist
+
+entity.lotr.UtumnoOrc.name=Utumno Orc
+entity.lotr.UtumnoOrcArcher.name=Utumno Orc Archer
+entity.lotr.UtumnoWarg.name=Utumno Warg
+entity.lotr.UtumnoIceWarg.name=Utumno Ice Warg
+entity.lotr.UtumnoObsidianWarg.name=Utumno Obsidian Warg
+entity.lotr.UtumnoFireWarg.name=Utumno Fire Warg
+entity.lotr.UtumnoIceSpider.name=Utumno Ice Spider
+entity.lotr.Balrog.name=Balrog
+entity.lotr.TormentedElf.name=Tormented Elf -> Elfo torturato
+entity.lotr.UtumnoTroll.name=Utumno Troll
+entity.lotr.UtumnoSnowTroll.name=Utumno Snow-troll
+
+UNITA' (3888-3967) (completato)
+lotr.unit.MordorOrc_Warg=Warg Rider -> Orco cavalcatore di mannari (aggiunto orco)
+lotr.unit.MordorOrcArcher_Warg=Warg Archer Rider -> Arciere cavalcatore di mannari
+
+lotr.unit.GondorSoldier_Horse=Gondorian Knight -> Cavaliere gondoriano
+
+lotr.unit.DwarfWarrior_Boar=Boar Rider -> Cavalcatore di cinghiali (aggiunto nano)
+lotr.unit.DwarfAxeThrower_Boar=Boar Axe-thrower Rider -> Lanciatore di asce cavalcatore di cinghiali
+
+lotr.unit.IsengardSnaga_Warg=Warg Rider-> Orchetto cavalcatore di mannari (aggiunto orchetto)
+lotr.unit.IsengardSnagaArcher_Warg=Warg Archer Rider
+
+lotr.unit.GaladhrimWarrior_Horse=Galadhrim Rider -> Cavaliere Galadhrim
+
+lotr.unit.Rohirrim_Horse=Rider of Rohan -> Cavaliere di Rohan
+lotr.unit.RohirrimArcher_Horse=Archer Rider -> Arciere a cavallo
+
+lotr.unit.HobbitBounder_Pony=Mounted Bounder -> Confiniere a cavallo (aggiunto hobbit) (Bounder = Confiniere, Shirrif = Guardacontea nella traduzione italiana)
+
+lotr.unit.WoodElfWarrior_Elk=Wood-elven Elk Rider
+
+lotr.unit.AngmarOrc_Warg=Warg Rider
+lotr.unit.AngmarOrcArcher_Warg=Warg Archer Rider
+
+lotr.unit.MordorOrc_Spider=Spider Rider
+lotr.unit.MordorOrcArcher_Spider=Spider Archer Rider
+
+lotr.unit.GundabadOrc_Warg=Warg Rider
+lotr.unit.GundabadOrcArcher_Warg=Warg Archer Rider
+
+lotr.unit.RangerNorth_Horse=Ranger Outrider -> Sentinella dei Raminghi
+
+lotr.unit.HighElfWarrior_Horse=Lindon Rider -> Cavaliere del Lindon
+
+lotr.unit.SouthronChampion_Horse=Southron Champion -> Campione dei Sudroni
+
+lotr.unit.BlueDwarfWarrior_Boar=Boar Rider
+lotr.unit.BlueDwarfAxeThrower_Boar=Boar Axe-thrower Rider
+
+lotr.unit.DolGuldurOrc_Spider=Spider Rider
+lotr.unit.DolGuldurOrcArcher_Spider=Spider Archer Rider
+
+lotr.unit.HalfTrollWarrior_Rhino=Rhino Rider -> Mezzo troll cavalcatore di rinoceronti (aggiunto Mezzo troll)
+
+lotr.unit.DolAmrothSoldier_Horse=Dol Amroth Horseman -> Cavaliere di Dol Amroth
+lotr.unit.SwanKnight_Horse=Mounted Swan Knight -> Cavaliere del Cigno a cavallo
+
+lotr.unit.MoredainWarrior_Zebra=Morwaith Zebra Rider
+
+lotr.unit.AngmarHillman_Warg=Warg Rider
+lotr.unit.AngmarHillmanWarrior_Warg=Warg Warrior Rider -> Guerriero cavalcatore di mannari
+lotr.unit.AngmarHillmanAxeThrower_Warg=Warg Axe-thrower Rider -> Lanciatore di asce cavalcatore di mannari
+
+lotr.unit.DaleSoldier_Horse=Dalish Knight
+
+lotr.unit.PinnathGelinSoldier_Horse=Pinnath Gelin Knight
+
+lotr.unit.BlackrootSoldier_Horse=Blackroot Knight
+
+lotr.unit.LamedonSoldier_Horse=Lamedon Knight
+
+lotr.unit.EasterlingWarrior_Horse=Easterling Horseman -> in italiano sarebbe Esterling, senza la a (canon) ma potremmo ignorarlo
+lotr.unit.EasterlingArcher_Horse=Easterling Horse Archer
+lotr.unit.EasterlingGoldWarrior_Horse=Golden Easterling Horseman
+
+lotr.unit.RivendellWarrior_Horse=Rivendell Rider
+
+lotr.unit.HarnedorWarrior_Horse=Harnennor Horseman
+lotr.unit.HarnedorArcher_Horse=Harnennor Horse Archer
+
+lotr.unit.UmbarWarrior_Horse=Umbar Horseman
+
+lotr.unitinfo.Corsair=Corsairs are better at looting coins from slain enemies
+
+lotr.unit.NomadWarrior_Camel=Nomad Camelman -> Nomade cavalcatore di cammelli
+lotr.unit.NomadArcher_Camel=Nomad Camel Archer
+
+lotr.unit.GulfWarrior_Horse=Gulfing Horseman
+lotr.unit.GulfArcher_Horse=Gulfing Horse Archer
 
 FAZIONI (3969-4496)
 
@@ -1064,6 +1877,7 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Harnedhrim -> degli Harnedhrim/dell'Harennor
    Corsari -> dei Corsari
    Sudroni della Costa (Coast Southron)
+   Uomini delle Colline (Hillman) ->
 
 Equipaggiamento
    Helmet (metallo) -> Elmo
