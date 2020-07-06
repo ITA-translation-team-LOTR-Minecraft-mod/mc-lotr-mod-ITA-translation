@@ -2556,6 +2556,44 @@ lotr.biome.farHaradKanuka.name=Kanuka Forest -> Foresta di Kanuka (???)
 lotr.biome.utumno.name=Utumno
 
 MAPPA (4752-4789)
+lotr.map.belegaer=Belegaer
+lotr.map.belegaer_sub=the Sundering Seas -> viene detto "Mari Separanti" o "Grande Mare" (???) (!!!)
+lotr.map.westernIsles=Western Isles -> Isole Occidentali (canon)
+lotr.map.forochel=Forochel
+lotr.map.northMoors=North Moors -> Brughiere del Nord (canon?)
+lotr.map.hillsEvendim=Evendim
+lotr.map.northDowns=North Downs -> Lande del Nord (trovato su una mappa ufficiale)
+lotr.map.southDowns=South Downs -> Lande del Sud (trovato su una mappa ufficiale)
+lotr.map.weatherHills=Weather Hills -> Colline Vento (canon)
+lotr.map.forlindon=Forlindon
+lotr.map.harlindon=Harlindon
+lotr.map.gulfLune=Gulf of Lune -> Golfo di Lune (o meglio Lhûn?)
+lotr.map.farDowns=Far Downs -> canonicamente si chiama "Luoghi Lontani", non riesco ad immaginare un nome peggiore nemmeno impegnandomi (???) (!!!)
+lotr.map.rhovanion=Rhovanion (o Terre Selvagge)
+lotr.map.westemnet=Westemnet (non c'è un nome italiano canon)
+lotr.map.eastemnet=Eastemnet (non c'è un nome italiano canon)
+lotr.map.westfold=Westfold -> Ovestfalda
+lotr.map.eastfold=Eastfold -> Estfalda
+lotr.map.westmarch=West-march -> Marca Occidentale
+lotr.map.anorien=Anórien
+lotr.map.anfalas=Anfalas
+lotr.map.bayBelfalas=Bay of Belfalas -> Baia di Belfalas
+lotr.map.ashMountains=Ash Mountains -> Monti Cenere (canon)
+lotr.map.shadowMountains=Mountains of Shadow -> Montagne dell'Ombra (canon)
+lotr.map.rhun=Rhûn
+lotr.map.rhunSea=Sea of Rhûn
+lotr.map.palisor=Palisor
+lotr.map.wildWood=Wild Wood -> Bosco Selvaggio (canon)
+lotr.map.harunnor=Harunnor -> che è sta roba? (???)
+lotr.map.utterEast=Uttermost East -> Estremo Est
+lotr.map.nearHarad=Near Harad -> Vicino Harad
+lotr.map.lithnen=Emyn Lithnen -> credo se lo sia inventato Mevans
+lotr.map.lostladen=Desert of Lostladen -> non l'ho trovata 
+lotr.map.khand=Khand
+lotr.map.farHarad=Far Harad -> Lontano Harad
+lotr.map.farHaradHills=Emyn Haecharad (non canon)
+lotr.map.greatPlains=Great Grasslands -> Grandi Praterie
+lotr.map.forestsSouth=Forests of the South -> Foreste del Sud
 
 STRUTTURE (4791-5209)
 
