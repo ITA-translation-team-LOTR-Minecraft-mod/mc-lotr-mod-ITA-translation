@@ -102,7 +102,7 @@ BLOCCHI (15-1375)
 1206: golden->d'oro in accordo con le altre cose "golden" vanilla e con il crafting (tre lingotti d'oro)
 1210: "Dalish" -> "di Dale". Si può tradurre meglio? (???) (!!!)
 1211: "Umbaric" deve diventare "umbarico" o "di Umbar"? (???) (!!!)
-1212: "Banco da lavoro del Golfo" non farebbe capire che i "Gulfling" sono un popolo vero e proprio. Traduzione incompleta! (???) (!!!)
+1212: "Banco da lavoro del Golfo" non farebbe capire che i "Gulfing" sono un popolo vero e proprio. Traduzione incompleta! (???) (!!!)
 1282: "Utumno entrance" tradotto come "Ingresso di Utumno", forse si può rendere meglio (???) 
 1290: per gli Uruk utilizzerei la stessa parola Uruk anche come aggettivo, suona più rozzo e adatto agli Uruk stessi (???) (!!!)
 1292: drystone -> muro a secco
@@ -230,7 +230,7 @@ OGGETTI (1377-2329)
 2236: mitrhil mail -> cotta di mithril
 2237: Book of True-silver -> libro di argentovero (???)
 2246: Corsair Eket -> Eket dei Corsari (termine specifico di Tolkien)
-2264: Gulfen Khopesh -> Khopesh del Golfo (Gulfen -> del Golfo anche se si riferisce al popolo dei Gulfling?)
+2264: Gulfen Khopesh -> Khopesh del Golfo (Gulfen -> del Golfo anche se si riferisce al popolo dei Gulfing?)
 2265: Nomad Cap -> Cappa dei Nomadi (la band naturalmente). Questa traduzione è da rivedere (???) (!!!)
 2267: Nomad Leggings -> Pantaloni dei Nomadi
 2269-71: Giraffeskin Rug -> meglio "Tappeto di giraffa" o "Tappeto di pelle di giraffa"?
@@ -2596,8 +2596,466 @@ lotr.map.greatPlains=Great Grasslands -> Grandi Praterie
 lotr.map.forestsSouth=Forests of the South -> Foreste del Sud
 
 STRUTTURE (4791-5209)
+lotr.structure.HobbitHole.name=Hobbit Hole
+lotr.structure.HobbitTavern.name=Hobbit Tavern
+lotr.structure.HobbitPicnicBench.name=Hobbit Picnic Bench -> Tavolo da picnic Hobbit
+lotr.structure.HobbitWindmill.name=Hobbit Windmill -> Mulino a vento Hobbit (nella speranza che vengano i mulini ad acqua prima o poi)
+lotr.structure.HobbitFarm.name=Hobbit Farm
+lotr.structure.HayBale.name=Hay Bales
+lotr.structure.HobbitHouse.name=Hobbit House
+lotr.structure.HobbitBurrow.name=Hobbit Burrow -> Cunicolo Hobbit
+
+lotr.structure.BreeHouse.name=Bree-land House
+lotr.structure.BreeOffice.name=Bree-land Sherriff Office -> Ufficio dello Sceriffo della Terra di Brea
+lotr.structure.BreeSmithy.name=Bree-land Smithy -> Fucina della Terra di Brea
+lotr.structure.BreeInn.name=Bree-land Inn -> Locanda della Terra di Brea (inn=locanda, tavern=taverna)
+lotr.structure.BreeWell.name=Bree-land Well
+lotr.structure.BreeLampPost.name=Bree-land Lamp-post -> lamp-post=lampione
+lotr.structure.BreeBarn.name=Bree-land Barn -> barn=fienile
+lotr.structure.BreeRuffianHouse.name=Bree-land Ruffian House -> Casa del Ruffiano della Terra di Brea
+lotr.structure.BreeStables.name=Bree-land Stables -> Stalla della Terra di Brea
+lotr.structure.BreeGarden.name=Bree-land Garden -> Giardino della Terra di Brea
+lotr.structure.BreeHobbitBurrow.name=Bree-Hobbit Burrow -> Cunicolo Hobbit di Brea
+lotr.structure.BreeMarketBaker.name=Bree-land Baker's Stall -> Banco del Fornaio
+lotr.structure.BreeMarketButcher.name=Bree-land Butcher's Stall
+lotr.structure.BreeMarketBrewer.name=Bree-land Brewer's Stall
+lotr.structure.BreeMarketMason.name=Bree-land Stonemason's Stall
+lotr.structure.BreeMarketLumber.name=Bree-land Lumberman's Stall
+lotr.structure.BreeMarketSmith.name=Bree-land Blacksmith's Stall
+lotr.structure.BreeMarketFlorist.name=Bree-land Florist's Stall
+lotr.structure.BreeMarketFarmer.name=Bree-land Farmer's Stall
+lotr.structure.BreeMarket.name=Bree-land Market -> Mercato della Terra di Brea
+lotr.structure.BreeHamlet.name=Bree-land Hamlet
+lotr.structure.BreeVillage.name=Bree-land Village -> Villaggio della Terra di Brea
+lotr.structure.BreeGate.name=Bree-land Gate -> Cancello della Terra di Brea
+lotr.structure.BreeGatehouse.name=Bree-land Gatehouse -> Ingresso della Terra di Brea (gatehouse=ingresso?) (???)
+
+lotr.structure.BlueMountainsHouse.name=Blue Mountains House -> Casa nanica dei Monti Azzurri (aggiunto nanica) (???)
+lotr.structure.BlueMountainsStronghold.name=Roccaforte nanica dei Monti Azzurri (fortezza? roccaforte?) (???)
+lotr.structure.BlueMountainsSmithy.name=Fucina nanica dei Monti Azzurri
+
+lotr.structure.HighElvenTurret.name=High Elven Turret -> Torre degli Alti Elfi
+lotr.structure.RuinedHighElvenTurret.name=Ruined High Elven Turret -> Torre degli Alti Elfi in rovina
+lotr.structure.HighElvenHall.name=Lindon Hall -> Sala del Lindon
+lotr.structure.UnderwaterElvenRuin.name=Underwater Elven Ruin -> Rovina elfica sommersa
+lotr.structure.HighElvenForge.name=Lindon Smithy
+lotr.structure.RuinedEregionForge.name=Ruined Eregion Smithy -> Forgia dell'Eregion in rovina
+lotr.structure.HighElvenTower.name=Lindon Tower
+lotr.structure.TowerHillsTower.name=Tower Hills Tower -> Torre dei Colli Torrioni
+lotr.structure.HighElfHouse.name=Lindon House
+lotr.structure.RivendellHouse.name=Rivendell House
+lotr.structure.RivendellHall.name=Rivendell Hall
+lotr.structure.RivendellForge.name=Rivendell Smithy
+
+lotr.structure.RuinedDunedainTower.name=Ruined Dúnedain Tower -> Torre dei Dúnedain in rovina
+lotr.structure.RuinedHouse.name=Ruined House -> Casa in rovina
+lotr.structure.RangerTent.name=Ranger Tent -> Tenda dei Raminghi
+lotr.structure.NumenorRuin.name=Númenórean Ruin -> Rovina númenóreana
+lotr.structure.BDBarrow.name=Barrow-downs Barrow -> Tumulo delle Tumulilande
+lotr.structure.RangerWatchtower.name=Ranger Watchtower -> Torre d'avvistamento dei Raminghi (o meglio d'avvistamento?)
+lotr.structure.BurntHouse.name=Burnt House -> Casa bruciata (o carbonizzata?)
+lotr.structure.RottenHouse.name=Rotten House -> Casa marcia (o putrida?)
+lotr.structure.RangerHouse.name=Dúnedain House -> Casa dei Dúnedain
+lotr.structure.RangerLodge.name=Dúnedain Lodge -> Capanno dei Dúnedain
+lotr.structure.RangerStables.name=Dúnedain Stables
+lotr.structure.RangerSmithy.name=Dúnedain Smithy
+lotr.structure.RangerWell.name=Dúnedain Well
+lotr.structure.RangerVillageLight.name=Dúnedain Village Light -> Torcia del villaggio dei Dúnedain (light=torcia in questo caso?) (???)
+lotr.structure.DunedainVillage.name=Dúnedain Village -> Villaggio dei Dúnedain
+lotr.structure.RangerCamp.name=Ranger Camp -> Accampamento dei Raminghi
+
+lotr.structure.OrcDungeon.name=Orc Dungeon -> Segreta degli orchi
+lotr.structure.GundabadTent.name=Gundabad Tent -> Tenda del Gundabad
+lotr.structure.GundabadForgeTent.name=Gundabad Forge Tent -> Tenda forgia del Gundabad (forgia invece di fucina per gli orchi, in inglese forge e smithy)
+lotr.structure.GundabadCamp.name=Gundabad Camp -> Accampamento del Gundabad
+
+lotr.structure.AngmarTower.name=Angmar Tower -> Torre di Angmar
+lotr.structure.AngmarShrine.name=Angmar Shrine -> Santuario di Angmar
+lotr.structure.AngmarWargPit.name=Angmar Warg Pit -> Fossa dei mannari di Angmar
+lotr.structure.AngmarTent.name=Angmar Tent -> Tenda di Angmar
+lotr.structure.AngmarForgeTent.name=Angmar Forge Tent -> Tenda forgia di Angmar
+lotr.structure.AngmarCamp.name=Angmar Camp
+
+lotr.structure.AngmarHillmanHouse.name=Rhudaur Hillman House -> Casa degli Uomini delle Colline di Rhudaur
+lotr.structure.AngmarHillmanChieftainHouse.name=Rhudaur Hillman Chieftain House -> Casa del capotribù delle Colline di Rhudaur
+lotr.structure.RhudaurCastle.name=Rhudaur Castle -> Castello del Rhudaur
+
+lotr.structure.WoodElfLookoutPlatform.name=Wood-elf Lookout Platform -> Piattaforma di vedetta degli Elfi Silvani
+lotr.structure.WoodElfHouse.name=Wood-elf House -> Casa degli Elfi Silvani
+lotr.structure.WoodElfTower.name=Wood-elven Tower
+lotr.structure.RuinedWoodElfTower.name=Ruined Wood-elven Tower -> Torre degli Elfi Silvani in rovina
+lotr.structure.WoodElvenForge.name=Wood-elven Smithy -> Fucina degli Elfi Silvani
+
+lotr.structure.DolGuldurAltar.name=Dol Guldur Altar -> Altare di Dol Guldur
+lotr.structure.DolGuldurTower.name=Dol Guldur Tower -> Torre di Dol Guldur
+lotr.structure.DolGuldurSpiderPit.name=Dol Guldur Spider Pit -> Fossa dei ragni di Dol Guldur
+lotr.structure.DolGuldurTent.name=Dol Guldur Tent -> Tenda di Dol Guldur
+lotr.structure.DolGuldurForgeTent.name=Dol Guldur Forge Tent -> Tenda forgia di Dol Guldur
+lotr.structure.DolGuldurCamp.name=Dol Guldur Camp -> Accampamento di Dol Guldur
+
+lotr.structure.DaleWatchtower.name=Dalish Watchtower -> Torre d'avvistamento di Dale
+lotr.structure.DaleFortress.name=Dalish Fortress -> Fortezza di Dale
+lotr.structure.DaleHouse.name=Dalish House -> Casa di Dale
+lotr.structure.DaleSmithy.name=Dalish Smithy -> Fucina di Dale
+lotr.structure.DaleVillageTower.name=Dalish Village Tower -> Torre del villaggio di Dale
+lotr.structure.DaleBakery.name=Dalish Bakery -> Forno di Dale
+
+lotr.structure.DwarvenMineEntrance.name=Dwarven Mine Entrance -> Ingresso di miniera nanica
+lotr.structure.DwarvenTower.name=Dwarven Tower -> Torre nanica
+lotr.structure.DwarfHouse.name=Dwarf House -> Casa nanica
+lotr.structure.DwarvenMineEntranceRuined.name=Ruined Dwarven Mine Entrance -> Ingresso di miniera nanica in rovina
+lotr.structure.DwarfSmithy.name=Dwarven Smithy -> Fucina nanica
+lotr.structure.DwarvenTowerRuined.name=Ruined Dwarven Tower -> Torre nanica in rovina
+
+lotr.structure.ElfHouse.name=Elven Treehouse -> Casa sull'albero elfica (???)
+lotr.structure.ElfLordHouse.name=Grand Elven Treehouse -> Grande casa sull'albero elfica (???)
+lotr.structure.GaladhrimForge.name=Galadhrim Smithy
+
+lotr.structure.RohanMeadHall.name=Rohan Mead Hall -> Sala dell'idromele di Rohan
+lotr.structure.RohanWatchtower.name=Rohan Watchtower -> Torre d'avvistamento di Rohan
+lotr.structure.RohanBarrow.name=Rohan Barrow -> Tumulo di Rohan
+lotr.structure.RohanFortress.name=Rohan Fortress -> Fortezza di Rohan
+lotr.structure.RohanHouse.name=Rohan House 
+lotr.structure.RohanSmithy.name=Rohan Smithy
+lotr.structure.RohanVillageFarm.name=Rohan Farm
+lotr.structure.RohanStables.name=Rohan Stables
+lotr.structure.RohanBarn.name=Rohan Barn
+lotr.structure.RohanWell.name=Rohan Well
+lotr.structure.RohanVillageGarden.name=Rohan Village Garden -> Giardino del villaggio di Rohan
+lotr.structure.RohanMarketBlacksmith.name=Rohirrim Blacksmith's Stall
+lotr.structure.RohanMarketFarmer.name=Rohirrim Farmer's Stall
+lotr.structure.RohanMarketLumber.name=Rohirrim Lumberman's Stall
+lotr.structure.RohanMarketBuilder.name=Rohirrim Builder's Stall
+lotr.structure.RohanMarketBrewer.name=Rohirrim Brewer's Stall
+lotr.structure.RohanMarketButcher.name=Rohirrim Butcher's Stall
+lotr.structure.RohanMarketFish.name=Rohirrim Fishmonger's Stall
+lotr.structure.RohanMarketBaker.name=Rohirrim Baker's Stall
+lotr.structure.RohanMarketOrcharder.name=Rohirrim Orcharder's Stall
+lotr.structure.RohanVillagePasture.name=Recinto di Rohan (il significato sarebbe pascolo ma è effettivamente un recinto) (???)
+lotr.structure.RohanVillageSign.name=Rohan Village Signpost -> Cartello del villaggio di Rohan (???)
+lotr.structure.RohanGatehouse.name=Rohan Gatehouse -> Ingresso di Rohan (???) (!!!)
+lotr.structure.RohanVillage.name=Rohan Village
+lotr.structure.RohanFortVillage.name=Rohan Fortifications -> Villaggio fortificato di Rohan (ma è un villaggio fortificato, non una fortificazione)
+
+lotr.structure.UrukTent.name=Isengard Tent
+lotr.structure.RuinedRohanWatchtower.name=Ruined Rohan Watchtower
+lotr.structure.UrukForgeTent.name=Isengard Forge Tent
+lotr.structure.UrukWargPit.name=Isengard Warg Pit
+lotr.structure.UrukCamp.name=Isengard Camp
+
+lotr.structure.DunlendingHouse.name=Dunlending House -> Casa dei Dunlandiani
+lotr.structure.DunlendingTavern.name=Dunlending Tavern -> Taverna dei Dunlandiani
+lotr.structure.DunlendingCampfire.name=Dunlending Campfire -> Falò dei Dunlandiani
+lotr.structure.DunlandHillFort.name=Dunlending Hill Fort -> Forte di collina dei Dunlandiani
+
+lotr.structure.BeaconTower.name=Gondor Beacon Tower -> Torre faro di Gondor
+lotr.structure.GondorWatchfort.name=Gondor Watchfort -> Forte d'avvistamento di Gondor
+lotr.structure.GondorSmithy.name=Gondor Smithy
+lotr.structure.GondorTurret.name=Gondor Turret
+lotr.structure.IthilienHideout.name=Ithilien Hideout -> Nascondiglio dell'Ithilien (???)
+lotr.structure.GondorHouse.name=Gondor House -> Casa di Gondor
+lotr.structure.GondorCottage.name=Gondor Cottage -> Villetta di Gondor (o meglio mantenere cottage?) (???) (!!!)
+lotr.structure.GondorStoneHouse.name=Gondor Townhouse -> Casa cittadina di Gondor (???)
+lotr.structure.GondorWatchtower.name=Gondor Watchtower
+lotr.structure.GondorStables.name=Gondor Stables
+lotr.structure.GondorBarn.name=Gondor Barn
+lotr.structure.GondorFortress.name=Gondor Fortress -> Fortezza di Gondor
+lotr.structure.GondorTavern.name=Gondor Tavern
+lotr.structure.GondorWell.name=Gondor Well
+lotr.structure.GondorFarmCrops.name=Gondor Farm
+lotr.structure.GondorFarmAnimals.name=Gondor Pasture
+lotr.structure.GondorFarmTree.name=Gondor Village Garden
+lotr.structure.GondorMarketGreengrocer.name=Gondor Greengrocer's Stall
+lotr.structure.GondorMarketLumber.name=Gondor Lumberman's Stall
+lotr.structure.GondorMarketMason.name=Gondor Stonemason's Stall
+lotr.structure.GondorMarketBrewer.name=Gondor Brewer's Stall
+lotr.structure.GondorMarketFlowers.name=Gondor Florist's Stall
+lotr.structure.GondorMarketButcher.name=Gondor Butcher's Stall
+lotr.structure.GondorMarketFish.name=Gondor Fishmonger's Stall
+lotr.structure.GondorMarketFarmer.name=Gondor Farmer's Stall
+lotr.structure.GondorMarketBlacksmith.name=Gondor Blacksmith's Stall
+lotr.structure.GondorMarketBaker.name=Gondor Baker's Stall
+lotr.structure.GondorVillageSign.name=Gondor Village Signpost
+lotr.structure.GondorBath.name=Gondor Bathhouse -> Terme di Gondor (oppure bagno pubblico, piscina) (???)
+lotr.structure.GondorGatehouse.name=Gondor Gatehouse
+lotr.structure.GondorLampPost.name=Gondor Lamp-post
+lotr.structure.GondorTownGarden.name=Gondor Town Garden -> Giardino cittadino di Gondor (oppure della città per uniformità a "del villaggio"?)
+lotr.structure.GondorTownTrees.name=Gondor Town Treerow -> Filare di alberi cittadino di Gondor
+lotr.structure.GondorTownBench.name=Gondor Town Bench
+lotr.structure.GondorVillage.name=Gondor Village
+lotr.structure.GondorTown.name=Gondor Town
+lotr.structure.GondorFortVillage.name=Gondor Fortifications -> Villaggio fortificato di Gondor (non è propriamente un villaggio) (???)
+
+lotr.structure.RuinedBeaconTower.name=Ruined Gondor Beacon Tower
+lotr.structure.RuinedGondorTower.name=Ruined Gondor Watchtower
+lotr.structure.GondorObelisk.name=Gondor Obelisk -> Obelisco di Gondor
+lotr.structure.GondorRuin.name=Gondor Ruin -> Rovina di Gondor
+
+lotr.structure.DolAmrothStables.name=Dol Amroth Stables
+lotr.structure.DolAmrothWatchtower.name=Dol Amroth Watchtower
+lotr.structure.DolAmrothWatchfort.name=Dol Amroth Watchfort
+lotr.structure.DolAmrothVillage.name=Dol Amroth Village
+lotr.structure.DolAmrothTown.name=Dol Amroth Town
+lotr.structure.DolAmrothFortVillage.name=Dol Amroth Fortifications
+
+lotr.structure.LossarnachFortress.name=Lossarnach Fortress
+lotr.structure.LossarnachWatchtower.name=Lossarnach Watchtower
+lotr.structure.LossarnachWatchfort.name=Lossarnach Watchfort
+lotr.structure.LossarnachVillage.name=Lossarnach Village
+lotr.structure.LossarnachTown.name=Lossarnach Town
+lotr.structure.LossarnachFortVillage.name=Lossarnach Fortifications
+
+lotr.structure.LebenninFortress.name=Lebennin Fortress
+lotr.structure.LebenninWatchtower.name=Lebennin Watchtower
+lotr.structure.LebenninWatchfort.name=Lebennin Watchfort
+lotr.structure.LebenninVillage.name=Lebennin Village
+lotr.structure.LebenninTown.name=Lebennin Town
+lotr.structure.LebenninFortVillage.name=Lebennin Fortifications
+
+lotr.structure.PelargirFortress.name=Pelargir Fortress
+lotr.structure.PelargirWatchtower.name=Pelargir Watchtower
+lotr.structure.PelargirWatchfort.name=Pelargir Watchfort
+lotr.structure.PelargirVillage.name=Pelargir Village
+lotr.structure.PelargirTown.name=Pelargir Town
+lotr.structure.PelargirFortVillage.name=Pelargir Fortifications
+
+lotr.structure.PinnathGelinFortress.name=Pinnath Gelin Fortress
+lotr.structure.PinnathGelinWatchtower.name=Pinnath Gelin Watchtower
+lotr.structure.PinnathGelinWatchfort.name=Pinnath Gelin Watchfort
+lotr.structure.PinnathGelinVillage.name=Pinnath Gelin Village
+lotr.structure.PinnathGelinTown.name=Pinnath Gelin Town
+lotr.structure.PinnathGelinFortVillage.name=Pinnath Gelin Fortifications
+
+lotr.structure.BlackrootFortress.name=Blackroot Vale Fortress
+lotr.structure.BlackrootWatchtower.name=Blackroot Vale Watchtower
+lotr.structure.BlackrootWatchfort.name=Blackroot Vale Watchfort
+lotr.structure.BlackrootVillage.name=Blackroot Vale Village
+lotr.structure.BlackrootTown.name=Blackroot Vale Town
+lotr.structure.BlackrootFortVillage.name=Blackroot Vale Fortifications
+
+lotr.structure.LamedonFortress.name=Lamedon Fortress
+lotr.structure.LamedonWatchtower.name=Lamedon Watchtower
+lotr.structure.LamedonWatchfort.name=Lamedon Watchfort
+lotr.structure.LamedonVillage.name=Lamedon Village
+lotr.structure.LamedonTown.name=Lamedon Town
+lotr.structure.LamedonFortVillage.name=Lamedon Fortifications
+
+lotr.structure.MordorTower.name=Mordor Tower
+lotr.structure.MordorTent.name=Mordor Tent
+lotr.structure.MordorForgeTent.name=Mordor Forge Tent
+lotr.structure.MordorWargPit.name=Mordor Warg Pit
+lotr.structure.MordorCamp.name=Mordor Camp
+lotr.structure.BlackUrukFort.name=Black Uruk Fortress
+
+lotr.structure.DorwinionGarden.name=Dorwinion Garden
+lotr.structure.DorwinionTent.name=Vintner Guard Tent
+lotr.structure.DorwinionCaptainTent.name=Vintner Guard Captain Tent
+lotr.structure.DorwinionHouse.name=Dorwinion House
+lotr.structure.DorwinionBrewery.name=Dorwinion Brewery -> Cantina del Dorwinion (termine specifico per il vino) (???)
+lotr.structure.DorwinionElfHouse.name=Dorwinion Elf House -> Casa elfica del Dorwinion
+lotr.structure.DorwinionBath.name=Dorwinion Bathhouse -> Terme del Dorwinion
+
+lotr.structure.EasterlingHouse.name=Easterling House
+lotr.structure.EasterlingStables.name=Easterling Stables
+lotr.structure.EasterlingTownHouse.name=Easterling Townhouse
+lotr.structure.EasterlingLargeTownHouse.name=Easterling Mansion -> Villa degli Easterling (mansion=villa)
+lotr.structure.EasterlingFortress.name=Easterling Fortress
+lotr.structure.EasterlingTower.name=Easterling Tower
+lotr.structure.EasterlingSmithy.name=Easterling Smithy
+lotr.structure.EasterlingMarketBlacksmith.name=Easterling Blacksmith's Stall
+lotr.structure.EasterlingMarketLumber.name=Easterling Lumberman's Stall
+lotr.structure.EasterlingMarketMason.name=Easterling Stonemason's Stall
+lotr.structure.EasterlingMarketButcher.name=Easterling Butcher's Stall
+lotr.structure.EasterlingMarketBrewer.name=Easterling Brewer's Stall
+lotr.structure.EasterlingMarketFish.name=Easterling Fishmonger's Stall
+lotr.structure.EasterlingMarketBaker.name=Easterling Baker's Stall
+lotr.structure.EasterlingMarketHunter.name=Easterling Huntsman's Stall
+lotr.structure.EasterlingMarketFarmer.name=Easterling Farmer's Stall
+lotr.structure.EasterlingMarketGold.name=Easterling Goldsmith's Stall
+lotr.structure.EasterlingTavern.name=Easterling Tavern
+lotr.structure.EasterlingTavernTown.name=Easterling Town Tavern
+lotr.structure.EasterlingStatue.name=Easterling Statue
+lotr.structure.EasterlingGarden.name=Easterling Walled Garden -> Giardino recintato degli Easterling (è adatto?) (???)
+lotr.structure.EasterlingVillageSign.name=Easterling Village Signpost
+lotr.structure.EasterlingWell.name=Easterling Well
+lotr.structure.EasterlingFarmCrops.name=Easterling Farm
+lotr.structure.EasterlingFarmAnimals.name=Easterling Pasture
+lotr.structure.EasterlingFarmTree.name=Easterling Village Garden
+lotr.structure.EasterlingGatehouse.name=Easterling Gatehouse
+lotr.structure.EasterlingLamp.name=Easterling Lamp -> Lampada degli Easterling (o meglio lanterna? forse inappropriato lanterna) (???)
+lotr.structure.EasterlingVillage.name=Easterling Village
+lotr.structure.EasterlingTown.name=Easterling Town
+lotr.structure.EasterlingFortVillage.name=Easterling Fortifications
+
+lotr.structure.NurnWheatFarm.name=Nurn Wheat Farm -> Campo di grano di Nurn (è molto piccolo per essere un campo di grano) (???)
+lotr.structure.OrcSlaverTower.name=Nurn Slaver Tower -> Torre dello schiavista di Nurn
+
+lotr.structure.MordorSpiderPit.name=Mordor Spider Pit
+
+lotr.structure.HaradObelisk.name=Harad Obelisk
+lotr.structure.HaradPyramid.name=Harad Pyramid
+lotr.structure.MumakSkeleton.name=Mûmak Skeleton
+lotr.structure.HaradRuinedFort.name=Ancient Harad Fortress -> Antico forte dell'Harad (non fortezza perché è molto piccolo)
+
+lotr.structure.HarnedorHouse.name=Harnennor House
+lotr.structure.HarnedorSmithy.name=Harnennor Smithy
+lotr.structure.HarnedorTavern.name=Harnennor Tavern
+lotr.structure.HarnedorMarket.name=Harnennor Bazaar
+lotr.structure.HarnedorTower.name=Harnennor Watchtower
+lotr.structure.HarnedorFort.name=Harnennor Fortress
+lotr.structure.NearHaradTent.name=Southron Tent
+lotr.structure.HarnedorFarm.name=Harnennor Farm
+lotr.structure.HarnedorPasture.name=Harnennor Pasture
+lotr.structure.HarnedorVillage.name=Harnennor Village
+lotr.structure.HarnedorStables.name=Harnennor Stables
+lotr.structure.HarnedorVillageSign.name=Harnennor Village Signpost
+lotr.structure.HarnedorFortVillage.name=Harnennor Fortifications
+
+lotr.structure.HarnedorHouseRuined.name=Ruined Harnennor House
+lotr.structure.HarnedorTavernRuined.name=Ruined Harnennor Tavern
+lotr.structure.HarnedorVillageRuined.name=Ruined Harnennor Village
+
+lotr.structure.SouthronHouse.name=Coast Southron House
+lotr.structure.SouthronTavern.name=Coast Southron Tavern
+lotr.structure.SouthronSmithy.name=Coast Southron Smithy
+lotr.structure.SouthronTower.name=Coast Southron Watchtower
+lotr.structure.SouthronMansion.name=Coast Southron Mansion
+lotr.structure.SouthronStables.name=Coast Southron Stables
+lotr.structure.SouthronFarm.name=Coast Southron Farm
+lotr.structure.SouthronFortress.name=Coast Southron Fortress
+lotr.structure.SouthronWell.name=Coast Southron Well
+lotr.structure.SouthronBazaar.name=Coast Southron Bazaar
+lotr.structure.SouthronPasture.name=Coast Southron Pasture
+lotr.structure.SouthronVillageSign.name=Coast Southron Village Signpost
+lotr.structure.SouthronVillage.name=Coast Southron Village
+lotr.structure.SouthronStatue.name=Coast Southron Statue
+lotr.structure.SouthronBarracks.name=Coast Southron Barracks
+lotr.structure.SouthronTraining.name=Coast Southron Training Ground
+lotr.structure.SouthronFortGate.name=Coast Southron Fortification Gate -> Cancello del villaggio fortificato dei Sudroni della Costa (davvero troppo lungo) (???)
+lotr.structure.SouthronFortVillage.name=Coast Southron Fortifications
+lotr.structure.SouthronLamp.name=Coast Southron Lamp-post
+lotr.structure.SouthronTownTree.name=Coast Southron Town Tree -> Albero della città (o cittadino?) (???)
+lotr.structure.SouthronTownFlowers.name=Coast Southron Town Flowers
+lotr.structure.SouthronTown.name=Coast Southron Town
+lotr.structure.SouthronTownGate.name=Coast Southron Gatehouse
+lotr.structure.SouthronTownCorner.name=Coast Southron Town Corner -> Angolo della città dei Sudroni della Costa
+
+lotr.structure.MoredainMercTent.name=Morwaith Mercenary Tent
+lotr.structure.MoredainMercCamp.name=Morwaith Mercenary Camp
+
+lotr.structure.UmbarHouse.name=Umbar House
+lotr.structure.UmbarTavern.name=Umbar Tavern
+lotr.structure.UmbarSmithy.name=Umbar Smithy
+lotr.structure.UmbarTower.name=Umbar Watchtower
+lotr.structure.UmbarMansion.name=Umbar Mansion
+lotr.structure.UmbarStables.name=Umbar Stables
+lotr.structure.UmbarFarm.name=Umbar Farm
+lotr.structure.UmbarFortress.name=Umbar Fortress
+lotr.structure.UmbarWell.name=Umbar Well
+lotr.structure.UmbarBazaar.name=Umbar Bazaar
+lotr.structure.UmbarPasture.name=Umbar Pasture
+lotr.structure.UmbarVillageSign.name=Umbar Village Signpost
+lotr.structure.UmbarVillage.name=Umbar Village
+lotr.structure.UmbarStatue.name=Umbar Statue
+lotr.structure.UmbarBarracks.name=Umbar Barracks
+lotr.structure.UmbarTraining.name=Umbar Training Ground
+lotr.structure.UmbarFortGate.name=Umbar Fortification Gate
+lotr.structure.UmbarFortVillage.name=Umbar Fortifications
+lotr.structure.UmbarLamp.name=Umbar Lamp-post
+lotr.structure.UmbarTownTree.name=Umbar Town Tree
+lotr.structure.UmbarTownFlowers.name=Umbar Town Flowers
+lotr.structure.UmbarTown.name=Umbar Town
+lotr.structure.UmbarTownGate.name=Umbar Gatehouse
+lotr.structure.UmbarTownCorner.name=Umbar Town Corner
+
+lotr.structure.CorsairCove.name=Corsair Hideout
+lotr.structure.CorsairTent.name=Corsair Tent
+lotr.structure.CorsairCamp.name=Corsair Camp
+
+lotr.structure.NomadTent.name=Nomad Tent
+lotr.structure.NomadTentLarge.name=Nomad Big Tent
+lotr.structure.NomadChieftainTent.name=Nomad Chieftain Tent
+lotr.structure.NomadWell.name=Nomad Well
+lotr.structure.NomadVillageSmall.name=Nomad Outpost -> Avamposto dei Nomadi
+lotr.structure.NomadVillageBig.name=Nomad Encampment -> Campo dei Nomadi (accampamento è già stato usato per "camp" e bisognerebbe far capire la differenza)
+lotr.structure.NomadBazaarTent.name=Nomad Bazaar
+
+lotr.structure.GulfWarCamp.name=Gulfing War Camp -> Accampamento da guerra dei Gulfing
+lotr.structure.GulfHouse.name=Gulfing House
+lotr.structure.GulfAltar.name=Gulfing Sacrificial Altar -> Altare sacrificale dei Gulfing
+lotr.structure.GulfSmithy.name=Gulfing Smithy
+lotr.structure.GulfBazaar.name=Gulfing Bazaar
+lotr.structure.GulfTotem.name=Gulfing Totem
+lotr.structure.GulfPyramid.name=Gulfing Ziggurat
+lotr.structure.GulfFarm.name=Gulfing Farm
+lotr.structure.GulfTower.name=Gulfing Watchtower
+lotr.structure.GulfTavern.name=Gulfing Tavern
+lotr.structure.GulfVillageSign.name=Gulfing Village Signpost
+lotr.structure.GulfVillageLight.name=Gulfing Lamp-post
+lotr.structure.GulfVillage.name=Gulfing Village
+lotr.structure.GulfPasture.name=Gulfing Pasture
+lotr.structure.GulfTown.name=Gulfing Town
+lotr.structure.GulfFortVillage.name=Gulfing Fortifications
+
+lotr.structure.MoredainHutVillage.name=Morwaith Village Hut
+lotr.structure.MoredainHutChieftain.name=Morwaith Chieftain Hut
+lotr.structure.MoredainHutTrader.name=Morwaith Trader Hut -> Capanna del commerciante dei Morwaith
+lotr.structure.MoredainHutHunter.name=Morwaith Hunter Shack -> Capanna del cacciatore dei Morwaith (non rendo la differenza tra Hut e Shack) (???)
+
+lotr.structure.TauredainPyramid.name=Taurethrim Pyramid
+lotr.structure.TauredainHouseSimple.name=Taurethrim House
+lotr.structure.TauredainHouseStilts.name=Taurethrim Shaman House
+lotr.structure.TauredainWatchtower.name=Taurethrim Watchtower
+lotr.structure.TauredainHouseLarge.name=Taurethrim Mansion
+lotr.structure.TauredainChieftainPyramid.name=Taurethrim Chieftain Temple -> Tempio del capotribù Taurethrim (se ha addirittura un tempio per se forse "capotribù" è riduttivo?) (???)
+lotr.structure.TauredainVillageTree.name=Taurethrim Village Tree
+lotr.structure.TauredainVillageFarm.name=Taurethrim Farm
+lotr.structure.TauredainVillage.name=Taurethrim Village
+lotr.structure.TauredainSmithy.name=Taurethrim Smithy
+
+lotr.structure.HalfTrollHouse.name=Half-troll House
+lotr.structure.HalfTrollWarlordHouse.name=Half-troll Warlord House
 
 CHAT (5211-5249)
+chat.lotr.update=%s Update available! (%s) -> %s Aggiornamento disponibile! (%s) (a cosa serve il primo %s?) (???)
+chat.lotr.achievement=%s has just earned the %s achievement %s
+chat.lotr.insufficientAlignment=You need at least %s %s alignment to perform this action
+chat.lotr.insufficientAlignment2=You need at least %s %s or %s alignment to perform this action
+chat.lotr.insufficientAlignment3=You need at least %s %s, %s, or %s alignment to perform this action
+chat.lotr.unpledge=You have broken your pledge to %s!
+chat.lotr.autoUnpledge=%s have lost faith in you, and your pledge has been broken!
+chat.lotr.pledgeKillWarn=Beware! Your actions risk breaking your pledge to %s!
+chat.lotr.pledgeBreakCooldown=Time has passed, and the world has forgotten your broken pledge to %s
+chat.lotr.loseTitle=You are no longer able to bear the title of %s
+chat.lotr.requireMiniQuest=You must complete a %s mini-quest to perform this action
+chat.lotr.allowStructures=You have been allowed to spawn structures
+chat.lotr.banStructures=You have been banned from spawning structures
+chat.lotr.spawnStructure.disabled=Structure spawning is disabled on this server
+chat.lotr.spawnStructure.banned=You are banned from spawning structures
+chat.lotr.spawnStructure.wait=You must wait %d seconds before spawning another structure
+chat.lotr.mountOwnedByNPC=This mount was owned by an NPC - you cannot interact with it
+chat.lotr.protectedLand=This land is under the protection of %s!
+chat.lotr.protectedStructure=an ancient power
+chat.lotr.alreadyProtected=You may not place a protection banner where it would overlap with another banner's protection
+chat.lotr.banditSteal=A bandit stole some items from your inventory!
+chat.lotr.ruffianSteal=A ruffian stole some items from your inventory!
+chat.lotr.invasion.start=%s have launched an invasion nearby!
+chat.lotr.tameGollum=%s has tamed %s
+chat.lotr.ftDisabled=Fast travel is disabled on this server
+chat.lotr.conquestHornProtected=%s cannot invade this area
+chat.lotr.bountyPlaced=%s have placed a bounty on your head!
+chat.lotr.bountyKilled1=%s claimed a bounty placed on you by %s!
+chat.lotr.bountyKilled2=%s are displeased, and your reputation with them has fallen...
+chat.lotr.bountyKill=%s has slain %s for a bounty placed by %s!
+chat.lotr.killedByBounty1=Your target, %s, slew you, and you have failed your quest!
+chat.lotr.killedByBounty2=%s are displeased, and your reputation with them has fallen...
+chat.lotr.killedByBounty=%s was slain by their bounty target, %s!
+chat.lotr.pickpocket.watched=You can't pickpocket someone who is looking at you!
+chat.lotr.pickpocket.inCombat=You can't pickpocket someone who is fighting!
+chat.lotr.pickpocket.missed=You tried to pick %s's pockets, but missed...
+chat.lotr.pickpocket.success=You stole %d %s from %s!
+chat.lotr.pickpocket.noticed=%s noticed!
+chat.lotr.pickpocket.otherNoticed=A nearby %s noticed!
 
 COMANDI (5251-5376)
 
@@ -2688,6 +3146,7 @@ Fazioni/luoghi/popoli e aggettivi (proposta)
    Corsari -> dei Corsari
    Sudroni della Costa (Coast Southron)
    Uomini delle Colline (Hillman) ->
+   Easterling -> degli Easterling (o direttamente Easterling?) (???)
 
 Equipaggiamento
    Helmet (metallo) -> Elmo
