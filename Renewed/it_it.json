@@ -1,6 +1,7 @@
 {
     "lotr.menu.title": "Mod del Signore degli Anelli: la Terra di Mezzo in Minecraft - Rinnovata",
     "lotr.menu.subtitle": "Un aggiornamento work-in-progress per Minecraft 1.15",
+    
     "block.lotr.gondor_rock": "Roccia di Gondor",
     "block.lotr.gondor_brick": "Mattoni di Gondor",
     "block.lotr.mordor_rock": "Roccia di Mordor",
@@ -501,6 +502,7 @@
     "block.lotr.larch_beam": "Trave di larice",
     "block.lotr.larch_sign": "Cartello di larice",
     "block.lotr.hobbit_oven": "Forno Hobbit",
+    
     "item.lotr.gold_ring": "Anello d'oro",
     "item.lotr.copper_ingot": "Lingotto di rame",
     "item.lotr.tin_ingot": "Lingotto di stagno",
@@ -648,6 +650,7 @@
     "item.lotr.uruk_boots": "Stivali Uruk",
     "item.lotr.uruk_berserker_cleaver": "Mannaia da Berserker Uruk",
     "item.lotr.uruk_berserker_helmet": "Elmo da Berserker Uruk",
+    
     "itemGroup.lotr.blocks": "Blocchi della Terra di Mezzo",
     "itemGroup.lotr.util": "Utilità della Terra di Mezzo",
     "itemGroup.lotr.decorations": "Decorazioni della Terra di Mezzo",
@@ -657,6 +660,7 @@
     "itemGroup.lotr.tools": "Attrezzi della Terra di Mezzo",
     "itemGroup.lotr.combat": "Armamenti della Terra di Mezzo",
     "itemGroup.lotr.story": "Storia della Terra di Mezzo",
+    
     "container.lotr.gondor_crafting": "Fabbricazione gondoriana",
     "container.lotr.mordor_crafting": "Fabbricazione Morgul",
     "container.lotr.rohan_crafting": "Fabbricazione rohirrica",
@@ -669,11 +673,13 @@
     "container.lotr.umbar_crafting": "Fabbricazione umbarica",
     "container.lotr.uruk_crafting": "Fabbricazione uruk",
     "container.lotr.hobbit_crafting": "Fabbricazione Hobbit",
+    
     "container.lotr.alloy_forge": "Fornace",
     "container.lotr.dwarven_forge": "Fornace nanica",
     "container.lotr.elven_forge": "Fornace elfica",
     "container.lotr.orc_forge": "Fornace orchesca",
     "container.lotr.hobbit_oven": "Forno hobbit",
+    
     "biome.lotr.shire": "La Contea",
     "biome.lotr.mordor": "Mordor",
     "biome.lotr.gondor": "Gondor",
@@ -693,6 +699,7 @@
     "biome.lotr.lindon": "Lindon",
     "biome.lotr.southron_coasts": "Coste del Sud",
     "biome.lotr.nan_curunir": "Nan Curunîr",
+    
     "stat.lotr.interact_faction_crafting_table": "Interazioni con i tavoli delle fazioni",
     "stat.lotr.throw_ring_in_fire": "Anelli gettati tra le fiamme",
     "stat.lotr.interact_alloy_forge": "Interazioni con Fornaci",
@@ -700,9 +707,11 @@
     "stat.lotr.interact_elven_forge": "Interazioni con Fornaci elfiche",
     "stat.lotr.interact_orc_forge": "interazioni con Fornaci Orchesche",
     "stat.lotr.interact_hobbit_oven": "Interazioni con Forni Hobbit",
+    
     "death.attack.lotr.plant": "%s è stato ucciso da una pianta",
     "death.attack.lotr.frost": "%s è stato sopraffatto dal freddo",
     "death.attack.lotr.poisonDrink": "%s ha sbagliato calice",
     "death.attack.lotr.stalagmite": "%s è stato impalato da una stalagmite",
+    
     "chat.lotr.res_pack_warning": "%s: Attenzione: Il pacchetto ''Mod Resources'' è settato con priorità inferiore al pacchetto ''Default''. Questo potrebbe ostacolare il funzionamento di alcune caratteristiche della mod, come le lastre verticali. Per corregerlo, Vai in Opzioni -> Pacchetti di Risorse e posiziona ''Mod Resources'' sopra a ''Default''."
 }
