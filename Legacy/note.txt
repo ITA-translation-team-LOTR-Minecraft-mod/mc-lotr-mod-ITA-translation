@@ -74,7 +74,7 @@ BLOCCHI (15-1375)
 872-3: kebab stand->asta per kebab. non molto preciso perché non c'è solo l'asta (???) /// Spiedone? \\\ o forse banalmente spiedo
 912-5: gate è stato precedentemente tradotto come "cancello", ma in questo caso ritengo più opportuno semplicemente "porta". Non so se "Hobbit" deve rimanere maiuscolo (???)
 920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???) /// palo va bene, ma penso "Palo per Vigna" stia meglio
-942: "mirkwoood vines" -> "rampicanti di bosco atro"? (???) da confrontare anche con il vanilla 1.7.10
+942: "mirkwoood vines" -> "rampicante oscuro" (???) da confrontare anche con il vanilla 1.7.10
 958: "Morthond" in Sindarin? oppure "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
 994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea? /// Ciottolato? non ricordo il blocco temo
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)

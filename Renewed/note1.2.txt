@@ -9,4 +9,10 @@
 574: in italiano viene sempre chiamata "erba pipa" (stando alla mia breve ricerca). Inoltre sarebbe meglio scrivere "di erba pipa" e non "d'erba pipa" per continuità alle piante in vanilla (ex. fetta di anguria)
 598: "Fabbricazione di Granburrone" è troppo lungo ed esce fuori dal menù in gioco. [DA RISOLVERE]
 600: "Fabbricazione degli Elfi Silvani" è troppo lungo ed esce fuori dal menù in gioco. [DA RISOLVERE]
+625: Signore della Guerra o Condottiero? questione aperta (???)
 631: corretto il messaggio d'errore (era rimasto indietro rispetto all'ultimo che avevamo approvato insieme)
+673: di Umbar o umbarica? (???)
+677: Forge -> Forgia (mentre Furnace -> Fornace)
+
+IN GENERALE
+oggetto Galadhrim o dei Galadhrim? da uniformare con la legacy (???)
