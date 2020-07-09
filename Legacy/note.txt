@@ -4942,7 +4942,7 @@ Aggettivi per blocchi
    snowy -> innevato
    golden -> d'oro
    obsidian -> d'ossidiana
-   x-trimmed -> rifinito in x (???)
+   x-trimmed -> intarsiato in x (???)
    carved -> intagliato (???)
    scorched -> bruciato
    rotten -> marcio
