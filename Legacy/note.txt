@@ -489,7 +489,7 @@ DATE (2606-2634)
 
 GUI (2636-2808)
 2636-44:
-   %s Menu -> %s Menu
+   %s Menu -> Menu della %s
    Menu -> Menu
    Map -> Mappa
    Factions -> Fazioni
@@ -507,7 +507,7 @@ GUI (2636-2808)
    by visting the nearby area -> visitando l'area vicina
    Press '%s' to fast travel to the selected waypoint
    You can fast travel to the selected waypoint in: %s
-   (Total waypoint time: %s) -> (Tempo per il waypoint: %s)
+   (Waypoint wait time: %s. Decreases after each travel here) -> (Tempo di attesa per il waypoint: %s. Diminuisce dopo ogni viaggio) (???)
    Press '%s' to /tp
    Displaying %s areas of influence
    Areas of influence are disabled in this world!
@@ -3359,10 +3359,12 @@ lotr.achievement.pledgeService.title=Here Do I Swear -> Giuro di essere fedele (
 lotr.achievement.pledgeService.desc=Pledge service to a faction -> Giura fedeltà a una fazione (o magari "presta servizio")
 lotr.achievement.factionConquest.title=The Tides of the World -> Il corso degli eventi (???) (citazione di Gandalf, tradotta male in italiano)
 lotr.achievement.factionConquest.desc=Survey your faction's conquest strength -> Esamina la forza di conquista della tua fazione (???)
-lotr.achievement.defeatInvasion.title=Field of Victory -> Campo dei vincitori (citazione Pipino ad Isengard)
+lotr.achievement.defeatInvasion.title=Hail the Victorious -> A voi, vittoriosi! (brindisi di Theoden a Edoras, modificato)
 lotr.achievement.defeatInvasion.desc=Defeat an invasion
 lotr.achievement.pickpocket.title=What has it Got... -> Che cos'ha... (???)
 lotr.achievement.pickpocket.desc=Commit a successful act of pickpocketry -> Borseggia qualcuno con successo (???)
+lotr.achievement.combineSmithScrolls.title=Expert Knowledge -> Conoscenza Specialistica (???)
+lotr.achievement.combineSmithScrolls.desc=Pay a smith to upgrade two smith's scrolls into a more skillful one -> Paga un fabbro per combinare due pergamene in una più potente (traduzione un po' libera ma era necessario) (???)
 
 lotr.achievement.killHobbit.title=Hobbit Slayer
 lotr.achievement.killHobbit.desc=Kill a Hobbit
