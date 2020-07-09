@@ -3397,7 +3397,7 @@ lotr.hiredNPC.commandReq.pledge.FACTION=Fedeltà a %s
 lotr.hiredNPC.commandReq.pledge.ANY_ELF=Fedeltà a qualunque fazione elfica
 lotr.hiredNPC.commandReq.pledge.ANY_DWARF=Fedeltà a qualunque fazione nanica
 
-entity.lotr.generic.entityName=%s, il %s
+entity.lotr.generic.entityName=%s, %s
 entity.lotr.GondorMan.entityName=%s di Gondor
 entity.lotr.RohanMan.entityName=%s dei Rohirrim
 entity.lotr.Dunedain.entityName=%s dei Dúnedain

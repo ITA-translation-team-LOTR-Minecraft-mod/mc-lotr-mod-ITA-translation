@@ -1254,7 +1254,7 @@ lotr.hiredNPC.commandReq.pledge.ANY_ELF=Pledged to any Elven faction
 lotr.hiredNPC.commandReq.pledge.ANY_DWARF=Pledged to any Dwarven faction
 
 ENTITA' (3400-3886)
-entity.lotr.generic.entityName=%s, the %s -> %s, il %s
+entity.lotr.generic.entityName=%s, the %s -> %s, %s (rimosso the, creava solo problemi)
 entity.lotr.GondorMan.entityName=%s of Gondor
 entity.lotr.RohanMan.entityName=%s of the Rohirrim
 entity.lotr.Dunedain.entityName=%s of the Dúnedain
