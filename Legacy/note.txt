@@ -168,7 +168,7 @@ OGGETTI (1377-2329)
 1840: Conker nella mod significa riccio di castagna (anche se nella realtà la parola ha un altro significato)
 1854: Southron Champion Helmet -> Elmo da campione dei Sudroni
 1857-62: handle->impugnatura, shaft->gambo, pin->pettine (nomi italiani per i pezzi di una chiave, vedi "Wikipedia: chiave(serratura)"). Dobbiamo capire quale sia quella di ossidiana e quale quella di ghiaccio.
-1874: Pickaxe of the Underworld -> Piccone del sottosuolo? o magari "degli Inferi"(???) (!!!) ricollegabile alla mazza di Morgoth "Grond, Hammer of the Underworld"
+1874: Pickaxe of the Underworld -> Piccone del Sottosuolo? o magari "degli Inferi"(???) (!!!) ricollegabile alla mazza di Morgoth "Grond, Hammer of the Underworld"
 1875: Balrog Whip -> frusta da Balrog (???)
 1910: Torog stew -> stufato torog
 1931-4: robe -> veste (???). Aggiunto "di veste" anche al turbante per renderlo più facile da trovare in creativa
@@ -1431,7 +1431,7 @@ entity.lotr.HalfTrollBannerBearer.name=Half-troll Banner Bearer
 entity.lotr.HalfTrollWarlord.name=Half-troll Warlord -> Mezzo troll condottiero (o signore della guerra?)
 entity.lotr.AngmarOrcTrader.name=Angmar Orc Trader
 entity.lotr.DolGuldurOrcTrader.name=Dol Guldur Orc Trader
-entity.lotr.HalfTrollScavenger.name=Half-troll Scavenger -> Mezzo troll rovistatore (o magari sciacallo, razziatore? non so come rendere scavenger) (???) (!!!)
+entity.lotr.HalfTrollScavenger.name=Half-troll Scavenger -> Mezzo Troll rovistatore (o magari sciacallo, razziatore? non so come rendere scavenger) (???) (!!!)
 entity.lotr.GaladhrimSmith.name=Galadhrim Smith
 entity.lotr.HighElfSmith.name=Lindon Smith
 entity.lotr.WoodElfSmith.name=Wood-elven Smith
@@ -1693,7 +1693,7 @@ entity.lotr.UtumnoObsidianWarg.name=Utumno Obsidian Warg
 entity.lotr.UtumnoFireWarg.name=Utumno Fire Warg
 entity.lotr.UtumnoIceSpider.name=Utumno Ice Spider
 entity.lotr.Balrog.name=Balrog
-entity.lotr.TormentedElf.name=Tormented Elf -> Elfo torturato
+entity.lotr.TormentedElf.name=Tormented Elf -> Elfo tormentato (o torturato? tormentato è più generale, vale anche mentalmente) (???)
 entity.lotr.UtumnoTroll.name=Utumno Troll
 entity.lotr.UtumnoSnowTroll.name=Utumno Snow-troll
 
@@ -4203,50 +4203,50 @@ lotr.achievement.tradeTauredainSmith.desc=Trade with a Taurethrim Smith -> Comme
 lotr.achievement.wearFullTaurethrimGold.title=Blood-Kings' Hoard -> Tesoro dei Re di Sangue (???)
 lotr.achievement.wearFullTaurethrimGold.desc=Equip a full suit of Golden Taurethrim armor -> Indossa un'armatura dorata completa dei Taurethrim
 
-lotr.achievement.enterPertorogwaith.title=Monstrous Things
-lotr.achievement.enterPertorogwaith.desc=Enter the land of Perdorogwaith
-lotr.achievement.killHalfTroll.title=Half-troll Slayer
-lotr.achievement.killHalfTroll.desc=Kill a Half-troll
-lotr.achievement.wearFullHalfTroll.title=Crude Coverings
-lotr.achievement.wearFullHalfTroll.desc=Equip a full suit of Half-troll armor
-lotr.achievement.tradeHalfTrollWarlord.title=Brutal Hordes
-lotr.achievement.tradeHalfTrollWarlord.desc=Hire a unit from a Half-troll Warlord
-lotr.achievement.useHalfTrollTable.title=Half-troll Crafter
-lotr.achievement.useHalfTrollTable.desc=Craft an item on the Half-troll Crafting Table
-lotr.achievement.doMiniquestHalfTroll.title=Trollish Tasks
-lotr.achievement.doMiniquestHalfTroll.desc=Complete a Half-troll mini-quest
-lotr.achievement.tradeHalfTrollScavenger.title=Bits and Pieces
-lotr.achievement.tradeHalfTrollScavenger.desc=Trade with a Half-troll Scavenger
-lotr.achievement.enterHalfTrollForest.title=Forest of Demons
+lotr.achievement.enterPertorogwaith.title=Monstrous Things -> Cose Mostruose
+lotr.achievement.enterPertorogwaith.desc=Enter the land of Perdorogwaith -> Entra nella terra del Perdorogwaith (???)
+lotr.achievement.killHalfTroll.title=Half-troll Slayer -> Assassino di Mezzi Troll
+lotr.achievement.killHalfTroll.desc=Kill a Half-troll -> Uccidi un Mezzo Troll (forse minuscolo perché riferito ad un singolo e non a un popolo?) (???)
+lotr.achievement.wearFullHalfTroll.title=Crude Coverings -> Coperture Grezze
+lotr.achievement.wearFullHalfTroll.desc=Equip a full suit of Half-troll armor -> Indossa un'armatura completa dei Mezzi Troll
+lotr.achievement.tradeHalfTrollWarlord.title=Brutal Hordes -> Orde Brutali
+lotr.achievement.tradeHalfTrollWarlord.desc=Hire a unit from a Half-troll Warlord -> Arruola un'unità da un condottiero dei Mezzi Troll (non è meglio "mezzo troll condottiero" in gernerale?)
+lotr.achievement.useHalfTrollTable.title=Half-troll Crafter -> Artigiano dei Mezzi Troll
+lotr.achievement.useHalfTrollTable.desc=Craft an item on the Half-troll Crafting Table -> Costruisci un oggetto in un banco da lavoro dei Mezzi Troll
+lotr.achievement.doMiniquestHalfTroll.title=Trollish Tasks -> Compiti da Troll
+lotr.achievement.doMiniquestHalfTroll.desc=Complete a Half-troll mini-quest -> Completa una missione dei Mezzi Troll
+lotr.achievement.tradeHalfTrollScavenger.title=Bits and Pieces -> Cianfrusaglie (secondo WordReference)
+lotr.achievement.tradeHalfTrollScavenger.desc=Trade with a Half-troll Scavenger -> Commercia con Mezzo Troll rovistatore
+lotr.achievement.enterHalfTrollForest.title=Forest of Demons -> Foresta dei Demoni
 lotr.achievement.enterHalfTrollForest.desc=Enter the cursed forest of Taur-i-Thorogrim
 
-lotr.achievement.enterOcean.title=To the Sea!
+lotr.achievement.enterOcean.title=To the Sea! -> Verso il Mare!
 lotr.achievement.enterOcean.desc=Travel to the seas surrounding Middle-earth
-lotr.achievement.enterMeneltarma.title=Pillar of the Heavens
-lotr.achievement.enterMeneltarma.desc=Travel to the summit of Meneltarma
+lotr.achievement.enterMeneltarma.title=Pillar of the Heavens -> Pilastro del Cielo (canon)
+lotr.achievement.enterMeneltarma.desc=Travel to the summit of Meneltarma -> Viaggia fino alla sommità di Meneltarma (???)
 
-lotr.achievement.enterUtumnoIce.title=The Hells of Ice
-lotr.achievement.enterUtumnoIce.desc=Enter Utumno
-lotr.achievement.enterUtumnoObsidian.title=The Hells of Obsidian
-lotr.achievement.enterUtumnoObsidian.desc=Descend to the middle level of Utumno
-lotr.achievement.enterUtumnoFire.title=The Hells of Fire
-lotr.achievement.enterUtumnoFire.desc=Descend to the lower level of Utumno
-lotr.achievement.wearFullUtumno.title=Underworld Looter
-lotr.achievement.wearFullUtumno.desc=Equip a full suit of Utumno armor
-lotr.achievement.killUtumnoOrc.title=Demonic Minions
-lotr.achievement.killUtumnoOrc.desc=Kill an Orc of Utumno
-lotr.achievement.killUtumnoWarg.title=The Hounds of Hell
-lotr.achievement.killUtumnoWarg.desc=Kill a Warg of Utumno
-lotr.achievement.killBalrog.title=Balrog Slayer
-lotr.achievement.killBalrog.desc=Kill a Balrog
-lotr.achievement.killTormentedElf.title=The Forgotten
-lotr.achievement.killTormentedElf.desc=Kill a Tormented Elf
-lotr.achievement.killUtumnoTroll.title=Troll in the Dungeons
-lotr.achievement.killUtumnoTroll.desc=Kill a Troll of Utumno
-lotr.achievement.craftUtumnoKey.title=Keys of the Deep
-lotr.achievement.craftUtumnoKey.desc=Craft a key from pieces found in Utumno
-lotr.achievement.leaveUtumno.title=Hell and Back
-lotr.achievement.leaveUtumno.desc=Return alive from the pits of Utumno
+lotr.achievement.enterUtumnoIce.title=The Hells of Ice -> L'Inferno di Ghiaccio (oppure "gli abissi"o "l'abisso"?) (???)
+lotr.achievement.enterUtumnoIce.desc=Enter Utumno -> Entra ad Utumno
+lotr.achievement.enterUtumnoObsidian.title=The Hells of Obsidian -> L'Inferno di Ossidiana
+lotr.achievement.enterUtumnoObsidian.desc=Descend to the middle level of Utumno -> Discendi al livello mediano di Utumno (???) (!!!)
+lotr.achievement.enterUtumnoFire.title=The Hells of Fire -> L'Inferno di Fuoco
+lotr.achievement.enterUtumnoFire.desc=Descend to the lower level of Utumno -> Discendi al livello più basso di Utumno
+lotr.achievement.wearFullUtumno.title=Underworld Looter -> Saccheggiatore del Sottosuolo
+lotr.achievement.wearFullUtumno.desc=Equip a full suit of Utumno armor -> Indossa un'armatura completa di Utumno
+lotr.achievement.killUtumnoOrc.title=Demonic Minions -> Servi Demoniaci
+lotr.achievement.killUtumnoOrc.desc=Kill an Orc of Utumno -> Uccidi un Orco di Utumno
+lotr.achievement.killUtumnoWarg.title=The Hounds of Hell -> Segugi Infernali (piccola citazione a D&D) (???)
+lotr.achievement.killUtumnoWarg.desc=Kill a Warg of Utumno -> Uccidi un mannaro di Utumno
+lotr.achievement.killBalrog.title=Balrog Slayer -> Assassino di Balrog (???)
+lotr.achievement.killBalrog.desc=Kill a Balrog -> Uccidi un Balrog
+lotr.achievement.killTormentedElf.title=The Forgotten -> I Dimenticati
+lotr.achievement.killTormentedElf.desc=Kill a Tormented Elf -> Uccidi un elfo tormentato
+lotr.achievement.killUtumnoTroll.title=Troll in the Dungeons -> Troll dei Sotterranei (lo rende una variante particolare di troll, letteralmente "Troll nei Sotterranei") (???)
+lotr.achievement.killUtumnoTroll.desc=Kill a Troll of Utumno -> Uccidi un Troll di Utumno
+lotr.achievement.craftUtumnoKey.title=Keys of the Deep -> Chiavi delle Profondità
+lotr.achievement.craftUtumnoKey.desc=Craft a key from pieces found in Utumno -> Assembla una chiave dai frammenti trovati ad Utumno
+lotr.achievement.leaveUtumno.title=Hell and Back -> Inferno e Ritorno
+lotr.achievement.leaveUtumno.desc=Return alive from the pits of Utumno -> Ritorna vivo dalle fosse di Utumno (fosse o abissi? da standardizzare) (???)
 
 WAYPOINT (6437-7048)
 lotr.waypoint.HIMLING=Himling
