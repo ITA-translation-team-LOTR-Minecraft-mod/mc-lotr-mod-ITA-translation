@@ -12,6 +12,12 @@ rigo: descrizione della modifica (eventuali marcatori). esempio a capo.
 0: questa riga non esiste! (???) (!!!)
 
 *****************************************************************************************************
+PUNTI DI RIFERIMENTO
+wiki italiana: https://lotr.fandom.com/it/wiki/
+wiki inglese:  https://lotr.fandom.com/wiki/
+wiki mod:      https://lotrminecraftmod.fandom.com/wiki/The_Lord_of_the_Rings_Minecraft_Mod_Wiki
+
+*****************************************************************************************************
 REGOLE GENERALI (concetti da applicare in generale a tutta la traduzione)
 
 - Cercare di attenersi il più possibile alla terminologia vanilla della 1.7.10
@@ -2568,7 +2574,7 @@ lotr.map.weatherHills=Weather Hills -> Colline Vento (canon)
 lotr.map.forlindon=Forlindon
 lotr.map.harlindon=Harlindon
 lotr.map.gulfLune=Gulf of Lune -> Golfo di Lune (o meglio Lhûn?)
-lotr.map.farDowns=Far Downs -> canonicamente si chiama "Luoghi Lontani", non riesco ad immaginare un nome peggiore nemmeno impegnandomi (???) (!!!)
+lotr.map.farDowns=Far Downs -> Colli Remoti (traduzione inventata da me), canonicamente si chiama "Luoghi Lontani", non riesco ad immaginare un nome peggiore nemmeno impegnandomi (???) (!!!)
 lotr.map.rhovanion=Rhovanion (o Terre Selvagge)
 lotr.map.westemnet=Westemnet (non c'è un nome italiano canon)
 lotr.map.eastemnet=Eastemnet (non c'è un nome italiano canon)
@@ -4223,7 +4229,7 @@ lotr.achievement.enterHalfTrollForest.desc=Enter the cursed forest of Taur-i-Tho
 lotr.achievement.enterOcean.title=To the Sea! -> Verso il Mare!
 lotr.achievement.enterOcean.desc=Travel to the seas surrounding Middle-earth
 lotr.achievement.enterMeneltarma.title=Pillar of the Heavens -> Pilastro del Cielo (canon)
-lotr.achievement.enterMeneltarma.desc=Travel to the summit of Meneltarma -> Viaggia fino alla sommità di Meneltarma (???)
+lotr.achievement.enterMeneltarma.desc=Travel to the summit of Meneltarma -> Viaggia fino alla vetta del Meneltarma (sommità? cima?) (???)
 
 lotr.achievement.enterUtumnoIce.title=The Hells of Ice -> L'Inferno di Ghiaccio (oppure "gli abissi"o "l'abisso"?) (???)
 lotr.achievement.enterUtumnoIce.desc=Enter Utumno -> Entra ad Utumno
@@ -4250,64 +4256,65 @@ lotr.achievement.leaveUtumno.desc=Return alive from the pits of Utumno -> Ritorn
 
 WAYPOINT (6437-7048)
 lotr.waypoint.HIMLING=Himling
-lotr.waypoint.HIMLING.info=The peak of the hill of Himring, mostly drowned following the War of Wrath.
+lotr.waypoint.HIMLING.info=The peak of the hill of Himring, mostly drowned following the War of Wrath. -> Il picco della collina di Himring, sprofondata quasi del tutto dopo la Guerra d'Ira.
 lotr.waypoint.TOL_FUIN=Tol Fuin
-lotr.waypoint.TOL_FUIN.info=The highlands of Taur-nu-Fuin, the Forest under Nightshade, which survived the drowning of Beleriand.
+lotr.waypoint.TOL_FUIN.info=The highlands of Taur-nu-Fuin, the Forest under Nightshade, which survived the drowning of Beleriand. -> Gli altopiani di Taur-nu-Fuin, la Foresta sotto la Notte, sopravvissuti allo sprofondamento del Beleriand.
 lotr.waypoint.TOL_MORWEN=Tol Morwen
-lotr.waypoint.TOL_MORWEN.info=A lone hill spared in the drowning of Beleriand, upon which lay the grave of Morwen mother of Túrin Turambar.
+lotr.waypoint.TOL_MORWEN.info=A lone hill spared in the drowning of Beleriand, upon which lay the grave of Morwen mother of Túrin Turambar. -> Una collina solitaria risparmiata dallo sprofondamento del Beleriand, sulla quale giace la tomba di Morwen madre di Túrin Turambar.
 lotr.waypoint.MENELTARMA_SUMMIT=Meneltarma
-lotr.waypoint.MENELTARMA_SUMMIT.info=The summit of the Meneltarma, the Sacred Mountain, which alone survived the downfall of Númenor.
+lotr.waypoint.MENELTARMA_SUMMIT.info=The summit of the Meneltarma, the Sacred Mountain, which alone survived the downfall of Númenor. -> La vetta del Meneltarma, il Monte Sacro, unica sopravvissuta alla caduta di Númenor
 
-lotr.waypoint.HOBBITON=Hobbiton
-lotr.waypoint.HOBBITON.info=A town of Hobbits in the centre of the Shire, overlooked by the Hill of Bag End.
-lotr.waypoint.BRANDYWINE_BRIDGE=Brandywine Bridge
-lotr.waypoint.BRANDYWINE_BRIDGE.info=A bridge across the River Brandywine and out of the Shire.
-lotr.waypoint.SARN_FORD=Sarn Ford
-lotr.waypoint.SARN_FORD.info=A stone ford on the southern edge of the Shire. Though the Shire-folk do not know, it is carefully guarded.
-lotr.waypoint.LONGBOTTOM=Longbottom
-lotr.waypoint.LONGBOTTOM.info=A town in the Southfarthing of the Shire, famous for its Longbottom Leaf.
-lotr.waypoint.MICHEL_DELVING=Michel Delving
-lotr.waypoint.MICHEL_DELVING.info=The chief town of the Shire, located in the White Downs, and home to the Mayor of Michel Delving.
-lotr.waypoint.WILLOWBOTTOM=Willowbottom
-lotr.waypoint.WILLOWBOTTOM.info=A small village near the Woody End.
-lotr.waypoint.BUCKLEBURY=Bucklebury
-lotr.waypoint.BUCKLEBURY.info=The chief village of Buckland, home of the Master of Buckland.
-lotr.waypoint.WHITFURROWS=Whitfurrows
-lotr.waypoint.WHITFURROWS.info=A small town upon the East Road.
-lotr.waypoint.FROGMORTON=Frogmorton
-lotr.waypoint.FROGMORTON.info=A village upon the East Road by the Frog-marshes.
-lotr.waypoint.OATBARTON=Oatbarton
-lotr.waypoint.OATBARTON.info=A village in the Northfarthing of the Shire.
-lotr.waypoint.SCARY=Scary
-lotr.waypoint.SCARY.info=A small Hobbit village among caves and stony hills.
-lotr.waypoint.NEEDLEHOLE=Needlehole
-lotr.waypoint.NEEDLEHOLE.info=A town in the Westfarthing of the Shire.
-lotr.waypoint.LITTLE_DELVING=Little Delving
-lotr.waypoint.LITTLE_DELVING.info=A smaller Hobbit town upon the White Downs.
-lotr.waypoint.WAYMEET=Waymeet
-lotr.waypoint.WAYMEET.info=A town upon the crossing of important Shire-roads.
-lotr.waypoint.TUCKBOROUGH=Tuckborough
-lotr.waypoint.TUCKBOROUGH.info=A historic town within the Green Hill Country. Home to the Took family, the Thains of the Shire.
-lotr.waypoint.NOBOTTLE=Nobottle
-lotr.waypoint.NOBOTTLE.info=A town in the Westfarthing of the Shire.
-lotr.waypoint.TIGHFIELD=Tighfield
-lotr.waypoint.TIGHFIELD.info=A village known for its rope-makers.
-lotr.waypoint.BROCKENBORINGS=Brockenborings
-lotr.waypoint.BROCKENBORINGS.info=A warren of tunnels within the rocky hills surrounding Scary.
-lotr.waypoint.DEEPHALLOW=Deephallow
-lotr.waypoint.DEEPHALLOW.info=A village upon the banks of the River Brandywine.
-lotr.waypoint.STOCK=Stock
-lotr.waypoint.STOCK.info=A town upon the Stock-brook by the banks of the River Brandywine.
-lotr.waypoint.BYWATER=Bywater
-lotr.waypoint.BYWATER.info=A village by the Pool upon the Water, home of the famous Green Dragon inn.
-lotr.waypoint.OVERHILL=Overhill
-lotr.waypoint.OVERHILL.info=A small village north of Hobbiton and the Hill.
-lotr.waypoint.HAYSEND=Haysend
-lotr.waypoint.HAYSEND.info=A village in the south of Buckland at the end of the Hedge.
-lotr.waypoint.HAY_GATE=Hay Gate
-lotr.waypoint.HAY_GATE.info=The guarded North Gate in the Hedge of Buckland.
-lotr.waypoint.GREENHOLM=Greenholm
-lotr.waypoint.GREENHOLM.info=A small town upon the Far Downs at the western border of the Shire.
+(per tutta la traduzione riguardante la contea potrebbe tornare utile questo link "http://www.soronel.it/Contea.html")
+lotr.waypoint.HOBBITON=Hobbiton 
+lotr.waypoint.HOBBITON.info=A town of Hobbits in the centre of the Shire, overlooked by the Hill of Bag End. -> Una cittadina Hobbit al centro della Contea, sovrastata dalla Collina di Casa Baggins. (nel caso degli hobbit town=cittadina e village=villaggio)
+lotr.waypoint.BRANDYWINE_BRIDGE=Brandywine Bridge -> Ponte sul Brandivino
+lotr.waypoint.BRANDYWINE_BRIDGE.info=A bridge across the River Brandywine and out of the Shire. -> Un ponte di pietra sul fiume Brandivino, l'ingresso orientale della Contea. (un po' più libera) (???)
+lotr.waypoint.SARN_FORD=Sarn Ford -> Guado del Sarn (o Sarnoguado)
+lotr.waypoint.SARN_FORD.info=A stone ford on the southern edge of the Shire. Though the Shire-folk do not know, it is carefully guarded. -> Un guado roccioso al confine meridionale della Contea. Sebbene il popolo della Contea non lo sappia, è attentamente sorvegliato.
+lotr.waypoint.LONGBOTTOM=Longbottom -> Pianilungone
+lotr.waypoint.LONGBOTTOM.info=A town in the Southfarthing of the Shire, famous for its Longbottom Leaf. -> Una cittadina situata nel Decumano Sud della Contea, famosa per la sua erba pipa. (???)
+lotr.waypoint.MICHEL_DELVING=Michel Delving -> Pietraforata
+lotr.waypoint.MICHEL_DELVING.info=The chief town of the Shire, located in the White Downs, and home to the Mayor of Michel Delving. -> Cittadina capoluogo della Contea, situata ai piedi dei Bianchi Poggi, dimora del Sindaco di Pianilungone.
+lotr.waypoint.WILLOWBOTTOM=Willowbottom -> Pianasalice (canon)
+lotr.waypoint.WILLOWBOTTOM.info=A small village near the Woody End. -> Un piccolo villaggio vicino a Fine di Foresta. (Fine di Foresta è il nome canonico del bosco, ma fa cagare) (???)
+lotr.waypoint.BUCKLEBURY=Bucklebury -> Buckburgo
+lotr.waypoint.BUCKLEBURY.info=The chief village of Buckland, home of the Master of Buckland. -> È il maggiore insediamento della Terra di Buck, sede del Signore della Terra di Buck.
+lotr.waypoint.WHITFURROWS=Whitfurrows-> Fossobianco
+lotr.waypoint.WHITFURROWS.info=A small town upon the East Road. -> Una piccola cittadina sulla Via Est.
+lotr.waypoint.FROGMORTON=Frogmorton -> Chianarana (nome canonico, mi sento male)
+lotr.waypoint.FROGMORTON.info=A village upon the East Road by the Frog-marshes. -> Un villaggio sulla Via Est vicino alle Paludi delle Rane. (il nome canonico per le frog-marshes credo sia diverso, anche se la cosa non ha senso)
+lotr.waypoint.OATBARTON=Oatbarton -> Avenaia (non presente nelle traduzioni ufficiali, basato su una interpretazione trovata al link indicato sopra)
+lotr.waypoint.OATBARTON.info=A village in the Northfarthing of the Shire. -> Un villaggio nel Decumano Nord della Contea.
+lotr.waypoint.SCARY=Scary (rimane così in italiano)
+lotr.waypoint.SCARY.info=A small Hobbit village among caves and stony hills. -> Un piccolo villaggio Hobbit tra grotte e colline rocciose.
+lotr.waypoint.NEEDLEHOLE=Needlehole -> Forodago (canon)
+lotr.waypoint.NEEDLEHOLE.info=A town in the Westfarthing of the Shire. -> Una cittadina nel Decumano Ovest della Contea.
+lotr.waypoint.LITTLE_DELVING=Little Delving -> Piccoloantro (in italiano manca la correlazione con Pietraforata, penso che potremo farcene una ragione)
+lotr.waypoint.LITTLE_DELVING.info=A smaller Hobbit town upon the White Downs. -> Una piccola cittadina Hobbit sui Bianchi Poggi.
+lotr.waypoint.WAYMEET=Waymeet -> Quadrivio
+lotr.waypoint.WAYMEET.info=A town upon the crossing of important Shire-roads. -> Una cittadina posta all'incrocio tra importanti strade della Contea.
+lotr.waypoint.TUCKBOROUGH=Tuckborough -> Tucboro (aka Tucburgo)
+lotr.waypoint.TUCKBOROUGH.info=A historic town within the Green Hill Country. Home to the Took family, the Thains of the Shire. -> Una città storica della Regione delle Verdi Colline. Sede della famiglia Tuc, i Conti della Contea. (Green-hill Country = Regione delle Verdi Colline?) (???)
+lotr.waypoint.NOBOTTLE=Nobottle -> Novacasa (nome non canonico in italiano, derivato da una spiegazione al link indicato sopra + nome presente in Tolkienpedia)
+lotr.waypoint.NOBOTTLE.info=A town in the Westfarthing of the Shire. -> Una cittadina nel Decumano Ovest della Contea.
+lotr.waypoint.TIGHFIELD=Tighfield -> Piandifune
+lotr.waypoint.TIGHFIELD.info=A village known for its rope-makers. -> Un villaggio noto per i suoi cordai.
+lotr.waypoint.BROCKENBORINGS=Brockenborings -> Tassitani (canon?)
+lotr.waypoint.BROCKENBORINGS.info=A warren of tunnels within the rocky hills surrounding Scary. -> Un labirinto di tunnel all'interno delle colline rocciose che circondano Scary (google traduttore ha fatto meglio di quanto io sarei stato in grado)
+lotr.waypoint.DEEPHALLOW=Deephallow -> Fossafonda (ho trovato anche Fondangolo e Valtomba) (???)
+lotr.waypoint.DEEPHALLOW.info=A village upon the banks of the River Brandywine. -> Un villaggio sulle rive del fiume Brandivino.
+lotr.waypoint.STOCK=Stock -> Scorta (l'ho trovato solo così solo su tolkienpedia) (???)
+lotr.waypoint.STOCK.info=A town upon the Stock-brook by the banks of the River Brandywine. -> Una cittadina sul ruscello di Scorta, vicino alle rive del fiume Brandivino.
+lotr.waypoint.BYWATER=Bywater -> Lungacque
+lotr.waypoint.BYWATER.info=A village by the Pool upon the Water, home of the famous Green Dragon inn. -> Un villaggio vicino alla Pozza sull'Acqua, sede della famosa locanda del Drago Verde. (???)
+lotr.waypoint.OVERHILL=Overhill -> Sopracolle (oppure Surcolle, romanaccio)
+lotr.waypoint.OVERHILL.info=A small village north of Hobbiton and the Hill. -> Un piccolo villaggio a nord di Hobbiton e della Collina.
+lotr.waypoint.HAYSEND=Haysend (non ho trovato niente) (???) (!!!)
+lotr.waypoint.HAYSEND.info=A village in the south of Buckland at the end of the Hedge. -> Un villaggio nel Sud della Terra di Buck alla fine della Siepe.
+lotr.waypoint.HAY_GATE=Hay Gate -> Porta della Siepe (non ho trovato nulla ed ho messo questo, va bene?) (???)
+lotr.waypoint.HAY_GATE.info=The guarded North Gate in the Hedge of Buckland. -> La sorvegliata Porta Nord nella Siepe della Terra di Buck. (the hedge detta anche "Frattalta")
+lotr.waypoint.GREENHOLM=Greenholm -> Verdolmo (stando a The one wiki to rule them all)
+lotr.waypoint.GREENHOLM.info=A small town upon the Far Downs at the western border of the Shire. -> Una piccola cittadina sui Colli Remoti al confine occidentale della Contea. (ho tradotto Far Downs in Colli Remoti nel tentativo di dargli un senso) (???) (!!!)
 
 lotr.waypoint.WITHYWINDLE_VALLEY=Withywindle Valley
 lotr.waypoint.WITHYWINDLE_VALLEY.info=A strange and haunted valley where the Withywindle runs through the Old Forest.
@@ -4878,7 +4885,7 @@ lotr.road.DalePortRoad=Dale Road -> Via di Dale
 lotr.road.DaleSouthRoad=Rhovanion Road -> Via del Rhovanion
 lotr.road.IronHills=Dwarven Road -> Via nanica
 lotr.road.DorwinionSouthRoad=Wine-road -> Via del Vino
-lotr.road.DorwinionEastRoad=East Road -> Via dell'Est (???)
+lotr.road.DorwinionEastRoad=East Road -> Via Est (???)
 lotr.road.RhunRoad=Golden Road -> Via Dorata (???)
 lotr.road.RhunEastRoad=East Rhúdel Road -> Via Orientale di Rhúdel (???)
 lotr.road.Nobottom=Nobottom Road -> Via di Novacasa? (sarebbe "di Nobottle"?)
