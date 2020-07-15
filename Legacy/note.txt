@@ -4396,7 +4396,7 @@ lotr.waypoint.CARN_DUM=Carn Dûm
 lotr.waypoint.CARN_DUM.info=The capital of the old Kingdom of Angmar. -> La capitale dell'antico Regno di Angmar
 
 lotr.waypoint.WEST_GATE=West Gate -> Porta Ovest
-lotr.waypoint.WEST_GATE.info=The western gate of Khazad-dûm, now called Moria: of old the great delvings and mansions of the Dwarves of Durin's Folk and a wonder of the Northern world. -> La porta occidetale di Khazad-dûm, oggi chiamata Moria: le sue grandi miniere e antiche dimore dei Nani del Popolo di Durin sono una meraviglia del mondo settentrionale. (dubbi su "of old", dubbi su delvings=miniere, alternativa possibile "gallerie") (???) (!!!)
+lotr.waypoint.WEST_GATE.info=The western gate of Khazad-dûm, now called Moria: of old the great delvings and mansions of the Dwarves of Durin's Folk and a wonder of the Northern world. -> La porta occidentale di Khazad-dûm, oggi chiamata Moria: le sue grandi miniere e antiche dimore dei Nani del Popolo di Durin sono una meraviglia del mondo settentrionale. (dubbi su "of old", dubbi su delvings=miniere, alternativa possibile "gallerie") (???) (!!!)
 lotr.waypoint.OST_IN_EDHIL=Ost-in-Edhil
 lotr.waypoint.OST_IN_EDHIL.info=The ruined city of the Elves of Eregion. -> La città distrutta degli Elfi dell'Eregion.
 
@@ -4450,42 +4450,42 @@ lotr.waypoint.EAGLES_EYRIE.info=A great shelf of rock on the eastern side of the
 lotr.waypoint.DAINS_HALLS=Dáin's Halls -> Aule di Dáin (o roccaforti?)
 lotr.waypoint.DAINS_HALLS.info=A colony of Durin's Folk in the Grey Mountains, abandoned after Dáin was slain by a Cold-drake. -> Una colonia del Popolo di Durin nei Monti Grigi, abbandonata dopo che Dáin fu ucciso da un Drago Freddo.
 lotr.waypoint.SCATHA=Scatha's Lair -> Tana di Scatha (o meglio "antro"?)
-lotr.waypoint.SCATHA.info=Once the lair of Scatha, a great Long-worm, before he was slain by Fram of the Éothéod. -> Un tempo la tana di Scatha, un grande Verme Lungo, prima che venisse ucciso da Fram, re degli Éothéod.[tradotto-----]
+lotr.waypoint.SCATHA.info=Once the lair of Scatha, a great Long-worm, before he was slain by Fram of the Éothéod. -> Un tempo la tana di Scatha, un grande Verme Lungo, prima che venisse ucciso da Fram, re degli Éothéod.
 
-lotr.waypoint.CARROCK=Carrock
-lotr.waypoint.CARROCK.info=A towering pillar of rock in the midst of the Great River. It was once said that, on clear nights, a great bear could be seen climbing the rock to gaze upon the Moon.
-lotr.waypoint.OLD_FORD=Old Ford
-lotr.waypoint.OLD_FORD.info=The crossing of the Old Forest Road upon the Great River of Wilderland. A bridge once stood here, but has long since crumbled.
-lotr.waypoint.GLADDEN_FIELDS=Gladden Confluence
-lotr.waypoint.GLADDEN_FIELDS.info=The watery meeting-place where the Gladden flows down into the Great River Anduin.
-lotr.waypoint.DIMRILL_DALE=Dimrill Dale
-lotr.waypoint.DIMRILL_DALE.info=Azanulbizar, below the East Gate of Khazad-dûm: the valley of the Mirrormere, wherein it is said Durin the Deathless first saw his crown among the stars.
-lotr.waypoint.FIELD_OF_CELEBRANT=Field of Celebrant
-lotr.waypoint.FIELD_OF_CELEBRANT.info=The site of the Gondor-Éothéod victory over the Balchoth, which led to the historic Oath of Cirion and Eorl.
+lotr.waypoint.CARROCK=Carrock -> Carroccia (canon, ma abbastanza ridicolo. manteniamo il nome originale?) (???)
+lotr.waypoint.CARROCK.info=A towering pillar of rock in the midst of the Great River. It was once said that, on clear nights, a great bear could be seen climbing the rock to gaze upon the Moon. -> Un imponente pilastro di roccia nel mezzo del Grande Fiume. Un tempo si diceva che, nelle notti limpide, si potesse vedere un grande orso arrampicarsi sulla roccia per guardare la Luna. (gaze=guardare non è molto adatto, forse meglio "fissare" o "osservare") (???)
+lotr.waypoint.OLD_FORD=Old Ford -> Vecchio Guado
+lotr.waypoint.OLD_FORD.info=The crossing of the Old Forest Road upon the Great River of Wilderland. A bridge once stood here, but has long since crumbled. -> Il luogo in cui l'Antica Via Silvana incontra il Grande Fiume delle Terre Selvagge. Una volta qui sorgeva un ponte, ma è andato distrutto da molto tempo. (mi sono preso qualche libertà in più in favore della resa in Italiano) (???)
+lotr.waypoint.GLADDEN_FIELDS=Gladden Confluence -> Confluenza del Gaggiolo (fiume Gladden=Gaggiolo) (precedentemente tradotto con: Confluenza dei Campi Iridati, Confluenza Iridata non mi sembrava appropriato) (???)
+lotr.waypoint.GLADDEN_FIELDS.info=The watery meeting-place where the Gladden flows down into the Great River Anduin. -> Il luogo in cui le acque del fiume Gaggiolo affluiscono nel Grande Fiume Anduin. (???)
+lotr.waypoint.DIMRILL_DALE=Dimrill Dale -> Valle dei Rivi Tenebrosi (canon)
+lotr.waypoint.DIMRILL_DALE.info=Azanulbizar, below the East Gate of Khazad-dûm: the valley of the Mirrormere, wherein it is said Durin the Deathless first saw his crown among the stars. -> Azanulbizar, sotto la Porta Est di Khazad-dûm: la valle del Mirolago, in cui si dice che Durin il Senzamorte abbia visto per la prima volta la sua corona tra le stelle.
+lotr.waypoint.FIELD_OF_CELEBRANT=Field of Celebrant -> Campo di Celebrant (canon così, anche se il Celebrant viene tradotto come Argentaroggia) (???)
+lotr.waypoint.FIELD_OF_CELEBRANT.info=The site of the Gondor-Éothéod victory over the Balchoth, which led to the historic Oath of Cirion and Eorl. -> Il luogo della vittoria dei Dúnedain di Gondor e degli Éothéod contro i Balchoth, che ha portato allo storico Giuramento di Eorl e Cirion. (ho aggiunto Dunedain a "di Gondor" per identificare due popolazioni e non una nazione e una popolazione. Invertiti i nomi di Eorl e Cirion perché l'evento è più famoso col nome di Giuramento di Eorl)
 lotr.waypoint.RAUROS=Rauros
-lotr.waypoint.RAUROS.info=The shores of Parth Galen by the great falls of Rauros.
-lotr.waypoint.BEORN=Beorn's Hall
-lotr.waypoint.BEORN.info=A rustic homestead inhabited by skin-changers and men of the Vales, said to be unfriendly to outsiders.
-lotr.waypoint.FOREST_GATE=Forest Gate
-lotr.waypoint.FOREST_GATE.info=Once the entrance to the Wood-elven realm in Greenwood the Great, the gate of Mirkwood is now defiled by servants of the Enemy.
+lotr.waypoint.RAUROS.info=The shores of Parth Galen by the great falls of Rauros. -> La radura di Parth Galen presso le grandi cascate del Rauros. (???)
+lotr.waypoint.BEORN=Beorn's Hall -> Casa di Beorn (nome canon in italiano credo)
+lotr.waypoint.BEORN.info=A rustic homestead inhabited by skin-changers and men of the Vales, said to be unfriendly to outsiders. -> Una tenuta rustica abitata dai Mutapelle e dagli Uomini delle Valli, ritenuti ostili agli estranei. (da valutare rustic homestead = tenuta rustica) (???)
+lotr.waypoint.FOREST_GATE=Forest Gate -> Cancello della Foresta (???)
+lotr.waypoint.FOREST_GATE.info=Once the entrance to the Wood-elven realm in Greenwood the Great, the gate of Mirkwood is now defiled by servants of the Enemy. -> Un tempo l'entrata del reame degli Elfi Silvani di Boscoverde il Grande, l'ingresso di Bosco Atro è ora contaminato dai servi del Nemico. (???)
 lotr.waypoint.FRAMSBURG=Framsburg
-lotr.waypoint.FRAMSBURG.info=The ruined city of the Éothéod, Northmen ancestors of the Rohirrim.
-lotr.waypoint.ANDUIN_CROSSROADS=Crossroads of Anduin
-lotr.waypoint.ANDUIN_CROSSROADS.info=A fork in the path between the Anduin Road and the road to Dol Guldur.
-lotr.waypoint.EAST_RHOVANION_ROAD=East Rhovanion Gate
-lotr.waypoint.EAST_RHOVANION_ROAD.info=An old crossroads at the meeting of the Anduin Vales, the Brown Lands, and eastern Wilderland.
+lotr.waypoint.FRAMSBURG.info=The ruined city of the Éothéod, Northmen ancestors of the Rohirrim. -> La città in rovina degli Éothéod, gli Uomini del Nord antenati dei Rohirrim.
+lotr.waypoint.ANDUIN_CROSSROADS=Crossroads of Anduin -> Crocevia dell'Anduin
+lotr.waypoint.ANDUIN_CROSSROADS.info=A fork in the path between the Anduin Road and the road to Dol Guldur. -> Un bivio nel percorso tra la Via dell'Anduin e la via verso Dol Guldur. (molti dubbi) (???)
+lotr.waypoint.EAST_RHOVANION_ROAD=East Rhovanion Gate -> Ingresso orientale del Rhovanion (molti dubbi) (???)
+lotr.waypoint.EAST_RHOVANION_ROAD.info=An old crossroads at the meeting of the Anduin Vales, the Brown Lands, and eastern Wilderland. -> Un antico crocevia nel punto di incontro tra la Valle dell'Anduin, le Terre Brune, e le Terre Selvagge orientali.
 
-lotr.waypoint.THRANDUIL_HALLS=Thranduil's Halls
-lotr.waypoint.THRANDUIL_HALLS.info=The underground halls of Thranduil the Elvenking. It is said that they recall the glory of Menegroth in days of old.
+lotr.waypoint.THRANDUIL_HALLS=Thranduil's Halls -> Sale di Thranduil (aule per i nani e sale per gli elfi?) (???)
+lotr.waypoint.THRANDUIL_HALLS.info=The underground halls of Thranduil the Elvenking. It is said that they recall the glory of Menegroth in days of old. -> Le sale sotterranee di Thranduil il Re degli Elfi Silvani. Si dice che ricordino la gloria di Menegroth dei tempi antichi. (non sono troppo sicuro della parte finale) (???)
 
 lotr.waypoint.DOL_GULDUR=Dol Guldur
-lotr.waypoint.DOL_GULDUR.info=The Hill of Sorcery: fortress-lair of the Necromancer before he fled eastwards, now inhabited by Khamûl the Easterling and his fell servants.
-lotr.waypoint.MIRKWOOD_MOUNTAINS=Mountains of Mirkwood
-lotr.waypoint.MIRKWOOD_MOUNTAINS.info=The Emyn-nu-Fuin, a range of dark hills rising out of the fog of Mirkwood, which fence out the worst of the Necromancer's corruption.
+lotr.waypoint.DOL_GULDUR.info=The Hill of Sorcery: fortress-lair of the Necromancer before he fled eastwards, now inhabited by Khamûl the Easterling and his fell servants. -> La Collina della Stregoneria: l'antro fortezza del Necromante prima che fuggisse verso Est, ora abitata da Khamûl l'Easterling e i suoi servitori corrotti. (dubbi su fell servants = corrotti servitori) (???)
+lotr.waypoint.MIRKWOOD_MOUNTAINS=Mountains of Mirkwood -> Montagne di Bosco Atro
+lotr.waypoint.MIRKWOOD_MOUNTAINS.info=The Emyn-nu-Fuin, a range of dark hills rising out of the fog of Mirkwood, which fence out the worst of the Necromancer's corruption. -> L'Emyn-nu-Fuin, una piccola catena di montagne oscure che emergono dalla nebbia di Bosco Atro, recintando il peggio della corruzione del Necromante. (???)
 lotr.waypoint.RHOSGOBEL=Rhosgobel
-lotr.waypoint.RHOSGOBEL.info=The dwelling-place of Radagast the Brown, home to many birds and beasts, and a safe haven among the corruption of Mirkwood.
-lotr.waypoint.ENCHANTED_RIVER=Enchanted River
-lotr.waypoint.ENCHANTED_RIVER.info=Here the Elf-path crosses over a gloomy black river. It is advised to avoid these waters, for whoever touches them shall not awake...
+lotr.waypoint.RHOSGOBEL.info=The dwelling-place of Radagast the Brown, home to many birds and beasts, and a safe haven among the corruption of Mirkwood. -> La dimora di Radagast il Bruno, ospita molti uccelli e bestie ed è un rifugio sicuro in mezzo alla corruzione di Bosco Atro.
+lotr.waypoint.ENCHANTED_RIVER=Enchanted River -> Fiume Incantato
+lotr.waypoint.ENCHANTED_RIVER.info=Here the Elf-path crosses over a gloomy black river. It is advised to avoid these waters, for whoever touches them shall not awake... -> Qui il Sentiero degli Elfi attraversa un un cupo fiume nero. Si consiglia di evitare queste acque, poiché chi le tocca cade in un lungo sonno profondo... (???) [tradotto-----]
 
 lotr.waypoint.RIVER_GATE=River Gate
 lotr.waypoint.RIVER_GATE.info=An outpost of the Wood-elves near the end of the Forest River.
