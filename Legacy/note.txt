@@ -4485,7 +4485,7 @@ lotr.waypoint.MIRKWOOD_MOUNTAINS.info=The Emyn-nu-Fuin, a range of dark hills ri
 lotr.waypoint.RHOSGOBEL=Rhosgobel
 lotr.waypoint.RHOSGOBEL.info=The dwelling-place of Radagast the Brown, home to many birds and beasts, and a safe haven among the corruption of Mirkwood. -> La dimora di Radagast il Bruno, ospita molti uccelli e bestie ed è un rifugio sicuro in mezzo alla corruzione di Bosco Atro.
 lotr.waypoint.ENCHANTED_RIVER=Enchanted River -> Fiume Incantato
-lotr.waypoint.ENCHANTED_RIVER.info=Here the Elf-path crosses over a gloomy black river. It is advised to avoid these waters, for whoever touches them shall not awake... -> Qui il Sentiero degli Elfi attraversa un un cupo fiume nero. Si consiglia di evitare queste acque, poiché chi le tocca cade in un lungo sonno profondo... (???) [tradotto-----]
+lotr.waypoint.ENCHANTED_RIVER.info=Here the Elf-path crosses over a gloomy black river. It is advised to avoid these waters, for whoever touches them shall not awake... -> Qui il Sentiero degli Elfi attraversa un un cupo fiume nero. Si consiglia di evitare queste acque, poiché chi le tocca cade in un lungo sonno profondo... (???)
 
 lotr.waypoint.RIVER_GATE=River Gate -> Cancello del Fiume (???)
 lotr.waypoint.RIVER_GATE.info=An outpost of the Wood-elves near the end of the Forest River. -> Un avamposto degli Elfi Silvani vicino alla fine del Fiume della Foresta. (???)
@@ -4517,18 +4517,18 @@ lotr.waypoint.EAST_PEAK=East Peak -> Picco Est
 lotr.waypoint.EAST_PEAK.info=A large mountain in the far eastern end of the Iron Hills. -> Una grande montagna all'estremità orientale dei Colli Ferrosi.
 
 lotr.waypoint.CARAS_GALADHON=Caras Galadhon
-lotr.waypoint.CARAS_GALADHON.info=The city of the Galadhrim in Lothlórien, and the heart of Elvendom on earth.
+lotr.waypoint.CARAS_GALADHON.info=The city of the Galadhrim in Lothlórien, and the heart of Elvendom on earth. -> La città dei Galadhrim di Lothlórien, il cuore del reame degli Elfi Silvani. (tolkienpedia dice elfi silvani. Erano silvani anche a Lothlorien?) (???)
 lotr.waypoint.CERIN_AMROTH=Cerin Amroth
-lotr.waypoint.CERIN_AMROTH.info=A great green hill in the midst of Lothlórien from where it is said one may see as far as southern Mirkwood.
-lotr.waypoint.NIMRODEL=House of Nimrodel
-lotr.waypoint.NIMRODEL.info=The former home of an Elf-maiden, Nimrodel, who disappeared grieving after her beloved Amroth was drowned in the Sundering Seas.
+lotr.waypoint.CERIN_AMROTH.info=A great green hill in the midst of Lothlórien from where it is said one may see as far as southern Mirkwood. -> Una grande collina verde al centro di Lothlórien da dove si dice si riesca vedere fino a Bosco Atro meridionale.
+lotr.waypoint.NIMRODEL=House of Nimrodel -> Casa di Nimrodel (casa? dimora?) (???)
+lotr.waypoint.NIMRODEL.info=The former home of an Elf-maiden, Nimrodel, who disappeared grieving after her beloved Amroth was drowned in the Sundering Seas. -> La casa che appartenne alla fanciulla elfica Nimrodel, scomparsa per il dolore dopo che la tanto amata Amroth sprofondò nei Mari Separanti. (ho tentato un adattamento meno letterale e più fluido) (???)
 
-lotr.waypoint.DERNDINGLE=Derndingle
-lotr.waypoint.DERNDINGLE.info=A meeting-place for the Ents of Fangorn, set within a hidden clearing.
-lotr.waypoint.WELLINGHALL=Wellinghall
-lotr.waypoint.WELLINGHALL.info=One of Treebeard's Ent-houses nestled among the spurs of Mount Methedras.
-lotr.waypoint.TREEBEARD_HILL=Treebeard's Hill
-lotr.waypoint.TREEBEARD_HILL.info=A rocky shelf, standing above the trees of Fangorn Forest, where one can contemplate the sunlight on the leaves and the wind among their branches.
+lotr.waypoint.DERNDINGLE=Derndingle (ha un nome in italiano?) (???)
+lotr.waypoint.DERNDINGLE.info=A meeting-place for the Ents of Fangorn, set within a hidden clearing. -> Un luogo di incontro per gli Ent di Fangorn, situato in una radura nascosta.
+lotr.waypoint.WELLINGHALL=Wellinghall (ha un nome italiano?) (???)
+lotr.waypoint.WELLINGHALL.info=One of Treebeard's Ent-houses nestled among the spurs of Mount Methedras. -> Una delle case Ent di Barbalbero incastonata tra gli speroni del Monte Methedras. (meglio dimore?) (???)
+lotr.waypoint.TREEBEARD_HILL=Treebeard's Hill -> Collina di Barbalbero
+lotr.waypoint.TREEBEARD_HILL.info=A rocky shelf, standing above the trees of Fangorn Forest, where one can contemplate the sunlight on the leaves and the wind among their branches. -> Una piattaforma rocciosa, sovrastante gli alberi della Foresta di Fangorn, da cui poter contemplare la luce del sole sulle foglie e il vento tra i loro rami. (potrebbe essere una citazione diretta dal libro? da verificare e modificare in caso) (???)[tradotto-----]
 
 lotr.waypoint.WOLD=Woldhall
 lotr.waypoint.WOLD.info=A small town in the sparsely inhabited uplands of Rohan.
