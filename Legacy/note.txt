@@ -734,9 +734,9 @@ lotr.title.MULTI_sindar=Sindar
 lotr.title.MULTI_greyElf=Grey-elf
 lotr.title.MULTI_noldor=Noldor
 lotr.title.MULTI_avari=Avari
-lotr.title.MULTI_sunlands=Sunlands -> da tradurre o no? (???)
-lotr.title.MULTI_swerting=Swerting > da tradurre o no? (???)
-lotr.title.MULTI_sutherland=Sutherland > da tradurre o no? (???)
+lotr.title.MULTI_sunlands=Sunlands -> Terre del Sole (da tradurre o no?) (???)
+lotr.title.MULTI_swerting=Swerting -> da tradurre o no? (???)
+lotr.title.MULTI_sutherland=Sutherland -> da tradurre o no? (???)
 
 lotr.title.HOBBIT_hobbit=Hobbit
 lotr.title.HOBBIT_halfling=Halfling -> Mezzuomo
@@ -1039,7 +1039,7 @@ lotr.shields.ALIGNMENT_CORSAIR.name=Shield of the Corsairs -> Scudo dei Corsari
 lotr.shields.ALIGNMENT_CORSAIR.desc=Awarded for reaching +1000 alignment with the Near Haradrim
 lotr.shields.ALIGNMENT_GULF.name=Shield of Khopazûl -> Scudo di Khopazûl
 lotr.shields.ALIGNMENT_GULF.desc=Awarded for reaching +1000 alignment with the Near Haradrim
-lotr.shields.ALIGNMENT_MOREDAIN.name=Shield of the Sunlands -> Scudo delle Sunlands
+lotr.shields.ALIGNMENT_MOREDAIN.name=Shield of the Sunlands -> Scudo delle Terre del Sole
 lotr.shields.ALIGNMENT_MOREDAIN.desc=Awarded for reaching +1000 alignment with the Morwaith
 lotr.shields.ALIGNMENT_TAUREDAIN.name=Shield of the Jungle -> Scudo della Giungla
 lotr.shields.ALIGNMENT_TAUREDAIN.desc=Awarded for reaching +1000 alignment with the Taurethrim
@@ -4791,7 +4791,7 @@ lotr.waypoint.GULF_TRADE_TOWN=Bakrîzad
 lotr.waypoint.GULF_TRADE_TOWN.info=A trader-town, where exotic goods from East and South are bought and sold. Many Southron traders have made their fortunes here. -> Una città mercantile dove vengono venduti e comprati beni esotici da Est e da Sud. Molti commercianti Sudroni hanno fatto fortuna in questo luogo.
 lotr.waypoint.GULF_NORTH_TOWN=Yaphurushi
 lotr.waypoint.GULF_NORTH_TOWN.info=A rich Gulfen city amid the gushing streams of the northern vales, whose people strive to surpass the glory of their southern neighbour. -> Una ricca città del Golfo tra i torrenti zampillanti delle valli settentrionali, i cui abitanti si sforzano di sorpassare la gloria dei loro vicini meridionali.
-lotr.waypoint.GULF_EAST_BAY=Topaz Bay -> Baia di Topazi (o "Baia del Topazio"?) (???)
+lotr.waypoint.GULF_EAST_BAY=Topaz Bay -> Baia di Topazio (o "Baia del Topazio"?) (???)
 lotr.waypoint.GULF_EAST_BAY.info=Although said to be a fair land, these eastern shores are notorious as a haunt of corsairs and outlaws from all across Harad and Rhûn. -> Anche se si dice che sia una bella terra, queste coste orientali sono famose per essere un ritrovo di corsari e fuorilegge da tutto l'Harad e da Rhûn. (???)
 lotr.waypoint.GULF_EAST_PORT=Ephalôn
 lotr.waypoint.GULF_EAST_PORT.info=A lesser port town in the far eastern reaches of the Gulfen lands. -> Una città portuale minore all'estremità orientale delle terre del Golfo.
@@ -4803,65 +4803,65 @@ lotr.waypoint.MOUNT_GREEN.info=The Greenhorn, a mighty peak of the Mountains of 
 lotr.waypoint.MOUNT_THUNDER=Mount Belegwaeras
 lotr.waypoint.MOUNT_THUNDER.info=The Stormhorn, a mighty peak of the southern Mountains of Harad. -> Il Corno della Tempesta, un'imponente vetta delle Montagne dell'Harad meridionali.[tradotto-----]
 
-lotr.waypoint.GREAT_PLAINS_NORTH=Hunters' Haunt
-lotr.waypoint.GREAT_PLAINS_NORTH.info=The northernmost regions of the Far Harad grasslands, often visited by poachers from Near Harad who capture and kill exotic beasts for a profit.
-lotr.waypoint.GREAT_PLAINS_SOUTH=Deep Harad
-lotr.waypoint.GREAT_PLAINS_SOUTH.info=Not far from here are the towering chain of volcanic mountains which the Morwaith fearfully name the Gates of Fire, Narennyn in the Elven-tongue.
-lotr.waypoint.GREAT_PLAINS_WEST=Upper Floodplains
-lotr.waypoint.GREAT_PLAINS_WEST.info=The Morwaith of the western plains say that beyond the mountains a Great Lion lies watching, awaiting the day when he will swallow all lands and end the world of Men.
-lotr.waypoint.GREAT_PLAINS_EAST=Hill of the Sun
-lotr.waypoint.GREAT_PLAINS_EAST.info=Among the Morwaith, it is told that here a great ancestral chieftain lies resting, who long ago led their people out from the Shadow into the Sunlands.
+lotr.waypoint.GREAT_PLAINS_NORTH=Hunters' Haunt -> Ritrovo dei Cacciatori
+lotr.waypoint.GREAT_PLAINS_NORTH.info=The northernmost regions of the Far Harad grasslands, often visited by poachers from Near Harad who capture and kill exotic beasts for a profit. -> Le regioni più settentrionali delle praterie del Lontano Harad, spesso visitate dai bracconieri del Vicino Harad che catturano e uccidono bestie esotiche per profitto.
+lotr.waypoint.GREAT_PLAINS_SOUTH=Deep Harad -> Profondo Harad
+lotr.waypoint.GREAT_PLAINS_SOUTH.info=Not far from here are the towering chain of volcanic mountains which the Morwaith fearfully name the Gates of Fire, Narennyn in the Elven-tongue. -> Non lontano da qui si trovano le imponenti catene di montagne vulcaniche che i Morwaith chiamano con timore i Cancelli del Fuoco, Narennyn in linguaggio Elfico. (???)
+lotr.waypoint.GREAT_PLAINS_WEST=Upper Floodplains -> Piane alluvionali superiori (nome probabilmente troppo tecnico) (???)
+lotr.waypoint.GREAT_PLAINS_WEST.info=The Morwaith of the western plains say that beyond the mountains a Great Lion lies watching, awaiting the day when he will swallow all lands and end the world of Men. -> I Morwaith delle pianure occidentali dicono che oltre le montagne un Grande Leone giaccia in attesa, aspettando il giorno in cui inghiottirà tutte le terre e porrà fine al mondo degli Uomini.
+lotr.waypoint.GREAT_PLAINS_EAST=Hill of the Sun -> Colle del Sole
+lotr.waypoint.GREAT_PLAINS_EAST.info=Among the Morwaith, it is told that here a great ancestral chieftain lies resting, who long ago led their people out from the Shadow into the Sunlands. -> Tra i Morwaith, si narra che qui riposi un grande capitano ancestrale, che molto tempo fa condusse il suo popolo fuori dall'Ombra verso le Terre del Sole.
 lotr.waypoint.GREEN_VALLEY=Nan Harnagorath
-lotr.waypoint.GREEN_VALLEY.info=Despite countless battles between the Far Haradrim tribes, these vales at the edge of the forest remain green and lush.
+lotr.waypoint.GREEN_VALLEY.info=Despite countless battles between the Far Haradrim tribes, these vales at the edge of the forest remain green and lush. -> Nonostante le innumerevoli battaglie tra le tribù del Lontano Harad, queste valli ai margini della foresta rimangono verdi e lussureggianti.
 lotr.waypoint.HARAD_LAKES=Nin Haecharad
-lotr.waypoint.HARAD_LAKES.info=The great inland lakes of Haradwaith, like seas within the plains, home to many flourishing plants and herds of beasts.
+lotr.waypoint.HARAD_LAKES.info=The great inland lakes of Haradwaith, like seas within the plains, home to many flourishing plants and herds of beasts. -> I grandi laghi interni dell'Haradwaith, simili a mari tra le pianure, ospitano molte rigogliose piante e branchi di bestie.
 lotr.waypoint.LAKE_HARAD=Chunha
-lotr.waypoint.LAKE_HARAD.info=The Taurethrim speak of these swamplands, said to be their home in ancient days before a great flooding drove their people southwards.
+lotr.waypoint.LAKE_HARAD.info=The Taurethrim speak of these swamplands, said to be their home in ancient days before a great flooding drove their people southwards. -> I Taurethrim parlano di queste paludi, che si diceva fossero la loro casa nei tempi antichi, prima che una grande inondazione spingesse il loro popolo verso Sud.
 lotr.waypoint.HARADUIN_MOUTH=Ethir Haraduin
-lotr.waypoint.HARADUIN_MOUTH.info=The mouths of the mighty Haraduin, the longest river in the world.
+lotr.waypoint.HARADUIN_MOUTH.info=The mouths of the mighty Haraduin, the longest river in the world. -> Le foci del possente Haraduin, il fiume più lungo del mondo.
 lotr.waypoint.ISLE_MIST=Tol Hîth
-lotr.waypoint.ISLE_MIST.info=An island, said to be shrouded in mist, that lies at the very southern edge of the world.
+lotr.waypoint.ISLE_MIST.info=An island, said to be shrouded in mist, that lies at the very southern edge of the world. -> Un'isola, che si dice sia avvolta nella nebbia, che giace all'estremo confine meridionale del mondo. (non mi piace tanto "giace" in questo caso) (???)
 lotr.waypoint.TAURELONDE=Taurelondë
-lotr.waypoint.TAURELONDE.info=Once a great haven of the Númenóreans stood here, friendly with the old Taurethrim at the height of their power, before the Shadow fell. Long now it has lain empty.
-lotr.waypoint.HARAD_HORN=Horn of Harad
-lotr.waypoint.HARAD_HORN.info=The southernmost point of the Haradwaith. Such lands as may lie further south, if any, come not into the lore of the Númenóreans nor the tales of the Southrons.
-lotr.waypoint.TOWN_BONES=Town of Bones
-lotr.waypoint.TOWN_BONES.info=A town built among bones, strange and surreal. The Southrons of the Gulf come here to buy the great Mûmakil from the Morwaith beast-chainers.
-lotr.waypoint.HARADUIN_BRIDGE=Bridge of Haraduin
-lotr.waypoint.HARADUIN_BRIDGE.info=Once the site of a mighty bridge built by the old Taurethrim, long since crumbled away. The new bridge is now traversed only by Morwaith traders and beast-chainers.
+lotr.waypoint.TAURELONDE.info=Once a great haven of the Númenóreans stood here, friendly with the old Taurethrim at the height of their power, before the Shadow fell. Long now it has lain empty. -> Un tempo in questo luogo sorgeva un grande porto dei Númenóreani, amici degli antichi Taurethrim al culmine del loro potere, prima della calata dell'Ombra. Ora è rimasto vuoto da molto tempo. (dubbi in generale, dubbi sulla "calata dell'Ombra") (???)
+lotr.waypoint.HARAD_HORN=Horn of Harad -> Corno dell'Harad (oppure "di Harad"?) (???)
+lotr.waypoint.HARAD_HORN.info=The southernmost point of the Haradwaith. Such lands as may lie further south, if any, come not into the lore of the Númenóreans nor the tales of the Southrons. -> Il punto più meridionale dell'Haradwaith. Quali terre possano trovarsi più a Sud, se presenti, non rientra tra le conoscenze dei Númenóreani né nei racconti dei Sudroni. (da migliorare la forma) (???)
+lotr.waypoint.TOWN_BONES=Town of Bones -> Città di Ossa (oppure "Città delle Ossa"?) (???)
+lotr.waypoint.TOWN_BONES.info=A town built among bones, strange and surreal. The Southrons of the Gulf come here to buy the great Mûmakil from the Morwaith beast-chainers. -> Una città costruita tra le ossa, strana e surreale. I Sudroni del Golfo vengono qui per comprare i grandi Mûmakil dagli addestratori di bestie Morwaith.
+lotr.waypoint.HARADUIN_BRIDGE=Bridge of Haraduin -> Ponte dell'Haraduin
+lotr.waypoint.HARADUIN_BRIDGE.info=Once the site of a mighty bridge built by the old Taurethrim, long since crumbled away. The new bridge is now traversed only by Morwaith traders and beast-chainers. -> Un tempo il sito di un possente ponte costruito dagli antichi Taurethrim, crollato da molto tempo. Il nuovo ponte è ora attraversato solo dai commercianti e dagli addestratori di bestie dei Morwaith.
 
 lotr.waypoint.JUNGLE_CITY_TRADE=Otoch Kâh
-lotr.waypoint.JUNGLE_CITY_TRADE.info=Near the western edge of the jungles of Harad stands this ancient trader-town, where the old empire grew mighty out of trade with the Númenóreans.
+lotr.waypoint.JUNGLE_CITY_TRADE.info=Near the western edge of the jungles of Harad stands this ancient trader-town, where the old empire grew mighty out of trade with the Númenóreans. -> Vicino al margine occidentale della giungla dell'Harad si trova questa antica città mercantile, dove il vecchio impero divenne potente grazie al commercio con i Númenóreani. (???)
 lotr.waypoint.JUNGLE_CITY_OLD=Ya'ash Kâh
-lotr.waypoint.JUNGLE_CITY_OLD.info=Though now in ruins, the long-lost seat of the first Taurethrim High Kings inspires awe among travellers and natives alike.
+lotr.waypoint.JUNGLE_CITY_OLD.info=Though now in ruins, the long-lost seat of the first Taurethrim High Kings inspires awe among travellers and natives alike. -> Sebbene ora in rovina, la dimora da tempo perduta dei primi Grandi Re Taurethrim ispira soggezione sia tra i viaggiatori che tra i nativi. (awe="stupore" ma anche "timore riverenziale", "soggezione") (???)
 lotr.waypoint.JUNGLE_CITY_NORTH=Shaman Pâh
-lotr.waypoint.JUNGLE_CITY_NORTH.info=A northern outpost of the Taurethrim, fortified against raids from the plains-dwellers.
+lotr.waypoint.JUNGLE_CITY_NORTH.info=A northern outpost of the Taurethrim, fortified against raids from the plains-dwellers. -> Un avamposto settentrionale dei Taurethrim, fortificato contro le incursioni degli abitanti delle pianure.
 lotr.waypoint.JUNGLE_CITY_EAST=Lakin Pâh
-lotr.waypoint.JUNGLE_CITY_EAST.info=An eastern fortress of the Taurethrim built long ago to watch over the lands of the Haraduin.
+lotr.waypoint.JUNGLE_CITY_EAST.info=An eastern fortress of the Taurethrim built long ago to watch over the lands of the Haraduin. -> Una fortezza orientale dei Taurethrim costruita molto tempo fa per vegliare sulle terre dell'Haraduin.
 lotr.waypoint.JUNGLE_CITY_CAPITAL=Nohoch Kâh
-lotr.waypoint.JUNGLE_CITY_CAPITAL.info=The greatest of the old Taurethrim cities that still stands, though its glory is long fallen from the days of the ancient empire.
+lotr.waypoint.JUNGLE_CITY_CAPITAL.info=The greatest of the old Taurethrim cities that still stands, though its glory is long fallen from the days of the ancient empire. -> La più grande delle antiche città dei Taurethrim ancora in piedi, sebbene la sua gloria sia caduta da tempo rispetto ai giorni dell'antico impero.
 lotr.waypoint.JUNGLE_CITY_DEEP=Mûmakâh
-lotr.waypoint.JUNGLE_CITY_DEEP.info=Deep in the jungle stands this lost city, mysterious and forgotten even to many Taurethrim. It is spoken of in their tales as a place of great wonder.
+lotr.waypoint.JUNGLE_CITY_DEEP.info=Deep in the jungle stands this lost city, mysterious and forgotten even to many Taurethrim. It is spoken of in their tales as a place of great wonder. -> Nel profondo della giungla si trova questa città perduta, misteriosa e dimenticata persino da molti Taurethrim. Nelle loro storie se ne parla come di un luogo di grande meraviglia. (???)
 lotr.waypoint.JUNGLE_CITY_WATCH=Pishan Kâh
-lotr.waypoint.JUNGLE_CITY_WATCH.info=A great citadel built in days long past to keep watch over the warmongering tribes of the south.
+lotr.waypoint.JUNGLE_CITY_WATCH.info=A great citadel built in days long past to keep watch over the warmongering tribes of the south. -> Una grande cittadella costruita in tempi molto antichi per sorvegliare sulle bellicose tribù del Sud. ("sorvegliare" è usato in modo inappropriato?) (???)
 lotr.waypoint.JUNGLE_CITY_CAVES=Aktun Kâh
-lotr.waypoint.JUNGLE_CITY_CAVES.info=A mysterious city said to be built among caves in the very heart of the earth.
+lotr.waypoint.JUNGLE_CITY_CAVES.info=A mysterious city said to be built among caves in the very heart of the earth. -> Una città misteriosa che si dice sia stata costruita tra le grotte nel cuore della terra.
 lotr.waypoint.JUNGLE_CITY_STONE=Tûnich Kâh
-lotr.waypoint.JUNGLE_CITY_STONE.info=A great city of carven stone, once a jewel of the Taurethrim empire, but now a mere shadow of its former greatness.
-lotr.waypoint.JUNGLE_LAKES=Emerald Lakes
-lotr.waypoint.JUNGLE_LAKES.info=These lakes within the borders of the forests are a place of great natural beauty.
+lotr.waypoint.JUNGLE_CITY_STONE.info=A great city of carven stone, once a jewel of the Taurethrim empire, but now a mere shadow of its former greatness. -> Una grande città di pietra scolpita, un tempo un gioiello dell'impero Taurethrim, ma ora una mera ombra della sua antica grandezza.
+lotr.waypoint.JUNGLE_LAKES=Emerald Lakes -> Laghi di Smeraldo
+lotr.waypoint.JUNGLE_LAKES.info=These lakes within the borders of the forests are a place of great natural beauty. -> Questi laghi all'interno dei confini della foresta sono un luogo di grande bellezza naturale.
 
 lotr.waypoint.TROLL_ISLAND=Tol Torog
-lotr.waypoint.TROLL_ISLAND.info=The Isle of Trolls. It is believed by many that the monstrous race of Half-trolls were first awoken here, though their precise origins remain unknown.
+lotr.waypoint.TROLL_ISLAND.info=The Isle of Trolls. It is believed by many that the monstrous race of Half-trolls were first awoken here, though their precise origins remain unknown. -> L'Isola dei Troll. Molti credono che la mostruosa razza dei Mezzi Troll sia stata inizialmente risvegliata qui, sebbene le loro precise origini rimangano sconosciute. (???)
 lotr.waypoint.BLACK_COAST=Durfalas
-lotr.waypoint.BLACK_COAST.info=The treacherous eastern coasts of Perdorogwaith.
+lotr.waypoint.BLACK_COAST.info=The treacherous eastern coasts of Perdorogwaith. -> Le insidiose coste orientali del Perdorogwaith.
 lotr.waypoint.BLOOD_RIVER=Sereghir
-lotr.waypoint.BLOOD_RIVER.info=The Bloodflow, a black and choking stream which runs through the land of the Half-trolls.
+lotr.waypoint.BLOOD_RIVER.info=The Bloodflow, a black and choking stream which runs through the land of the Half-trolls. -> Il Flusso Sanguigno, un torrente nero e soffocate che attraversa la terra dei Mezzi Troll. (Flusso Sanguigno? la somiglianza col termine medico c'è anche in inglese però meh) (???)
 lotr.waypoint.SHADOW_POINT=Hardorogost
-lotr.waypoint.SHADOW_POINT.info=The city of the Half-trolls, built on a shore of boiling seas and foundering rocks.
+lotr.waypoint.SHADOW_POINT.info=The city of the Half-trolls, built on a shore of boiling seas and foundering rocks. -> La città dei Mezzi Troll, costruita sulla costa di mari ribollenti e rocce scoscese.
 
 lotr.waypoint.OLD_JUNGLE_RUIN=Kimen Kâh
-lotr.waypoint.OLD_JUNGLE_RUIN.info=Here stand the ruins of an ancient Taurethrim city, overrun by troll-demons in an age long past.
+lotr.waypoint.OLD_JUNGLE_RUIN.info=Here stand the ruins of an ancient Taurethrim city, overrun by troll-demons in an age long past. -> Qui sorgono le rovine di un'antica città Taurethrim city, conquistata dai demoni-troll in un'epoca lontana.
 
 lotr.waypoint.custom=%s (Custom)
 lotr.waypoint.custom.info=Shared with Fellowships: %s
@@ -4952,7 +4952,7 @@ Aggettivi per blocchi
    golden -> d'oro
    obsidian -> d'ossidiana
    x-trimmed -> intarsiato in x (???)
-   carved -> intagliato (???)
+   carved -> intagliato (o magari "cesellato") (???)
    scorched -> bruciato
    rotten -> marcio
    charred -> carbonizzato
