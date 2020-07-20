@@ -1,0 +1,31 @@
+70-74: corretti "Tavolo da lavoro" in "Banco da lavoro"
+370: dwarfwort contiene "dwarf" nel nome e forse dovremmo rendere la stessa cosa in Italiano. Sulla wiki c'è scritto che viene confuso per una campanula. Potremmo chiamarlo "campanula nanica" oppure pensare ad un nome composto [DA RIVEDERE]
+373-389: in teoria "aspen" sarebbe "pioppo tremulo" ("pioppo" è invece "poplar") anche se alla fine possiamo anche ignorare la questione e chiamarlo pioppo (a meno che il nostro leoncino preferito non voglia aggiungere anche il "poplar", in quel caso cambiamo nome all'aspen) [DA RIVEDERE]
+424: condivido la selta di chiamare la torcia "azzurra" invece che "blu", visto che in gioco è effettivamente azzurra
+427: forse è meglio usare "argentata" al posto di "argentea". Meno poetico ma più simile all'altra torcia "dorata". sto modificando in argentata ma possiamo tornare indietro se vuoi.
+430: messo Edhelvir grezzo al maschile per uniformità con gli altri materiali grezzi
+434-435: "Gemma rossa delle sabbie" o meglio "Gemma delle sabbie rossa". Credo che "Gemma delle sabbie" sia la specie e il colore sia un aggettivo.
+439: forse tutte le cose che finiscono in "di Harad", ad esempio "Fiamma di Harad", andrebbero modificate in "dell'Harad" per far capire che si tratta del luogo. possiamo tornare indietro se non sei d'accordo.
+574: in italiano viene sempre chiamata "erba pipa" (stando alla mia breve ricerca). Inoltre sarebbe meglio scrivere "di erba pipa" e non "d'erba pipa" per continuità alle piante in vanilla (ex. fetta di anguria)
+598: "Fabbricazione di Granburrone" è troppo lungo ed esce fuori dal menù in gioco. [DA RISOLVERE]
+600: "Fabbricazione degli Elfi Silvani" è troppo lungo ed esce fuori dal menù in gioco. [DA RISOLVERE]
+625: Signore della Guerra o Condottiero? questione aperta (???)
+631: corretto il messaggio d'errore (era rimasto indietro rispetto all'ultimo che avevamo approvato insieme)
+673: di Umbar o umbarica? (???)
+677: Forge -> Forgia (mentre Furnace -> Fornace)
+
+IN GENERALE
+oggetto Galadhrim o dei Galadhrim? da uniformare con la legacy (???)
+
+considerando che gli oggetti vengono aggiunti e riorganizzati molto spesso non è molto efficace conservare le note con il riferimento alle righe.
+
+"block.lotr.keg" -> tradotto in "Barilotto" come concordato
+"block.lotr.morgul_shroom" -> "Morgulfungo" è più fedele all'inglese ma in italiano secondo me non funziona come "morgulshroom" in inglese. Propongo il semplice "Fungo Morgul" (???)
+"item.lotr.athelas_brew" -> da "Distillato" l'ho portato a "Infuso", l'ho sentito dire più spesso
+"item.lotr.soured_milk" -> è meglio "fermentato" oppure "acido" (???)
+"item.lotr.sweet_berry_juice" -> da "Succo di bacca dolce" portato a "Succo di bacche dolci" per standard vanilla
+"item.lotr.drink.alcoholicity": da "Alcolicità: %.2f%%" in "Gradazione alcolica: %.2f%%" (perché viene indicata direttamente con la percentuale)
+"container.lotr.keg.brewing": "In Distillazione %s (%s)" -> "%s (%s) in fermentazione" come già testato in legacy (ex: "Birra (Debole) in fermentazione")
+"container.lotr.keg.start_brewing": "Inizia Distillazione" troppo lungo per il bottone in game, modificato in "Avvia fermentazione"
+"container.lotr.keg.finish_brewing": "Termina Distillazione", troppo lungo per il bottone in game, modificato in "Ferma fermentazione"
+"subtitles.lotr.block.gate.close" e "subtitles.lotr.block.gate.open" erano invertiti! (aperto / chiuso)
