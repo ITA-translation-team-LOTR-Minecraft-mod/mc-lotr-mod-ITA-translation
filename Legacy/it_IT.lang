@@ -997,7 +997,7 @@ tile.lotr:stairsGondorBrickRusticCracked.name=Scalini di ciottolato incrinato di
 tile.lotr:slabSingle11.0.name=Lastra di ciottolato di Gondor
 tile.lotr:slabSingle11.1.name=Lastra di ciottolato muschiosi di Gondor
 tile.lotr:slabSingle11.2.name=Lastra di ciottolato incrinati di Gondor
-tile.lotr:slabSingle11.3.name=Lastra di roccia di Gondor[revisionato-----]
+tile.lotr:slabSingle11.3.name=Lastra di roccia di Gondor
 tile.lotr:slabSingle11.4.name=Lastra di roccia di Rohan
 tile.lotr:slabSingle11.5.name=Lastra di luigon
 tile.lotr:slabSingle11.6.name=Lastra di cargon
@@ -1354,7 +1354,7 @@ tile.monsterStoneEgg.crackedbrick.name=Pietra concia incrinata infestata
 tile.monsterStoneEgg.chiseledbrick.name=Pietra concia cesellata infestata
 tile.fenceGate.name=Cancelletto di quercia
 
-item.doorWood.name=Porta di quercia
+item.doorWood.name=Porta di quercia[revisionato-----]
 
 tile.lotr.fenceVanilla.0.name=Staccionata di quercia
 tile.lotr.fenceVanilla.1.name=Staccionata d'abete
