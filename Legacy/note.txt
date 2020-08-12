@@ -83,7 +83,7 @@ BLOCCHI (15-1375)
 920: "Grapevine Post" -> "palo per vite" non sono sicuro sia la traduzione migliore (???) /// palo va bene, ma penso "Palo per Vigna" stia meglio
 942: "mirkwoood vines" -> "rampicante oscuro" (???) da confrontare anche con il vanilla 1.7.10
 958: "Morthond" in Sindarin? oppure "Blackroot"? bisogna tradurlo? come è stato tradotto negli anni nei libri? (???)
-994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea? /// Ciottolato? non ricordo il blocco temo [revisionato-----]
+994-999: "Cobblebrick"->"Mattoni di ciottoli". magari "mattoni di pietrisco"? traduzione raffazzonata, bisognerebbe trovare di meglio (???) (!!!) problema grave. Forse possiamo riprendere "muro a secco" come per Brea? /// Ciottolato? non ricordo il blocco temo
 1008-10: x treasure pile -> cumulo di x (escludendo treasure). forse va modificato (???)
 1011: Casket -> scrigno
 1012: Reed Basket->cesto di canna
@@ -4802,7 +4802,7 @@ lotr.waypoint.MOUNT_SAND.info=The Sunhorn, a high peak in the northern chain of 
 lotr.waypoint.MOUNT_GREEN=Mount Laegras
 lotr.waypoint.MOUNT_GREEN.info=The Greenhorn, a mighty peak of the Mountains of Harad. -> Il Verde Corno, un'imponente vetta delle Montagne dell'Harad.
 lotr.waypoint.MOUNT_THUNDER=Mount Belegwaeras
-lotr.waypoint.MOUNT_THUNDER.info=The Stormhorn, a mighty peak of the southern Mountains of Harad. -> Il Corno della Tempesta, un'imponente vetta delle Montagne dell'Harad meridionali.[tradotto-----]
+lotr.waypoint.MOUNT_THUNDER.info=The Stormhorn, a mighty peak of the southern Mountains of Harad. -> Il Corno della Tempesta, un'imponente vetta delle Montagne dell'Harad meridionali.
 
 lotr.waypoint.GREAT_PLAINS_NORTH=Hunters' Haunt -> Ritrovo dei Cacciatori
 lotr.waypoint.GREAT_PLAINS_NORTH.info=The northernmost regions of the Far Harad grasslands, often visited by poachers from Near Harad who capture and kill exotic beasts for a profit. -> Le regioni più settentrionali delle praterie del Lontano Harad, spesso visitate dai bracconieri del Vicino Harad che catturano e uccidono bestie esotiche per profitto.

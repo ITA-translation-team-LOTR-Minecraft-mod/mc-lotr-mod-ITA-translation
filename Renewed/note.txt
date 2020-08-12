@@ -29,3 +29,6 @@ considerando che gli oggetti vengono aggiunti e riorganizzati molto spesso non �
 "container.lotr.keg.start_brewing": "Inizia Distillazione" troppo lungo per il bottone in game, modificato in "Avvia fermentazione"
 "container.lotr.keg.finish_brewing": "Termina Distillazione", troppo lungo per il bottone in game, modificato in "Ferma fermentazione"
 "subtitles.lotr.block.gate.close" e "subtitles.lotr.block.gate.open" erano invertiti! (aperto / chiuso)
+"block.lotr.gold_treasure_pile": "Pila di tesori d'oro/argento/rame" -> Cumulo d'oro/argento/rame (credo suoni meglio, non c'è un corrispettivo diretto di "treasure pile" in italiano e "pila di tesori" suona un po' strano)
+"biome.lotr.grey_mountains": Montagne Grigie/Bianche -> Monti Grigi/Bianchi (chiamate più di frequente così in italiano)
+"block.lotr.hanging_web": Ragnatela pendente (o meglio "appesa" come prima?) (???)
