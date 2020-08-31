@@ -133,26 +133,20 @@ BLOCCHI (15-1375)
 OGGETTI (1377-2329)
 1378-80: \\\mi piace "bisaccia" per "pouch". Ho messo "grande" invece di "larga" per maggiore uniformità
 1417: \\\bisogna decidere uno standard che sia "erba pipa" "erba-pipa" o "erbapipa" e applicarlo ovunque ci sia il termine. Per il momento modifico in "Erba pipa" per coerenza a come abbiamo scritto sopra, poi in caso li modifichiamo tutti (???) (!!!)
-1420-: \\\bisogna decidere che standard usare per tutti i "mug -liquido x-" in alcuni casi (come acqua o latte) c'è semplicemente il liquido, in altri "boccale di nomeliquido". (???)
+1420-: \\\standard per tutti i boccali far assumere all'item solo il nome del liquido contenuto ("birra" e non "boccale di birra")
 1424: \\\tecnicamente sarebbe "crumble di mele" ma appoggio la tua decisione di cambiare leggermente tipo di dolce ed avere un termine inglese in meno
 1426: \\\distillato è perfetto secondo me :)
 1432: \\\modifico in "acciaio orchesco" per attenersi al resto della traduzione
-1433-: \\\battleaxe sarebbe tecnicamente "ascia da battaglia". Uniformiamo ascia e martello rendendoli entrambi "da guerra" o conserviamo la differenza presente in inglese? (???) (!!!)
-1436-7: \\\bisogna stabilire uno standard riguardo "dagger": lo traduciamo come "daga" o come "pugnale"? Ho visto più spesso la traduzione "pugnale" ma forse "daga" è più accurato (???) (!!!)
-1467-72: \\\appena possibile dobbiamo verificare se in vanilla nella 1.7.10 si chiamano "colorante" o "tinta"
+1433-: \\\battleaxe sarebbe tecnicamente "ascia da battaglia". Uniformiamo ascia e martello rendendoli entrambi "da guerra" o conserviamo la differenza presente in inglese? (???)
+1436-7: \\\"dagger" = "daga" e non "pugnale"
+1467-72: \\\in vanilla nella 1.7.10 si chiamano "colorante", magari posssiamo mantenere tinta per differenziare (???)
 1488: \\\in vanilla lo standard è "gambiera". Hai inserito gambali per una ragione specifica? Riporto temporaneamente a "gambiera", se non si trattava di un errore ripristiniamo "Gambali"(???) (!!!)
 1498: \\\aggiungo "di pelliccia" per rendere riconoscibile il set di armatura completo 
-1504: \\\dobbiamo decidere se adottare il termine italiano "mannaro" anche se fuorviante o se mantenere "warg" ed applicarlo in generale (???) (!!!)
-1549: \\\dovremmo rivedere insieme il nome degli ordini. Appronta non mi convince moltissimo :/ (???) (!!!)
-1552: \\\da lancio mi sembra più chiaro
+1549: \\\dovremmo rivedere insieme il nome degli ordini. Halt = Arresta(?), Ready = Prepara(?), Summon = Richiama(?) (???) (!!!)
 1557: \\\tecnicamente si chiamerebbe "scimitarra", anche se le scimitarre non hanno quella forma. Forse potremmo pensare di mantenere scimitarra per coerenza con "scimitarra orchesca" (???) (!!!)
-1578-81: \\\credo che mettendo questo nome ai pezzi "gambiera" sia inadatto. Inoltre dovremmo regolarizzare il termine scout/esploratore
-1584-92: \\\meglio ancestrale o semplicemente antico?
 1597-60: \\\regolarizzare termini dell'armatura
 1601: \\\meglio "Elmo alato gondoriano" o "Elmo gondoriano alato"? lo modifico perché mi sembra più carino, in caso lo cambiamo
 1607: \\\ho notato che non c'è un termine italiano corrispondente. forse tanto vale mantenere il termine inglese Perry
-1616-19: Ranger -> Ramingo
-1620-5: \\\Dunlending in questo caso va maiuscolo?
 1627: \\\bruno forse suonava meglio, ma "mattone" è più in linea con gli altri termini del vanilla (lana marrone, argilla marrone etc)
 1634: \\\tradotto in "pane coi vermi", mi sembrava più appropriato
 1643: \\\mattock andrebbe tradotto con un termine che probabilmente in italiano non esiste :( ho messo Piccozza come nella traduzione precedente, suona bene ma è dannatamente sbagliato
