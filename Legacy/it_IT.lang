@@ -2945,7 +2945,7 @@ lotr.title.ANGMAR_troll=Troll
 lotr.title.ANGMAR_carnDum=Carn Dûm
 lotr.title.ANGMAR_hillman=Uomo delle Colline
 lotr.title.ANGMAR_rhudaur=Rhudaur
-lotr.title.ANGMAR_ettenmoors=Ettenmoors
+lotr.title.ANGMAR_ettenmoors=Erenbrulli
 lotr.title.ANGMAR_coldfells=Coldfells
 
 lotr.title.WOOD_ELF_woodElf=Elfo Silvano
@@ -6485,7 +6485,7 @@ lotr.waypoint.LITTLE_DELVING.info=Una piccola cittadina Hobbit sui Bianchi Poggi
 lotr.waypoint.WAYMEET=Quadrivio
 lotr.waypoint.WAYMEET.info=Una cittadina posta all'incrocio tra importanti strade della Contea.
 lotr.waypoint.TUCKBOROUGH=Tucboro
-lotr.waypoint.TUCKBOROUGH.info=Una città storica della Regione delle Verdi Colline. Sede della famiglia Tuc, i Conti della Contea.
+lotr.waypoint.TUCKBOROUGH.info=Una storica città della Regione delle Verdi Colline. Sede della famiglia Tuc, i Conti della Contea.
 lotr.waypoint.NOBOTTLE=Novacasa
 lotr.waypoint.NOBOTTLE.info=Una cittadina nel Decumano Ovest della Contea.
 lotr.waypoint.TIGHFIELD=Piandifune
