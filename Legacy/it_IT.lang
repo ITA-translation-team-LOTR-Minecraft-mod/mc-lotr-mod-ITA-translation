@@ -4806,7 +4806,7 @@ lotr.map.khand=Khand
 lotr.map.farHarad=Lontano Harad
 lotr.map.farHaradHills=Emyn Haecharad
 lotr.map.greatPlains=Grandi Praterie
-lotr.map.forestsSouth=Foreste del Sud[revisionato-----]
+lotr.map.forestsSouth=Foreste del Sud
 
 lotr.structure.HobbitHole.name=Buco Hobbit
 lotr.structure.HobbitTavern.name=Taverna Hobbit
@@ -4878,14 +4878,14 @@ lotr.structure.RangerCamp.name=Accampamento dei Raminghi
 
 lotr.structure.OrcDungeon.name=Segreta degli orchi
 lotr.structure.GundabadTent.name=Tenda del Gundabad
-lotr.structure.GundabadForgeTent.name=Tenda forgia del Gundabad
+lotr.structure.GundabadForgeTent.name=Tenda con forgia del Gundabad
 lotr.structure.GundabadCamp.name=Accampamento del Gundabad
 
 lotr.structure.AngmarTower.name=Torre di Angmar
 lotr.structure.AngmarShrine.name=Santuario di Angmar
 lotr.structure.AngmarWargPit.name=Fossa dei mannari di Angmar
 lotr.structure.AngmarTent.name=Tenda di Angmar
-lotr.structure.AngmarForgeTent.name=Tenda forgia di Angmar
+lotr.structure.AngmarForgeTent.name=Tenda con forgia di Angmar
 lotr.structure.AngmarCamp.name=Accampamento di Angmar
 
 lotr.structure.AngmarHillmanHouse.name=Casa degli Uomini delle Colline di Rhudaur
@@ -4902,7 +4902,7 @@ lotr.structure.DolGuldurAltar.name=Altare di Dol Guldur
 lotr.structure.DolGuldurTower.name=Torre di Dol Guldur
 lotr.structure.DolGuldurSpiderPit.name=Fossa dei ragni di Dol Guldur
 lotr.structure.DolGuldurTent.name=Tenda di Dol Guldur
-lotr.structure.DolGuldurForgeTent.name=Tenda forgia di Dol Guldur
+lotr.structure.DolGuldurForgeTent.name=Tenda con forgia di Dol Guldur
 lotr.structure.DolGuldurCamp.name=Accampamento di Dol Guldur
 
 lotr.structure.DaleWatchtower.name=Torre d'avvistamento di Dale
@@ -4951,7 +4951,7 @@ lotr.structure.RohanFortVillage.name=Villaggio fortificato di Rohan
 
 lotr.structure.UrukTent.name=Tenda di Isengard
 lotr.structure.RuinedRohanWatchtower.name=Torre d'avvistamento di Rohan in rovina
-lotr.structure.UrukForgeTent.name=Tenda forgia di Isengard
+lotr.structure.UrukForgeTent.name=Tenda con forgia di Isengard
 lotr.structure.UrukWargPit.name=Fossa dei mannari di Isengard
 lotr.structure.UrukCamp.name=Accampamento di Isengard
 
@@ -5054,7 +5054,7 @@ lotr.structure.LamedonFortVillage.name=Villaggio fortificato del Lamedon
 
 lotr.structure.MordorTower.name=Torre di Mordor
 lotr.structure.MordorTent.name=Tenda di Mordor
-lotr.structure.MordorForgeTent.name=Tenda forgia di Mordor
+lotr.structure.MordorForgeTent.name=Tenda con forgia di Mordor
 lotr.structure.MordorWargPit.name=Fosso dei mannari di Mordor
 lotr.structure.MordorCamp.name=Accampamento di Mordor
 lotr.structure.BlackUrukFort.name=Fortezza degli Uruk Neri
@@ -5181,7 +5181,7 @@ lotr.structure.UmbarTownGate.name=Ingresso di Umbar
 lotr.structure.UmbarTownCorner.name=Angolo della città di Umbar
 
 lotr.structure.CorsairCove.name=Nascondiglio dei Corsari
-lotr.structure.CorsairTent.name=Tenda dei Corsair
+lotr.structure.CorsairTent.name=Tenda dei Corsari
 lotr.structure.CorsairCamp.name=Accampamento dei Corsari
 
 lotr.structure.NomadTent.name=Tenda dei Nomadi
@@ -5226,7 +5226,7 @@ lotr.structure.TauredainVillage.name=Villaggio dei Taurethrim
 lotr.structure.TauredainSmithy.name=Fucina dei Taurethrim
 
 lotr.structure.HalfTrollHouse.name=Casa dei Mezzi Troll
-lotr.structure.HalfTrollWarlordHouse.name=Casa del condottiero dei Mezzi Troll
+lotr.structure.HalfTrollWarlordHouse.name=Casa del condottiero dei Mezzi Troll[revisionato-----]
 
 chat.lotr.update=%s Aggiornamento disponibile! (%s)
 chat.lotr.achievement=%s ha appena completato l'obiettivo della %s %s
