@@ -2860,12 +2860,15 @@ lotr.title.watcher=Sorvegliante
 lotr.title.creator=Eru Ilúvatar
 lotr.title.creator2=Manwë Súlimo
 lotr.title.moderator=Vala
-lotr.title.gruk=Nobile polacco
-lotr.title.boyd=Gatto domestico
+lotr.title.gruk=Nobile Polacco
+lotr.title.boyd=Gatto Domestico
+lotr.title.bat=Sultano del Kebab
 lotr.title.translator=Lambengolmo
 lotr.title.patron=Patron
 lotr.title.loremaster=Loremaster
 lotr.title.builder=Buildmaster
+lotr.title.renewedBuilder=Renewed Builder
+lotr.title.renewedBuildmaster=Renewed Buildmaster
 
 lotr.title.ANY_10000=Leggendario
 
@@ -3233,6 +3236,8 @@ lotr.shields.RHUN_CONTEST.name=Scudo del Concorso Easterling
 lotr.shields.RHUN_CONTEST.desc=Conferito come premio del Building Contest #6 (Easterling)
 lotr.shields.STRUCTURE_CONTEST.name=Scudo dell'Architetto
 lotr.shields.STRUCTURE_CONTEST.desc=Conferito per aver creato un edificio implementato nella mod nello Structure Contest #1
+lotr.shields.RENEWED_CONTEST.name=Scudo del Concorso della Renewed
+lotr.shields.RENEWED_CONTEST.desc=Conferito come premio nel Renewed Building Contest
 lotr.shields.MOD.name=Scudo del Modder
 lotr.shields.MOD.desc=Portato dai membri del Mod Team
 lotr.shields.GRUK.name=Scudo della Vodka
@@ -3320,6 +3325,7 @@ lotr.gui.farmer.mode=Modalità di coltivazione
 lotr.gui.farmer.range=Raggio di coltivazione
 lotr.gui.farmer.openInv=Apri inventario
 lotr.gui.farmer.oneSeed=Quando trasportano un solo seme i contadini non lo pianteranno, ne tengono uno per sapere cosa coltivare.
+lotr.gui.farmer.squadron=Squadra
 
 lotr.gui.dismiss.dismiss=Congeda
 lotr.gui.dismiss.cancel=Annulla

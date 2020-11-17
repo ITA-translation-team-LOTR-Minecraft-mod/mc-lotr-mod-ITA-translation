@@ -2329,7 +2329,7 @@ item.lotr.generic.previousOwner=Belonged to: %s
 item.lotr.generic.previousOwnerList=Belonged to:
 item.lotr.generic.stolen=§c§lSTOLEN§r§c from: %s!
 item.lotr.generic.stolenWanted=§c%s wants this
-item.lotr.generic.squadron=Squadron: %s
+item.lotr.generic.squadron=Company: %s
 
 potion.lotr.drinkPoison=Poisoned Drink
 
@@ -2548,7 +2548,7 @@ container.lotr.trade.sellPrice=x %d
 container.lotr.trade.locked=...
 container.lotr.unitTrade.requiresAlignment=Requires +%d alignment
 container.lotr.unitTrade.pledge=More...
-container.lotr.unitTrade.squadronBox=Assign squadron?
+container.lotr.unitTrade.squadronBox=Assign company?
 container.lotr.coinExchange=Coin Exchange
 
 lotr.miniquest.collect=Collect %d %s
@@ -2862,10 +2862,13 @@ lotr.title.creator2=Manwë Súlimo
 lotr.title.moderator=Vala
 lotr.title.gruk=Polish Noble
 lotr.title.boyd=House Catsman
+lotr.title.bat=Kebab Sultan
 lotr.title.translator=Lambengolmo
 lotr.title.patron=Patron
 lotr.title.loremaster=Loremaster
 lotr.title.builder=Buildmaster
+lotr.title.renewedBuilder=Renewed Builder
+lotr.title.renewedBuildmaster=Renewed Buildmaster
 
 lotr.title.ANY_10000=Legendary
 
@@ -3233,6 +3236,8 @@ lotr.shields.RHUN_CONTEST.name=Easterling Contest Shield
 lotr.shields.RHUN_CONTEST.desc=Awarded as a prize in Building Contest #6 (Easterling)
 lotr.shields.STRUCTURE_CONTEST.name=Architect's Shield
 lotr.shields.STRUCTURE_CONTEST.desc=Awarded for having your build implemented into the mod in Structure Contest #1
+lotr.shields.RENEWED_CONTEST.name=Renewed Contest Shield
+lotr.shields.RENEWED_CONTEST.desc=Awarded as a prize in the Renewed Building Contest
 lotr.shields.MOD.name=Modder's Shield
 lotr.shields.MOD.desc=Worn by the mod team
 lotr.shields.GRUK.name=Vodka Shield
@@ -3287,7 +3292,7 @@ lotr.gui.hornSelect.summon=Summon Units
 lotr.gui.daleCracker=Dalish Cracker
 lotr.gui.daleCracker.seal=Seal Cracker
 
-lotr.gui.squadronItem.squadron=Assigned hired unit squadron:
+lotr.gui.squadronItem.squadron=Assigned hired unit company:
 lotr.gui.squadronItem.none=None
 lotr.gui.squadronItem.done=Done
 
@@ -3307,7 +3312,7 @@ lotr.gui.npc.dismiss=Dismiss Unit
 lotr.gui.warrior.overview=Overview
 lotr.gui.warrior.options=Directives
 lotr.gui.warrior.openInv=Replace Equipment
-lotr.gui.warrior.squadron=Squadron
+lotr.gui.warrior.squadron=Company
 lotr.gui.warrior.teleport=Teleport Automatically
 lotr.gui.warrior.guardMode=Guard Mode
 lotr.gui.warrior.guardRange=Guard Range
@@ -3320,6 +3325,7 @@ lotr.gui.farmer.mode=Farming Mode
 lotr.gui.farmer.range=Farming Range
 lotr.gui.farmer.openInv=Open Inventory
 lotr.gui.farmer.oneSeed=Farmers will not plant when carrying only one seed - they must keep one to know what they are farming
+lotr.gui.farmer.squadron=Company
 
 lotr.gui.dismiss.dismiss=Dismiss
 lotr.gui.dismiss.cancel=Cancel
