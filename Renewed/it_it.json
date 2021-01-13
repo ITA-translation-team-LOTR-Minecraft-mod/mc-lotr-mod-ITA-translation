@@ -2309,7 +2309,7 @@
     "faction.lotr.bree.rank.trustee": "Fiduciario ~ Fiduciaria | Fiduciario della Terra di Brea ~ Fiduciaria della Terra di Brea",
     "faction.lotr.bree.rank.champion": "Campione ~ Campionessa | Campione di Brea ~ Campionessa di Brea",
     "faction.lotr.bree.rank.captain": "Capitano ~ Capitana | Capitano di Brea ~ Capitana di Brea",
-    "faction.lotr.bree.rank.master": "Signore ~ Signora | Signore di Brea ~ Signora di Brea", (???)
+    "faction.lotr.bree.rank.master": "Signore ~ Signora | Signore di Brea ~ Signora di Brea",
 
     "faction.lotr.dunedain_north": "Dúnedain del Nord",
     "faction.lotr.dunedain_north.subtitle": "Gli sparpagliati resti della caduta Arnor",
@@ -2346,7 +2346,7 @@
     "faction.lotr.northern_orcs": "Orchi del Nord",
     "faction.lotr.northern_orcs.subtitle": "Le brulicanti orde di orchi delle montagne",
     "faction.lotr.northern_orcs.rank.thrall": "Thrall | Thrall di montagna",
-    "faction.lotr.northern_orcs.rank.snaga": "Orchetto ~ Orchetta | Orchetto di montagna ~ Orchetta di montagna",
+    "faction.lotr.northern_orcs.rank.snaga": "Snaga | Snaga di montagna",
     "faction.lotr.northern_orcs.rank.raider": "Razziatore ~ Razziatrice | Razziatore del Gundabad ~ Razziatrice del Gundabad",
     "faction.lotr.northern_orcs.rank.ravager": "Predone ~ Predona | Predone del Gundabad ~ Predona del Gundabad",
     "faction.lotr.northern_orcs.rank.scourge": "Flagello | Flagello del Gundabad",
@@ -2357,7 +2357,7 @@
     "faction.lotr.angmar.subtitle": "I montanari del reame in rovina del Re Stregone",
     "faction.lotr.angmar.rank.thrall": "Thrall | Thrall di Angmar",
     "faction.lotr.angmar.rank.servant": "Servo ~ Serva | Servo di Angmar ~ Serva di Angmar",
-    "faction.lotr.angmar.rank.kinsman": "Kinsman ~ Kinswoman | Angmar Kinsman ~ Angmar Kinswoman", (???)
+    "faction.lotr.angmar.rank.kinsman": "Fratello ~ Sorella | Fratello di Angmar ~ Sorella di Angmar",
     "faction.lotr.angmar.rank.warrior": "Guerriero ~ Guerriera | Guerriero di Angmar ~ Guerriera di Angmar",
     "faction.lotr.angmar.rank.champion": "Campione ~ Campionessa | Campione di Angmar ~ Campionessa di Angmar",
     "faction.lotr.angmar.rank.warlord": "Condottiero ~ Condottiera | Condottiero di Angmar ~ Condottiera di Angmar",
@@ -2367,7 +2367,7 @@
     "faction.lotr.lossoth.subtitle": "Gli uomini delle nevi del Forochel",
     "faction.lotr.lossoth.rank.guest": "Ospite | Ospite dei Lossoth",
     "faction.lotr.lossoth.rank.friend": "Amico ~ Amica | Amico dei Lossoth ~ Amica dei Lossoth",
-    "faction.lotr.lossoth.rank.kinsman": "Kinsman ~ Kinswoman | Lossoth Kinsman ~ Lossoth Kinswoman", (???)
+    "faction.lotr.lossoth.rank.kinsman": "Fratello ~ Sorella | Fratello dei Lossoth ~ Sorella dei Lossoth",
     "faction.lotr.lossoth.rank.hunter": "Cacciatore ~ Cacciatrice | Cacciatore dei Lossoth ~ Cacciatrice dei Lossoth",
     "faction.lotr.lossoth.rank.headman": "Capovillaggio | Capovillaggio dei Lossoth",
     "faction.lotr.lossoth.rank.chieftain": "Capotribù | Capotribù dei Lossoth",
@@ -2428,7 +2428,7 @@
     "faction.lotr.dunland": "Dunland",
     "faction.lotr.dunland.subtitle": "Le selvagge tribù delle colline di Dunland",
     "faction.lotr.dunland.rank.guest": "Ospite | Ospite dei Dunlandiani",
-    "faction.lotr.dunland.rank.kinsman": "Kinsman ~ Kinswoman | Dunlending Kinsman ~ Dunlending Kinswoman", (???)
+    "faction.lotr.dunland.rank.kinsman": "Fratello ~ Sorella | Fratello dei Dunlandiani ~ Sorella dei Dunlandiani",
     "faction.lotr.dunland.rank.warrior": "Guerriero ~ Guerriera | Guerriero dei Dunlandiani ~ Guerriera dei Dunlandiani",
     "faction.lotr.dunland.rank.bearer": "Portatore di mazza ~ Portatrice di mazza | Portatore di mazza dei Dunlandiani ~ Portatrice di mazza dei Dunlandiani",
     "faction.lotr.dunland.rank.avenger": "Vendicatore ~ Vendicatrice | Vendicatore dei Dunlandiani ~ Vendicatrice dei Dunlandiani",
@@ -2438,7 +2438,7 @@
     "faction.lotr.isengard": "Isengard",
     "faction.lotr.isengard.subtitle": "I temibili Uruk-hai di Isengard",
     "faction.lotr.isengard.rank.thrall": "Thrall | Thrall di Isengard",
-    "faction.lotr.isengard.rank.snaga": "Orchetto ~ Orchetta | Orchetto di Isengard ~ Orchetta di Isengard",
+    "faction.lotr.isengard.rank.snaga": "Snaga | Snaga di Isengard",
     "faction.lotr.isengard.rank.soldier": "Soldato ~ Soldata | Soldato di Isengard ~ Soldata di Isengard",
     "faction.lotr.isengard.rank.treefeller": "Tagliaboschi | Tagliaboschi di Isengard",
     "faction.lotr.isengard.rank.berserker": "Berserker | Berserker di Isengard",
@@ -2451,7 +2451,7 @@
     "faction.lotr.fangorn.rank.newcomer": "Nuovo arrivato ~ Nuova arrivata | Nuovo arrivato di Fangorn ~ Nuova arrivata di Fangorn",
     "faction.lotr.fangorn.rank.friend": "Amico ~ Amica | Amico di Fangorn ~ Amica di Fangorn",
     "faction.lotr.fangorn.rank.treeherd": "Pastore degli alberi ~ Pastora degli alberi | Pastore degli alberi di Fangorn ~ Pastora degli alberi di Fangorn",
-    "faction.lotr.fangorn.rank.master": "Signore ~ Signora | Signore di Fangorn ~ Signora di Fangorn", (???)
+    "faction.lotr.fangorn.rank.master": "Maestro ~ Maestra | Maestro di Fangorn ~ Maestra di Fangorn",
     "faction.lotr.fangorn.rank.elder": "Anziano ~ Anziana | Anziano di Fangorn ~ Anziana di Fangorn",
 
     "faction.lotr.rohan": "Rohan",
@@ -2477,8 +2477,8 @@
 
     "faction.lotr.mordor": "Mordor",
     "faction.lotr.mordor.subtitle": "Le legioni della Terra Oscura",
-    "faction.lotr.mordor.rank.thrall": "Thrall | Mordor Thrall",
-    "faction.lotr.mordor.rank.snaga": "Orchetto ~ Orchetta | Orchetto di Mordor ~ Orchetta di Mordor",
+    "faction.lotr.mordor.rank.thrall": "Thrall | Thrall di Mordor",
+    "faction.lotr.mordor.rank.snaga": "Snaga | Snaga di Mordor",
     "faction.lotr.mordor.rank.brigand": "Brigante ~ Brigantessa | Brigante di Mordor ~ Brigantessa di Mordor",
     "faction.lotr.mordor.rank.slavedriver": "Schiavista | Schiavista di Mordor",
     "faction.lotr.mordor.rank.despoiler": "Saccheggiatore ~ Saccheggiatrice | Saccheggiatore di Mordor ~ Saccheggiatrice di Mordor",
@@ -2492,8 +2492,8 @@
     "faction.lotr.dorwinion.rank.vinehand": "Vignaiolo ~ Vignaiola",
     "faction.lotr.dorwinion.rank.merchant": "Mercante di vino ~ Mercantessa di vino",
     "faction.lotr.dorwinion.rank.guard": "Guardia | Guardia delle vigne",
-    "faction.lotr.dorwinion.rank.captain": "Master ~ Master | Master delle vigne ~ Master delle vigne", (???)
-    "faction.lotr.dorwinion.rank.master": "Signore ~ Signora | Signore delle vigne ~ Signora delle vigne",
+    "faction.lotr.dorwinion.rank.captain": "Capitano ~ Capitana | Capitano delle vigne ~ Capitana delle vigne", 
+    "faction.lotr.dorwinion.rank.master": "Maestro ~ Maestra | Maestro delle vigne ~ Maestra delle vigne",
     "faction.lotr.dorwinion.rank.chief": "Degustatore di vini capo ~ Degustatrice di vini capo",
     "faction.lotr.dorwinion.rank.lord": "Signore ~ Signora | Signore delle vigne ~ Signora delle vigne",
 
@@ -2512,7 +2512,7 @@
     "faction.lotr.near_harad.subtitle": "I Sudroni da oltre l'Harnen",
     "faction.lotr.near_harad.rank.guest": "Ospite | Ospite dei Sudroni",
     "faction.lotr.near_harad.rank.friend": "Amico ~ Amica | Amico dei Sudroni ~ Amica dei Sudroni",
-    "faction.lotr.near_harad.rank.kinsman": "Kinsman ~ Kinswoman | Southron Kinsman ~ Southron Kinswoman", (???)
+    "faction.lotr.near_harad.rank.kinsman": "Fratello ~ Sorella | Fratello dei Sudroni ~ Sorella dei Sudroni",
     "faction.lotr.near_harad.rank.warrior": "Guerriero ~ Guerriera | Guerriero dei Sudroni ~ Guerriera dei Sudroni",
     "faction.lotr.near_harad.rank.champion": "Campione ~ Campionessa | Campione dei Sudroni ~ Campionessa dei Sudroni",
     "faction.lotr.near_harad.rank.serpentguard": "Guardia Serpente",
@@ -2523,7 +2523,7 @@
     "faction.lotr.morwaith.subtitle": "I tribali Haradrim delle praterie",
     "faction.lotr.morwaith.rank.guest": "Ospite | Ospite dei Morwaith",
     "faction.lotr.morwaith.rank.friend": "Amico ~ Amica | Amico dei Morwaith ~ Amica dei Morwaith",
-    "faction.lotr.morwaith.rank.kinsman": "Kinsman ~ Kinswoman | Morwaith Kinsman ~ Morwaith Kinswoman", (???)
+    "faction.lotr.morwaith.rank.kinsman": "Fratello ~ Sorella | Fratello dei Morwaith ~ Sorella dei Morwaith",
     "faction.lotr.morwaith.rank.hunter": "Cacciatore ~ Cacciatrice | Cacciatore dei Morwaith ~ Cacciatrice dei Morwaith",
     "faction.lotr.morwaith.rank.warrior": "Guerriero Leone ~ Guerriera Leonessa",
     "faction.lotr.morwaith.rank.chief": "Capo Leone ~ Capo Leonessa",
@@ -2543,11 +2543,11 @@
     "faction.lotr.half_trolls.subtitle": "Il mostruoso popolo troll del Lontano Harad",
     "faction.lotr.half_trolls.rank.guest": "Ospite | Ospite dei Mezzi Troll",
     "faction.lotr.half_trolls.rank.scavenger": "Rovistatore ~ Rovistatrice | Rovistatore dei Mezzi Troll ~ Rovistatrice dei Mezzi Troll",
-    "faction.lotr.half_trolls.rank.kin": "Stirpe dei troll", (???)
+    "faction.lotr.half_trolls.rank.kin": "Stirpe dei troll",
     "faction.lotr.half_trolls.rank.warrior": "Guerriero ~ Guerriera | Guerriero dei Mezzi Troll ~ Guerriera dei Mezzi Troll",
     "faction.lotr.half_trolls.rank.raider": "Razziatore ~ Razziatrice | Razziatore dei Mezzi Troll ~ Razziatrice dei Mezzi Troll",
     "faction.lotr.half_trolls.rank.warlord": "Condottiero ~ Condottiera | Condottiero dei Mezzi Troll ~ Condottiera dei Mezzi Troll",
-    "faction.lotr.half_trolls.rank.chieftain": "Capo | Capo Troll", (???)
+    "faction.lotr.half_trolls.rank.chieftain": "Capo | Capo Troll",
 
     "factionrelation.lotr.ally": "Alleati",
     "factionrelation.lotr.friend": "Amici",
