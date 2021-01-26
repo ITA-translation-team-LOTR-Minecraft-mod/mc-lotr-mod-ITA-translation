@@ -2913,6 +2913,7 @@ lotr.title.HOBBIT_westfarthing=Decumano Ovest
 lotr.title.HOBBIT_southfarthing=Decumano Sud
 lotr.title.HOBBIT_eastfarthing=Decumano Est
 lotr.title.HOBBIT_mathomKeeper=Custode di mathom
+lotr.title.HOBBIT_burrahobbit=Scasshobbit
 
 lotr.title.BREE_bree=Brea
 lotr.title.BREE_breeland=Terra di Brea
@@ -5263,6 +5264,7 @@ chat.lotr.ruffianSteal=Un ruffiano ha rubato degli oggetti dal tuo inventario!
 chat.lotr.invasion.start=%s ha lanciato un'invasione nelle vicinanze!
 chat.lotr.tameGollum=%s ha addomesticato %s
 chat.lotr.ftDisabled=Il viaggio rapido è disabilitato su questo server
+chat.lotr.ft.offlineTick=Dall'ultima volta in cui sei stato online (%s fa), il tuo timer di viaggio rapido è avanzato di %s
 chat.lotr.conquestHornProtected=%s non può invadere quest'area
 chat.lotr.bountyPlaced=%s ha piazzato una taglia sulla tua testa!
 chat.lotr.bountyKilled1=%s ha reclamato la taglia piazzata su di te da %s!

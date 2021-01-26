@@ -2913,6 +2913,7 @@ lotr.title.HOBBIT_westfarthing=Westfarthing
 lotr.title.HOBBIT_southfarthing=Southfarthing
 lotr.title.HOBBIT_eastfarthing=Eastfarthing
 lotr.title.HOBBIT_mathomKeeper=Mathom Keeper
+lotr.title.HOBBIT_burrahobbit=Burrahobbit
 
 lotr.title.BREE_bree=Bree
 lotr.title.BREE_breeland=Bree-land
@@ -5263,6 +5264,7 @@ chat.lotr.ruffianSteal=A ruffian stole some items from your inventory!
 chat.lotr.invasion.start=%s have launched an invasion nearby!
 chat.lotr.tameGollum=%s has tamed %s
 chat.lotr.ftDisabled=Fast travel is disabled on this server
+chat.lotr.ft.offlineTick=Since you were last online (%s ago), your fast travel clock has ticked forwards by %s
 chat.lotr.conquestHornProtected=%s cannot invade this area
 chat.lotr.bountyPlaced=%s have placed a bounty on your head!
 chat.lotr.bountyKilled1=%s claimed a bounty placed on you by %s!
