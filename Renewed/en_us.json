@@ -1,6 +1,6 @@
 {
   "lotr.menu.title": "The Lord of the Rings Mod: Bringing Middle-earth to Minecraft - Renewed",
-  "lotr.menu.subtitle": "A work-in-progress update to Minecraft 1.15",
+  "lotr.menu.subtitle": "A work-in-progress update to Minecraft 1.16",
   
   "block.lotr.gondor_rock": "Gondor Rock",
   "block.lotr.gondor_brick": "Gondor Brick",
@@ -1296,6 +1296,11 @@
   "block.lotr.wooden_cup": "Wooden Cup",
   "block.lotr.ale_horn": "Ale Horn",
   "block.lotr.golden_ale_horn": "Golden Ale Horn",
+  "block.lotr.mordor_basalt_brick": "Mordor Basalt Brick",
+  "block.lotr.mordor_basalt_brick_slab": "Mordor Basalt Brick Slab",
+  "block.lotr.mordor_basalt_brick_stairs": "Mordor Basalt Brick Stairs",
+  "block.lotr.mordor_basalt_brick_wall": "Mordor Basalt Brick Wall",
+  "block.lotr.carved_mordor_basalt_brick": "Carved Mordor Basalt Brick",
     
   "item.lotr.gold_ring": "Gold Ring",
   "item.lotr.copper_ingot": "Copper Ingot",
@@ -1590,6 +1595,8 @@
   "item.lotr.smoking_pipe.red": "Red Smoke",
   "item.lotr.smoking_pipe.black": "Black Smoke",
   "item.lotr.smoking_pipe.magic": "Magic Smoke",
+  "item.lotr.fish_and_chips": "Fish and Chips",
+  "item.lotr.fish_and_chips.subtitle": "Just like my old Gaffer makes it!",
   
   "item.lotr.drink.weak": "Weak",
   "item.lotr.drink.light": "Light",
@@ -2867,7 +2874,14 @@
   "argument.lotr.waypointRegion.id.invalid": "Unknown waypoint region '%s'",
   "argument.lotr.faction.id.invalid": "Unknown faction '%s'",
   "argument.lotr.playerMessage.id.invalid": "Unknown message type '%s'",
-  
+
+  "gamerule.lotr:orc_skirmish": "Orc skirmishes",
+  "gamerule.lotr:middle_earth_respawning": "Middle-earth bespoke respawning mechanics",
+  "gamerule.lotr:fast_travel": "Allow fast travel",
+  "gamerule.lotr:custom_waypoint_creation": "Allow custom waypoint creation and adoption",
+  "gamerule.lotr:gondor_beacon_range": "Beacon of Gondor range",
+  "gamerule.lotr:gondor_beacon_lighting_time": "Beacon of Gondor lighting time",
+
   "key.categories.mod.lotr": "LOTR Mod",
   "key.lotr.menu": "Open Middle-earth Menu",
   "key.lotr.map_teleport": "Map Teleport",
@@ -2875,7 +2889,7 @@
   "key.lotr.alignment_next": "Next Alignment",
   "key.lotr.alignment_group_previous": "Previous Alignment Group",
   "key.lotr.alignment_group_next": "Next Alignment Group",
-  
+
   "config.lotr.modSky": "Middle-earth Sky",
   "config.lotr.modClouds": "Middle-earth Clouds",
   "config.lotr.cloudRange": "Cloud range",
