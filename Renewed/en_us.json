@@ -1644,6 +1644,10 @@
   "item.lotr.drink.cures_harmful": "Cures harmful effects",
   "item.lotr.drink.damage": "%d damage when drunk",
   
+  "item.lotr.generic.currentOwner": "Belongs to: %s",
+  "item.lotr.generic.previousOwner": "Belonged to: %s",
+  "item.lotr.generic.previousOwnerList": "Belonged to:",
+  
   "itemGroup.lotr.blocks": "Middle-earth Blocks",
   "itemGroup.lotr.util": "Middle-earth Utilities",
   "itemGroup.lotr.decorations": "Middle-earth Decorations",
@@ -1799,6 +1803,10 @@
   "biome.lotr.northern_mirkwood": "Northern Mirkwood",
   "biome.lotr.mirkwood_mountains": "Mountains of Mirkwood",
   "biome.lotr.morgul_vale": "Morgul Vale",
+  "biome.lotr.dense_northlands_forest": "Dense Northern Forests",
+  "biome.lotr.snowy_northlands": "Snowy Northlands",
+  "biome.lotr.snowy_northlands_forest": "Snowy Northern Forests",
+  "biome.lotr.dense_snowy_northlands_forest": "Dense Snowy Northern Forests",
   
   "entity.lotr.ring_portal": "Ring Portal",
   
@@ -1811,6 +1819,11 @@
   "entity.lotr.dwarf_warrior": "Dwarf Warrior",
   "entity.lotr.galadhrim_warrior": "Galadhrim Warrior",
   "entity.lotr.uruk": "Uruk",
+  "entity.lotr.rohan_man": "Rohan Man",
+  "entity.lotr.rohirrim_warrior": "Rohirrim Warrior",
+  "entity.lotr.gundabad_orc": "Gundabad Orc",
+  "entity.lotr.dale_man": "Dalishman",
+  "entity.lotr.dale_soldier": "Dalish Soldier",
   
   "item.lotr.hobbit_spawn_egg": "Hobbit Spawn Egg",
   "item.lotr.mordor_orc_spawn_egg": "Mordor Orc Spawn Egg",
@@ -1821,9 +1834,16 @@
   "item.lotr.dwarf_warrior_spawn_egg": "Dwarf Warrior Spawn Egg",
   "item.lotr.galadhrim_warrior_spawn_egg": "Galadhrim Warrior Spawn Egg",
   "item.lotr.uruk_spawn_egg": "Uruk Spawn Egg",
+  "item.lotr.rohan_man_spawn_egg": "Rohan Man Spawn Egg",
+  "item.lotr.rohirrim_warrior_spawn_egg": "Rohirrim Warrior Spawn Egg",
+  "item.lotr.gundabad_orc_spawn_egg": "Gundabad Orc Spawn Egg",
+  "item.lotr.dale_man_spawn_egg": "Dalishman Spawn Egg",
+  "item.lotr.dale_soldier_spawn_egg": "Dalish Soldier Spawn Egg",
   
   "entityname.lotr.generic": "%s, the %s",
   "entityname.lotr.gondor_man": "%s of Gondor",
+  "entityname.lotr.rohan_man": "%s of the Rohirrim",
+  "entityname.lotr.dale_man": "%s of Dale",
 
   "attribute.name.lotr.npc.ranged_inaccuracy": "NPC Ranged Inaccuracy",
   "attribute.name.lotr.npc.mount_attack_speed": "NPC Mount Attack Speed",
@@ -1945,7 +1965,7 @@
   "gui.lotr.factions.stats.hires": "Units Hired: %d",
   "gui.lotr.factions.stats.miniquests": "Mini-Quests Completed: %d",
   "gui.lotr.factions.stats.conquest": "Conquest Earned: %d",
-  "gui.lotr.factions.stats.membersKilled": "NPCs Slain: %d",
+  "gui.lotr.factions.stats.membersKilled": "Members Slain: %d",
   "gui.lotr.factions.relationHeader": "%s:",
   "gui.lotr.factions.list": "• %s",
   "gui.lotr.factions.ranksHeader": "Ranks:",
@@ -2173,7 +2193,7 @@
   "waypoint.lotr.isengard.lore": "A great fortified ring of stone within a vale of the Misty Mountains, wherein stands the tower of Orthanc, stronghold of Saruman.",
 
   "waypoint.lotr.cape_of_forochel": "Cape of Forochel",
-  "waypoint.lotr.cape_of_forochel.lore": "The perilous floes of the Icebay, where only the Snowmen of Forochel dare wander.",
+  "waypoint.lotr.cape_of_forochel.lore": "The perilous floes of the Icebay, where only the Snow-men of Forochel dare wander.",
   "waypoint.lotr.south_forochel": "South Forochel",
   "waypoint.lotr.south_forochel.lore": "One of few permanent settlements of the Lossoth among the frozen wastes.",
   
@@ -2980,6 +3000,7 @@
   "config.lotr.newWeatherRendering": "New weather rendering",
   "config.lotr.newRainGroundParticles": "New rain ground particles",
   
+  "config.lotr.modMainMenu": "Middle-earth main menu",
   "config.lotr.sepiaMap": "Sepia Map",
   "config.lotr.mapLabels": "Map labels",
   
