@@ -1381,7 +1381,7 @@
     "item.lotr.gondor_leggings": "Gambiera gondoriana",
     "item.lotr.gondor_boots": "Stivali gondoriani",
     "item.lotr.rohan_sword": "Spada rohirrica",
-    "item.lotr.rohan_helmet": "Cappa rohirrica",
+    "item.lotr.rohan_helmet": "Elmo rohirrico",
     "item.lotr.rohan_chestplate": "Usbergo rohirrico",
     "item.lotr.rohan_leggings": "Gambiera rohirrica",
     "item.lotr.rohan_boots": "Stivali rohirrici",
@@ -1807,9 +1807,10 @@
     "biome.lotr.snowy_northlands": "Terre del Nord innevate",
     "biome.lotr.snowy_northlands_forest": "Foreste del Nord innevate",
     "biome.lotr.dense_snowy_northlands_forest": "Foreste fitte del Nord innevate",
+    "biome.lotr.tower_hills": "Colli Torrioni",
 
     "entity.lotr.ring_portal": "Portale dell'Anello",
-  
+
     "entity.lotr.hobbit": "Hobbit",
     "entity.lotr.mordor_orc": "Orco di Mordor",
     "entity.lotr.gondor_man": "Gondoriano",
@@ -1824,7 +1825,15 @@
     "entity.lotr.gundabad_orc": "Orco del Gundabad",
     "entity.lotr.dale_man": "Uomo di Dale",
     "entity.lotr.dale_soldier": "Soldato di Dale",
-    
+    "entity.lotr.dunlending": "Dunlandiano",
+    "entity.lotr.dunlending_warrior": "Guerriero Dunlandiano",
+    "entity.lotr.lindon_elf": "Elfo del Lindon",
+    "entity.lotr.lindon_warrior": "Guerriero del Lindon",
+    "entity.lotr.rivendell_elf": "Elfo di Granburrone",
+    "entity.lotr.rivendell_warrior": "Guerriero di Granburrone",
+
+    "entity.lotr.caracal": "Caracal",
+
     "item.lotr.hobbit_spawn_egg": "Uovo generatore di hobbit",
     "item.lotr.mordor_orc_spawn_egg": "Uovo generatore di orco di Mordor",
     "item.lotr.gondor_man_spawn_egg": "Uovo generatore di gondoriano",
@@ -1839,6 +1848,14 @@
     "item.lotr.gundabad_orc_spawn_egg": "Uovo generatore di orco del Gundabad",
     "item.lotr.dale_man_spawn_egg": "Uovo generatore di uomo di Dale",
     "item.lotr.dale_soldier_spawn_egg": "Uovo generatore di soldato di Dale",
+    "item.lotr.dunlending_spawn_egg": "Uovo generatore di dunlandiano",
+    "item.lotr.dunlending_warrior_spawn_egg": "Uovo generatore di guerriero dunlandiano",
+    "item.lotr.lindon_elf_spawn_egg": "Uovo generatore di elfo del Lindon",
+    "item.lotr.lindon_warrior_spawn_egg": "Uovo generatore di guerriero del Lindon",
+    "item.lotr.rivendell_elf_spawn_egg": "Uovo generatore di elfo di Granburrone",
+    "item.lotr.rivendell_warrior_spawn_egg": "Uovo generatore di guerriero di Granburrone",
+
+    "item.lotr.caracal_spawn_egg": "Uovo generatore di caracal",
 
     "entityname.lotr.generic": "%s, il %s",
     "entityname.lotr.gondor_man": "%s di Gondor",

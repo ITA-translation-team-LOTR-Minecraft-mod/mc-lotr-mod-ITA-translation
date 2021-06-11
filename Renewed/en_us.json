@@ -1381,7 +1381,7 @@
   "item.lotr.gondor_leggings": "Gondorian Leggings",
   "item.lotr.gondor_boots": "Gondorian Boots",
   "item.lotr.rohan_sword": "Rohirric Sword",
-  "item.lotr.rohan_helmet": "Rohirric Coif",
+  "item.lotr.rohan_helmet": "Rohirric Helmet",
   "item.lotr.rohan_chestplate": "Rohirric Hauberk",
   "item.lotr.rohan_leggings": "Rohirric Leggings",
   "item.lotr.rohan_boots": "Rohirric Boots",
@@ -1807,6 +1807,7 @@
   "biome.lotr.snowy_northlands": "Snowy Northlands",
   "biome.lotr.snowy_northlands_forest": "Snowy Northern Forests",
   "biome.lotr.dense_snowy_northlands_forest": "Dense Snowy Northern Forests",
+  "biome.lotr.tower_hills": "Tower Hills",
   
   "entity.lotr.ring_portal": "Ring Portal",
   
@@ -1824,6 +1825,14 @@
   "entity.lotr.gundabad_orc": "Gundabad Orc",
   "entity.lotr.dale_man": "Dalishman",
   "entity.lotr.dale_soldier": "Dalish Soldier",
+  "entity.lotr.dunlending": "Dunlending",
+  "entity.lotr.dunlending_warrior": "Dunlending Warrior",
+  "entity.lotr.lindon_elf": "Lindon Elf",
+  "entity.lotr.lindon_warrior": "Lindon Warrior",
+  "entity.lotr.rivendell_elf": "Rivendell Elf",
+  "entity.lotr.rivendell_warrior": "Rivendell Warrior",
+  
+  "entity.lotr.caracal": "Caracal",
   
   "item.lotr.hobbit_spawn_egg": "Hobbit Spawn Egg",
   "item.lotr.mordor_orc_spawn_egg": "Mordor Orc Spawn Egg",
@@ -1839,6 +1848,14 @@
   "item.lotr.gundabad_orc_spawn_egg": "Gundabad Orc Spawn Egg",
   "item.lotr.dale_man_spawn_egg": "Dalishman Spawn Egg",
   "item.lotr.dale_soldier_spawn_egg": "Dalish Soldier Spawn Egg",
+  "item.lotr.dunlending_spawn_egg": "Dunlending Spawn Egg",
+  "item.lotr.dunlending_warrior_spawn_egg": "Dunlending Warrior Spawn Egg",
+  "item.lotr.lindon_elf_spawn_egg": "Lindon Elf Spawn Egg",
+  "item.lotr.lindon_warrior_spawn_egg": "Lindon Warrior Spawn Egg",
+  "item.lotr.rivendell_elf_spawn_egg": "Rivendell Elf Spawn Egg",
+  "item.lotr.rivendell_warrior_spawn_egg": "Rivendell Warrior Spawn Egg",
+  
+  "item.lotr.caracal_spawn_egg": "Caracal Spawn Egg",
   
   "entityname.lotr.generic": "%s, the %s",
   "entityname.lotr.gondor_man": "%s of Gondor",
