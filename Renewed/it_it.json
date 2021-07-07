@@ -1634,6 +1634,10 @@
     "item.lotr.silver_trimmed_blue_dwarven_chestplate": "Corazza intarsiata in argento dei Nani Blu",
     "item.lotr.silver_trimmed_blue_dwarven_leggings": "Gambiera intarsiata in argento dei Nani Blu",
     "item.lotr.silver_trimmed_blue_dwarven_boots": "Stivali intarsiati in argento dei Nani Blu",
+    "item.lotr.gondor_shield": "Scudo gondoriano",
+    "item.lotr.mordor_shield": "Scudo di Mordor",
+    "item.lotr.rohan_shield": "Scudo rohirrico",
+    "item.lotr.dale_shield": "Scudo di Dale",
 
     "item.lotr.drink.weak": "Debole",
     "item.lotr.drink.light": "Leggero",
@@ -1808,6 +1812,9 @@
     "biome.lotr.snowy_northlands_forest": "Foreste del Nord innevate",
     "biome.lotr.dense_snowy_northlands_forest": "Foreste fitte del Nord innevate",
     "biome.lotr.tower_hills": "Colli Torrioni",
+    "biome.lotr.southron_coasts_forest": "Foresta delle coste dei sudroni",
+    "biome.lotr.umbar_forest": "Foresta di Umbar",
+    "biome.lotr.umbar_hills": "Colline di Umbar",
 
     "entity.lotr.ring_portal": "Portale dell'Anello",
 
@@ -1831,6 +1838,14 @@
     "entity.lotr.lindon_warrior": "Guerriero del Lindon",
     "entity.lotr.rivendell_elf": "Elfo di Granburrone",
     "entity.lotr.rivendell_warrior": "Guerriero di Granburrone",
+    "entity.lotr.coast_southron": "Sudrone della Costa",
+    "entity.lotr.coast_southron_warrior": "Guerriero sudrone della Costa",
+    "entity.lotr.harnedhrim": "Harnedhrim",
+    "entity.lotr.harnennor_warrior": "Guerriero dell'Harnennor",
+    "entity.lotr.blue_mountains_dwarf": "Nano dei Monti Azzurri",
+    "entity.lotr.blue_mountains_warrior": "Guerriero dei Monti Azzurri",
+    "entity.lotr.umbar_man": "Umbariano",
+    "entity.lotr.umbar_soldier": "Soldato di Umbar",
 
     "entity.lotr.caracal": "Caracal",
 
@@ -1854,13 +1869,23 @@
     "item.lotr.lindon_warrior_spawn_egg": "Uovo generatore di guerriero del Lindon",
     "item.lotr.rivendell_elf_spawn_egg": "Uovo generatore di elfo di Granburrone",
     "item.lotr.rivendell_warrior_spawn_egg": "Uovo generatore di guerriero di Granburrone",
-
+    "item.lotr.coast_southron_spawn_egg": "Uovo generatore di sudrone della Costa",
+    "item.lotr.coast_southron_warrior_spawn_egg": "Uovo generatore di guerriero sudrone della Costa",
+    "item.lotr.harnedhrim_spawn_egg": "Uovo generatore di harnedhrim",
+    "item.lotr.harnennor_warrior_spawn_egg": "Uovo generatore di guerriero dell'Harnennor",
+    "item.lotr.blue_mountains_dwarf_spawn_egg": "Uovo generatore di nano dei Monti Azzurri",
+    "item.lotr.blue_mountains_warrior_spawn_egg": "Uovo generatore di guerriero dei Monti Azzurri",
+    "item.lotr.umbar_man_spawn_egg": "Uovo generatore di umbariano",
+    "item.lotr.umbar_soldier_spawn_egg": "Uovo generatore di soldato di Umbar",
+  
     "item.lotr.caracal_spawn_egg": "Uovo generatore di caracal",
 
     "entityname.lotr.generic": "%s, il %s",
     "entityname.lotr.gondor_man": "%s di Gondor",
     "entityname.lotr.rohan_man": "%s dei Rohirrim",
     "entityname.lotr.dale_man": "%s di Dale",
+    "entityname.lotr.harnedhrim": "%s dell'Harnennor",
+    "entityname.lotr.umbar_man": "%s di Umbar",
 
     "attribute.name.lotr.npc.ranged_inaccuracy": "Inaccuratezza a distanza NPC",
     "attribute.name.lotr.npc.mount_attack_speed": "Velocità di attacco cavalcatura NPC",
@@ -2471,7 +2496,7 @@
     "waypoint.lotr.crossings_of_harnen.lore": "Questo fiume segna il confine della terra contesa di Harondor. Da qui, la via prosegue verso Sud nelle vaste Terre del Sole dell'Haradwaith.",
 
     "waypoint.lotr.belkadar": "Bêlkadar",
-    "waypoint.lotr.belkadar.lore": "Nel luogo in cui il possente fiume Harnen incontra la Baia di Belfalas si erge la più grande roccaforte degli Harnedhrim, un punto di raduno contro i loro nemici a Nord.",
+    "waypoint.lotr.belkadar.lore": "Nel luogo in cui il possente fiume Harnen incontra la Baia di Belfalas si erge la più grande roccaforte degli harnedhrim, un punto di raduno contro i loro nemici a Nord.",
     "waypoint.lotr.an_batina": "An-batîna",
     "waypoint.lotr.an_batina.lore": "Una città dei Sudroni oltre i guadi dell'Harnen, costruita nel punto di incontro di molte strade.",
     "waypoint.lotr.ugri_zadin": "Ugrî-zadîn",
@@ -3037,5 +3062,7 @@
     "config.lotr.areasOfInfluence": "Aree di influenza di allineamento delle fazioni",
     "config.lotr.alignmentDraining": "Esaurimento allineamento",
 
-    "config.lotr.forceMapLocations": "Forza nascondi/mostra posizioni sulla mappa"
+    "config.lotr.forceMapLocations": "Forza nascondi/mostra posizioni sulla mappa",
+
+    "config.lotr.generateBiomeJsons": "Genera file JSON per i biomi della Terra di Mezzo"
 }
