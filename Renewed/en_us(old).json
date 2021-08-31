@@ -1634,6 +1634,10 @@
   "item.lotr.silver_trimmed_blue_dwarven_chestplate": "Silver-trimmed Blue Dwarven Chestplate",
   "item.lotr.silver_trimmed_blue_dwarven_leggings": "Silver-trimmed Blue Dwarven Leggings",
   "item.lotr.silver_trimmed_blue_dwarven_boots": "Silver-trimmed Blue Dwarven Boots",
+  "item.lotr.gondor_shield": "Gondorian Shield",
+  "item.lotr.mordor_shield": "Mordor Shield",
+  "item.lotr.rohan_shield": "Rohirric Shield",
+  "item.lotr.dale_shield": "Dalish Shield",
   
   "item.lotr.drink.weak": "Weak",
   "item.lotr.drink.light": "Light",
@@ -1808,6 +1812,9 @@
   "biome.lotr.snowy_northlands_forest": "Snowy Northern Forests",
   "biome.lotr.dense_snowy_northlands_forest": "Dense Snowy Northern Forests",
   "biome.lotr.tower_hills": "Tower Hills",
+  "biome.lotr.southron_coasts_forest": "Southron Coasts Forest",
+  "biome.lotr.umbar_forest": "Umbar Forest",
+  "biome.lotr.umbar_hills": "Umbar Hills",
   
   "entity.lotr.ring_portal": "Ring Portal",
   
@@ -1831,6 +1838,14 @@
   "entity.lotr.lindon_warrior": "Lindon Warrior",
   "entity.lotr.rivendell_elf": "Rivendell Elf",
   "entity.lotr.rivendell_warrior": "Rivendell Warrior",
+  "entity.lotr.coast_southron": "Coast Southron",
+  "entity.lotr.coast_southron_warrior": "Coast Southron Warrior",
+  "entity.lotr.harnedhrim": "Harnedhrim",
+  "entity.lotr.harnennor_warrior": "Harnennor Warrior",
+  "entity.lotr.blue_mountains_dwarf": "Blue Mountains Dwarf",
+  "entity.lotr.blue_mountains_warrior": "Blue Mountains Warrior",
+  "entity.lotr.umbar_man": "Umbarian",
+  "entity.lotr.umbar_soldier": "Umbar Soldier",
   
   "entity.lotr.caracal": "Caracal",
   
@@ -1854,6 +1869,14 @@
   "item.lotr.lindon_warrior_spawn_egg": "Lindon Warrior Spawn Egg",
   "item.lotr.rivendell_elf_spawn_egg": "Rivendell Elf Spawn Egg",
   "item.lotr.rivendell_warrior_spawn_egg": "Rivendell Warrior Spawn Egg",
+  "item.lotr.coast_southron_spawn_egg": "Coast Southron Spawn Egg",
+  "item.lotr.coast_southron_warrior_spawn_egg": "Coast Southron Warrior Spawn Egg",
+  "item.lotr.harnedhrim_spawn_egg": "Harnedhrim Spawn Egg",
+  "item.lotr.harnennor_warrior_spawn_egg": "Harnennor Warrior Spawn Egg",
+  "item.lotr.blue_mountains_dwarf_spawn_egg": "Blue Mountains Dwarf Spawn Egg",
+  "item.lotr.blue_mountains_warrior_spawn_egg": "Blue Mountains Warrior Spawn Egg",
+  "item.lotr.umbar_man_spawn_egg": "Umbarian Spawn Egg",
+  "item.lotr.umbar_soldier_spawn_egg": "Umbar Soldier Spawn Egg",
   
   "item.lotr.caracal_spawn_egg": "Caracal Spawn Egg",
   
@@ -1861,6 +1884,8 @@
   "entityname.lotr.gondor_man": "%s of Gondor",
   "entityname.lotr.rohan_man": "%s of the Rohirrim",
   "entityname.lotr.dale_man": "%s of Dale",
+  "entityname.lotr.harnedhrim": "%s of Harnennor",
+  "entityname.lotr.umbar_man": "%s of Umbar",
 
   "attribute.name.lotr.npc.ranged_inaccuracy": "NPC Ranged Inaccuracy",
   "attribute.name.lotr.npc.mount_attack_speed": "NPC Mount Attack Speed",
@@ -3037,5 +3062,7 @@
   "config.lotr.areasOfInfluence": "Faction alignment areas of influence",
   "config.lotr.alignmentDraining": "Alignment draining",
   
-  "config.lotr.forceMapLocations": "Force hide/show map locations"
+  "config.lotr.forceMapLocations": "Force hide/show map locations",
+  
+  "config.lotr.generateBiomeJsons": "Generate LOTR biome JSON files"
 }
