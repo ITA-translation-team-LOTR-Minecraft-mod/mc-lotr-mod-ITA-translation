@@ -1324,6 +1324,10 @@
   "block.lotr.green_hobbit_gate": "Green Hobbit Gate",
   "block.lotr.blue_hobbit_gate": "Blue Hobbit Gate",
   "block.lotr.morgul_flower": "Morgul-flowers",
+  "block.lotr.reed_bale": "Reed Bale",
+  "block.lotr.flax_bale": "Flax Bale",
+  "block.lotr.wicker_bars": "Wicker Bars",
+  "block.lotr.wicker_fence_gate": "Wicker Fence Gate",
     
   "item.lotr.gold_ring": "Gold Ring",
   "item.lotr.copper_ingot": "Copper Ingot",
@@ -2081,8 +2085,10 @@
   "gui.lotr.factions.rank.unknown": "???",
   "gui.lotr.factions.rankGender.masc": "Prefer masculine ranks",
   "gui.lotr.factions.rankGender.fem": "Prefer feminine ranks",
-  "gui.lotr.factions.friendlyFire.enabled": "Friendly fire enabled",
-  "gui.lotr.factions.friendlyFire.disabled": "Friendly fire disabled",
+  "gui.lotr.factions.friendlyFire.enabled.1": "Friendly Fire enabled",
+  "gui.lotr.factions.friendlyFire.enabled.2": "(can attack allies)",
+  "gui.lotr.factions.friendlyFire.disabled.1": "Friendly Fire disabled",
+  "gui.lotr.factions.friendlyFire.disabled.2": "(cannot attack allies)",
   "gui.lotr.factions.viewMap": "View areas of influence on the map",
   "gui.lotr.factions.pledge": "Pledge Service",
   "gui.lotr.factions.pledge.req": "(requires %s alignment)",
@@ -2104,7 +2110,7 @@
   
   "gui.lotr.message.dismiss": "Dismiss",
   "gui.lotr.message.notDisplayedAgain": "This message will not be displayed again",
-  "gui.lotr.message.friendly_fire": "It looks like you're trying to attack an allied NPC!\n\nWith the Friendly Fire setting disabled, you are unable to attack allied NPCs, which stops you from accidentally harming your allies. To enable Friendly Fire, open the Middle-earth menu and navigate to Options.",
+  "gui.lotr.message.friendly_fire": "It looks like you're trying to attack an allied NPC!\n\nWith the Friendly Fire setting disabled, you are unable to attack allied NPCs, which stops you from accidentally harming your allies. To enable Friendly Fire, open the Middle-earth menu and navigate to Factions.",
   "gui.lotr.message.align_drain": "When you see this icon:\n\n\n\nyou are losing alignment with one or more factions due to holding positive alignment (+) with a Mortal Enemy of theirs.\nKeep an eye on your alignments!",
   
   "gui.lotr.fasttravel.travel": "Fast travelling to %s",
@@ -3007,6 +3013,8 @@
   "death.attack.lotr.poisonDrink": "%s drank the wrong drink",
   "death.attack.lotr.stalagmite": "%s was spiked by a stalagmite",
   "death.attack.lotr.quagmire": "%s got stuck in a swamp",
+  "death.attack.lotr.thrownSpear": "%1$s was speared by %2$s",
+  "death.attack.lotr.thrownSpear.item": "%1$s was speared by %2$s using %3$s",
   
   "subtitles.lotr.ambience.weather.wind": "Wind whistles",
   "subtitles.lotr.block.gate.close": "Gate closed",

@@ -1324,6 +1324,10 @@
     "block.lotr.green_hobbit_gate": "Porta hobbit verde",
     "block.lotr.blue_hobbit_gate": "Porta hobbit blu",
     "block.lotr.morgul_flower": "Fiori morgul",
+    "block.lotr.reed_bale": "Balla di canne",
+    "block.lotr.flax_bale": "Balla di lino",
+    "block.lotr.wicker_bars": "Staccionata di vimini",
+    "block.lotr.wicker_fence_gate": "Cancelletto di vimini",
 
     "item.lotr.gold_ring": "Anello d'oro",
     "item.lotr.copper_ingot": "Lingotto di rame",
@@ -2081,8 +2085,10 @@
     "gui.lotr.factions.rank.unknown": "???",
     "gui.lotr.factions.rankGender.masc": "Preferisci ranghi maschili",
     "gui.lotr.factions.rankGender.fem": "Preferisci ranghi femminili",
-    "gui.lotr.factions.friendlyFire.enabled": "Fuoco amico abilitato",
-    "gui.lotr.factions.friendlyFire.disabled": "Fuoco amico disabilitato",
+    "gui.lotr.factions.friendlyFire.enabled.1": "Fuoco amico abilitato",
+    "gui.lotr.factions.friendlyFire.enabled.2": "(puoi attaccare gli alleati)",
+    "gui.lotr.factions.friendlyFire.disabled.1": "Fuoco amico disabilitato",
+    "gui.lotr.factions.friendlyFire.disabled.2": "(non puoi attaccare gli alleati)",
     "gui.lotr.factions.viewMap": "Visualizza aree di influenza sulla mappa",
     "gui.lotr.factions.pledge": "Giura fedeltà",
     "gui.lotr.factions.pledge.req": "(richiede %s allineamento)",
@@ -2104,7 +2110,7 @@
 
     "gui.lotr.message.dismiss": "Chiudi",
     "gui.lotr.message.notDisplayedAgain": "Questo messaggio non verrà più mostrato",
-    "gui.lotr.message.friendly_fire": "Sembra che tu stia cercando di attaccare un NPC alleato!\n\nCon l'opzione “Fuoco amico” disabilitata non puoi attaccare NPC alleati, il che ti impedisce di danneggiarli accidentalmente. Per abilitare il fuoco amico apri il Menu della Terra di Mezzo e vai su Opzioni.",
+    "gui.lotr.message.friendly_fire": "Sembra che tu stia cercando di attaccare un NPC alleato!\n\nCon l'opzione “Fuoco amico” disabilitata non puoi attaccare NPC alleati, il che ti impedisce di danneggiarli accidentalmente. Per abilitare il fuoco amico apri il Menu della Terra di Mezzo e vai su Fazioni.",
     "gui.lotr.message.align_drain": "Quando vedi questa icona:\n\n\n\nstai perdendo allineamento con una o più fazioni perché hai allineamento positivo (+) con un loro nemico mortale.\nTieni d'occhio gli allineamenti!",
 
     "gui.lotr.fasttravel.travel": "Viaggio rapido verso %s",
@@ -3007,6 +3013,8 @@
     "death.attack.lotr.poisonDrink": "%s ha sbagliato calice",
     "death.attack.lotr.stalagmite": "%s è stato impalato da una stalagmite",
     "death.attack.lotr.quagmire": "%s è rimasto bloccato in una palude",
+    "death.attack.lotr.thrownSpear": "%1$s è stato trafitto da %2$s",
+    "death.attack.lotr.thrownSpear.item": "%1$s è stato trafitto da %2$s usando %3$s",
 
     "subtitles.lotr.ambience.weather.wind": "Il vento fischia",
     "subtitles.lotr.block.gate.close": "Cancello chiuso",
