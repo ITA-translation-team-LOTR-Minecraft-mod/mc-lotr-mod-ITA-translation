@@ -1,7 +1,6 @@
 {
     "lotr.menu.title": "Mod del Signore degli Anelli: la Terra di Mezzo in Minecraft - Rinnovata",
     "lotr.menu.subtitle": "Un aggiornamento work-in-progress per Minecraft 1.16",
-
     "block.lotr.gondor_rock": "Roccia di Gondor",
     "block.lotr.gondor_brick": "Mattoni di Gondor",
     "block.lotr.mordor_rock": "Roccia di Mordor",
@@ -1328,7 +1327,34 @@
     "block.lotr.flax_bale": "Balla di lino",
     "block.lotr.wicker_bars": "Staccionata di vimini",
     "block.lotr.wicker_fence_gate": "Cancelletto di vimini",
-
+    "block.lotr.culumalda_log": "NEW >>> Culumalda Log",
+    "block.lotr.culumalda_wood": "NEW >>> Culumalda Wood",
+    "block.lotr.culumalda_planks": "NEW >>> Culumalda Planks",
+    "block.lotr.culumalda_leaves": "NEW >>> Culumalda Leaves",
+    "block.lotr.culumalda_sapling": "NEW >>> Culumalda Sapling",
+    "block.lotr.culumalda_slab": "NEW >>> Culumalda Slab",
+    "block.lotr.culumalda_stairs": "NEW >>> Culumalda Stairs",
+    "block.lotr.culumalda_fence": "NEW >>> Culumalda Fence",
+    "block.lotr.culumalda_fence_gate": "NEW >>> Culumalda Fence Gate",
+    "block.lotr.culumalda_door": "NEW >>> Culumalda Door",
+    "block.lotr.culumalda_trapdoor": "NEW >>> Culumalda Trapdoor",
+    "block.lotr.culumalda_pressure_plate": "NEW >>> Culumalda Pressure Plate",
+    "block.lotr.culumalda_button": "NEW >>> Culumalda Button",
+    "block.lotr.stripped_culumalda_log": "NEW >>> Stripped Culumalda Log",
+    "block.lotr.stripped_culumalda_wood": "NEW >>> Stripped Culumalda Wood",
+    "block.lotr.culumalda_beam": "NEW >>> Culumalda Beam",
+    "block.lotr.culumalda_sign": "NEW >>> Culumalda Sign",
+    "block.lotr.culumalda_log_slab": "NEW >>> Culumalda Log Slab",
+    "block.lotr.culumalda_wood_slab": "NEW >>> Culumalda Wood Slab",
+    "block.lotr.culumalda_wood_stairs": "NEW >>> Culumalda Wood Stairs",
+    "block.lotr.culumalda_branch": "NEW >>> Culumalda Branch",
+    "block.lotr.stripped_culumalda_log_slab": "NEW >>> Stripped Culumalda Log Slab",
+    "block.lotr.stripped_culumalda_wood_slab": "NEW >>> Stripped Culumalda Wood Slab",
+    "block.lotr.stripped_culumalda_wood_stairs": "NEW >>> Stripped Culumalda Wood Stairs",
+    "block.lotr.stripped_culumalda_branch": "NEW >>> Stripped Culumalda Branch",
+    "block.lotr.culumalda_beam_slab": "NEW >>> Culumalda Beam Slab",
+    "block.lotr.fallen_culumalda_leaves": "NEW >>> Fallen Culumalda Leaves",
+    "block.lotr.bree_crafting_table": "NEW >>> Bree-land Crafting Table",
     "item.lotr.gold_ring": "Anello d'oro",
     "item.lotr.copper_ingot": "Lingotto di rame",
     "item.lotr.tin_ingot": "Lingotto di stagno",
@@ -1684,7 +1710,7 @@
     "item.lotr.harnennor_shield": "Scudo dell'Harnennor",
     "item.lotr.coast_southron_shield": "Scudo dei Sudroni della Costa",
     "item.lotr.umbar_shield": "Scudo Umbarico",
-  
+    "item.lotr.culumalda_boat": "NEW >>> Culumalda Boat",
     "item.lotr.drink.weak": "Debole",
     "item.lotr.drink.light": "Leggero",
     "item.lotr.drink.moderate": "Moderato",
@@ -1693,11 +1719,9 @@
     "item.lotr.drink.alcoholicity": "Gradazione alcolica: %.2f%%",
     "item.lotr.drink.cures_harmful": "Cura effetti dannosi",
     "item.lotr.drink.damage": "%d danni se bevuto",
-
     "item.lotr.generic.currentOwner": "Appartiene a: %s",
     "item.lotr.generic.previousOwner": "Apparteneva a: %s",
     "item.lotr.generic.previousOwnerList": "Apparteneva a:",
-
     "itemGroup.lotr.blocks": "Blocchi della Terra di Mezzo",
     "itemGroup.lotr.util": "Utilità della Terra di Mezzo",
     "itemGroup.lotr.decorations": "Decorazioni della Terra di Mezzo",
@@ -1708,7 +1732,6 @@
     "itemGroup.lotr.combat": "Armamenti della Terra di Mezzo",
     "itemGroup.lotr.story": "Storia della Terra di Mezzo",
     "itemGroup.lotr.spawners": "Generatori della Terra di Mezzo",
-
     "container.lotr.gondor_crafting": "Fabbricazione gondoriana",
     "container.lotr.mordor_crafting": "Fabbricazione morgul",
     "container.lotr.rohan_crafting": "Fabbricazione rohirrica",
@@ -1729,22 +1752,19 @@
     "container.lotr.dale_crafting": "Fabbricazione di Dale",
     "container.lotr.lossoth_crafting": "Fabbricazione dei Lossoth",
     "container.lotr.dunlending_crafting": "Fabbricazione di Dunland",
-
+    "container.lotr.bree_crafting": "NEW >>> Bree-land Crafting",
     "container.lotr.alloy_forge": "Forgia",
     "container.lotr.dwarven_forge": "Forgia nanica",
     "container.lotr.elven_forge": "Forgia elfica",
     "container.lotr.orc_forge": "Forgia orchesca",
     "container.lotr.hobbit_oven": "Forno hobbit",
-
     "container.lotr.keg": "Barilotto",
     "container.lotr.keg.empty": "Vuoto",
     "container.lotr.keg.brewing": "%s (%s) in fermentazione",
     "container.lotr.keg.full": "%s (%s) x %d",
     "container.lotr.keg.start_brewing": "Avvia fermentazione",
     "container.lotr.keg.finish_brewing": "Ferma fermentazione",
-
     "dimension.lotr.middle_earth": "Terra di Mezzo",
-
     "biome.lotr.shire": "La Contea",
     "biome.lotr.mordor": "Mordor",
     "biome.lotr.anorien": "Anórien",
@@ -1861,9 +1881,8 @@
     "biome.lotr.southron_coasts_forest": "Foresta delle coste dei sudroni",
     "biome.lotr.umbar_forest": "Foresta di Umbar",
     "biome.lotr.umbar_hills": "Colline di Umbar",
-
+    "biome.lotr.field_of_cormallen": "NEW >>> Field of Cormallen",
     "entity.lotr.ring_portal": "Portale dell'Anello",
-
     "entity.lotr.hobbit": "Hobbit",
     "entity.lotr.mordor_orc": "Orco di Mordor",
     "entity.lotr.gondor_man": "Gondoriano",
@@ -1904,9 +1923,12 @@
     "entity.lotr.uruk_archer": "Arciere uruk",
     "entity.lotr.dwarf_archer": "Nano arciere",
     "entity.lotr.blue_mountains_archer": "Arciere dei Monti Azzurri",
-  
+    "entity.lotr.wood_elf": "NEW >>> Wood-elf",
+    "entity.lotr.wood_elf_warrior": "NEW >>> Wood-elf Warrior",
+    "entity.lotr.bree_man": "NEW >>> Bree-Man",
+    "entity.lotr.bree_hobbit": "NEW >>> Bree-hobbit",
+    "entity.lotr.bree_guard": "NEW >>> Bree-land Guard",
     "entity.lotr.caracal": "Caracal",
-
     "item.lotr.hobbit_spawn_egg": "Uovo generatore di hobbit",
     "item.lotr.mordor_orc_spawn_egg": "Uovo generatore di orco di Mordor",
     "item.lotr.gondor_man_spawn_egg": "Uovo generatore di gondoriano",
@@ -1947,29 +1969,28 @@
     "item.lotr.uruk_archer_spawn_egg": "Uovo generatore di arciere uruk",
     "item.lotr.dwarf_archer_spawn_egg": "Uovo generatore di nano arciere",
     "item.lotr.blue_mountains_archer_spawn_egg": "Uovo generatore di arciere dei Monti Azzurri",
-  
+    "item.lotr.wood_elf_spawn_egg": "NEW >>> Wood-elf Spawn Egg",
+    "item.lotr.wood_elf_warrior_spawn_egg": "NEW >>> Wood-elf Warrior Spawn Egg",
+    "item.lotr.bree_man_spawn_egg": "NEW >>> Bree-Man Spawn Egg",
+    "item.lotr.bree_hobbit_spawn_egg": "NEW >>> Bree-hobbit Spawn Egg",
+    "item.lotr.bree_guard_spawn_egg": "NEW >>> Bree-land Guard Spawn Egg",
     "item.lotr.caracal_spawn_egg": "Uovo generatore di caracal",
-
     "entityname.lotr.generic": "%s, il %s",
     "entityname.lotr.gondor_man": "%s di Gondor",
     "entityname.lotr.rohan_man": "%s dei Rohirrim",
     "entityname.lotr.dale_man": "%s di Dale",
     "entityname.lotr.harnedhrim": "%s dell'Harnennor",
     "entityname.lotr.umbar_man": "%s di Umbar",
-
     "attribute.name.lotr.npc.ranged_inaccuracy": "Inaccuratezza a distanza NPC",
     "attribute.name.lotr.npc.mount_attack_speed": "Velocità di attacco cavalcatura NPC",
     "attribute.name.lotr.npc.conversation_range": "Raggio di conversazione NPC",
-    
     "lotr.date.shire.short": "C.C.",
     "lotr.date.shire.long": "Calendario della Contea",
-
     "lotr.date.shire.format.weekdayOfMonth": "%s %d %s",
     "lotr.date.shire.format.weekdayOfSingleDayMonth": "%s %s",
     "lotr.date.shire.format.singleDayMonth": "%s",
     "lotr.date.shire.format.year": "%s %d",
     "lotr.date.shire.format.dateAndYear": "%s, %s",
-
     "lotr.date.shire.day.sterday": "Sterday (Sabato)",
     "lotr.date.shire.day.sunday": "Sunday (Domenica)",
     "lotr.date.shire.day.monday": "Monday (Lunedì)",
@@ -1977,7 +1998,6 @@
     "lotr.date.shire.day.hevensday": "Hevensday (Mercoledì)",
     "lotr.date.shire.day.mersday": "Mersday (Giovedì)",
     "lotr.date.shire.day.highday": "Highday (Venerdì)",
-
     "lotr.date.shire.month.yule2": "Secondo Capodanno",
     "lotr.date.shire.month.afteryule": "Postapritore",
     "lotr.date.shire.month.solmath": "Solfeggiante",
@@ -1996,33 +2016,27 @@
     "lotr.date.shire.month.blotmath": "Taglieraio",
     "lotr.date.shire.month.foreyule": "Anteapritore",
     "lotr.date.shire.month.yule1": "Primo Capodanno",
-
     "gui.lotr.time.hours": "%dh",
     "gui.lotr.time.minutes": "%dm",
     "gui.lotr.time.seconds": "%ds",
     "gui.lotr.time.format.hms": "%s %s %s",
     "gui.lotr.time.format.ms": "%s %s",
     "gui.lotr.time.format.s": "%s",
-
-    "gui.lotr.worldTypeHelp.title": "Benvenuto nella mod §oIl Signore Degli anelli§r! Se è la prima volta che giochi, ecco come raggiungere la Terra di Mezzo...",
+    "gui.lotr.worldTypeHelp.title": "CHANGE Benvenuto nella mod §oIl Signore Degli anelli§r! Se è la prima volta che giochi, ecco come raggiungere la Terra di Mezzo... >>> Welcome to §oThe Lord of the Rings Mod§r! If this is your first time playing, here's how to get to Middle-earth...",
     "gui.lotr.worldTypeHelp.normal": "Seleziona il tipo di mondo “%s” per iniziare nel normale mondo di §oMinecraft§r , dove potrai creare un portale per la Terra di Mezzo gettando un anello d'oro nel fuoco.",
     "gui.lotr.worldTypeHelp.me": "In alternativa, seleziona il tipo di mondo “%s” per iniziare direttamente nella Terra di Mezzo.",
     "gui.lotr.worldTypeHelp.selected.1": "Selezionato il tipo di mondo “%s”.",
     "gui.lotr.worldTypeHelp.selected.2": "(Puo essere cambiato in “%s”)",
     "gui.lotr.worldTypeHelp.dismiss": "Chiudi",
-
     "generator.lotr.me": "Terra di Mezzo",
     "generator.lotr.me.info": "Nasci direttamente nella Terra di Mezzo",
     "generator.lotr.me_classic": "TdM Classica",
     "generator.lotr.me_classic.info": "Nasci direttamente nella Terra di Mezzo con la generazione casuale dei biomi",
-
     "gui.lotr.compass.coords": "%d, %d, %d",
-
     "gui.lotr.menu": "Menu della %s",
     "gui.lotr.menu.return": "Menu",
     "gui.lotr.menu.map": "Mappa",
     "gui.lotr.menu.factions": "Fazioni",
-
     "gui.lotr.map.title": "Mappa %s",
     "gui.lotr.map.title.middle_earth": "della Terra di Mezzo",
     "gui.lotr.map.coords": "x: %d, z: %d",
@@ -2040,6 +2054,7 @@
     "gui.lotr.map.widget.zoomOut.fine": "Riduci leggermente",
     "gui.lotr.map.widget.zoomIn.quick": "Ingrandisci rapidamente",
     "gui.lotr.map.widget.zoomOut.quick": "Riduci rapidamente",
+    "gui.lotr.map.widget.recentre": "NEW >>> Recenter on player",
     "gui.lotr.map.widget.fullScreen": "Schermo intero",
     "gui.lotr.map.widget.sepia": "Seppia",
     "gui.lotr.map.widget.labels": "Etichette",
@@ -2057,11 +2072,9 @@
     "gui.lotr.map.areaOfInfluence.full": "Area ad allineamento pieno",
     "gui.lotr.map.areaOfInfluence.reduced": "Area ad allineamento ridotto",
     "gui.lotr.map.waypoint.adopted.owner": "Adottato da %s",
-
     "gui.lotr.alignment.decimal_separator_char": ",",
     "gui.lotr.alignment.group_separator_char": ".",
     "gui.lotr.alignment.limits": "%s (%s)",
-
     "gui.lotr.factions.title": "Fazioni %s",
     "gui.lotr.factions.title.otherPlayer": "Visualizzando gli allineamenti di %s",
     "gui.lotr.factions.page.overview": "Panoramica",
@@ -2108,15 +2121,12 @@
     "gui.lotr.factions.pledgeLocked": "Non puoi guadagnare allineamento oltre %1$s a causa del tuo giuramento a %2$s",
     "gui.lotr.factions.civilianKills.yes": "Questa fazione incoraggia i crimini di guerra (l'uccisione di civili pacifici nemici)",
     "gui.lotr.factions.civilianKills.no": "Questa fazione non incoraggia i crimini di guerra (l'uccisione di civili pacifici nemici)",
-
     "gui.lotr.message.dismiss": "Chiudi",
     "gui.lotr.message.notDisplayedAgain": "Questo messaggio non verrà più mostrato",
     "gui.lotr.message.friendly_fire": "Sembra che tu stia cercando di attaccare un NPC alleato!\n\nCon l'opzione “Fuoco amico” disabilitata non puoi attaccare NPC alleati, il che ti impedisce di danneggiarli accidentalmente. Per abilitare il fuoco amico apri il Menu della Terra di Mezzo e vai su Fazioni.",
     "gui.lotr.message.align_drain": "Quando vedi questa icona:\n\n\n\nstai perdendo allineamento con una o più fazioni perché hai allineamento positivo (+) con un loro nemico mortale.\nTieni d'occhio gli allineamenti!",
-
     "gui.lotr.fasttravel.travel": "Viaggio rapido verso %s",
     "gui.lotr.fasttravel.skip": "Premi '%s' per saltare",
-
     "gui.lotr.cwp.create.title": "Crea waypoint personalizzato",
     "gui.lotr.cwp.create.name": "Nome:",
     "gui.lotr.cwp.create.lore": "Storia:",
@@ -2151,14 +2161,12 @@
     "gui.lotr.cwp.forsake.warning.2": "Non sarai piu in grado di viaggiare velocemente verso di esso e qualsiasi riduzione del tempo di attesa andrà persa.",
     "gui.lotr.cwp.forsake.do": "Conferma abbandono",
     "gui.lotr.cwp.forsake.cancel": "Annulla",
-
     "waypoint.lotr.himling": "Himling",
     "waypoint.lotr.himling.lore": "Il picco della collina di Himring, sprofondata quasi del tutto dopo la Guerra d'Ira.",
     "waypoint.lotr.tol_fuin": "Tol Fuin",
     "waypoint.lotr.tol_fuin.lore": "Gli altopiani di Taur-nu-Fuin, la Foresta sotto la Notte, sopravvissuti allo sprofondamento del Beleriand.",
     "waypoint.lotr.tol_morwen": "Tol Morwen",
     "waypoint.lotr.tol_morwen.lore": "Una collina solitaria risparmiata dallo sprofondamento del Beleriand, sulla quale giace la tomba di Morwen madre di Túrin Turambar.",
-
     "waypoint.lotr.hobbiton": "Hobbiton",
     "waypoint.lotr.hobbiton.lore": "Una cittadina Hobbit al centro della Contea, sovrastata dalla Collina di Casa Baggins.",
     "waypoint.lotr.brandywine_bridge": "Ponte sul Brandivino",
@@ -2211,10 +2219,8 @@
     "waypoint.lotr.hay_gate.lore": "La sorvegliata Porta Nord nella Siepe della Terra di Buck.",
     "waypoint.lotr.greenholm": "Verdolmo",
     "waypoint.lotr.greenholm.lore": "Una piccola cittadina sui Colli Remoti al confine occidentale della Contea.",
-
     "waypoint.lotr.withywindle_valley": "Valle del Sinuosalice",
     "waypoint.lotr.withywindle_valley.lore": "Una valle strana e spettrale in cui il Sinuosalice attraversa la Vecchia Foresta.",
-
     "waypoint.lotr.forlond": "Forlond",
     "waypoint.lotr.forlond.lore": "Una città portuale degli Elfi sulla sponda settentrionale del Golfo di Lune.",
     "waypoint.lotr.harlond": "Harlond",
@@ -2227,7 +2233,6 @@
     "waypoint.lotr.elostirion.lore": "La più alta delle Torri Bianche costruita per Elendil da Gil-galad, si dice che ospiti una delle Pietre Veggenti di Arnor.",
     "waypoint.lotr.amon_ereb": "Amon Ereb",
     "waypoint.lotr.amon_ereb.lore": "Un'antica collina del Lindon che, molto tempo fa, nei Giorni Antichi, era un punto di osservazione di grande importanza.",
-
     "waypoint.lotr.belegost": "Belegost",
     "waypoint.lotr.belegost.lore": "Un'antica città nanica dei Monti Azzurri, risalente ai Giorni Antichi. Fu distrutta dopo la Guerra d'Ira, ma in seguito parzialmente rioccupata.",
     "waypoint.lotr.nogrod": "Nogrod",
@@ -2242,7 +2247,6 @@
     "waypoint.lotr.arveduis_mines.lore": "Miniere abbandonate dei Monti Azzurri. L'ultimo Re di Arnor e la sua compagnia si sono nascosti qui per sfuggire alla minaccia di Angmar.",
     "waypoint.lotr.thrains_halls": "Aule di Thráin",
     "waypoint.lotr.thrains_halls.lore": "Un insediamento nanico fondato da Thráin e dagli esuli della Montagna Solitaria, con molte vecchie miniere ancora oggi in uso.",
-
     "waypoint.lotr.north_downs": "Lande del Nord",
     "waypoint.lotr.north_downs.lore": "Una catena di colline nell'Eriador settentrionale con l'antica città di Fornost Erain alla loro estremità sudoccidentale.",
     "waypoint.lotr.south_downs": "Lande del Sud",
@@ -2255,7 +2259,6 @@
     "waypoint.lotr.annuminas.lore": "La vecchia capitale di Arnor, il Regno del Nord, prima che fosse abbandonata in favore di Fornost Erain.",
     "waypoint.lotr.greenway_crossroads": "Bivio del Verdecammino",
     "waypoint.lotr.greenway_crossroads.lore": "L'incrocio tra le grandi vie Est-Ovest e Nord-Sud.",
-
     "waypoint.lotr.bree": "Brea",
     "waypoint.lotr.bree.lore": "Il capoluogo della Terra di Brea, nota per i suoi allegri uomini e hobbit.",
     "waypoint.lotr.staddle": "Staddle",
@@ -2266,30 +2269,24 @@
     "waypoint.lotr.archet.lore": "Una cittadina del popolo di Brea ai margini di Bosco Cet caratterizzata da un vivace commercio di legname.",
     "waypoint.lotr.forsaken_inn": "La Locanda Abbandonata",
     "waypoint.lotr.forsaken_inn.lore": "Un giorno di viaggio a Est di Brea, questa locanda solitaria è l'ultimo insediamento umano prima delle terre selvagge.",
-
     "waypoint.lotr.weathertop": "Colle Vento",
     "waypoint.lotr.weathertop.lore": "La torre di guardia in rovina di Amon Sûl. Anticamente ospitava una delle grandi Pietre Veggenti di Arnor.",
     "waypoint.lotr.last_bridge": "L'Ultimo Ponte",
     "waypoint.lotr.last_bridge.lore": "L'ultimo ponte lungo la Grande Via Orientale prima delle Montagne Nebbiose.",
     "waypoint.lotr.old_elven_way": "Antica Via Elfica",
     "waypoint.lotr.old_elven_way.lore": "Un'antica strada un tempo percorsa dagli Elfi dell'Eregion.",
-
     "waypoint.lotr.rivendell": "Granburrone",
     "waypoint.lotr.rivendell.lore": "La valle nascosta di Imladris, in cui Re Elrond dimora con il suo popolo nell'Ultima Casa Accogliente a Est del Mare.",
     "waypoint.lotr.ford_of_bruinen": "Guado del Bruinen",
     "waypoint.lotr.ford_of_bruinen.lore": "Un basso guado che attraversa il Rombirivo verso il reame di Granburrone.",
-
     "waypoint.lotr.trolls_cave": "Caverna dei Troll",
     "waypoint.lotr.trolls_cave.lore": "Il covo da tempo abbandonato di tre famigerati Troll che hanno incontrato la loro fine molti anni fa.",
-
     "waypoint.lotr.carn_dum": "Carn Dûm",
     "waypoint.lotr.carn_dum.lore": "La capitale dell'antico Regno di Angmar.",
-
     "waypoint.lotr.west_gate": "Porta Ovest",
     "waypoint.lotr.west_gate.lore": "La porta occidentale di Khazad-dûm, oggi chiamata Moria: le sue grandi miniere e antiche dimore dei Nani del Popolo di Durin sono una meraviglia del mondo settentrionale.",
     "waypoint.lotr.ost_in_edhil": "Ost-in-Edhil",
     "waypoint.lotr.ost_in_edhil.lore": "La città distrutta degli Elfi dell'Eregion.",
-
     "waypoint.lotr.duneard": "Duneard",
     "waypoint.lotr.duneard.lore": "Un villaggio di pastori e cacciatori nella parte settentrionale di Dunland",
     "waypoint.lotr.firwold": "Firwold",
@@ -2300,25 +2297,20 @@
     "waypoint.lotr.dwarrowvale.lore": "Un villaggio Dunlandiano sviluppatosi intorno ai resti di un antico borgo che, si dice, un tempo ospitò Thráin and Thorin Scudodiquercia durante i loro lunghi vagabondaggi nelle terre selvagge.",
     "waypoint.lotr.wulfburg": "Wulfburg",
     "waypoint.lotr.wulfburg.lore": "Un tempo fortezza del figlio di Freca, l'autoproclamato “Re” Wulf che conquistò Meduseld per Dunland durante il regno di Helm Mandimartello.",
-
     "waypoint.lotr.lond_daer": "Lond Daer",
     "waypoint.lotr.lond_daer.lore": "Le antiche rovine del primo porto Númenóreano nella Terra di Mezzo.",
     "waypoint.lotr.old_south_road": "Antica Via del Sud",
     "waypoint.lotr.old_south_road.lore": "Con il regno del Nord caduto da tempo e il potere del regno del Sud in declino, questi tratti dell'antica Strada Reale sono da tempo caduti in rovina.",
     "waypoint.lotr.mouths_of_isen": "Foce dell'Isen",
     "waypoint.lotr.mouths_of_isen.lore": "Qui il fiume Isen sfocia nel Mare dopo il suo lungo corso attraverso lo scarsamente abitato Enedwaith.",
-
     "waypoint.lotr.isengard": "Isengard",
     "waypoint.lotr.isengard.lore": "Un grande anello di pietra fortificato all'interno di una valle delle Montagne Nebbiose, in cui si erge la torre di Orthanc, roccaforte di Saruman.",
-
     "waypoint.lotr.cape_of_forochel": "Capo di Forochel",
     "waypoint.lotr.cape_of_forochel.lore": "I pericolosi banchi della Baia Glaciale, dove solo gli Uomini delle Nevi di Forochel osano vagare.",
     "waypoint.lotr.south_forochel": "Forochel del Sud",
     "waypoint.lotr.south_forochel.lore": "Uno dei pochi insediamenti permanenti dei Lossoth tra le distese di ghiaccio.",
-
     "waypoint.lotr.withered_heath": "Brughiera Arida",
     "waypoint.lotr.withered_heath.lore": "Una valle bruciata nei Monti Grigi dove si dice si nascondano gli ultimi Draghi di Fuoco.",
-
     "waypoint.lotr.mount_gundabad": "Monte Gundabad",
     "waypoint.lotr.mount_gundabad.lore": "La montagna sotto la quale Durin il Senzamorte si risvegliò nei Giorni Antichi, luogo sacro dei Nani prima di essere invaso dagli Orchi.",
     "waypoint.lotr.mount_gram": "Monte Gram",
@@ -2337,12 +2329,10 @@
     "waypoint.lotr.goblin_town.lore": "Un labirinto di tunnel e caverne intrecciate sotto l'Alto Passo, dove gli Orchi si agitano e raschiano nel buio.",
     "waypoint.lotr.eagles_eyrie": "Nido delle Aquile",
     "waypoint.lotr.eagles_eyrie.lore": "Una grande piattaforma rocciosa sul lato orientale delle Montagne Nebbiose che può essere raggiunta solo in volo. Vi risiedono le Aquile di Manwë.",
-
     "waypoint.lotr.dains_halls": "Aule di Dáin",
     "waypoint.lotr.dains_halls.lore": "Una colonia del Popolo di Durin nei Monti Grigi, abbandonata dopo che Dáin fu ucciso da un Drago Freddo.",
     "waypoint.lotr.scathas_lair": "Tana di Scatha",
     "waypoint.lotr.scathas_lair.lore": "Un tempo la tana di Scatha, un grande Verme Lungo, prima che venisse ucciso da Fram, re degli Éothéod.",
-
     "waypoint.lotr.carrock": "Carroccia",
     "waypoint.lotr.carrock.lore": "Un imponente pilastro di roccia nel mezzo del Grande Fiume. Un tempo si diceva che, nelle notti limpide, si potesse vedere un grande orso arrampicarsi sulla roccia per guardare la Luna.",
     "waypoint.lotr.old_ford": "Vecchio Guado",
@@ -2359,17 +2349,14 @@
     "waypoint.lotr.forest_gate.lore": "Un tempo l'entrata del reame degli Elfi Silvani di Boscoverde il Grande, l'ingresso di Bosco Atro è ora contaminato dai servi del Nemico.",
     "waypoint.lotr.framsburg": "Framsburg",
     "waypoint.lotr.framsburg.lore": "La città in rovina degli Éothéod, gli Uomini del Nord antenati dei Rohirrim.",
-
     "waypoint.lotr.thranduils_halls": "Sale di Thranduil",
     "waypoint.lotr.thranduils_halls.lore": "Le sale sotterranee di Thranduil il Re degli Elfi Silvani. Si dice che ricordino la gloria di Menegroth dei tempi antichi.",
-
     "waypoint.lotr.dol_guldur": "Dol Guldur",
     "waypoint.lotr.dol_guldur.lore": "La Collina della Stregoneria: l'antro fortezza del Necromante prima che fuggisse verso Est, ora abitata da Khamûl l'Easterling e i suoi corrotti servitori.",
     "waypoint.lotr.rhosgobel": "Rhosgobel",
     "waypoint.lotr.rhosgobel.lore": "La dimora di Radagast il Bruno, ospita molti uccelli e bestie ed è un rifugio sicuro in mezzo alla corruzione di Bosco Atro.",
     "waypoint.lotr.enchanted_river": "Fiume Incantato",
     "waypoint.lotr.enchanted_river.lore": "Qui il Sentiero degli Elfi attraversa un un cupo fiume nero. Si consiglia di evitare queste acque, poiché chi le tocca cade in un lungo sonno profondo...",
-
     "waypoint.lotr.river_gate": "Cancello del Fiume",
     "waypoint.lotr.river_gate.lore": "Un avamposto degli Elfi Silvani alla fine della Antica Via Silvana, nel luogo in cui incontra il fiume Fluente.",
     "waypoint.lotr.east_bight": "Ansa Orientale",
@@ -2378,7 +2365,6 @@
     "waypoint.lotr.old_rhovanion.lore": "Molto tempo fa queste terre erano controllate dal grande regno umano del Rhovanion, di cui oggi restano soltanto le rovine.",
     "waypoint.lotr.dorwinion_crossroads": "Crocevia del Dorwinion",
     "waypoint.lotr.dorwinion_crossroads.lore": "L'incrocio tra le grandi strade di Dale e del Dorwinion.",
-
     "waypoint.lotr.erebor": "Erebor",
     "waypoint.lotr.erebor.lore": "La Montagna Solitaria. Al suo interno si trova il Regno sotto la Montagna, uno dei reami del Popolo di Durin.",
     "waypoint.lotr.dale": "Dale",
@@ -2393,26 +2379,22 @@
     "waypoint.lotr.great_dalish_crossroads.lore": "Il punto di incontro tra diverse importanti strade di Dale, le terre intorno a questo crocevia ospitano numerose gilde e fiorenti mercati.",
     "waypoint.lotr.bardhaven": "Approdo di Bard",
     "waypoint.lotr.bardhaven.lore": "Il porto meridionale del Regno di Dale e un punto importante sulle rotte commerciali con il Dorwinion.",
-
     "waypoint.lotr.west_peak": "Picco Ovest",
     "waypoint.lotr.west_peak.lore": "La più vicina delle due grandi vette dei Colli Ferrosi. Sotto di essa si trovano le Aule di Dáin Piediferro.",
     "waypoint.lotr.east_peak": "Picco Est",
     "waypoint.lotr.east_peak.lore": "Una grande montagna all'estremità orientale dei Colli Ferrosi.",
-
     "waypoint.lotr.caras_galadhon": "Caras Galadhon",
     "waypoint.lotr.caras_galadhon.lore": "La città dei Galadhrim di Lothlórien, il cuore del regno degli Elfi sulla terra.",
     "waypoint.lotr.cerin_amroth": "Cerin Amroth",
     "waypoint.lotr.cerin_amroth.lore": "Una grande collina verde al centro di Lothlórien da dove si dice si riesca vedere fino a Bosco Atro meridionale.",
     "waypoint.lotr.house_of_nimrodel": "Casa di Nimrodel",
     "waypoint.lotr.house_of_nimrodel.lore": "La casa che appartenne alla fanciulla elfica Nimrodel, scomparsa per il dolore dopo che la tanto amata Amroth sprofondò nei Mari Separanti.",
-
     "waypoint.lotr.derndingle": "Derndingle",
     "waypoint.lotr.derndingle.lore": "Un luogo di incontro per gli Ent di Fangorn, situato in una radura nascosta.",
     "waypoint.lotr.wellinghall": "Wellinghall",
     "waypoint.lotr.wellinghall.lore": "Una delle case Ent di Barbalbero incastonata tra gli speroni del Monte Methedras.",
     "waypoint.lotr.treebeards_hill": "Collina di Barbalbero",
     "waypoint.lotr.treebeards_hill.lore": "Una piattaforma rocciosa, sovrastante gli alberi della Foresta di Fangorn, da cui poter contemplare la luce del sole sulle foglie e il vento tra i loro rami.",
-
     "waypoint.lotr.woldhall": "Woldhall",
     "waypoint.lotr.woldhall.lore": "Una piccola città negli altopiani scarsamente abitati di Rohan.",
     "waypoint.lotr.edoras": "Edoras",
@@ -2433,14 +2415,12 @@
     "waypoint.lotr.corsairs_landing.lore": "Ai tempi di Helm Mandimartello, una flotta dei Sudroni sbarcò in questo luogo e combatté al fianco dei Dunlandiani per sconfiggere gli Uomini di Rohan.",
     "waypoint.lotr.frecas_hold": "Forte di Freca",
     "waypoint.lotr.frecas_hold.lore": "Il vecchio forte eretto dall'incurante Signore Freca, che governava le terre attorno al fiume Adorn, e che si diceva fosse parzialmente Dunlandiano.",
-
     "waypoint.lotr.dunharrow": "Dunclivio",
     "waypoint.lotr.dunharrow.lore": "Un rifugio fortificato dei Rohirrim sotto il Dwimorberg, la Montagna Infestata. Si dice che nesuno dei vivi possa attraversare i Sentieri dei Morti.",
     "waypoint.lotr.tarlangs_neck": "Collo di Tarlang",
     "waypoint.lotr.tarlangs_neck.lore": "Gli uomini raccontano che in questo luogo sia caduto un gigante e si sia rotto il collo, formando il passo montano tra la valle del Morthond e il Lamedon.",
     "waypoint.lotr.ras_morthil": "Ras Morthil",
     "waypoint.lotr.ras_morthil.lore": "L'ultima vetta del promontorio dei Monti Bianchi occidentali. Gli uomini di Anfalas dicono che i selvaggi uomini Púkel resistano ancora in queste terre.",
-
     "waypoint.lotr.minas_tirith": "Minas Tirith",
     "waypoint.lotr.minas_tirith.lore": "La grande Torre di Guardia, capitale del regno di Gondor, costruita su sette livelli di pura pietra bianca con la luminosa Torre di Ecthelion sulla sua sommità.",
     "waypoint.lotr.cair_andros": "Cair Andros",
@@ -2461,7 +2441,6 @@
     "waypoint.lotr.amon_din.lore": "La Collina Solitaria è il faro più vicino a Minas Tirith. Affacciata sull'Ithilien settentrionale, funge da avamposto fortificato per la Città Bianca.",
     "waypoint.lotr.west_osgiliath": "Osgiliath Ovest",
     "waypoint.lotr.west_osgiliath.lore": "La fatiscente metà occidentale della precedente capitale di Gondor. Alcune guarnigioni sono stanziate quì per mantenere l'Anduin sotto il controllo gondoriano.",
-
     "waypoint.lotr.east_osgiliath": "Osgiliath Est",
     "waypoint.lotr.east_osgiliath.lore": "La metà orientale in rovina della precedente capitale di Gondor, ora spesso sede di scontri tra Gondoriani e Orchi.",
     "waypoint.lotr.emyn_arnen": "Emyn Arnen",
@@ -2472,55 +2451,44 @@
     "waypoint.lotr.crossroads_of_the_fallen_king.lore": "Questo crocevia abbandonato un tempo ospitava la maestosa statua di un Re, che, sebbene ora in rovina, indossa ancora un coronale d'argento e d'oro.",
     "waypoint.lotr.crossings_of_poros": "Guadi del Poros",
     "waypoint.lotr.crossings_of_poros.lore": "Il punto di passaggio verso l'Harondor attraverso il fiume Poros. Poco più a Nord si trova un grande tumulo, in cui riposano i principi gemelli figli del Re Folcwine di Rohan.",
-
     "waypoint.lotr.pelargir": "Pelargir",
     "waypoint.lotr.pelargir.lore": "Il grande approdo reale dei Re Navigatori: il porto principale di Gondor.",
     "waypoint.lotr.linhir": "Linhir",
     "waypoint.lotr.linhir.lore": "Una città fluviale nel Sud di Gondor lungo la strada da Pelargir ad Ethring.",
     "waypoint.lotr.ethir_anduin": "Ethir Anduin",
     "waypoint.lotr.ethir_anduin.lore": "Le Foci dell'Anduin, dimora dei poveri pescatori di Gondor.",
-
     "waypoint.lotr.imloth_melui": "Imloth Melui",
     "waypoint.lotr.imloth_melui.lore": "La dolce Valle delle Rose nel Lossarnach.",
     "waypoint.lotr.crossings_of_erui": "Guadi dell'Erui",
     "waypoint.lotr.crossings_of_erui.lore": "I guadi del fiume Erui nel Lossarnach. Un tempo molti gondoriani perirono in questo luogo durante la Guerra delle Stirpi.",
-
     "waypoint.lotr.calembel": "Calembel",
     "waypoint.lotr.calembel.lore": "Una piccola città con pochi abitanti nel Lamedon, vicino ai guadi del fiume Ciril.",
     "waypoint.lotr.ethring": "Ethring",
     "waypoint.lotr.ethring.lore": "Un grande ponte nella Valle del Ringló sulla strada tra Pelargir e l'Erech.",
-
     "waypoint.lotr.erech": "Erech",
     "waypoint.lotr.erech.lore": "Una grande collina ripida, ritenuta infestata e famosa per la misteriosa pietra nera che si erge sulla cima.",
-
     "waypoint.lotr.hirluins_halls": "Aule di Hirluin",
     "waypoint.lotr.hirluins_halls.lore": "La sede di Hirluin il Bello, signore delle meravigliose Verdi Colline di Gondor.",
-
     "waypoint.lotr.dol_amroth": "Dol Amroth",
     "waypoint.lotr.dol_amroth.lore": "La possente città fortificata sulle coste di Belfalas, governata dal Principe di Dol Amroth, un vassallo di Gondor.",
     "waypoint.lotr.edhellond": "Edhellond",
     "waypoint.lotr.edhellond.lore": "Un antico porto dei Sindar nel sud di Gondor. Gli elfi che un tempo risiedevano pressso questi approdi sono salpati verso Ovest molto tempo fa.",
     "waypoint.lotr.tarnost": "Tarnost",
     "waypoint.lotr.tarnost.lore": "Una città di Gondor costruita nei tempi antichi da Elfi che sono salpati da tempo verso Ovest.",
-
     "waypoint.lotr.tolfalas": "Tolfalas",
     "waypoint.lotr.tolfalas.lore": "Una tetra isola abbandonata nella Baia di Belfalas.",
-
     "waypoint.lotr.amon_hen": "Amon Hen",
     "waypoint.lotr.amon_hen.lore": "Il Colle della Vista, un'antica sede di potere gondoriano.",
     "waypoint.lotr.amon_lhaw": "Amon Lhaw",
     "waypoint.lotr.amon_lhaw.lore": "Il Colle dell'Udito, un'antica sede di potere gondoriano.",
     "waypoint.lotr.argonath": "Argonath",
     "waypoint.lotr.argonath.lore": "Le Colonne dei Re: due colossali statue di Isildur e Anárion sulle sponde dell'Anduin, che sorvegliano quello che era un tempo il confine settentrionale di Gondor.",
-
     "waypoint.lotr.north_undeep": "Undeep Nord",
     "waypoint.lotr.north_undeep.lore": "La più a nord delle due curve ad ovest nel Grande Fiume Anduin. I guadi poco profondi degli Undeep venivano spesso usati dagli eserciti come punto di attraversamento.",
     "waypoint.lotr.south_undeep": "Undeep Sud",
     "waypoint.lotr.south_undeep.lore": "La più a sud delle due curve ad ovest nel Grande Fiume Anduin. I guadi poco profondi degli Undeep venivano spesso usati dagli eserciti come punto di attraversamento.",
-
     "waypoint.lotr.black_gate": "Nero Cancello",
     "waypoint.lotr.black_gate.lore": "I grandi cancelli di Mordor, in acciaio intrecciato e pietra scura. Nessuno li attraversa a meno che l'Occhio della Torre Oscura lo desideri.",
-
     "waypoint.lotr.mount_doom": "Monte Fato",
     "waypoint.lotr.mount_doom.lore": "L'Orodruin, la grande Montagna di Fuoco nel cuore di Mordor, nelle cui profondità forgiò l'Unico Anello molto tempo fa.",
     "waypoint.lotr.barad_dur": "Barad-dûr",
@@ -2545,7 +2513,6 @@
     "waypoint.lotr.vale_of_the_fell_beasts.lore": "Un'oscura valle dietro le mura di Mordor infestata da bestie corrotte e creature malvagie.",
     "waypoint.lotr.eastern_guard": "Guardia Orientale",
     "waypoint.lotr.eastern_guard.lore": "Una fortezza che sorveglia la strada verso Mordor da Rhûn.",
-
     "waypoint.lotr.fornurnen": "Fornurnen",
     "waypoint.lotr.fornurnen.lore": "Le desolate sponde settentrionali del Mare di Núrnen.",
     "waypoint.lotr.harnurnen": "Harnurnen",
@@ -2556,10 +2523,8 @@
     "waypoint.lotr.rhunurnen.lore": "Le cupe sponde orientali del Mare di Núrnen.",
     "waypoint.lotr.thorband": "Thorband",
     "waypoint.lotr.thorband.lore": "Una terribile prigione-fortezza di Mordor sulle rive di Núrnen.",
-
     "waypoint.lotr.valley_of_spiders": "Valle dei Ragni",
     "waypoint.lotr.valley_of_spiders.lore": "Un angolo tetro e oscuro di Mordor, infestato dalla progenie di Ungoliant.",
-
     "waypoint.lotr.mirulond": "Mirulond",
     "waypoint.lotr.mirulond.lore": "Gli Approdi del Vino sul Celduin, dove gli elfi Avari del Dorwinion ricevono spedizioni dai loro simili del Reame Boscoso.",
     "waypoint.lotr.vintner_court": "Corte dei Vinai",
@@ -2568,10 +2533,8 @@
     "waypoint.lotr.golden_ford.lore": "Un punto di attraversamento dal Dorwinion nelle terre di Rhúdel.",
     "waypoint.lotr.amon_gwin": "Amon Gwîn",
     "waypoint.lotr.amon_gwin.lore": "Un'alta vetta tra le colline del Dorwinion.",
-
     "waypoint.lotr.crossings_of_harnen": "Guadi dell'Harnen",
     "waypoint.lotr.crossings_of_harnen.lore": "Questo fiume segna il confine della terra contesa di Harondor. Da qui, la via prosegue verso Sud nelle vaste Terre del Sole dell'Haradwaith.",
-
     "waypoint.lotr.belkadar": "Bêlkadar",
     "waypoint.lotr.belkadar.lore": "Nel luogo in cui il possente fiume Harnen incontra la Baia di Belfalas si erge la più grande roccaforte degli harnedhrim, un punto di raduno contro i loro nemici a Nord.",
     "waypoint.lotr.an_batina": "An-batîna",
@@ -2582,7 +2545,6 @@
     "waypoint.lotr.crossings_of_lithnen.lore": "I guadi sul fiume Lithnen verso le terre orientali. Spesso nei secoli passati queste acque vennero tinte di rosso dalle spade conquistatrici di Gondor.",
     "waypoint.lotr.ninzadin": "Ninzadîn",
     "waypoint.lotr.ninzadin.lore": "Un insediamento dei Sudroni sul fiume Harnen. Qui sorge una torre raccapricciante decorata con i teschi degli Uomini del Nord caduti in battaglia.",
-
     "waypoint.lotr.gath_azrazain": "Gâth-azrazâin",
     "waypoint.lotr.gath_azrazain.lore": "Un'antica fortezza Númenóreana costruita per sorvegliare le coste. È caduta molto tempo fa nelle mani degli Haradrim.",
     "waypoint.lotr.gate_of_fuinur": "Anât an-Phôinûr",
@@ -2593,17 +2555,14 @@
     "waypoint.lotr.ajtiaz_an_ahar.lore": "Una delle grandi città dei Sudroni, i cui famosi mercati brulicano di commercianti e merci provenienti dalle lontane terre dell'Harad e di Rhûn.",
     "waypoint.lotr.gardens_of_beruthiel": "Giardini di Barûphel",
     "waypoint.lotr.gardens_of_beruthiel.lore": "I meravigliosi giardini pensili dell'Harad. Si dice che siano stati costruiti molto tempo fa da un geloso condottiero Sudrone, uno dei tanti amanti della famigerata Regina Berúthiel.",
-
     "waypoint.lotr.umbar": "Umbar",
     "waypoint.lotr.umbar.lore": "La fiera città dei Númenóreani Neri e dei Corsari, la più vicina ai grandi reami dell'Harad, con una lunga e brutale storia di conflitti contro Gondor.",
     "waypoint.lotr.gate_of_umbar": "Cancelli di Umbar",
     "waypoint.lotr.gate_of_umbar.lore": "Il sottopassaggio verso i feudi di Umbar.",
     "waypoint.lotr.gate_of_herumor": "Anât an-Khôrumor",
     "waypoint.lotr.gate_of_herumor.lore": "La grande fortezza che si dice sia stata costruita tanto tempo fa per ordine dello stesso Herumor, e che da allora sorveglia la Baia di Umbar.",
-
     "waypoint.lotr.ijdi_ilel": "Ijdi-ilel",
     "waypoint.lotr.ijdi_ilel.lore": "Un accampamento dei nomadi Sudroni, in cui viandanti del deserto di molte tribù vanno a commerciare e raccontano storie all'ombra dell'Emyn Lithnen.",
-
     "road.lotr.blue_mountains": "Strada dei Nani Azzurri",
     "road.lotr.nogrod_forlond": "Strada dei Nani Azzurri",
     "road.lotr.nogrod_mithlond": "Strada dei Nani Azzurri",
@@ -2652,7 +2611,6 @@
     "road.lotr.harad": "Via dell'Harad",
     "road.lotr.mordor_rhun_harad": "Strada Tributaria",
     "road.lotr.umbar": "Via di Umbar",
-
     "maplabel.lotr.belegaer": "Belegaer",
     "maplabel.lotr.belegaer_sub": "i Mari Separanti",
     "maplabel.lotr.north_moors": "Brughiere del Nord",
@@ -2680,15 +2638,12 @@
     "maplabel.lotr.near_harad": "Vicino Harad",
     "maplabel.lotr.lithnen": "Emyn Lithnen",
     "maplabel.lotr.khand": "Khand",
-
     "faction.lotr.unknown": "???",
     "faction.lotr.rank.neutral": "Straniero ~ Straniera",
     "faction.lotr.rank.enemy": "Nemico ~ Nemica",
-
     "factionregion.lotr.westlands": "Terre dell'Ovest",
     "factionregion.lotr.rhun": "Rhûn",
     "factionregion.lotr.harad": "Harad",
-
     "faction.lotr.hobbits": "Hobbit",
     "faction.lotr.hobbits.subtitle": "Il piccolo popolo della Contea",
     "faction.lotr.hobbits.rank.guest": "Ospite | Ospite degli Hobbit",
@@ -2698,7 +2653,6 @@
     "faction.lotr.hobbits.rank.shirriff": "Guardacontea",
     "faction.lotr.hobbits.rank.chief_shirriff": "Primo Guardacontea ~ Prima Guardacontea",
     "faction.lotr.hobbits.rank.thain": "Conte ~ Contessa | Conte della Contea ~ Contessa della Contea",
-
     "faction.lotr.bree": "Terra di Brea",
     "faction.lotr.bree.subtitle": "Il grande e piccolo popolo di Brea",
     "faction.lotr.bree.rank.guest": "Ospite | Ospite della Terra di Brea",
@@ -2708,7 +2662,6 @@
     "faction.lotr.bree.rank.champion": "Campione ~ Campionessa | Campione di Brea ~ Campionessa di Brea",
     "faction.lotr.bree.rank.captain": "Capitano ~ Capitana | Capitano di Brea ~ Capitana di Brea",
     "faction.lotr.bree.rank.master": "Signore ~ Signora | Signore di Brea ~ Signora di Brea",
-
     "faction.lotr.dunedain_north": "Dúnedain del Nord",
     "faction.lotr.dunedain_north.subtitle": "Gli sparpagliati resti della caduta Arnor",
     "faction.lotr.dunedain_north.rank.friend": "Amico ~ Amica | Amico dei Dúnedain ~ Amica dei Dúnedain",
@@ -2718,7 +2671,6 @@
     "faction.lotr.dunedain_north.rank.roquen": "Roquen | Roquen del Nord",
     "faction.lotr.dunedain_north.rank.champion": "Campione ~ Campionessa | Campione del Nord ~ Campionessa del Nord",
     "faction.lotr.dunedain_north.rank.captain": "Capitano ~ Capitana | Capitano del Nord ~ Capitana del Nord",
-
     "faction.lotr.blue_mountains": "Monti Azzurri",
     "faction.lotr.blue_mountains.subtitle": "I nani degli Ered Luin",
     "faction.lotr.blue_mountains.rank.guest": "Ospite | Ospite dei Monti Azzurri",
@@ -2729,7 +2681,6 @@
     "faction.lotr.blue_mountains.rank.captain": "Capitano ~ Capitana | Capitano dei Nani Azzurri ~ Capitana dei Nani Azzurri",
     "faction.lotr.blue_mountains.rank.noble": "Nobile | Nobile dei Nani Azzurri",
     "faction.lotr.blue_mountains.rank.lord": "Uzbad Khagal'abbadu ~ Uzbadûna Khagal'abbadu",
-
     "faction.lotr.high_elves": "Alti Elfi",
     "faction.lotr.high_elves.subtitle": "I Noldor e i Sindar del Lindon e di Imladris",
     "faction.lotr.high_elves.rank.guest": "Ospite | Ospite degli Alti Elfi",
@@ -2740,7 +2691,6 @@
     "faction.lotr.high_elves.rank.noble": "Arquen",
     "faction.lotr.high_elves.rank.commander": "Cáno Noldoron",
     "faction.lotr.high_elves.rank.lord": "Heru Noldoron ~ Heri Noldoron",
-
     "faction.lotr.northern_orcs": "Orchi del Nord",
     "faction.lotr.northern_orcs.subtitle": "Le brulicanti orde di orchi delle montagne",
     "faction.lotr.northern_orcs.rank.thrall": "Thrall | Thrall di montagna",
@@ -2750,7 +2700,6 @@
     "faction.lotr.northern_orcs.rank.scourge": "Flagello | Flagello del Gundabad",
     "faction.lotr.northern_orcs.rank.warlord": "Condottiero ~ Condottiera | Condottiero del Gundabad ~ Condottiera del Gundabad",
     "faction.lotr.northern_orcs.rank.chieftain": "Capoclan | Capoclan del Gundabad",
-
     "faction.lotr.angmar": "Angmar",
     "faction.lotr.angmar.subtitle": "I montanari del reame in rovina del Re Stregone",
     "faction.lotr.angmar.rank.thrall": "Thrall | Thrall di Angmar",
@@ -2760,7 +2709,6 @@
     "faction.lotr.angmar.rank.champion": "Campione ~ Campionessa | Campione di Angmar ~ Campionessa di Angmar",
     "faction.lotr.angmar.rank.warlord": "Condottiero ~ Condottiera | Condottiero di Angmar ~ Condottiera di Angmar",
     "faction.lotr.angmar.rank.chieftain": "Capoclan | Capoclan di Angmar",
-
     "faction.lotr.lossoth": "Lossoth",
     "faction.lotr.lossoth.subtitle": "Gli uomini delle nevi del Forochel",
     "faction.lotr.lossoth.rank.guest": "Ospite | Ospite dei Lossoth",
@@ -2770,7 +2718,6 @@
     "faction.lotr.lossoth.rank.headman": "Capovillaggio | Capovillaggio dei Lossoth",
     "faction.lotr.lossoth.rank.chieftain": "Capotribù | Capotribù dei Lossoth",
     "faction.lotr.lossoth.rank.snowchief": "Grande Capo Neve",
-
     "faction.lotr.woodland_realm": "Reame Boscoso",
     "faction.lotr.woodland_realm.subtitle": "Gli Elfi Silvani di Bosco Atro",
     "faction.lotr.woodland_realm.rank.guest": "Ospite | Ospite della Foresta",
@@ -2780,7 +2727,6 @@
     "faction.lotr.woodland_realm.rank.captain": "Capitano ~ Capitana | Capitano della Foresta ~ Capitana della Foresta",
     "faction.lotr.woodland_realm.rank.noble": "Arphen Eryn",
     "faction.lotr.woodland_realm.rank.lord": "Hîr Eryn ~ Híril Eryn",
-
     "faction.lotr.dol_guldur": "Dol Guldur",
     "faction.lotr.dol_guldur.subtitle": "L'orribile progenie di Dol Guldur",
     "faction.lotr.dol_guldur.rank.thrall": "Thrall | Thrall di Bosco Atro",
@@ -2790,7 +2736,6 @@
     "faction.lotr.dol_guldur.rank.despoiler": "Saccheggiatore ~ Saccheggiatrice | Saccheggiatore di Bosco Atro ~ Saccheggiatrice di Bosco Atro",
     "faction.lotr.dol_guldur.rank.captain": "Capoclan | Capoclan di Dol Guldur",
     "faction.lotr.dol_guldur.rank.lieutenant": "Luogotenente di Khamûl",
-
     "faction.lotr.dale": "Dale",
     "faction.lotr.dale.subtitle": "Il regno degli Uomini del Nord",
     "faction.lotr.dale.rank.guest": "Ospite | Ospite dei Bardini",
@@ -2800,7 +2745,6 @@
     "faction.lotr.dale.rank.captain": "Capitano ~ Capitana | Capitano di Dale ~ Capitana di Dale",
     "faction.lotr.dale.rank.marshal": "Maresciallo ~ Marescialla | Maresciallo di Dale ~ Marescialla di Dale",
     "faction.lotr.dale.rank.lord": "Signore ~ Signora | Signore di Dale ~ Signora di Dale",
-
     "faction.lotr.durins_folk": "Popolo di Durin",
     "faction.lotr.durins_folk.subtitle": "I nani Lungobarbi di Khazad-dûm",
     "faction.lotr.durins_folk.rank.guest": "Ospite | Ospite dei Lungobarbi",
@@ -2811,7 +2755,6 @@
     "faction.lotr.durins_folk.rank.commander": "Comandante | Comandante dei Khazâd",
     "faction.lotr.durins_folk.rank.lord": "Signore ~ Signora | Signore dei Nani ~ Signora dei Nani",
     "faction.lotr.durins_folk.rank.uzbad": "Uzbad Sigin-tarâgu ~ Uzbadûna Sigin-tarâgu",
-
     "faction.lotr.lothlorien": "Lothlórien",
     "faction.lotr.lothlorien.subtitle": "Gli elfi Galadhrim del Bosco d'Oro",
     "faction.lotr.lothlorien.rank.guest": "Ospite | Ospite di Lórien",
@@ -2822,7 +2765,6 @@
     "faction.lotr.lothlorien.rank.captain": "Hest Lórien",
     "faction.lotr.lothlorien.rank.noble": "Arphen Lórien",
     "faction.lotr.lothlorien.rank.lord": "Hîr Lórien ~ Híril Lórien",
-
     "faction.lotr.dunland": "Dunland",
     "faction.lotr.dunland.subtitle": "Le selvagge tribù delle colline di Dunland",
     "faction.lotr.dunland.rank.guest": "Ospite | Ospite dei Dunlandiani",
@@ -2832,7 +2774,6 @@
     "faction.lotr.dunland.rank.avenger": "Vendicatore ~ Vendicatrice | Vendicatore dei Dunlandiani ~ Vendicatrice dei Dunlandiani",
     "faction.lotr.dunland.rank.warlord": "Condottiero ~ Condottiera | Condottiero dei Dunlandiani ~ Condottiera dei Dunlandiani",
     "faction.lotr.dunland.rank.chieftain": "Capotribù | Capotribù dei Dunlandiani",
-
     "faction.lotr.isengard": "Isengard",
     "faction.lotr.isengard.subtitle": "I temibili Uruk-hai di Isengard",
     "faction.lotr.isengard.rank.thrall": "Thrall | Thrall di Isengard",
@@ -2843,7 +2784,6 @@
     "faction.lotr.isengard.rank.corporal": "Caporale | Caporale di Isengard",
     "faction.lotr.isengard.rank.hand": "Mano di Isengard | Mano Bianca di Isengard",
     "faction.lotr.isengard.rank.captain": "Capitano della Mano ~ Capitana della Mano | Capitano della Mano Bianca ~ Capitana della Mano Bianca",
-
     "faction.lotr.fangorn": "Fangorn",
     "faction.lotr.fangorn.subtitle": "L'antica foresta degli Ent",
     "faction.lotr.fangorn.rank.newcomer": "Nuovo arrivato ~ Nuova arrivata | Nuovo arrivato di Fangorn ~ Nuova arrivata di Fangorn",
@@ -2851,7 +2791,6 @@
     "faction.lotr.fangorn.rank.treeherd": "Pastore degli alberi ~ Pastora degli alberi | Pastore degli alberi di Fangorn ~ Pastora degli alberi di Fangorn",
     "faction.lotr.fangorn.rank.master": "Maestro ~ Maestra | Maestro di Fangorn ~ Maestra di Fangorn",
     "faction.lotr.fangorn.rank.elder": "Anziano ~ Anziana | Anziano di Fangorn ~ Anziana di Fangorn",
-
     "faction.lotr.rohan": "Rohan",
     "faction.lotr.rohan.subtitle": "Il regno dei Rohirrim",
     "faction.lotr.rohan.rank.guest": "Ospite | Ospite di Rohan",
@@ -2861,7 +2800,6 @@
     "faction.lotr.rohan.rank.rider": "Cavaliere ~ Cavaliera | Cavaliere di Rohan ~ Cavaliera di Rohan",
     "faction.lotr.rohan.rank.captain": "Capitano ~ Capitana | Capitano Eorling ~ Capitana Eorling",
     "faction.lotr.rohan.rank.marshal": "Maresciallo ~ Marescialla | Maresciallo del Mark ~ Marescialla del Mark",
-
     "faction.lotr.gondor": "Gondor",
     "faction.lotr.gondor.subtitle": "Il regno del Sud dei Dúnedain",
     "faction.lotr.gondor.rank.guest": "Ospite | Ospite di Gondor",
@@ -2872,7 +2810,6 @@
     "faction.lotr.gondor.rank.champion": "Campione ~ Campionessa | Campione di Gondor ~ Campionessa di Gondor",
     "faction.lotr.gondor.rank.captain": "Capitano ~ Capitana | Capitano di Gondor ~ Capitana di Gondor",
     "faction.lotr.gondor.rank.lord": "Signore ~ Signora | Signore di Gondor ~ Signora di Gondor",
-
     "faction.lotr.mordor": "Mordor",
     "faction.lotr.mordor.subtitle": "Le legioni della Terra Oscura",
     "faction.lotr.mordor.rank.thrall": "Thrall | Thrall di Mordor",
@@ -2883,7 +2820,6 @@
     "faction.lotr.mordor.rank.captain": "Capitano ~ Capitana | Capitano di Mordor ~ Capitana di Mordor",
     "faction.lotr.mordor.rank.lieutenant": "Luogotenente di Morgul | Luogotenente di Minas Morgul",
     "faction.lotr.mordor.rank.commander": "Comandante di Lugbúrz",
-
     "faction.lotr.dorwinion": "Dorwinion",
     "faction.lotr.dorwinion.subtitle": "I mercanti di vino delle sponde di Rhûn",
     "faction.lotr.dorwinion.rank.guest": "Ospite | Ospite dei Vinai",
@@ -2894,7 +2830,6 @@
     "faction.lotr.dorwinion.rank.master": "Maestro ~ Maestra | Maestro delle vigne ~ Maestra delle vigne",
     "faction.lotr.dorwinion.rank.chief": "Degustatore di vini capo ~ Degustatrice di vini capo",
     "faction.lotr.dorwinion.rank.lord": "Signore ~ Signora | Signore delle vigne ~ Signora delle vigne",
-
     "faction.lotr.rhudel": "Rhúdel",
     "faction.lotr.rhudel.subtitle": "Gli Easterling dorati di Rhûn",
     "faction.lotr.rhudel.rank.bondsman": "Schiavo ~ Schiavo | Schiavo Easterling ~ Schiava Easterling",
@@ -2905,7 +2840,6 @@
     "faction.lotr.rhudel.rank.golden": "Guerriero dorato Easterling ~ Guerriera dorata Easterling",
     "faction.lotr.rhudel.rank.warlord": "Condottiero ~ Condottiera | Condottiero di Rhúdel ~ Condottiera di Rhúdel",
     "faction.lotr.rhudel.rank.chieftain": "Capotribù | Capotribù di Rhúdel",
-
     "faction.lotr.near_harad": "Vicino Harad",
     "faction.lotr.near_harad.subtitle": "I Sudroni da oltre l'Harnen",
     "faction.lotr.near_harad.rank.guest": "Ospite | Ospite dei Sudroni",
@@ -2916,7 +2850,6 @@
     "faction.lotr.near_harad.rank.serpentguard": "Guardia Serpente",
     "faction.lotr.near_harad.rank.warlord": "Condottiero ~ Condottiera | Condottiero dei Sudroni ~ Condottiera dei Sudroni",
     "faction.lotr.near_harad.rank.prince": "Principe ~ Principessa | Principe dell'Harad ~ Principessa dell'Harad",
-
     "faction.lotr.morwaith": "Morwaith",
     "faction.lotr.morwaith.subtitle": "I tribali Haradrim delle praterie",
     "faction.lotr.morwaith.rank.guest": "Ospite | Ospite dei Morwaith",
@@ -2926,7 +2859,6 @@
     "faction.lotr.morwaith.rank.warrior": "Guerriero Leone ~ Guerriera Leonessa",
     "faction.lotr.morwaith.rank.chief": "Capo Leone ~ Capo Leonessa",
     "faction.lotr.morwaith.rank.greatchief": "Grande Capo Sole",
-
     "faction.lotr.taurethrim": "Taurethrim",
     "faction.lotr.taurethrim.subtitle": "Gli Haradrim delle grandi giungle del Sud",
     "faction.lotr.taurethrim.rank.guest": "Ospite | Ospite dei Taurethrim",
@@ -2936,7 +2868,6 @@
     "faction.lotr.taurethrim.rank.champion": "Campione ~ Campionessa | Campione della foresta ~ Campionessa della foresta",
     "faction.lotr.taurethrim.rank.warlord": "Condottiero ~ Condottiera | Condottiero Taurethrim ~ Condottiera Taurethrim",
     "faction.lotr.taurethrim.rank.splendour": "Capo Splendore",
-
     "faction.lotr.half_trolls": "Mezzi Troll",
     "faction.lotr.half_trolls.subtitle": "Il mostruoso popolo troll del Lontano Harad",
     "faction.lotr.half_trolls.rank.guest": "Ospite | Ospite dei Mezzi Troll",
@@ -2946,13 +2877,11 @@
     "faction.lotr.half_trolls.rank.raider": "Razziatore ~ Razziatrice | Razziatore dei Mezzi Troll ~ Razziatrice dei Mezzi Troll",
     "faction.lotr.half_trolls.rank.warlord": "Condottiero ~ Condottiera | Condottiero dei Mezzi Troll ~ Condottiera dei Mezzi Troll",
     "faction.lotr.half_trolls.rank.chieftain": "Capo | Capo Troll",
-
     "factionrelation.lotr.ally": "Alleati",
     "factionrelation.lotr.friend": "Amici",
     "factionrelation.lotr.neutral": "Neutrali",
     "factionrelation.lotr.enemy": "Nemici",
     "factionrelation.lotr.mortal_enemy": "Nemici mortali",
-
     "stat.lotr.interact_faction_crafting_table": "Interazioni con i tavoli delle fazioni",
     "stat.lotr.throw_ring_in_fire": "Anelli gettati tra le fiamme",
     "stat.lotr.interact_alloy_forge": "Interazioni con forge",
@@ -2968,7 +2897,6 @@
     "stat.lotr.light_gondor_beacon": "Fari di Gondor accesi",
     "stat.lotr.extinguish_gondor_beacon": "Fari di Gondor spenti",
     "stat.lotr.talk_to_npc": "NPC della Terra di Mezzo con cui hai parlato",
-
     "chat.lotr.respawn.farFromBed": "Sei morto lontano dal tuo letto, quindi sei rinato nelle vicinanze di dove sei morto",
     "chat.lotr.respawn.farFromWorldSpawn": "Sei morto lontano dallo spawn del mondo, quindi sei rinato nelle vicinanze di dove sei morto",
     "chat.lotr.ft.disabled.gamerule": "Il viaggio rapido è disabilitato in questo server",
@@ -3010,7 +2938,6 @@
     "chat.lotr.cwp.adopt": "Waypoint personalizzato “%s” adottato! (%d of %d)",
     "chat.lotr.cwp.forsake": "Waypoint personalizzato “%s” abbandonato!",
     "chat.lotr.cwp.adopted.destroyed": "IL waypoint personalizzato adottato “%s” è stato distrutto dal suo proprietario!",
-
     "death.attack.lotr.plant": "%s è stato ucciso da una pianta",
     "death.attack.lotr.frost": "%s è stato sopraffatto dal freddo",
     "death.attack.lotr.poisonDrink": "%s ha sbagliato calice",
@@ -3018,7 +2945,6 @@
     "death.attack.lotr.quagmire": "%s è rimasto bloccato in una palude",
     "death.attack.lotr.thrownSpear": "%1$s è stato trafitto da %2$s",
     "death.attack.lotr.thrownSpear.item": "%1$s è stato trafitto da %2$s usando %3$s",
-
     "subtitles.lotr.ambience.weather.wind": "Il vento fischia",
     "subtitles.lotr.block.gate.close": "Cancello chiuso",
     "subtitles.lotr.block.gate.open": "Cancello aperto",
@@ -3036,7 +2962,6 @@
     "subtitles.lotr.event.unpledge": "Giuramento infranto",
     "subtitles.lotr.item.mug_fill": "Boccale riempito",
     "subtitles.lotr.item.smoke_puff": "Sbuffo di fumo",
-
     "commands.lotr.wpregion.unlock.success.single": "Sbloccata la regione di waypoint %2$s per %1$s",
     "commands.lotr.wpregion.unlock.success.multiple": "Sbloccata la regione di waypoint %2$s per %1$s giocatori",
     "commands.lotr.wpregion.unlock.failure.single": "%s ha già sbloccato la regione di waypoint %s",
@@ -3091,18 +3016,15 @@
     "commands.lotr.pledge.cooldown.multiple": "Impostato il tempo d'attesa per un nuovo giuramento di %d giocatori a %d secondi (%s)",
     "commands.lotr.pledge.query.pledged": "%s ha giurato fedeltà a %s",
     "commands.lotr.pledge.query.none": "%s non ha giurato fedeltà a nessuna fazione",
-
     "argument.lotr.waypointRegion.id.invalid": "Regione di waypoint “%s” sconosciuta",
     "argument.lotr.faction.id.invalid": "Fazione “%s” sconosciuta",
     "argument.lotr.playerMessage.id.invalid": "Tipo di messaggio “%s” sconosciuto",
-
     "gamerule.lotr:orc_skirmish": "Schermaglie tra orchi",
     "gamerule.lotr:middle_earth_respawning": "Meccaniche di rinascita specifiche per la Terra di Mezzo",
     "gamerule.lotr:fast_travel": "Consenti viaggio rapido",
     "gamerule.lotr:custom_waypoint_creation": "Consenti creazione e adozione di waypoint personalizzati",
     "gamerule.lotr:gondor_beacon_range": "Portata dei fari di Gondor",
     "gamerule.lotr:gondor_beacon_lighting_time": "Tempo di accensione dei fari di Gondor",
-
     "key.categories.mod.lotr": "LOTR Mod",
     "key.lotr.menu": "Apri menu della Terra di Mezzo",
     "key.lotr.map_teleport": "Teletrasporto mappa",
@@ -3110,7 +3032,6 @@
     "key.lotr.alignment_next": "Allineamento successivo",
     "key.lotr.alignment_group_previous": "Gruppo di allineamenti precedente",
     "key.lotr.alignment_group_next": "Gruppo di allineamenti successivo",
-
     "config.lotr.modSky": "Cielo della Terra di Mezzo",
     "config.lotr.modClouds": "Nuvole della Terra di Mezzo",
     "config.lotr.cloudRange": "Distanza delle nuvole",
@@ -3120,29 +3041,26 @@
     "config.lotr.mistyMountainsMist": "Montagne Nebbiose nebbiose",
     "config.lotr.newWeatherRendering": "Nuovo rendering del meteo",
     "config.lotr.newRainGroundParticles": "Nuove particelle al suolo della pioggia",
-
     "config.lotr.modMainMenu": "Menu principale della Terra di Mezzo",
     "config.lotr.sepiaMap": "Mappa color seppia",
     "config.lotr.mapLabels": "Etichette sulla mappa",
     "config.lotr.fogOfWar": "Nebbia di guerra sulla mappa",
-
     "config.lotr.compass": "Bussola sullo schermo",
     "config.lotr.compassInfo": "Bussola sullo schermo: informazioni",
     "config.lotr.showAlignmentEverywhere": "Mostra allineamento ovunque",
     "config.lotr.alignmentXOffset": "Spostamento asse x allineamento",
     "config.lotr.alignmentYOffset": "Spostamento asse y allineamento",
-
+    "config.lotr.immersiveSpeech": "NEW >>> Immersive Speech",
+    "config.lotr.immersiveSpeechChatLog": "NEW >>> Immersive Speech Chat Log",
+    "config.lotr.immersiveSpeechDuration": "NEW >>> Immersive Speech duration",
     "config.lotr.dolAmrothChestplateWings": "Numero di ali delle corazze di Dol Amroth",
-
     "config.lotr.windAmbience": "Ambiente: Vento",
     "config.lotr.newRainSounds": "Nuovi suoni della pioggia",
     "config.lotr.newThunderSounds": "Nuovi suoni dei tuoni",
-
     "config.lotr.drunkSpeech": "Parlata da ubriaco",
     "config.lotr.areasOfInfluence": "Aree di influenza di allineamento delle fazioni",
     "config.lotr.alignmentDraining": "Esaurimento allineamento",
-
+    "config.lotr.generateBiomeJsons": "Genera file JSON per i biomi della Terra di Mezzo",
     "config.lotr.forceMapLocations": "Forza nascondi/mostra posizioni sulla mappa",
-
-    "config.lotr.generateBiomeJsons": "Genera file JSON per i biomi della Terra di Mezzo"
+    "config.lotr.forceFogOfWar": "NEW >>> Force enable/disable map fog of war"
 }

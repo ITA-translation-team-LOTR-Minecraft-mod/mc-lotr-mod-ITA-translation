@@ -1328,7 +1328,35 @@
   "block.lotr.flax_bale": "Flax Bale",
   "block.lotr.wicker_bars": "Wicker Bars",
   "block.lotr.wicker_fence_gate": "Wicker Fence Gate",
-    
+  "block.lotr.culumalda_log": "Culumalda Log",
+  "block.lotr.culumalda_wood": "Culumalda Wood",
+  "block.lotr.culumalda_planks": "Culumalda Planks",
+  "block.lotr.culumalda_leaves": "Culumalda Leaves",
+  "block.lotr.culumalda_sapling": "Culumalda Sapling",
+  "block.lotr.culumalda_slab": "Culumalda Slab",
+  "block.lotr.culumalda_stairs": "Culumalda Stairs",
+  "block.lotr.culumalda_fence": "Culumalda Fence",
+  "block.lotr.culumalda_fence_gate": "Culumalda Fence Gate",
+  "block.lotr.culumalda_door": "Culumalda Door",
+  "block.lotr.culumalda_trapdoor": "Culumalda Trapdoor",
+  "block.lotr.culumalda_pressure_plate": "Culumalda Pressure Plate",
+  "block.lotr.culumalda_button": "Culumalda Button",
+  "block.lotr.stripped_culumalda_log": "Stripped Culumalda Log",
+  "block.lotr.stripped_culumalda_wood": "Stripped Culumalda Wood",
+  "block.lotr.culumalda_beam": "Culumalda Beam",
+  "block.lotr.culumalda_sign": "Culumalda Sign",
+  "block.lotr.culumalda_log_slab": "Culumalda Log Slab",
+  "block.lotr.culumalda_wood_slab": "Culumalda Wood Slab",
+  "block.lotr.culumalda_wood_stairs": "Culumalda Wood Stairs",
+  "block.lotr.culumalda_branch": "Culumalda Branch",
+  "block.lotr.stripped_culumalda_log_slab": "Stripped Culumalda Log Slab",
+  "block.lotr.stripped_culumalda_wood_slab": "Stripped Culumalda Wood Slab",
+  "block.lotr.stripped_culumalda_wood_stairs": "Stripped Culumalda Wood Stairs",
+  "block.lotr.stripped_culumalda_branch": "Stripped Culumalda Branch",
+  "block.lotr.culumalda_beam_slab": "Culumalda Beam Slab",
+  "block.lotr.fallen_culumalda_leaves": "Fallen Culumalda Leaves",
+  "block.lotr.bree_crafting_table": "Bree-land Crafting Table",
+  
   "item.lotr.gold_ring": "Gold Ring",
   "item.lotr.copper_ingot": "Copper Ingot",
   "item.lotr.tin_ingot": "Tin Ingot",
@@ -1684,6 +1712,7 @@
   "item.lotr.harnennor_shield": "Harnennor Shield",
   "item.lotr.coast_southron_shield": "Coast Southron Shield",
   "item.lotr.umbar_shield": "Umbaric Shield",
+  "item.lotr.culumalda_boat": "Culumalda Boat",
   
   "item.lotr.drink.weak": "Weak",
   "item.lotr.drink.light": "Light",
@@ -1729,6 +1758,7 @@
   "container.lotr.dale_crafting": "Dalish Crafting",
   "container.lotr.lossoth_crafting": "Lossoth Crafting",
   "container.lotr.dunlending_crafting": "Dunlending Crafting",
+  "container.lotr.bree_crafting": "Bree-land Crafting",
   
   "container.lotr.alloy_forge": "Alloy Forge",
   "container.lotr.dwarven_forge": "Dwarven Forge",
@@ -1861,6 +1891,7 @@
   "biome.lotr.southron_coasts_forest": "Southron Coasts Forest",
   "biome.lotr.umbar_forest": "Umbar Forest",
   "biome.lotr.umbar_hills": "Umbar Hills",
+  "biome.lotr.field_of_cormallen": "Field of Cormallen",
   
   "entity.lotr.ring_portal": "Ring Portal",
   
@@ -1904,6 +1935,11 @@
   "entity.lotr.uruk_archer": "Uruk Archer",
   "entity.lotr.dwarf_archer": "Dwarf Archer",
   "entity.lotr.blue_mountains_archer": "Blue Mountains Archer",
+  "entity.lotr.wood_elf": "Wood-elf",
+  "entity.lotr.wood_elf_warrior": "Wood-elf Warrior",
+  "entity.lotr.bree_man": "Bree-Man",
+  "entity.lotr.bree_hobbit": "Bree-hobbit",
+  "entity.lotr.bree_guard": "Bree-land Guard",
   
   "entity.lotr.caracal": "Caracal",
   
@@ -1947,6 +1983,11 @@
   "item.lotr.uruk_archer_spawn_egg": "Uruk Archer Spawn Egg",
   "item.lotr.dwarf_archer_spawn_egg": "Dwarf Archer Spawn Egg",
   "item.lotr.blue_mountains_archer_spawn_egg": "Blue Mountains Archer Spawn Egg",
+  "item.lotr.wood_elf_spawn_egg": "Wood-elf Spawn Egg",
+  "item.lotr.wood_elf_warrior_spawn_egg": "Wood-elf Warrior Spawn Egg",
+  "item.lotr.bree_man_spawn_egg": "Bree-Man Spawn Egg",
+  "item.lotr.bree_hobbit_spawn_egg": "Bree-hobbit Spawn Egg",
+  "item.lotr.bree_guard_spawn_egg": "Bree-land Guard Spawn Egg",
   
   "item.lotr.caracal_spawn_egg": "Caracal Spawn Egg",
   
@@ -2004,7 +2045,7 @@
   "gui.lotr.time.format.ms": "%s %s",
   "gui.lotr.time.format.s": "%s",
   
-  "gui.lotr.worldTypeHelp.title": "Welcome to §oThe Lord of the Rings§r mod! If this is your first time playing, here's how to get to Middle-earth...",
+  "gui.lotr.worldTypeHelp.title": "Welcome to §oThe Lord of the Rings Mod§r! If this is your first time playing, here's how to get to Middle-earth...",
   "gui.lotr.worldTypeHelp.normal": "Select '%s' world type to start in the ordinary §oMinecraft§r world, where you can create a portal to Middle-earth by throwing a Gold Ring into fire.",
   "gui.lotr.worldTypeHelp.me": "Or, select '%s' world type to spawn directly into Middle-earth.",
   "gui.lotr.worldTypeHelp.selected.1": "Selected '%s' world type.",
@@ -2040,6 +2081,7 @@
   "gui.lotr.map.widget.zoomOut.fine": "Fine zoom out",
   "gui.lotr.map.widget.zoomIn.quick": "Quick zoom in",
   "gui.lotr.map.widget.zoomOut.quick": "Quick zoom out",
+  "gui.lotr.map.widget.recentre": "Recenter on player",
   "gui.lotr.map.widget.fullScreen": "Fullscreen",
   "gui.lotr.map.widget.sepia": "Sepia",
   "gui.lotr.map.widget.labels": "Labels",
@@ -3131,6 +3173,9 @@
   "config.lotr.showAlignmentEverywhere": "Show alignment everywhere",
   "config.lotr.alignmentXOffset": "Alignment x-offset",
   "config.lotr.alignmentYOffset": "Alignment y-offset",
+  "config.lotr.immersiveSpeech": "Immersive Speech",
+  "config.lotr.immersiveSpeechChatLog": "Immersive Speech Chat Log",
+  "config.lotr.immersiveSpeechDuration": "Immersive Speech duration",
   
   "config.lotr.dolAmrothChestplateWings": "Dol Amroth Chestplate wing count",
   
@@ -3141,8 +3186,9 @@
   "config.lotr.drunkSpeech": "Drunken speech",
   "config.lotr.areasOfInfluence": "Faction alignment areas of influence",
   "config.lotr.alignmentDraining": "Alignment draining",
+
+  "config.lotr.generateBiomeJsons": "Generate LOTR biome JSON files",
   
   "config.lotr.forceMapLocations": "Force hide/show map locations",
-  
-  "config.lotr.generateBiomeJsons": "Generate LOTR biome JSON files"
+  "config.lotr.forceFogOfWar": "Force enable/disable map fog of war"
 }
