@@ -3914,7 +3914,7 @@ lotr.travellingTrader.arrive=%s has arrived nearby
 lotr.travellingTrader.arriveMP=%s has arrived near %s
 lotr.travellingTrader.depart=%s has left the area
 
-lotr.unitinfo.Banner=Banner Bearers provide various combat improvements to nearby NPCs of the same faction
+lotr.unitinfo.Banner=Banner Bearers provide various combat improvements to other nearby NPCs of the same faction
 
 lotr.unit.MordorOrc_Warg=Warg Rider
 lotr.unit.MordorOrcArcher_Warg=Warg Archer Rider

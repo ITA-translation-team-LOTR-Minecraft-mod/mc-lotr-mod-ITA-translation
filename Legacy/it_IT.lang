@@ -3914,7 +3914,7 @@ lotr.travellingTrader.arrive=%s è arrivato nelle vicinanze
 lotr.travellingTrader.arriveMP=%s è arrivato vicino a %s
 lotr.travellingTrader.depart=%s ha lasciato la zona
 
-lotr.unitinfo.Banner=Gli alfieri forniscono varie migliorie di combattimento agli NPC vicini della stessa fazione
+lotr.unitinfo.Banner=Gli alfieri forniscono varie migliorie di combattimento agli altri NPC vicini della stessa fazione
 
 lotr.unit.MordorOrc_Warg=Orco cavalcatore di mannari di Mordor
 lotr.unit.MordorOrcArcher_Warg=Orco arciere cavalcatore di mannari di Mordor
