@@ -3184,6 +3184,8 @@
     "config.lotr.newThunderSounds": "Nuovi suoni dei tuoni",
 
     "config.lotr.drunkSpeech": "Parlata da ubriaco",
+    "config.lotr.npcTalkToPlayerMinDuration": "NPC parlano con il giocatore - durata min",
+    "config.lotr.npcTalkToPlayerMaxDuration": "NPC parlano con il giocatore - durata max",
     "config.lotr.areasOfInfluence": "Aree di influenza di allineamento delle fazioni",
     "config.lotr.alignmentDraining": "Esaurimento allineamento",
 

@@ -316,7 +316,7 @@
     {
       "conditions": {
         "relation": "hostile",
-        "pledge": "lotr:isengard"
+        "pledge": "lotr:mordor"
       },
       "lines": [
         "How fell you into the service of Mordor?",

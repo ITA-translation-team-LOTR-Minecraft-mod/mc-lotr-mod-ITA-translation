@@ -3184,6 +3184,8 @@
   "config.lotr.newThunderSounds": "New thunder sounds",
   
   "config.lotr.drunkSpeech": "Drunken speech",
+  "config.lotr.npcTalkToPlayerMinDuration": "NPCs Talk to Player - min duration",
+  "config.lotr.npcTalkToPlayerMaxDuration": "NPCs Talk to Player - max duration",
   "config.lotr.areasOfInfluence": "Faction alignment areas of influence",
   "config.lotr.alignmentDraining": "Alignment draining",
 
