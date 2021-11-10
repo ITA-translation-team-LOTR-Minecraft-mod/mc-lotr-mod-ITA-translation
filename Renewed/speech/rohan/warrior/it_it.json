@@ -353,10 +353,23 @@
         "relation": "friendly",
         "rank": "<guest",
         "biome": "#home",
-        "daytime": "dusk | night"
+        "daytime": "dusk | night",
+        "player_gender_pref": "m"
       },
       "lines": [
         "Che cosa ci fa uno straniero venuto da lontano in giro per il Mark durante la notte?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "biome": "#home",
+        "daytime": "dusk | night",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Che cosa ci fa una straniera venuta da lontano in giro per il Mark durante la notte?"
       ]
     },
     {

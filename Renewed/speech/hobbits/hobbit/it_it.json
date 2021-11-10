@@ -5,40 +5,57 @@
         "relation": "friendly"
       },
       "lines": [
-        "Short cuts make for long delays!",
-        "The only brew for the brave and true... comes from the Green Dragon!",
-        "Where would we Hobbits be without pipe-weed?",
-        "Don't you wish you lived in a Hobbit hole too?",
-        "Hobbit holes! Warmth, good food, and comfort.",
-        "It's a dangerous business, going out your front door.",
-        "The Sackville-Bagginses came for lunch yesterday. Now I can't find any of my plates, nor my mugs...",
-        "The road goes ever on and on...",
-        "Adventures? Nasty things, they are. Make you late for dinner.",
-        "There's nothing quite like a pint of ale from the Green Dragon!",
-        "I don't know what I'd do without a good leaf of Longbottom on a hot summer's day!",
-        "I have relatives in Buckland. They're funny fellows...",
-        "The market in Stock is a great place for food, drink and pipe-weed!",
-        "Have you seen the frogs in the marshes around Frogmorton way?",
-        "The Northern Moors are wild and windy, but full of fine inns with homely hearths.",
-        "People tell of Elves in the woods near Willowbottom. I reckon it's just the Largefoot family!",
-        "It's best to avoid Sarn Ford. That's where all the travelling folk meet, and some of them can be very queer!",
-        "I don't want any adventures, thank you very much!",
-        "My knowledge of potatoes is second to only the Gamgees'!",
-        "On a breezy day I like to lie beneath an oak tree and sleep. Like we Hobbits should!",
-        "Longbottom leaf is the leaf of wonders! Is it not, #p?",
-        "My flowerbeds could do with a good sprinkling!",
-        "For a jolly day out I suggest Needlehole... or food!",
-        "A fine meal is always the best option!",
-        "Mmm, buttered potato and peas...",
-        "Pipe-weed is good. Mushrooms are better!",
-        "I am fond of mushrooms out of a field.",
-        "Good plain food is the food for me.",
-        "I go to bed late and get up late for breakfast. It's the only way to be!",
-        "Gardening is a fine way to spend a day.",
-        "A cup of tea for me!",
-        "The parties in the Shire are the best you'll ever see. Food, drink and merriment!",
-        "You're almost as tall as old Bullroarer was! Have you heard the tale of how he created the game of golf?",
-        "They say the rich families keep treasure in their burrows. Chests packed with gold and silver... and jools!"
+        "Le scorciatoie portano a lunghi ritardi!",
+        "La vera birra per chi è coraggioso e sincero... la trovi solo al Drago Verde!",
+        "Dove saremmo noi hobbit senza erba pipa?",
+        "Non vorresti vivere anche tu in un buco hobbit?",
+        "Buchi hobbit! Calore, buon cibo e comodità.",
+        "È un affare pericoloso uscire dalla propria porta.",
+        "Ieri sono venuti a pranzo i Sackville-Baggins. Ora non trovo più nessuno dei miei piatti, né dei miei boccali...",
+        "La via prosegue senza fine...",
+        "Avventure? Sono cose cattive. Ti fanno fare tardi a cena.",
+        "Non c'è niente di meglio di una pinta di birra al Drago Verde!",
+        "Non so come farei senza una buona foglia di Pianilungone in una calda giornata estiva!",
+        "Ho dei parenti nella Terra di Buck. Sono tipi simpatici...",
+        "Il mercato di Scorta è un ottimo posto per cibo, bevande ed erba pipa!",
+        "Hai visto le rane nelle paludi intorno a Chianarana?",
+        "Le Brughiere del Nord sono selvagge e ventose, ma piene di belle locande con focolari accoglienti.",
+        "La gente racconta di Elfi nei boschi vicino a Pianasalice. Secondo me è solo la famiglia Largopiede!",
+        "È meglio evitare il Guado del Sarn. È lì che si incontrano tutti i viaggiatori, e alcuni di loro possono essere molto strani!!",
+        "Non voglio nessuna avventura, grazie mille!",
+        "La mia conoscenza delle patate è seconda solo a quella dei Gamgee!",
+        "In una giornata ventilata mi piace sdraiarmi sotto una quercia e dormire. Come dovremmo fare noi hobbit!",
+        "La foglia di Pianilungone è la foglia delle meraviglie! Non è vero, #p?",
+        "Dovrei annaffiare le mie aiuole!",
+        "Per una giornata allegra ti suggerisco Forodago... o il cibo!",
+        "Un buon pasto è sempre l'opzione migliore!",
+        "Mmm, patate al burro e piselli...",
+        "L'erba pipa è buona. I funghi sono meglio!",
+        "Amo i funghi di campo.",
+        "Il buon cibo semplice è il migliore secondo me.",
+        "Vado a letto tardi e mi alzo tardi per la colazione. È il miglior modo di vivere!",
+        "Fare giardinaggio è un buon modo per trascorrere una giornata.",
+        "Per me una tazza di tè!",
+        "Le feste nella Contea sono le migliori che ci siano. Cibo, bevande e allegria!",
+        "Dicono che le famiglie ricche custodiscano tesori nei loro cunicoli. Forzieri pieni di oro e argento... e gioielli!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Sei alto quasi quanto lo era il vecchio Ruggitoro! Hai sentito la storia di come ha inventato il gioco del golf?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Sei alta quasi quanto lo era il vecchio Ruggitoro! Hai sentito la storia di come ha inventato il gioco del golf?"
       ]
     },
     {
@@ -47,10 +64,10 @@
         "day_or_night": "day"
       },
       "lines": [
-        "Good day, #p.",
-        "Good day.",
-        "Good day!",
-        "Good day to you, #p! How are you doing?"
+        "Buona giornata, #p.",
+        "Buona giornata.",
+        "Buona giornata!",
+        "Buona giornata a te, #p! Come va?"
       ]
     },
     {
@@ -59,8 +76,8 @@
         "biome": "#home"
       },
       "lines": [
-        "This here field is full of rabbits! Better get the little ones to chase them off!",
-        "My relatives in Bree tell of strange goings-on..."
+        "Questo campo qui è pieno di conigli! Meglio mandare i bambini a scacciarli!",
+        "I miei parenti a Brea raccontano di strani avvenimenti..."
       ]
     },
     {
@@ -69,8 +86,8 @@
         "daytime": "morning"
       },
       "lines": [
-        "Good morning!",
-        "Good morning to you!"
+        "Buon giorno!",
+        "Buon giorno a te!"
       ]
     },
     {
@@ -80,8 +97,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good morning, #p!",
-        "Good morning to you, #p!"
+        "Buon giorno, #p!",
+        "Buon giorno a te, #p!"
       ]
     },
     {
@@ -90,8 +107,8 @@
         "daytime": "afternoon"
       },
       "lines": [
-        "Good afternoon!",
-        "Good afternoon to you!"
+        "Buon pomeriggio!",
+        "Buon pomeriggio a te!"
       ]
     },
     {
@@ -101,8 +118,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good afternoon, #p!",
-        "Good afternoon to you, #p!"
+        "Buon pomeriggio, #p!",
+        "Buon pomeriggio a te, #p!"
       ]
     },
     {
@@ -111,8 +128,8 @@
         "daytime": "evening"
       },
       "lines": [
-        "Good evening!",
-        "Good evening to you!"
+        "Buona sera!",
+        "Buona sera a te!"
       ]
     },
     {
@@ -122,8 +139,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good evening, #p!",
-        "Good evening to you, #p!"
+        "Buona sera, #p!",
+        "Buona sera a te, #p!"
       ]
     },
     {
@@ -133,7 +150,7 @@
         "weather": "clear"
       },
       "lines": [
-        "What a pretty sky up there!"
+        "Che bel cielo lassù!"
       ]
     },
     {
@@ -144,8 +161,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Isn't it a beautiful sunrise, #p?",
-        "Oh, good morning, #p. I was just watching the sun come up. Isn't it nice?"
+        "Una bellissima alba, non è vero #p?",
+        "Oh, buongiorno, #p. Stavo giusto guardando il sole sorgere. Bello vero?"
       ]
     },
     {
@@ -156,8 +173,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Isn't it a beautiful sunset, #p?",
-        "Oh, good evening, #p. I was just watching the sun go down. Isn't it nice?"
+        "Un bellissimo tramonto, non è vero #p?",
+        "Oh, buonasera, #p. Stavo giusto guardando il sole tramontare. Bello vero?"
       ]
     },
     {
@@ -166,7 +183,7 @@
         "day_or_night": "night"
       },
       "lines": [
-        "Well, I'd best be off to bed!"
+        "Beh, farei meglio ad andare a letto!"
       ]
     },
     {
@@ -175,20 +192,32 @@
         "rank": ">=friend"
       },
       "lines": [
-        "May the hair on your toes never fall out, #p!",
-        "May the hair on your toes never fall out.",
-        "Always a pleasure, #p!",
-        "You're not bad for one of the Big Folk!"
+        "Possano i peli sui tuoi piedi non cadere mai, #p!",
+        "Possano i peli sui tuoi piedi non cadere mai.",
+        "Sempre un piacere, #p!",
+        "Non sei male per appartenere alla Gente Alta!"
       ]
     },
     {
       "conditions": {
         "relation": "friendly",
-        "rank": ">=bounder"
+        "rank": ">=bounder",
+        "player_gender_pref": "m"
       },
       "lines": [
-        "Oh, it's you, #p! I didn't recognise you at first, see.",
-        "See? I always said there was good Big Folk, like you, #p!"
+        "Oh, sei tu, #p! Non ti avevo riconosciuto all'inizio.",
+        "Vedi? L'ho sempre detto che tra la Gente Alta c'erano anche brave persone come te, #p!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": ">=bounder",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Oh, sei tu, #p! Non ti avevo riconosciuta all'inizio.",
+        "Vedi? L'ho sempre detto che tra la Gente Alta c'erano anche brave persone come te, #p!"
       ]
     },
     {
@@ -198,7 +227,7 @@
         "day_or_night": "day"
       },
       "lines": [
-        "Well, if it isn't #p! How are you today?"
+        "Guarda un po' chi si rivede, #p! Come va oggi?"
       ]
     },
     {
@@ -208,7 +237,7 @@
         "day_or_night": "night"
       },
       "lines": [
-        "Well, if it isn't #p! How are you tonight?"
+        "Guarda chi c'è, #p! Come va stasera?"
       ]
     },
     {
@@ -219,8 +248,8 @@
         "player_gender_pref": "m"
       },
       "lines": [
-        "Good day, sir!",
-        "Good day, sir #p!"
+        "Buon giorno, signore!",
+        "Buon giorno, signor #p!"
       ]
     },
     {
@@ -231,8 +260,8 @@
         "player_gender_pref": "f"
       },
       "lines": [
-        "Good day, miss!",
-        "Good day, miss #p!"
+        "Buon giorno, signora!",
+        "Buon giorno, signora #p!"
       ]
     },
     {
@@ -241,13 +270,13 @@
         "rank": ">=shirriff"
       },
       "lines": [
-        "Hello, #p! I ought to invite you in for afternoon tea one of these days.",
-        "Hello, #p! I ought to invite you in for second breakfast one of these days.",
-        "Hello, #p! I ought to invite you in for pipe-weed one of these days.",
-        "All's well in the Shire, thanks to you!",
-        "All's well in the Shire, thanks to you, #p!",
-        "Oh, #p... I must be inviting you to my cousin's thirty-third birthday party. Don't let me forget!",
-        "Oh, #p... I must be inviting you to my second cousin's marrying-party. Don't let me forget!"
+        "Ciao, #p! Un giorno di questi dovrei invitarti per il tè pomeridiano.",
+        "Ciao, #p! Un giorno di questi dovrei invitarti per la seconda colazione.",
+        "Ciao, #p! Un giorno di questi dovrei invitarti per dell'erba pipa.",
+        "Va tutto bene nella Contea grazie a te!",
+        "Va tutto bene nella Contea grazie a te, #p!",
+        "Oh, #p... devo invitarti alla festa per il trentatreesimo compleanno di mio cugino. Non lasciare che mi dimentichi!",
+        "Oh, #p... devo invitarti alla festa di matrimonio di mio cugino di secondo grado. Non lasciare che mi dimentichi!"
       ]
     },
     {
@@ -256,8 +285,8 @@
         "daytime": "morning"
       },
       "lines": [
-        "Is it time for second breakfast yet?",
-        "Anyone for a third breakfast?"
+        "È già ora della seconda colazione?",
+        "Qualcuno per una terza colazione?"
       ]
     },
     {
@@ -266,8 +295,8 @@
         "daytime": "afternoon"
       },
       "lines": [
-        "Why, it's already time for afternoon tea!",
-        "I'd best be going for afternoon tea."
+        "È già l'ora del tè pomeridiano!",
+        "Farei meglio ad andare per il tè del pomeriggio."
       ]
     },
     {
@@ -276,8 +305,8 @@
         "daytime": "evening"
       },
       "lines": [
-        "It'll be time for supper soon!",
-        "About time I got to the supper table."
+        "Sarà presto ora di cena!",
+        "È quasi ora di andare a tavola."
       ]
     },
     {
@@ -286,8 +315,8 @@
         "weather": "rain"
       },
       "lines": [
-        "Stay out of the rain, #p!",
-        "Stay out of the rain!"
+        "Stai al riparo dalla pioggia, #p!",
+        "Stai al riparo dalla pioggia!"
       ]
     },
     {
@@ -297,12 +326,35 @@
         "biome": "#home"
       },
       "lines": [
-        "Welcome to the Shire!",
-        "Welcome to the Shire, #p!",
-        "Greetings, #p! I've seldom seen Big Folk like you around these parts!",
-        "Welcome to the Shire, traveller from afar! What news do you bring from the wide world?",
-        "Hello, #p. Are you staying long?",
-        "Big Folk in the Shire? Strange goings-on all round!"
+        "Saluti, #p! Raramente ho visto Gente Alta come te da queste parti!",
+        "Ciao, #p. Ti fermi a lungo?",
+        "Gente Alta nella Contea? Succedono cose strane ultimamente!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<friend",
+        "biome": "#home",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Benvenuto nella Contea!",
+        "Benvenuto nella Contea, #p!",
+        "Benvenuto nella Contea, viaggiatore da lontano! Quali notizie porti dal vasto mondo?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<friend",
+        "biome": "#home",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Benvenuta nella Contea!",
+        "Benvenuta nella Contea, #p!",
+        "Benvenuta nella Contea, viaggiatrice da lontano! Quali notizie porti dal vasto mondo?"
       ]
     },
     {
@@ -311,9 +363,9 @@
         "rank": "<friend"
       },
       "lines": [
-        "Oh, #p. I do believe we've met before?",
-        "#p, is it? Yes, I remember you now. You Big Folk all look similar to me.",
-        "Have we met, #p? I never forget a face!"
+        "Oh, #p. Ci siamo già incontrati?",
+        "#p, vero? Si, mi ricordo di te adesso. Voi Gente Alta vi assomigliate tutti.",
+        "Ci siamo già incontrati, #p? Non dimentico mai una faccia!"
       ]
     },
     {
@@ -322,16 +374,36 @@
         "biome": "#foreign"
       },
       "lines": [
-        "I do so miss the Shire.",
-        "I've never been so far from the Shire before.",
-        "If I take one more step, it'll be the farthest from home I've ever been.",
-        "Perhaps it's time to return home. I miss the Shire.",
-        "Adventures? Nasty things, they are. I think it's about time I returned home.",
-        "The road goes ever on and on, under trees and over streams, and I must follow, so it seems! But I shall be turning home soon.",
-        "Is this the land of your folk, #p? A strange place it is, and that's for sure!",
-        "Now we ought to find the way back home, #p.",
-        "Hobbit holes! Warmth, good food, and comfort. I do miss mine...",
-        "I've had my fill of foreign lands for now, #p. Shall we be a-wandering home soon?"
+        "Mi manca tanto la Contea.",
+        "Forse è ora di tornare a casa. Mi manca la Contea.",
+        "Avventure? Sono cose brutte. Penso che sia ora di tornare a casa.",
+        "La via prosegue senza fine, sotto gli alberi e sopra i ruscelli, e io devo seguirla, così pare! Ma tornerò presto a casa.",
+        "È questa la terra della tua gente, #p? È un posto strano, questo è sicuro!",
+        "Ora dovremmo trovare la strada per tornare a casa, #p.",
+        "Buchi hobbit! Calore, buon cibo e comodità. Mi manca il mio...",
+        "Ne ho abbastanza di terre straniere per ora, #p. Torneremo presto a casa?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#foreign",
+        "gender": "m"
+      },
+      "lines": [
+        "Non sono mai stato così lontano dalla Contea.",
+        "Se faccio ancora un passo non sarò mai stato così lontano da casa mia."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#foreign",
+        "gender": "f"
+      },
+      "lines": [
+        "Non sono mai stata così lontano dalla Contea.",
+        "Se faccio ancora un passo non sarò mai stata così lontana da casa mia."
       ]
     },
     {
@@ -340,19 +412,39 @@
         "biome": "lotr:mordor | lotr:mordor_mountains | lotr:gorgoroth | lotr:morgul_vale | lotr:angmar | lotr:angmar_mountains"
       },
       "lines": [
-        "What a dreadful place! Let us return to the Shire at once!",
-        "How have we come to such a dreadful place?",
-        "What an awful land this is, #p!",
-        "What a frightful land! We must find our way back to the Shire!",
-        "This country is enough to fill even the stoutest hearts with dread!",
-        "I declare I've seen quite enough of this place! Let's go back to the Shire, and quickly!",
-        "Well, #p, this is a nasty place if I ever saw one!",
-        "I feel all ill at ease here. Say, #p, do you know the road back to the Shire?",
-        "I don't know how we ever came to find ourselves in such a place as this, #p.",
-        "Even the air here is nasty stuff!",
-        "They always warned me against following those roads out of the Shire!",
-        "I wish I'd paid more attention to my old Gaffer! Never should've left the Shire, no no!",
-        "If I'd known this was what lay beyond our Shire-borders, I never would've gone a-wandering!"
+        "Che posto terribile! Torniamo subito nella Contea!",
+        "Come siamo arrivati in un posto così terribile?",
+        "Che posto orribile è questo, #p!",
+        "Che terra terrificante! Dobbiamo ritrovare la strada per la Contea!",
+        "Questo paese è abbastanza per riempire di terrore anche i cuori più robusti!",
+        "Dichiaro di aver visto abbastanza di questo posto! Torniamo nella Contea, e in fretta!",
+        "Bene, #p, questo è un brutto posto se mai ne ho visto uno!",
+        "Mi sento a disagio qui. Dì, #p, conosci la strada per tornare nella Contea?",
+        "Non so come abbiamo fatto a trovarci in un posto come questo, #p.",
+        "Anche l'aria qui è disgustosa!",
+        "Mi hanno sempre detto di non seguire quelle strade fuori dalla Contea!",
+        "Se solo avessi prestato più attenzione al vecchio Gaffiero! Non avrei mai dovuto lasciare la Contea, no no!",
+        "Se avessi saputo che questo era ciò che si trova oltre i confini della Contea, non me ne sarei mai andato in giro!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "lotr:mordor | lotr:mordor_mountains | lotr:gorgoroth | lotr:morgul_vale | lotr:angmar | lotr:angmar_mountains",
+        "gender": "m"
+      },
+      "lines": [
+        "Se avessi saputo che questo era ciò che si trova oltre i confini della Contea, non me ne sarei mai andato in giro!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "lotr:mordor | lotr:mordor_mountains | lotr:gorgoroth | lotr:morgul_vale | lotr:angmar | lotr:angmar_mountains",
+        "gender": "f"
+      },
+      "lines": [
+        "Se avessi saputo che questo era ciò che si trova oltre i confini della Contea, non me ne sarei mai andata in giro!"
       ]
     },
     {
@@ -361,9 +453,9 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Have you any pipe-weed, #p?",
-        "I find farming to be a pleasant pastime! Have you tried it, #p?",
-        "The finest pleasure is a meal well done. Do you know that feeling, #p?"
+        "Hai dell'erba pipa, #p?",
+        "Trovo che l'agricoltura sia un piacevole passatempo! L'hai mai provata, #p?",
+        "Il più bel piacere è un pasto ben fatto. Conosci quella sensazione, #p?"
       ]
     },
     {
@@ -373,7 +465,7 @@
         "day_or_night": "day"
       },
       "lines": [
-        "And how are you today, #p?"
+        "E come stai oggi, #p?"
       ]
     },
     {
@@ -383,17 +475,60 @@
         "rank": "<shirriff"
       },
       "lines": [
-        "Do you mind? I was in the middle of a conversation here!",
-        "#p! I was just in the middle of a conversation.",
-        "A bit rude to interrupt, isn't it?",
-        "There's no need to interrupt, is there?",
-        "I was just speaking! Wait your turn!",
-        "How rude! We were having a good chatter there, if you please.",
-        "Mind your own business. Can't you see we were talking?",
-        "Mind your own business, please! Now leave us alone.",
-        "I see you have no qualms about interrupting some good Hobbit chatter!",
-        "If you please, #p, I was in the middle of a conversation.",
-        "...and I turned to him and said - excuse me? Do you mind interrupting us, #p?"
+        "Ti dispiace? Ero nel bel mezzo di una conversazione!",
+        "#p! Ero proprio nel bel mezzo di una conversazione.",
+        "È un po' scortese interrompere, non è così?",
+        "Non c'è motivo di interrompere, no?",
+        "Stavo parlando! Aspetta il tuo turno!",
+        "Che maleducato! Stavamo facendo una bella chiacchierata, se non ti dispiace.",
+        "Fatti gli affari tuoi. Non vedi che stavamo parlando?",
+        "Fatti gli affari tuoi, grazie! Ora lasciaci in pace.",
+        "Vedo che non ti fai scrupoli a interrompere una bella chiacchierata tra hobbit!",
+        "Se vuoi scusarmi, #p, ero nel bel mezzo di una conversazione."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "in_conversation": "other",
+        "rank": "<shirriff",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Che maleducato! Stavamo facendo una bella chiacchierata, se non ti dispiace."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "in_conversation": "other",
+        "rank": "<shirriff",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Che maleducata! Stavamo facendo una bella chiacchierata, se non ti dispiace."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "in_conversation": "other",
+        "rank": "<shirriff",
+        "gender": "m"
+      },
+      "lines": [
+        "...e io mi sono girato e ho detto - Scusami? Ti dispiacerebbe non interromperci, #p?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "in_conversation": "other",
+        "rank": "<shirriff",
+        "gender": "f"
+      },
+      "lines": [
+        "...e io mi sono girata e ho detto - Scusami? Ti dispiacerebbe non interromperci, #p?"
       ]
     },
     {
@@ -403,13 +538,35 @@
         "biome": "#home"
       },
       "lines": [
-        "These Big Folk! They come over here and steal our farms. Keep the Shire for the Hobbits, that's what I say!",
-        "Not often we see Big Folk here in the Shire.",
-        "One of the Big Folk in the Shire? Mind you take care!",
-        "Who let you into the Shire? I hope you're not here to cause any mischief!",
-        "#p, is it? Not often one of you Big Folk wanders into our Shire.",
-        "I don't believe we've met, have we? Welcome to the Shire.",
-        "Have we met? No? Well, this is our Shire. Lovely place, isn't it?"
+        "Questa Gente Alta! Vengono qui e ci rubano fattorie. La Contea agli hobbit, ecco che dico!",
+        "Non vediamo spesso Gente Alta nella Contea.",
+        "Gente Alta nella Contea? Spero che tu faccia attenzione!",
+        "#p, giusto? Non capita spesso che voi Gente Alta passiate per la nostra Contea.",
+        "Ci siamo già incontrati? No? Bene, questa è la nostra Contea. Posto incantevole, vero?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "biome": "#home",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Chi ti ha fatto entrare nella Contea? Spero che tu non sia qui per causare guai!",
+        "Non credo che ci siamo mai incontrati, vero? Benvenuto nella Contea."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "biome": "#home",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Chi ti ha fatta entrare nella Contea? Spero che tu non sia qui per causare guai!",
+        "Non credo che ci siamo mai incontrati, vero? Benvenuta nella Contea."
       ]
     },
     {
@@ -418,15 +575,45 @@
         "rank": "<guest"
       },
       "lines": [
-        "What's your name, then? #p? I don't believe we've met.",
-        "I don't believe we've met before.",
-        "#p, you say? It's not often we meet one of you Big Folk.",
-        "And who are you? #p? Well, I hope you're not one of those strange folk!",
-        "Have we met?",
-        "Have we met? No? Well, I'll be on my way, then.",
-        "Hmm... I don't believe we've met.",
-        "One of the Big Folk? What was your name, again?",
-        "What was your name, again? Speak up!"
+        "Allora, come ti chiami? #p? Non mi sembra che ci conosciamo.",
+        "Non credo che ci siamo mai incontrati prima.",
+        "#p, dici? Non ci capita spesso di incontrare voi Gente Alta.",
+        "E tu chi sei? #p? Beh, spero che tu non sia una di quelle persone strane!",
+        "Ci conosciamo?",
+        "Ci conosciamo? No? Beh, allora me ne vado.",
+        "Mhh... non credo che ci conosciamo",
+        "Come hai detto che ti chiami? Dillo!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "gender": "f",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Non credo che ci siamo mai incontrate prima."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Uno della Gente Alta? Come hai detto che ti chiami?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": "<guest",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Una della Gente Alta? Come hai detto che ti chiami?"
       ]
     },
     {
@@ -439,14 +626,36 @@
             "relation": "friendly",
             "rank": "<guest"
           }
-        ]
+        ],
+        "player_gender_pref": "m"
       },
       "lines": [
-        "Strange folk have been seen in these parts, and you look like one of them.",
-        "Aren't you one of those strange folk I've heard talk of?",
-        "There's talk of strange folk round here. Might you be one of them?",
-        "I've seen strange folk lurking around these parts, and you remind me of one of them. I don't trust you.",
-        "I don't know about you..."
+        "Da queste parti è stata vista gente strana e tu sembri uno di loro.",
+        "Sei una di quelle strane persone di cui ho sentito parlare?",
+        "Si parla di gente strana da queste parti. Potresti essere uno di loro?",
+        "Ho visto persone strane aggirarsi da queste parti e tu me ne ricordi una. Non mi fido di te.",
+        "Non mi fido di te..."
+      ]
+    },
+    {
+      "conditions": {
+        "alternatives": [
+          {
+            "relation": "hostile"
+          },
+          {
+            "relation": "friendly",
+            "rank": "<guest"
+          }
+        ],
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Da queste parti è stata vista gente strana e tu sembri una di loro.",
+        "Sei una di quelle strane persone di cui ho sentito parlare?",
+        "Si parla di gente strana da queste parti. Potresti essere una di loro?",
+        "Ho visto persone strane aggirarsi da queste parti e tu me ne ricordi una. Non mi fido di te.",
+        "Non mi fido di te..."
       ]
     },
     {
@@ -463,7 +672,7 @@
         "biome": "#home"
       },
       "lines": [
-        "Big Folk make me uneasy. Mind you remember whose Shire this is."
+        "La Gente Alta mi mette a disagio. Ricordati di chi è la Contea."
       ]
     },
     {
@@ -471,44 +680,70 @@
         "relation": "hostile"
       },
       "lines": [
-        "I hear you've been causing trouble round here.",
-        "You look like a troublemaker!",
-        "You look like a troublemaker, #p.",
-        "Stay away from the Shire, #p.",
-        "Stay out of the Shire!",
-        "I shan't be lending you any of my pipe-weed!",
-        "We don't take kindly to folk like you.",
-        "You're not a nice fellow, #p.",
-        "If you'll be begging my pardon, you make me feel uncomfortable.",
-        "You're one for the Mewlips, #p!",
-        "I knew you queer old Big Folk were trouble!",
-        "We don't appreciate folk like you in the Shire.",
-        "Don't try any of your Big Folk tricks on me!",
-        "Don't try any of your Big Folk tricks on me, #p!",
-        "May you never savour Longbottom Leaf again!",
-        "I knew I couldn't trust you. Your feet are too small!",
-        "The Green Dragon will never serve you!",
-        "Leave me in peace!",
-        "Leave me in peace, #p!",
-        "My cousin owns some very large dogs. You don't want to meet them, do you?",
-        "Interrupter of the peace!",
-        "Stop! Troublemaker!",
-        "Old Bullroarer would knock you down a hole or two!",
-        "The wolf that one hears is worse than the Orc that one fears. But get between a Hobbit and their peace...",
-        "Only a fool would interrupt my mealtimes!",
-        "Strange folk meet strange ends!",
-        "Don't make me fetch my scythe!",
-        "You may be taller than me, #p. But you're greater in no other way!",
-        "Folk like you should have been given a good drownding!",
-        "You must be one of those ne'er-do-wells I keep hearing talk of!",
-        "We in the Shire don't take kindly to ne'er-do-wells like you, #p.",
-        "Back off!",
-        "You're a ne'er-do-well if I ever saw one, #p.",
-        "I don't want no trouble, #p!",
-        "Now, now, let's not be having no trouble!",
-        "I don't want no trouble with you, #p.",
-        "Off you go now, or I'll be getting my rake!",
-        "Don't make me reach for my rake!"
+        "Ho sentito che stai causando problemi da queste parti.",
+        "Stai fuori dalla Contea!",
+        "Non ti darò la mia erba pipa!",
+        "Non siamo gentili con gente come te.",
+        "Tu voglia scusarmi, ma mi metti a disagio.",
+        "Lo sapevo che voi Gente Alta portavate solo guai!",
+        "Non apprezziamo gente come te nella Contea.",
+        "Non provare i tuoi trucchi da Gente Alta su di me!",
+        "Non provare i tuoi trucchi da Gente Alta su di me, #p!",
+        "Possa tu non assaporare mai più Foglia di Pianilungone!",
+        "Sapevo di non potermi fidare di te. I tuoi piedi sono troppo piccoli!",
+        "Il Drago Verde non ti servirà mai!",
+        "Lasciami in pace!",
+        "Lasciami in pace, #p!",
+        "Mio cugino ha dei cani molto grandi. Non vorrai incontrarli, vero?",
+        "Smettila! Piantagrane!",
+        "Il vecchio Ruggitoro ti farebbe cadere in un buco o due!",
+        "Il lupo che si sente è peggio dell'orco che si teme. Ma mettiti tra uno Hobbit e la sua pace...",
+        "La gente strana incontra fini strane!",
+        "Non costringermi a prendere la falce!",
+        "Sarai anche più alto di me, #p. Ma non sei più grande in nessun altro modo!",
+        "La gente come te dovrebbe essere annegata!",
+        "Stai indietro!!",
+        "Non voglio problemi, #p!",
+        "Ora, ora, cerchiamo di non avere problemi!",
+        "Non voglio problemi con te, #p.",
+        "Vai via ora o prenderò il rastrello!",
+        "Non farmi prendere il rastrello!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Sembri un piantagrane!",
+        "Sembri un piantagrane, #p.",
+        "Stai lontano dalla Contea, #p.",
+        "Tu non sei una brava persona, #p.",
+        "Sei uno dei mewlip, #p!",
+        "Disturbatore della pace!",
+        "Solo uno sciocco interromperebbe i miei pasti!",
+        "Devi essere uno di quei malandrini di cui continuo sentir a parlare!",
+        "Noi della Contea non vediamo di buon occhio i buoni a nulla come te, #p.",
+        "Sei un buono a nulla se mai ne ho visto uno, #p."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Sembri una piantagrane!",
+        "Sembri una piantagrane, #p.",
+        "Stai lontana dalla Contea, #p.",
+        "Tu non sei una brava persona, #p.",
+        "Sei una dei mewlip, #p!",
+        "Disturbatrice della pace!",
+        "Solo una sciocca interromperebbe i miei pasti!",
+        "Devi essere una di quelle malandrine di cui continuo sentir a parlare!",
+        "Noi della Contea non vediamo di buon occhio le buone a nulla come te, #p.",
+        "Sei una buona a nulla se mai ne ho visto uno, #p."
       ]
     },
     {
@@ -517,18 +752,40 @@
         "biome": "#home"
       },
       "lines": [
-        "The Shire is no place for troublemakers like you!",
-        "You'd better leave the Shire, #p, or I'll be a-calling the Shirriffs!",
-        "Get off my land!",
-        "Get off my land, #p!",
-        "My pitchfork is pointy enough to make you think twice about returning to the Shire!",
-        "The Shire has been peaceful for hundreds of years and I daresay you'll regret changing that!",
-        "Stay away from my potatoes!",
-        "The Shirriffs will see to you, #p!",
-        "Go back over the hedge!",
-        "Go back over the hedge, #p!",
-        "A troublemaker I see? The Shire only welcomes Hobbits! Begone!",
-        "I don't mean no harm, #p, but your kind aren't welcome here."
+        "La Contea non è un posto per piantagrane come te!",
+        "Faresti meglio a lasciare la Contea, #p, o chiamerò gli Sceriffi!",
+        "Vattene via dalla mia terra!",
+        "Vattene via dalla mia terra, #p!",
+        "Il mio forcone è abbastanza appuntito da farti pensare due volte prima di tornare nella Contea!",
+        "La Contea è stata pacifica per centinaia di anni e oserei dire che ti pentirai di averlo cambiato!",
+        "Gli Shirriff si occuperanno di te, #p!",
+        "Torna oltre la siepe!",
+        "Torna oltre la siepe, #p!",
+        "Vedo un piantagrane? La Contea dà il benvenuto solo agli hobbit! Sparisci!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "biome": "#home",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Stai lontano dalle mie patate!",
+        "Vedo un piantagrane? La Contea dà il benvenuto solo agli hobbit! Sparisci!",
+        "Non voglio farti del male, #p, ma quelli come te non sono i benvenuti qui."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "biome": "#home",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Stai lontana dalle mie patate!",
+        "Vedo una piantagrane? La Contea dà il benvenuto solo agli hobbit! Sparisci!",
+        "Non voglio farti del male, #p, ma quelle come te non sono le benvenute qui."
       ]
     },
     {
@@ -537,7 +794,7 @@
         "daytime": "morning"
       },
       "lines": [
-        "Second breakfast would be too good for you, #p!"
+        "La seconda colazione sarebbe troppo buona per te, #p!"
       ]
     }
   ]
