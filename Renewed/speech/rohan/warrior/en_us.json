@@ -1,52 +1,15 @@
 {
+  "parent": "lotr:rohan/common",
   "speech": [
     {
       "conditions": {
         "relation": "friendly"
       },
       "lines": [
-        "The world of Men has fallen from its former glory.",
-        "I hope to see the world of Men restored, as it was in the days of old.",
         "These are the lands of our fathers, and our fathers' fathers. It is our duty to guard them.",
-        "The horses of the Riddermark are the finest in all Middle-earth.",
-        "Beware the Uruk-hai. They come here often in raiding parties, leaving only destruction in their wake.",
-        "New life grows ever where the forefathers of Rohan sleep.",
-        "The wolf that one hears is worse than the Orc that one fears.",
-        "I hope you're not forgetting to feed those horses.",
-        "In these grim times our lands are often besieged by the servants of the Enemy.",
-        "The Hand and Eye of the Dark Lord ever afflict us in these fell times.",
-        "I wonder how those Dunlendings can be as foolish as they are unsightly... oh, were you talking to me, #p?",
-        "Have you heard the songs of Helm Hammerhand? They say he slew Dunlendings even to his last day on earth.",
-        "Have you heard the songs of Helm Hammerhand? They say he was found dead in the snow, with the blood of Dunlendings still frozen on his hands.",
-        "The Dunlending wildmen name us Strawheads. Well, #p, I would rather have straw for hair than live every day among dirt and pig-filth.",
         "There are many great horses in these lands, #p, and all are fit for battle.",
-        "A strong horse needs good hay, #p. So don't forget to feed them!",
-        "The days are dark in Stoningland.",
         "They say the Southron hosts are increasing beyond the Southstream.",
-        "Before long, I fear, we shall need to ride out and defeat the cruel Men of Sutherstreams once more.",
-        "We have an old quarrel with the Corsairs of Sutherland.",
-        "Five yearhundreds have passed now since Eorl the Young brought us down out of the North.",
-        "We of the folk of Eorl are proud and true."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest"
-      },
-      "lines": [
-        "Hail, #p!",
-        "Don't forget to feed the horses!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest"
-      },
-      "lines": [
-        "Hail, stranger!",
-        "Good day. Come you from a strange country?"
+        "Before long, I fear, we shall need to ride out and defeat the cruel Men of Sutherstreams once more."
       ]
     },
     {
@@ -55,8 +18,6 @@
         "biome": "#home"
       },
       "lines": [
-        "You walk now upon the green fields of the Riddermark.",
-        "These lands are troubled, #p. Orcs often break through our borders.",
         "Ever we must rid our lands of the Orc filth that plagues us, #p."
       ]
     },
@@ -74,27 +35,6 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": "<guest",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "Be silent, stranger!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<footman",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "Be silent!",
-        "Be silent! We were speaking!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "rank": "<footman",
         "in_conversation": "other"
       },
@@ -105,57 +45,11 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": ">=guest & <atarms"
-      },
-      "lines": [
-        "Ah, it's you once again, #p.",
-        "Good day, #p. From which far land do you hail?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<atarms",
-        "biome": "#home"
-      },
-      "lines": [
-        "Welcome to the Riddermark.",
-        "Welcome to Rohan. From which land do you hail?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "biome": "#home"
-      },
-      "lines": [
-        "Welcome to the Riddermark, #p.",
-        "Welcome to the land of Rohan, #p!",
-        "Welcome, #p. What brings you to the land of Rohan?",
-        "Welcome to Rohan, #p.",
-        "Greetings, #p! What tidings do you bring to the Riddermark?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "rank": "<footman"
       },
       "lines": [
         "Hail, #p! We are the riders of Rohan.",
-        "Are you in league with the Sorceress of the Golden Wood? Webs of deceit were ever woven in Dwimordene.",
         "Seldom do we have travellers in this land. What is your purpose here?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=atarms & <captain"
-      },
-      "lines": [
-        "Hail #p, friend of the Mark!",
-        "I have heard tell of your deeds in the name of the Mark, #p."
       ]
     },
     {
@@ -173,7 +67,6 @@
         "rank": ">=rider"
       },
       "lines": [
-        "Hail #p, rider of the Mark!",
         "Shall we ride into battle together, #p?",
         "Now we shall ride together as Eorlingas."
       ]
@@ -210,27 +103,6 @@
     {
       "conditions": {
         "relation": "friendly",
-        "biome": "#home",
-        "daytime": "evening | dusk",
-        "weather": "clear"
-      },
-      "lines": [
-        "The sun draws down behind the Mountains.",
-        "See how the sun draws down upon the plains of the Mark."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "daytime": "dusk | night"
-      },
-      "lines": [
-        "Night has fallen. Beware the wolf that stalks in the dark, #p."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "rank": "<guest",
         "biome": "#home",
         "daytime": "dusk | night"
@@ -242,31 +114,9 @@
     {
       "conditions": {
         "relation": "friendly",
-        "daytime": "dawn",
-        "weather": "clear"
-      },
-      "lines": [
-        "Look to the east! The sun rises!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "weather": "rain"
-      },
-      "lines": [
-        "Perhaps this storm comes of a fell wind from the East.",
-        "The clouds have burst. See to it that you shelter your horses!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "biome": "lotr:anorien"
       },
       "lines": [
-        "Always I have wished to set foot in Stoningland.",
-        "Long have I wished to set foot in Stoningland, the country of our mighty friends of old.",
         "Long have I wished to ride to Stoningland. Now perhaps we shall come even to the Mundburg itself?"
       ]
     },
@@ -277,11 +127,9 @@
       "lines": [
         "I shall not suffer your presence here!",
         "Tremble where you stand, #p!",
-        "Your doom shall come swiftly, #p!",
         "No pity for the foes of the Mark!",
         "No pity for the foes of Eorl!",
         "Leave, or face your doom!",
-        "You will pay for your crimes, #p!",
         "Your villainy ends here!"
       ]
     },
@@ -291,13 +139,9 @@
         "biome": "#home"
       },
       "lines": [
-        "We shall not suffer your presence in these lands, #p!",
-        "You are not welcome in the Mark, #p!",
-        "You are not welcome in the Riddermark!",
-        "You should have fled these lands long ago!",
         "It was foolish indeed of you to venture into our lands!",
         "You shall not stain the Mark with your devilry!",
-        "Begone from our lands, or face the sharp points of our spears!",
+        "Begone from our land, or face the sharp points of our spears!",
         "Flee the Mark if you value your breath!",
         "Flee the Mark, never to return!"
       ]
@@ -308,21 +152,7 @@
         "pledge": "lotr:isengard"
       },
       "lines": [
-        "You shall meet your doom swiftly, thrall of Isengard!",
-        "The treachery of Isengard is unwelcome here.",
-        "How fell you into the service of Isengard?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge": "lotr:mordor"
-      },
-      "lines": [
-        "How fell you into the service of Mordor?",
-        "Begone, thrall of Sauron!",
-        "Begone, thrall of Mordor!",
-        "You and your master shall have no more black horses from us!"
+        "You shall meet your doom swiftly, thrall of Isengard!"
       ]
     },
     {
@@ -331,9 +161,22 @@
         "pledge_relation": "bad"
       },
       "lines": [
-        "You shall regret swearing service to the Enemy!",
-        "How fell you into the service of the Shadow?",
-        "Begone, thrall of the Enemy!"
+        "You shall regret swearing service to the Enemy!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "pledge": "lotr:mordor"
+      },
+      "lines": [
+        "Crawl back to your master in the Land of Shadow!",
+        "You shall return to Sauron empty-handed!",
+        "No! No more of our horses for Mordor!",
+        "No! No more of our horses for the Lord of the Black Land!",
+        "You and your master shall have no more black horses from us!",
+        "Was it you who stole our horses away to Mordor, #p? You shall have no more!",
+        "No more horses of the Mark for you, nor your fell master!"
       ]
     },
     {
