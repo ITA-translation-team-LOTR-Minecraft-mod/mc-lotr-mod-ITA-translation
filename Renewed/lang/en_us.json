@@ -1860,7 +1860,7 @@
   "biome.lotr.northern_dale": "Northern Dale",
   "biome.lotr.rivendell": "Rivendell",
   "biome.lotr.rivendell_hills": "Rivendell Hills",
-  "biome.lotr.western_gondor": "Western Gondor",
+  "biome.lotr.further_gondor": "Further Gondor",
   "biome.lotr.shire_moors": "Shire Moors",
   "biome.lotr.white_downs": "White Downs",
   "biome.lotr.midgewater": "Midgewater",
@@ -2714,6 +2714,7 @@
   "maplabel.lotr.westmarch": "West-march",
   "maplabel.lotr.gondor": "Gondor",
   "maplabel.lotr.bay_of_belfalas": "Bay of Belfalas",
+  "maplabel.lotr.cobas_haven": "Cobas Haven",
   "maplabel.lotr.ash_mountains": "Ash Mountains",
   "maplabel.lotr.shadow_mountains": "Mountains of Shadow",
   "maplabel.lotr.udun": "Udûn",
@@ -3178,6 +3179,11 @@
   "config.lotr.immersiveSpeechDuration": "Immersive Speech duration",
   
   "config.lotr.dolAmrothChestplateWings": "Dol Amroth Chestplate wing count",
+  "config.lotr.mannishWomenUseAlexModelStyle": "Mannish women use 'Alex' model style",
+  "config.lotr.elfWomenUseAlexModelStyle": "Elf-women use 'Alex' model style",
+  "config.lotr.dwarfWomenUseAlexModelStyle": "Dwarf-women use 'Alex' model style",
+  "config.lotr.hobbitWomenUseAlexModelStyle": "Hobbit-women use 'Alex' model style",
+  "config.lotr.orcWomenUseAlexModelStyle": "Orc-women use 'Alex' model style",
   
   "config.lotr.windAmbience": "Ambience: Wind",
   "config.lotr.newRainSounds": "New rain sounds",
