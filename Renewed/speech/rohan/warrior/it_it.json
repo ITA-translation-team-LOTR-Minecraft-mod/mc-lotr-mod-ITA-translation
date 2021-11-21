@@ -1,96 +1,15 @@
 {
+  "parent": "lotr:rohan/common",
   "speech": [
     {
       "conditions": {
         "relation": "friendly"
       },
       "lines": [
-        "Il mondo degli Uomini si è allontanato dal suo antico splendore.",
-        "Spero di vedere il mondo degli Uomini restaurato, com'era nei tempi antichi.",
-        "I regni degli uomini non sono più gloriosi come un tempo..",
-        "I cavalli del Riddermark sono i migliori di tutta la Terra di Mezzo.",
-        "Noi Eorlingas teniamo ai nostri cavalli più di ogni altra cosa. Sono i migliori di tutta la Terra di Mezzo!",
-        "Fai attenzione agli Uruk-hai. Le loro bande vengono spesso da queste parti a fare razzia e lasciano dietro di sé solo distruzione.",
-        "La nuova vita cresce sempre dove riposano gli antenati di Rohan.",
-        "Il lupo che senti è peggiore dell'orco che temi.",
-        "Spero che non dimentichi di dare da mangiare ai cavalli",
-        "In questi tempi cupi le nostre terre sono spesso assediate dai servi del Nemico.",
-        "La Mano e l'Occhio del Signore Oscuro ci affliggono in questi tempi funesti.",
-        "Mi chiedo come quei Dunlandiani possano essere tanto stolti quanto ripugnanti... oh, stavi parlando con me, #p?",
-        "Hai sentito le canzoni su Helm Mandimartello? Dicono che abbia ucciso Dunlandiani fino al suo ultimo giorno sulla terra.",
-        "Hai sentito le canzoni su Helm Mandimartello? Dicono che sia stato trovato morto nella neve, con il sangue dei Dunlandiani ancora congelato sulle mani.",
-        "I selvaggi Dunlandiani ci chiamano teste di paglia. Ebbene, #p, preferirei avere la paglia come capelli che vivere ogni giorno tra terra e lerciume.",
-        "Un cavallo forte ha bisogno di buon fieno, #p. Quindi non dimenticare di dar loro da mangiare!",
-        "Sono giorni bui a Stoningland.",
-        "Abbiamo un'antica disputa con i Corsari del Sud.",
-        "Sono passati cinquecento anni da quando Eorl il Giovane ci ha portato qui dal Nord.",
-        "Com'era alto e bello Eorl il Giovane, che cavalcò fin qui dal Nord!",
-        "Noi del Popolo di Eorl siamo orgogliosi e sinceri.",
-        "Noi Eorlingas siamo una stirpe orgogliosa e determinata.",
-        "Hai mai visto il Palazzo d'Oro, #p? La luce di Meduseld risplende lontano su tutte le terre!",
-        "I giorni si fanno oscuri, le notti fredde.",
-        "In questi tempi cupi le nostre terre sono spesso assediate dai servi del male.",
-        "Raramente gli orchi viaggiano all'aperto, sotto il sole, eppure di recente l'hanno fatto. Temo per il mio popolo.",
-        "Orchi che portano la Mano Bianca sono stati visti attraversare i confini e razziare i nostri villaggi.",
-        "Lo Stregone Bianco ha preso al suo servizio orchi, cavalcatori di lupi e uomini malvagi. La guerra sta arrivando.",
-        "Fa' attenzione allo Stregone Bianco, #p. Si dice che vada in giro come un vecchio, incappucciato e ammantato.",
-        "Si raccontano vecchie storie di alberi parlanti nell'Entabosco. Vorrei conoscere la verità, ma nessuno ha il coraggio di entrare.",
-        "Fai attenzione agli alberi dell'Entabosco, #p!",
-        "I racconti delle incursioni degli orchi nell'Ovestfalda crescono di anno in anno.",
-        "Hai cavalcato oggi, #p, o hai viaggiato a piedi?",
-        "I giorni dell'Occidente sono tramontati. Dietro le colline verso le colline e nell'ombra",
-        "E pensare che eravamo buoni amici con gli Uomini di Stoningland! Ci hanno abbandonato da molto tempo.",
-        "Gli uomini delle colline stanno diventando sempre più ostili. Ho sentito molte storie di villaggi bruciati e cavalli uccisi.A"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest"
-      },
-      "lines": [
-        "Salve, #p!",
-        "Non dimenticare di dare da mangiare ai cavalli!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Salve, straniero!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Salve, straniera!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "daytime": "dawn | morning"
-      },
-      "lines": [
-        "Buon giorno. Vieni da un paese straniero?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "daytime": "afternoon | evening | dusk"
-      },
-      "lines": [
-        "Buona sera. Vieni da un paese straniero?"
+        "Queste sono le terre dei nostri padri e dei padri dei nostri padri. È nostro dovere proteggerle.",
+        "Ci sono molti ottimi cavalli in queste terre, #p, e tutti sono adatti alla battaglia.",
+        "Dicono che le armate dei Sudroni stiano aumentando oltre il fiume Harnen.",
+        "Tra non molto, temo, dovremo cavalcare e sconfiggere ancora una volta i crudeli Uomini del Sud."
       ]
     },
     {
@@ -99,9 +18,7 @@
         "biome": "#home"
       },
       "lines": [
-        "Cammini sui verdi campi del Riddermark.",
-        "Queste terre sono funestate, #p. Gli orchi valicano spesso i nostri confini.",
-        "Dobbiamo sempre liberare le nostre terre dalla feccia orchesca che ci affligge, #p."
+        "È nostro dovere liberare queste terre dalla feccia orchesca che le affligge, #p."
       ]
     },
     {
@@ -118,120 +35,11 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": "<guest",
-        "in_conversation": "other",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Taci, straniero!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "in_conversation": "other",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Taci, straniera!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "rank": "<footman",
         "in_conversation": "other"
       },
       "lines": [
-        "Taci!",
-        "Taci! Stiamo parlando!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<footman",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "E cosa ti fa guadagnare il diritto di partecipare ai nostri consigli di guerra?! Come giustifichi la tua insolenza, #p?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "daytime": "dawn | morning"
-      },
-      "lines": [
-        "Ah, sei nuovamente tu, #p.",
-        "Buon giorno, #p. Da quale terra lontana vieni?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "daytime": "afternoon | evening | dusk"
-      },
-      "lines": [
-        "Ah, sei nuovamente tu, #p.",
-        "Buona sera, #p. Da quale terra lontana vieni?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<atarms",
-        "biome": "#home",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Benvenuto nel Riddermark.",
-        "Benvenuto a Rohan. Da quale terra vieni?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<atarms",
-        "biome": "#home",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Benvenuta nel Riddermark.",
-        "Benvenuta a Rohan. Da quale terra vieni?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "biome": "#home",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Benvenuto nel Riddermark, #p.",
-        "Benvenuto nella terra di Rohan, #p!",
-        "Benvenuto, #p. Cosa ti porta nella terra di Rohan?",
-        "Benvenuto a Rohan, #p.",
-        "Saluti, #p! Che notizie porti nel Riddermark?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "biome": "#home",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Benvenuta nel Riddermark, #p.",
-        "Benvenuta nella terra di Rohan, #p!",
-        "Benvenuta, #p. Cosa ti porta nella terra di Rohan?",
-        "Benvenuta a Rohan, #p.",
-        "Saluti, #p! Che notizie porti nel Riddermark?"
+        "Cosa ti concede il diritto di partecipare ai nostri consigli di guerra?! Come giustifichi la tua insolenza, #p?"
       ]
     },
     {
@@ -241,30 +49,7 @@
       },
       "lines": [
         "Salve, #p! Noi siamo i cavalieri di Rohan.",
-        "Sei in combutta con la Strega del Bosco Dorato? A Dwimordene si sono sempre tessute reti di inganni.",
-        "Raramente abbiamo viaggiatori in queste terre. Perché ti trovi qui?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=atarms & <captain",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Salve #p, amico del Mark!",
-        "Ho sentito raccontare le tue gesta in nome del Mark, #p."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=atarms & <captain",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Salve #p, amica del Mark!",
-        "Ho sentito raccontare le tue gesta in nome del Mark, #p."
+        "Raramente si incontrano viaggiatori nelle nostre terre. Perché ti trovi qui?"
       ]
     },
     {
@@ -279,23 +64,9 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": ">=rider",
-        "player_gender_pref": "m"
+        "rank": ">=rider"
       },
       "lines": [
-        "Salve #p, cavaliere del Mark!",
-        "Cavalcheremo insieme in battaglia, #p?",
-        "Cavalcheremo insieme come Eorlingas."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=rider",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Salve #p, cavaliera del Mark!",
         "Cavalcheremo insieme in battaglia, #p?",
         "Cavalcheremo insieme come Eorlingas."
       ]
@@ -344,31 +115,9 @@
     {
       "conditions": {
         "relation": "friendly",
-        "biome": "#home",
-        "daytime": "evening | dusk",
-        "weather": "clear"
-      },
-      "lines": [
-        "Il sole cala dietro le Montagne.",
-        "Guarda il sole che tramonta sulle pianure del Mark."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "daytime": "dusk | night"
-      },
-      "lines": [
-        "È calata la notte. Fa' attenzione ai lupi che si aggirano nell'oscurità, #p."
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "rank": "<guest",
         "biome": "#home",
-        "daytime": "dusk | night",
-        "player_gender_pref": "m"
+        "daytime": "dusk | night"
       },
       "lines": [
         "Che cosa ci fa uno straniero venuto da lontano in giro per il Mark durante la notte?"
@@ -377,43 +126,9 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": "<guest",
-        "biome": "#home",
-        "daytime": "dusk | night",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Che cosa ci fa una straniera venuta da lontano in giro per il Mark durante la notte?"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "daytime": "dawn",
-        "weather": "clear"
-      },
-      "lines": [
-        "Guarda a est! Il sole sorge!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "weather": "rain"
-      },
-      "lines": [
-        "Forse questa tempesta è stata portata qui dal vento impetuoso da Est.",
-        "Si è messo a piovere. Abbi cura di portare al riparo i tuoi cavalli!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
         "biome": "lotr:anorien"
       },
       "lines": [
-        "Ho sempre desiderato mettere piede a Stoningland.",
-        "Da tempo desideravo venire a Stoningland, il paese dei nostri potenti amici di un tempo.",
         "Da tempo desideravo cavalcare a Stoningland. Ora forse arriveremo persino al Mundburg?"
       ]
     },
@@ -424,11 +139,9 @@
       "lines": [
         "Non tollererò la tua presenza qui!",
         "Trema, #p!",
-        "Arriverà presto la tua rovina, #p!",
         "Nessuna pietà per i nemici del Mark!",
         "Nessuna pietà per i nemici di Eorl!",
         "Vattene, o incontra la tua fine!",
-        "Pagherai per i tuoi crimini, #p!",
         "La tua malvagità finisce qui!"
       ]
     },
@@ -438,36 +151,11 @@
         "biome": "#home"
       },
       "lines": [
-        "Non subiremo la tua presenza in queste terre, #p!",
+        "È stato davvero sciocco da parte tua avventurarti nelle nostre terre!",
         "Non macchierai il Mark con la tua malvagità!",
         "Vattene dalle nostre terre, o affronta le punte aguzze delle nostre lance!",
         "Fuggi dal Mark se ti è cara la vita!",
-        "Fuggi dal Mark, e non tornare mai più!",
-        "È stato davvero sciocco da parte tua avventurarti nelle nostre terre!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "biome": "#home",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Non sei il benvenuto nel Mark, #p!",
-        "Non sei il benvenuto nel Riddermark!",
-        "Saresti dovuto sparire da queste terre molto tempo fa!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "biome": "#home",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Non sei la benvenuta nel Mark, #p!",
-        "Non sei la benvenuta nel Riddermark!",
-        "Saresti dovuta sparire da queste terre molto tempo fa!"
+        "Fuggi dal Mark, e non tornare mai più!"
       ]
     },
     {
@@ -477,9 +165,7 @@
         "player_gender_pref": "m"
       },
       "lines": [
-        "Incontrerai presto la tua fine, servo di Isengard!",
-        "L'infedeltà di Isengard non è gradita qui.",
-        "Come sei finito al servizio di Isengard?"
+        "Incontrerai presto la tua fine, servo di Isengard!"
       ]
     },
     {
@@ -489,9 +175,30 @@
         "player_gender_pref": "f"
       },
       "lines": [
-        "Incontrerai presto la tua fine, serva di Isengard!",
-        "L'infedeltà di Isengard non è gradita qui.",
-        "Come sei finita al servizio di Isengard?"
+        "Incontrerai presto la tua fine, serva di Isengard!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "pledge_relation": "bad"
+      },
+      "lines": [
+        "Ti pentirai di aver scelto di servire il Nemico!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "pledge": "lotr:mordor"
+      },
+      "lines": [
+        "Torna strisciando dal tuo padrone nella Terra dell'Ombra!",
+        "Tornerai da Sauron a mani vuote!",
+        "No! Non ci sono più cavalli per Mordor!",
+        "No! Non ci sono più cavalli per il Signore della Terra Oscura!",
+        "Tu e il tuo padrone non avrete più cavalli neri da noi!",
+        "Niente più cavalli del Mark per te e per il tuo perfido padrone!"
       ]
     },
     {
@@ -501,10 +208,7 @@
         "player_gender_pref": "m"
       },
       "lines": [
-        "Come sei finito al servizio di Mordor?",
-        "Sparisci, servo di Sauron!",
-        "Sparisci, servo di Mordor!",
-        "Tu e il tuo padrone non riceverete più cavalli neri da noi!"
+        "Sei stato tu a rubare i nostri cavalli e portarli a Mordor, #p? Non ne avrai più!"
       ]
     },
     {
@@ -514,34 +218,7 @@
         "player_gender_pref": "f"
       },
       "lines": [
-        "Come sei finita al servizio di Mordor?",
-        "Sparisci, serva di Sauron!",
-        "Sparisci, serva di Mordor!",
-        "Tu e il tuo padrone non riceverete più cavalli neri da noi!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge_relation": "bad",
-        "player_gender_pref": "m"
-      },
-      "lines": [
-        "Ti pentirai di aver scelto di servire il Nemico!",
-        "Come sei finito al servizio dell'Ombra?",
-        "Sparisci, servo del Nemico!"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge_relation": "bad",
-        "player_gender_pref": "f"
-      },
-      "lines": [
-        "Ti pentirai di aver scelto di servire il Nemico!",
-        "Come sei finita al servizio dell'Ombra?",
-        "Sparisci, serva del Nemico!"
+        "Sei stata tu a rubare i nostri cavalli e portarli a Mordor, #p? Non ne avrai più!"
       ]
     },
     {
