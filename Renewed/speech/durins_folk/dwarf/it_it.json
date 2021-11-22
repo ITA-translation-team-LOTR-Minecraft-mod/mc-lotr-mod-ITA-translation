@@ -1,0 +1,13 @@
+{
+  "parent": "lotr:durins_folk/common",
+  "speech": [
+    {
+      "conditions": {
+        "relation": "friendly"
+      },
+      "lines": [
+        "Una manciata di lune ancora alla Forgie, e avrò la corazza necessaria per andar fuori a caccia di quei Rakhâs!"
+      ]
+    }
+  ]
+}
