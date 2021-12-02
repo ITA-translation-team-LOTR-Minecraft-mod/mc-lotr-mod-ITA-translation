@@ -86,7 +86,7 @@
       },
       "lines": [
         "Verme schifoso! Oh, sei tu, #p...",
-        "Non somigli ancora ad un mezzorco, #p!"
+        "Non somigli ancora ad un orco, #p!"
       ]
     },
     {
@@ -97,7 +97,7 @@
       },
       "lines": [
         "Verme schifoso! Oh, sei tu, #p...",
-        "Non somigli ancora ad una mezzorca, #p!"
+        "Non somigli ancora ad una orchessa, #p!"
       ]
     },
     {
@@ -179,7 +179,7 @@
         "player_gender_pref": "m"
       },
       "lines": [
-        "Non sembri un mezzorco!",
+        "Non sembri un orco!",
         "Vuoi qualcosa?"
       ]
     },
@@ -190,7 +190,7 @@
         "player_gender_pref": "f"
       },
       "lines": [
-        "Non sembri una mezzorca!",
+        "Non sembri un'orchessa!",
         "Vuoi qualcosa?"
       ]
     },

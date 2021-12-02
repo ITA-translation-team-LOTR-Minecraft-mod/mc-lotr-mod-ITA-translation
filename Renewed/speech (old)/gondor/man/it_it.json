@@ -1,0 +1,110 @@
+{
+  "parent": "lotr:gondor/common",
+  "speech": [
+    {
+      "conditions": {
+        "relation": "friendly"
+      },
+      "lines": [
+        "Quando ero giovane, sognavo di diventare un cavaliere del cigno di Dol Amroth. Quei tempi mi sembrano cosi distanti adesso",
+        "Spero che la mia familia non sia conscritta nella leva di Gondor.",
+        "Veramente, questi sono i giorni della rovina della razza degli uomini. sembra che perfino il mio raccolto sia in rovina."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#home"
+      },
+      "lines": [
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": ">=guest"
+      },
+      "lines": [
+        "Ci sono delle notizie di guai in giro. posso dirti cio.",
+        "Facciamo quello che dobbiamo per sopravviviere, #p. Ma se il nemico arriva, non so quanto potremmo fare.",
+        "è stato un povero raccolto, #p. Ho speranze per il prossimo anno."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#home",
+        "rank": ">=guest"
+      },
+      "lines": [
+        "Gli eroi di gondor sorgeranno a proteggerci, #p.",
+        "Devo tornare a Lavoro, #p. La terra non si zappa da se.",
+        "Non Scambiero con te le vecchie storie del villaggio."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#home",
+        "rank": "<atarms"
+      },
+      "lines": [
+        "Da quale villaggio vieni, #p?"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": ">=atarms"
+      },
+      "lines": [
+        "Saro per te un amico leale , #p, Fintanto che starai leale a Gondor."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "biome": "#home",
+        "rank": ">=atarms"
+      },
+      "lines": [
+        "Sei forse uno degli eroi di Gondor? Sei qui per proteggerci?",
+        "Salute a #p, Qui per vincere la gloria per Gondor!"
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile"
+      },
+      "lines": [
+        "Non sei il benvenuto, #p.",
+        "Sei un essere Malvagio!",
+        "Sparisci dalla mia vista, #p.",
+        "Tu sei una Rogna, #p.",
+        "Sparisci all'istante!",
+        "La nostra gente non porta amore per esseri maligni come te!",
+        "Gli eroi di gondor ti toglieranno di mezzo, #p.",
+        "Tu meriti la gogna, #p!",
+        "Non mi guardare cosi.",
+        "Che cosa vuoi da me, Piantagrane?",
+        "Non portiamo amore per gente del tuo stampo.",
+        "Tu sei un combina guai , #p, questo è poco ma sicuro."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "biome": "#home"
+      },
+      "lines": [
+        "Vattene, #p, altrimenti chiamero le guardie.",
+        "Non ti sarà dato alcun benvenuto qui.",
+        "Farai meglio stare attento di queste parti. non è sicuro per criminali come te.",
+        "Vattened a Gondor mentre ne hai ancora la possibilità, #p.",
+        "Ti consiglierei di lasciare questo posto, #p.",
+        "Sarebbe meglio che te ne andassi, #p. O preferisci essere cacciato?",
+        "Via di qui, #p! Noi non diamo il benvenoto a combina guai in Gondor."
+      ]
+    }
+  ]
+}
