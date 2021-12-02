@@ -6,9 +6,26 @@
         "relation": "friendly"
       },
       "lines": [
-        "Quando ero giovane, sognavo di diventare un cavaliere del cigno di Dol Amroth. Quei tempi mi sembrano cosi distanti adesso",
-        "Spero che la mia familia non sia conscritta nella leva di Gondor.",
-        "Veramente, questi sono i giorni della rovina della razza degli uomini. sembra che perfino il mio raccolto sia in rovina."
+        "Spero che la mia famiglia non venga arruolata nelle leve di Gondor.",
+        "Davvero, questi sono i giorni della rovina degli Uomini. Sembra che perfino il mio raccolto stia seccando."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "gender": "m"
+      },
+      "lines": [
+        "Quando ero giovane, sognavo di diventare un cavaliere del cigno di Dol Amroth. Quei tempi mi sembrano cosi distanti adesso."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "gender": "f"
+      },
+      "lines": [
+        "Quando ero giovane, sognavo di diventare una cavaliera del cigno di Dol Amroth. Quei tempi mi sembrano cosi distanti adesso."
       ]
     },
     {
@@ -25,9 +42,9 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Ci sono delle notizie di guai in giro. posso dirti cio.",
-        "Facciamo quello che dobbiamo per sopravviviere, #p. Ma se il nemico arriva, non so quanto potremmo fare.",
-        "è stato un povero raccolto, #p. Ho speranze per il prossimo anno."
+        "Ci sono delle notizie preoccupanti in giro. Posso dirti solo questo.",
+        "Facciamo il possibile per sopravvivere, #p. Ma se il nemico verrà non potremo fare molto.",
+        "I nostri raccolti stanno seccando, #p. Spero di avere più fortuna il prossimo anno."
       ]
     },
     {
@@ -37,9 +54,9 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Gli eroi di gondor sorgeranno a proteggerci, #p.",
-        "Devo tornare a Lavoro, #p. La terra non si zappa da se.",
-        "Non Scambiero con te le vecchie storie del villaggio."
+        "Gli eroi di Gondor sorgeranno per proteggerci, #p.",
+        "Devo tornare al lavoro, #p. Quei campi non si zappano da soli.",
+        "Non ti annoierò con le vecchie storie del villaggio."
       ]
     },
     {
@@ -55,55 +72,117 @@
     {
       "conditions": {
         "relation": "friendly",
-        "rank": ">=atarms"
+        "rank": ">=atarms",
+        "gender": "m"
       },
       "lines": [
-        "Saro per te un amico leale , #p, Fintanto che starai leale a Gondor."
+        "Sarò per te un amico leale , #p, finché rimarrai fedele a Gondor."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "friendly",
+        "rank": ">=atarms",
+        "gender": "f"
+      },
+      "lines": [
+        "Sarò per te un'amica leale , #p, finché rimarrai fedele a Gondor."
       ]
     },
     {
       "conditions": {
         "relation": "friendly",
         "biome": "#home",
-        "rank": ">=atarms"
+        "rank": ">=atarms",
+        "player_gender_pref": "m"
       },
       "lines": [
-        "Sei forse uno degli eroi di Gondor? Sei qui per proteggerci?",
-        "Salute a #p, Qui per vincere la gloria per Gondor!"
+        "Sei uno degli eroi di Gondor? Sei venuto a proteggerci?",
+        "Salute a te #p, che vieni da lontano per conquistare gloria per Gondor!"
       ]
     },
     {
       "conditions": {
-        "relation": "hostile"
+        "relation": "friendly",
+        "biome": "#home",
+        "rank": ">=atarms",
+        "player_gender_pref": "f"
       },
       "lines": [
-        "Non sei il benvenuto, #p.",
-        "Sei un essere Malvagio!",
-        "Sparisci dalla mia vista, #p.",
-        "Tu sei una Rogna, #p.",
-        "Sparisci all'istante!",
-        "La nostra gente non porta amore per esseri maligni come te!",
-        "Gli eroi di gondor ti toglieranno di mezzo, #p.",
-        "Tu meriti la gogna, #p!",
-        "Non mi guardare cosi.",
-        "Che cosa vuoi da me, Piantagrane?",
-        "Non portiamo amore per gente del tuo stampo.",
-        "Tu sei un combina guai , #p, questo è poco ma sicuro."
+        "Sei una degli eroi di Gondor? Sei venuta a proteggerci?",
+        "Salute a te #p, che vieni da lontano per conquistare gloria per Gondor!"
       ]
     },
     {
       "conditions": {
         "relation": "hostile",
-        "biome": "#home"
+        "player_gender_pref": "m"
       },
       "lines": [
-        "Vattene, #p, altrimenti chiamero le guardie.",
-        "Non ti sarà dato alcun benvenuto qui.",
-        "Farai meglio stare attento di queste parti. non è sicuro per criminali come te.",
-        "Vattened a Gondor mentre ne hai ancora la possibilità, #p.",
-        "Ti consiglierei di lasciare questo posto, #p.",
-        "Sarebbe meglio che te ne andassi, #p. O preferisci essere cacciato?",
-        "Via di qui, #p! Noi non diamo il benvenoto a combina guai in Gondor."
+        "Non sei mio amico, #p.",
+        "Sei un essere malvagio!",
+        "Sparisci dalla mia vista, #p.",
+        "Sei una rogna, #p.",
+        "Va' via!",
+        "La nostra gente non ama i cattivi come te!",
+        "Gli eroi di Gondor ti abbatteranno, #p.",
+        "Meriti la gogna, #p!",
+        "Non guardarmi in quel modo.",
+        "Cosa vuoi da me, farabutto?",
+        "Non amiamo la gente come te.",
+        "Sei un buono a nulla, #p, questo è sicuro."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Non sei mia amica, #p.",
+        "Sei un essere malvagio!",
+        "Sparisci dalla mia vista, #p.",
+        "Sei una rogna, #p.",
+        "Va' via!",
+        "La nostra gente non ama i cattivi come te!",
+        "Gli eroi di Gondor ti abbatteranno, #p.",
+        "Meriti la gogna, #p!",
+        "Non guardarmi in quel modo.",
+        "Cosa vuoi da me, farabutta?",
+        "Non amiamo la gente come te.",
+        "Sei una buona a nulla, #p, questo è sicuro."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "biome": "#home",
+        "player_gender_pref": "m"
+      },
+      "lines": [
+        "Vattene, #p, altrimenti chiamerò le guardie.",
+        "Non avrai il benvenuto qui.",
+        "Faresti meglio a stare attento da queste parti. Non è sicuro per i criminali come te.",
+        "Vattene da Gondor finché puoi, #p.",
+        "Ti consiglio di lasciare questo posto, #p.",
+        "Faresti meglio ad andartene, #p. O preferisci essere cacciato?",
+        "Via di qui, #p! Non vogliamo buoni a nulla a Gondor."
+      ]
+    },
+    {
+      "conditions": {
+        "relation": "hostile",
+        "biome": "#home",
+        "player_gender_pref": "f"
+      },
+      "lines": [
+        "Vattene, #p, altrimenti chiamerò le guardie.",
+        "Non avrai il benvenuto qui.",
+        "Faresti meglio a stare attenta da queste parti. Non è sicuro per i criminali come te.",
+        "Vattene da Gondor finché puoi, #p.",
+        "Ti consiglio di lasciare questo posto, #p.",
+        "Faresti meglio ad andartene, #p. O preferisci essere cacciata?",
+        "Via di qui, #p! Non vogliamo buoni a nulla a Gondor."
       ]
     }
   ]
