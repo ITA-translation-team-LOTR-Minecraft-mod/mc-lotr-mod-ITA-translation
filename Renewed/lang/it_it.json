@@ -1713,6 +1713,12 @@
     "item.lotr.coast_southron_shield": "Scudo dei Sudroni della Costa",
     "item.lotr.umbar_shield": "Scudo umbarico",
     "item.lotr.culumalda_boat": "Barca di culumalda",
+    "item.lotr.orc_bone": "Osso di orco",
+    "item.lotr.elf_bone": "Osso di elfo",
+    "item.lotr.dwarf_bone": "Osso di nano",
+    "item.lotr.hobbit_bone": "Osso di hobbit",
+    "item.lotr.troll_bone": "Osso di troll",
+    "item.lotr.book_of_true_silver": "Libro dell'argentovero",
 
     "item.lotr.drink.weak": "Debole",
     "item.lotr.drink.light": "Leggero",
@@ -1766,12 +1772,14 @@
     "container.lotr.orc_forge": "Forgia orchesca",
     "container.lotr.hobbit_oven": "Forno hobbit",
 
-    "container.lotr.keg": "Botte",
-    "container.lotr.keg.empty": "Vuoto",
-    "container.lotr.keg.brewing": "%s (%s) in fermentazione",
-    "container.lotr.keg.full": "%s (%s) x %d",
+    "container.lotr.keg.empty": "Botte - Vuota",
+    "container.lotr.keg.brewing": "Botte - Fermentazione",
+    "container.lotr.keg.full": "Botte - Piena",
+    "container.lotr.keg.item_subtitle": "%2$s %1$s",
     "container.lotr.keg.start_brewing": "Avvia fermentazione",
-    "container.lotr.keg.finish_brewing": "Ferma fermentazione",
+    "container.lotr.keg.finish_brewing": "Finisci fermentazione",
+    "container.lotr.keg.finish_brewing.tooltip.allowed": "Finendo ora si otterrà una bevanda %s",
+    "container.lotr.keg.finish_brewing.tooltip.not_allowed": "Deve aver prodotto almeno una bevanda %s",
 
     "dimension.lotr.middle_earth": "Terra di Mezzo",
 
@@ -2996,6 +3004,8 @@
     "factionrelation.lotr.enemy": "Nemici",
     "factionrelation.lotr.mortal_enemy": "Nemici mortali",
 
+    "lotr.alignment.break_pledge": "Giuramento infranto",
+
     "stat.lotr.interact_faction_crafting_table": "Interazioni con i tavoli delle fazioni",
     "stat.lotr.throw_ring_in_fire": "Anelli gettati tra le fiamme",
     "stat.lotr.interact_alloy_forge": "Interazioni con forge",
@@ -3022,6 +3032,10 @@
     "chat.lotr.ft.ticks": "Viaggio rapido tra %d...",
     "chat.lotr.ft.motion": "Viaggio rapido interrotto. Non muoverti!",
     "chat.lotr.ft.offlineTick": "Dall'ultima volta in cui sei stato online (%s fa), il tuo timer di viaggio rapido è avanzato di %s",
+    "chat.lotr.align.insufficient": "Hai bisogno di almeno %s allineamento con %s per eseguire questa azione",
+    "chat.lotr.align.insufficient.2": "Hai bisogno di almeno %s allineamento con %s o %s per eseguire questa azione",
+    "chat.lotr.align.insufficient.3": "Hai bisogno di almeno %s allineamento con %s, %s o %s per eseguire questa azione",
+    "chat.lotr.align.insufficient.more": "Hai bisogno di almeno %s allineamento con %s, %s, %s o (altri %d...) per eseguire questa azione",
     "chat.lotr.pledge.break.intentional": "Hai infranto il tuo giuramento a %s!",
     "chat.lotr.pledge.break.unintentional": "%s ha perso fiducia in te e il tuo giuramento si è infranto!",
     "chat.lotr.pledge.killWarn": "Fai attenzione! Le tue azioni rischiano di infrangere il tuo giuramento a %s!",
@@ -3194,6 +3208,8 @@
     "config.lotr.npcTalkToPlayerMaxDuration": "NPCs palano al giocatore - durata massima",
     "config.lotr.areasOfInfluence": "Aree di influenza di allineamento delle fazioni",
     "config.lotr.alignmentDraining": "Esaurimento allineamento",
+
+    "config.lotr.smallerBees": "Api più piccole",
 
     "config.lotr.generateBiomeJsons": "Genera file JSON per i biomi della Terra di Mezzo",
     
