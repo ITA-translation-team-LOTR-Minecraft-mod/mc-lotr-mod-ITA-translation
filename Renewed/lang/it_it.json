@@ -1999,7 +1999,7 @@
 
     "item.lotr.caracal_spawn_egg": "Uovo generatore di caracal",
 
-    "entityname.lotr.generic": "%s, il %s",
+    "entityname.lotr.generic": "%s, %s",
     "entityname.lotr.gondor_man": "%s di Gondor",
     "entityname.lotr.rohan_man": "%s dei Rohirrim",
     "entityname.lotr.dale_man": "%s di Dale",
