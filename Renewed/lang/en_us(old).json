@@ -1713,6 +1713,12 @@
   "item.lotr.coast_southron_shield": "Coast Southron Shield",
   "item.lotr.umbar_shield": "Umbaric Shield",
   "item.lotr.culumalda_boat": "Culumalda Boat",
+  "item.lotr.orc_bone": "Orc Bone",
+  "item.lotr.elf_bone": "Elf Bone",
+  "item.lotr.dwarf_bone": "Dwarf Bone",
+  "item.lotr.hobbit_bone": "Hobbit Bone",
+  "item.lotr.troll_bone": "Troll Bone",
+  "item.lotr.book_of_true_silver": "Book of True-silver",
   
   "item.lotr.drink.weak": "Weak",
   "item.lotr.drink.light": "Light",
@@ -1766,12 +1772,14 @@
   "container.lotr.orc_forge": "Orc Forge",
   "container.lotr.hobbit_oven": "Hobbit Oven",
   
-  "container.lotr.keg": "Keg",
-  "container.lotr.keg.empty": "Empty",
-  "container.lotr.keg.brewing": "Brewing %s (%s)",
-  "container.lotr.keg.full": "%s (%s) x %d",
+  "container.lotr.keg.empty": "Keg - Empty",
+  "container.lotr.keg.brewing": "Keg - Brewing",
+  "container.lotr.keg.full": "Keg - Full",
+  "container.lotr.keg.item_subtitle": "%2$s %1$s",
   "container.lotr.keg.start_brewing": "Start Brewing",
   "container.lotr.keg.finish_brewing": "Finish Brewing",
+  "container.lotr.keg.finish_brewing.tooltip.allowed": "Finishing now will result in a %s drink",
+  "container.lotr.keg.finish_brewing.tooltip.not_allowed": "Must have brewed at least a %s drink",
   
   "dimension.lotr.middle_earth": "Middle-earth",
   
@@ -2996,6 +3004,8 @@
   "factionrelation.lotr.enemy": "Enemies",
   "factionrelation.lotr.mortal_enemy": "Mortal Enemies",
   
+  "lotr.alignment.break_pledge": "Pledge Broken",
+  
   "stat.lotr.interact_faction_crafting_table": "Interactions with Faction Tables",
   "stat.lotr.throw_ring_in_fire": "Rings Thrown into Fire",
   "stat.lotr.interact_alloy_forge": "Interactions with Alloy Forge",
@@ -3022,6 +3032,10 @@
   "chat.lotr.ft.ticks": "Fast travel in %d...",
   "chat.lotr.ft.motion": "Fast travel stopped. Don't move!",
   "chat.lotr.ft.offlineTick": "Since you were last online (%s ago), your fast travel clock has ticked forwards by %s",
+  "chat.lotr.align.insufficient": "You need at least %s alignment with %s to perform this action",
+  "chat.lotr.align.insufficient.2": "You need at least %s alignment with %s or %s to perform this action",
+  "chat.lotr.align.insufficient.3": "You need at least %s alignment with %s, %s, or %s to perform this action",
+  "chat.lotr.align.insufficient.more": "You need at least %s alignment with %s, %s, %s, or (%d others...) to perform this action",
   "chat.lotr.pledge.break.intentional": "You have broken your pledge to %s!",
   "chat.lotr.pledge.break.unintentional": "%s have lost faith in you, and your pledge has been broken!",
   "chat.lotr.pledge.killWarn": "Beware! Your actions risk breaking your pledge to %s!",
@@ -3194,6 +3208,8 @@
   "config.lotr.npcTalkToPlayerMaxDuration": "NPCs Talk to Player - max duration",
   "config.lotr.areasOfInfluence": "Faction alignment areas of influence",
   "config.lotr.alignmentDraining": "Alignment draining",
+  
+  "config.lotr.smallerBees": "Smaller bees",
 
   "config.lotr.generateBiomeJsons": "Generate LOTR biome JSON files",
   

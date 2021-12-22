@@ -1356,6 +1356,7 @@
     "block.lotr.culumalda_beam_slab": "Lastra di trave di culumalda",
     "block.lotr.fallen_culumalda_leaves": "Foglie di culumalda cadute",
     "block.lotr.bree_crafting_table": "Banco da lavoro della Terra di Brea",
+    "block.lotr.palantir": "Palantír",
 
     "item.lotr.gold_ring": "Anello d'oro",
     "item.lotr.copper_ingot": "Lingotto di rame",
@@ -2106,6 +2107,13 @@
     "gui.lotr.map.areaOfInfluence.disabled": "Le aree di influenza sono disabilitate in questo mondo!",
     "gui.lotr.map.areaOfInfluence.full": "Area ad allineamento pieno",
     "gui.lotr.map.areaOfInfluence.reduced": "Area ad allineamento ridotto",
+    "gui.lotr.map.waypoint.adopted.owner": "Adottato da %s",
+    "gui.lotr.map.zoomingIn": "Ingrandisci: %s / %d",
+    "gui.lotr.map.zoomingOut": "Riduci: %s / %d",
+    "gui.lotr.map.areaOfInfluence.title": "Mostra Aree influenzate da %s",
+    "gui.lotr.map.areaOfInfluence.disabled": "Le Aree D'influenza sono diabilitate in questo mondo!",
+    "gui.lotr.map.areaOfInfluence.full": "Area di Allineamento Piena",
+    "gui.lotr.map.areaOfInfluence.reduced": "Area di Allineamento Ridotta",
     "gui.lotr.map.waypoint.adopted.owner": "Adottato da %s",
 
     "gui.lotr.alignment.decimal_separator_char": ",",
@@ -3028,7 +3036,7 @@
     "chat.lotr.ft.disabled.worldtype": "Il viaggio rapido è disabilitato in questo tipo di mondo",
     "chat.lotr.ft.moreTime": "Non puoi ancora viaggiare velocemente verso %s",
     "chat.lotr.ft.underAttack": "Non puoi viaggiare velocemente mentre sei sotto attacco",
-    "chat.lotr.ft.ticksStart": "Viaggio rapido tra %d. Non muoverti!",
+    "chat.lotr.ft.ticksStart": "Viaggio rapido tra %s per %d. Non muoverti!",
     "chat.lotr.ft.ticks": "Viaggio rapido tra %d...",
     "chat.lotr.ft.motion": "Viaggio rapido interrotto. Non muoverti!",
     "chat.lotr.ft.offlineTick": "Dall'ultima volta in cui sei stato online (%s fa), il tuo timer di viaggio rapido è avanzato di %s",
@@ -3067,6 +3075,7 @@
     "chat.lotr.cwp.adopt": "Waypoint personalizzato “%s” adottato! (%d of %d)",
     "chat.lotr.cwp.forsake": "Waypoint personalizzato “%s” abbandonato!",
     "chat.lotr.cwp.adopted.destroyed": "IL waypoint personalizzato adottato “%s” è stato distrutto dal suo proprietario!",
+    "chat.lotr.palantir.ponder": "Ponderi la sfera a lungo, ma ancora non comprendi come farne uso.",
 
     "death.attack.lotr.plant": "%s è stato ucciso da una pianta",
     "death.attack.lotr.frost": "%s è stato sopraffatto dal freddo",
@@ -3182,6 +3191,7 @@
     "config.lotr.sepiaMap": "Mappa color seppia",
     "config.lotr.mapLabels": "Etichette sulla mappa",
     "config.lotr.fogOfWar": "Nebbia di guerra sulla mappa",
+    "config.lotr.imperialWaypointDistances": "Distanza waypoint in Imperiale",
 
     "config.lotr.compass": "Bussola sullo schermo",
     "config.lotr.compassInfo": "Bussola sullo schermo: informazioni",
