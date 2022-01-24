@@ -3341,6 +3341,7 @@ lotr.gui.dismiss.rider=This unit's rider will also be dismissed.
 lotr.fastTravel.travel=Fast travelling to %s
 lotr.fastTravel.skip=Press '%s' to skip
 lotr.fastTravel.underAttack=You cannot fast travel while under attack
+lotr.fastTravel.inBed=You cannot fast travel while in a bed
 lotr.fastTravel.moreTime=You cannot yet fast travel to %s
 lotr.fastTravel.travelTicksStart=Fast travel in %d. Don't move!
 lotr.fastTravel.travelTicks=Fast travel in %d...

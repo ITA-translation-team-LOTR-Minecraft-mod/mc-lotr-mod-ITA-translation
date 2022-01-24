@@ -3341,6 +3341,7 @@ lotr.gui.dismiss.rider=Anche il cavalcatore di questa unità verrà congedato.
 lotr.fastTravel.travel=Viaggio rapido verso %s
 lotr.fastTravel.skip=Premi “%s” per saltare
 lotr.fastTravel.underAttack=Non puoi viaggiare velocemente mentre sei sotto attacco
+lotr.fastTravel.inBed=Non puoi viaggiare velocemente mentre sei a letto
 lotr.fastTravel.moreTime=Non puoi ancora viaggiare velocemente verso %s
 lotr.fastTravel.travelTicksStart=Viaggio rapido tra %d. Non muoverti!
 lotr.fastTravel.travelTicks=Viaggio rapido tra %d...
