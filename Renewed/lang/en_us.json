@@ -1358,6 +1358,7 @@
   "block.lotr.bree_crafting_table": "Bree-land Crafting Table",
   "block.lotr.palantir": "Palantír",
   "block.lotr.mordor_dirt_path": "Mordor Dirt Path",
+  "block.lotr.chalk_path": "Chalk Path",
   
   "item.lotr.gold_ring": "Gold Ring",
   "item.lotr.copper_ingot": "Copper Ingot",
@@ -1728,6 +1729,7 @@
   "item.lotr.pouch.picked_up_new_items": "Picked up new items",
   "item.lotr.pouch.dyed": "Dyed",
   "item.lotr.pouch.dyed.faction": "Dyed in the colours of %s",
+  "item.lotr.warg_bone": "Warg Bone",
   
   "item.lotr.drink.weak": "Weak",
   "item.lotr.drink.light": "Light",
@@ -1909,6 +1911,7 @@
   "biome.lotr.umbar_forest": "Umbar Forest",
   "biome.lotr.umbar_hills": "Umbar Hills",
   "biome.lotr.field_of_cormallen": "Field of Cormallen",
+  "biome.lotr.hills_of_evendim": "Hills of Evendim",
   
   "entity.lotr.ring_portal": "Ring Portal",
   
@@ -1957,6 +1960,11 @@
   "entity.lotr.bree_man": "Bree-Man",
   "entity.lotr.bree_hobbit": "Bree-hobbit",
   "entity.lotr.bree_guard": "Bree-land Guard",
+  "entity.lotr.gundabad_warg": "Gundabad Warg",
+  "entity.lotr.isengard_warg": "Isengard Warg",
+  "entity.lotr.mordor_warg": "Mordor Warg",
+  "entity.lotr.isengard_snaga": "Isengard Snaga",
+  "entity.lotr.isengard_snaga_archer": "Isengard Snaga Archer",
   
   "entity.lotr.caracal": "Caracal",
   
@@ -2005,6 +2013,11 @@
   "item.lotr.bree_man_spawn_egg": "Bree-Man Spawn Egg",
   "item.lotr.bree_hobbit_spawn_egg": "Bree-hobbit Spawn Egg",
   "item.lotr.bree_guard_spawn_egg": "Bree-land Guard Spawn Egg",
+  "item.lotr.gundabad_warg_spawn_egg": "Gundabad Warg Spawn Egg",
+  "item.lotr.isengard_warg_spawn_egg": "Isengard Warg Spawn Egg",
+  "item.lotr.mordor_warg_spawn_egg": "Mordor Warg Spawn Egg",
+  "item.lotr.isengard_snaga_spawn_egg": "Isengard Snaga Spawn Egg",
+  "item.lotr.isengard_snaga_archer_spawn_egg": "Isengard Snaga Archer Spawn Egg",
   
   "item.lotr.caracal_spawn_egg": "Caracal Spawn Egg",
   
@@ -2069,10 +2082,12 @@
   "gui.lotr.worldTypeHelp.selected.2": "(This can be changed in '%s')",
   "gui.lotr.worldTypeHelp.dismiss": "Dismiss",
   
-  "generator.lotr.me": "Middle-earth", 
+  "generator.lotr.me": "Middle-earth",
   "generator.lotr.me.info": "Spawn directly into Middle-earth",
   "generator.lotr.me_classic": "M.E. Classic",
   "generator.lotr.me_classic.info": "Spawn directly into Middle-earth, with random biome generation",
+  
+  "gui.lotr.loading.enter_middle_earth": "Entering Middle-earth",
   
   "gui.lotr.compass.coords": "%d, %d, %d",
   
@@ -3111,6 +3126,10 @@
   "subtitles.lotr.entity.orc.death": "Orc dies",
   "subtitles.lotr.entity.orc.ghash": "Orc sets a bomb",
   "subtitles.lotr.entity.orc.hurt": "Orc hurts",
+  "subtitles.lotr.entity.warg.ambient": "Warg growls",
+  "subtitles.lotr.entity.warg.attack": "Warg attacks",
+  "subtitles.lotr.entity.warg.death": "Warg dies",
+  "subtitles.lotr.entity.warg.hurt": "Warg hurts",
   "subtitles.lotr.event.fast_travel": "Fast travelling",
   "subtitles.lotr.event.pledge": "Pledge made",
   "subtitles.lotr.event.trade": "Trade",
@@ -3219,6 +3238,7 @@
   "config.lotr.immersiveSpeech": "Immersive Speech",
   "config.lotr.immersiveSpeechChatLog": "Immersive Speech Chat Log",
   "config.lotr.immersiveSpeechDuration": "Immersive Speech duration",
+  "config.lotr.displayAlignmentAboveHead": "Display alignment above head",
   
   "config.lotr.dolAmrothChestplateWings": "Dol Amroth Chestplate wing count",
   "config.lotr.mannishWomenUseAlexModelStyle": "Mannish women use 'Alex' model style",
@@ -3242,5 +3262,6 @@
   "config.lotr.generateBiomeJsons": "Generate LOTR biome JSON files",
   
   "config.lotr.forceMapLocations": "Force hide/show map locations",
-  "config.lotr.forceFogOfWar": "Force enable/disable map fog of war"
+  "config.lotr.forceFogOfWar": "Force enable/disable map fog of war",
+  "config.lotr.playerDataClearingInterval": "Offline LOTR playerdata clearing interval"
 }
